@@ -1,0 +1,14 @@
+{
+  "overrides": {
+    "hidden-org/hidden-repo": {
+      "category": null,
+      "hidden": true,
+      "reason": "测试用隐藏"
+    },
+    "force-org/force-category": {
+      "category": "mcp",
+      "reason": "测试用强制分类"
+    }
+  },
+  "add_missing": {}
+}

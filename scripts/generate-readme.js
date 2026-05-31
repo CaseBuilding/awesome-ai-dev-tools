@@ -30,7 +30,7 @@ const categories = categoriesConfig.categories;
 
 // ── 工具函数 ──
 
-function formatStars(n) {
+export function formatStars(n) {
   if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, "") + "K";
   return String(n);
 }
@@ -39,7 +39,7 @@ function hasChinese(text) {
   return /[\u4e00-\u9fff\u3400-\u4dbf]/.test(text);
 }
 
-function anchorName(name) {
+export function anchorName(name) {
   return name
     .toLowerCase()
     .replace(/[^a-z0-9\u4e00-\u9fff]+/g, "-")

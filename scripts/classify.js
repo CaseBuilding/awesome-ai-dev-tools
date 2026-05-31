@@ -38,11 +38,12 @@ const unclassifiedCategory = categoriesConfig.unclassified_category;
  *   - high: 通过 topics 匹配
  *   - low: 仅通过 description 匹配
  */
-function autoClassify(repo) {
+export function autoClassify(repo, cats) {
   const matched = [];
   let confidence = "low";
 
-  for (const cat of categories) {
+  const catList = cats || categories;
+  for (const cat of catList) {
     const topics = repo.topics || [];
     const desc = (repo.description || "").toLowerCase();
 
@@ -74,8 +75,9 @@ function autoClassify(repo) {
   return { matched: matched.map((m) => m.id), confidence };
 }
 
-function applyOverrides(repo, autoResult) {
-  const override = overrides.overrides?.[repo.full_name];
+export function applyOverrides(repo, autoResult, ovr) {
+  const ov = ovr || overrides;
+  const override = ov.overrides?.[repo.full_name];
   if (!override) return { ...autoResult, overridden: false };
 
   if (override.hidden === true) {

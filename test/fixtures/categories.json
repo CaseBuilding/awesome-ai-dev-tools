@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ai-coding-agent",
+    "name": "🤖 AI Coding Agent",
+    "order": 1,
+    "priority": 9,
+    "match": {
+      "topics": ["ai-agent", "coding-agent", "code-assistant"],
+      "desc_keywords": ["coding agent", "code assistant", "ai coding"]
+    }
+  },
+  {
+    "id": "mcp",
+    "name": "🔌 MCP / 工具生态",
+    "order": 2,
+    "priority": 10,
+    "match": {
+      "topics": ["mcp", "mcp-server", "mcp-client"],
+      "desc_keywords": ["mcp server", "mcp client", "model context protocol"]
+    }
+  },
+  {
+    "id": "agent-workflow",
+    "name": "🔄 Agent / 工作流",
+    "order": 7,
+    "priority": 1,
+    "match": {
+      "topics": ["ai-agents", "agent-framework", "workflow"],
+      "desc_keywords": ["agent framework", "workflow", "multi-agent"]
+    }
+  },
+  {
+    "id": "local-inference",
+    "name": "⚡ 本地推理",
+    "order": 8,
+    "priority": 3,
+    "match": {
+      "topics": ["ollama", "local-llm", "llama.cpp"],
+      "desc_keywords": ["local inference", "run llm locally", "ollama"]
+    }
+  }
+]
