@@ -1,73 +1,73 @@
 {
-  "_说明": "每个分类只保留一个最广的搜索查询，减少 API 调用次数。脚本每次抓取 100 条结果去重。",
+  "_说明": "每个分类一个搜索查询，用 topic:key1,key2 逗号语法表示 OR。减少 API 调用次数。",
   "queries": {
     "ai-coding-agent": {
       "name": "🤖 AI Coding Agent",
       "search": [
-        "(topic:ai-agent OR topic:coding-agent OR topic:code-assistant) stars:>=5000"
+        "topic:ai-agent,coding-agent,code-assistant,ai-code-assistant stars:>=5000"
       ],
       "max_results": 50
     },
     "mcp": {
       "name": "🔌 MCP / 工具生态",
       "search": [
-        "(topic:mcp OR topic:mcp-server) stars:>=5000"
+        "topic:mcp,mcp-server,mcp-client stars:>=5000"
       ],
       "max_results": 50
     },
     "code-analysis": {
       "name": "🔍 代码分析 / 理解",
       "search": [
-        "(topic:code-analysis OR topic:code-review OR topic:static-analysis) stars:>=5000"
+        "topic:code-analysis,static-analysis,code-review,code-intelligence,codeql stars:>=5000"
       ],
       "max_results": 30
     },
     "code-visualization": {
       "name": "🗺️ 代码导图 / 可视化",
       "search": [
-        "(topic:dependency-graph OR topic:code-visualization) stars:>=5000"
+        "topic:dependency-graph,code-visualization,code-map,call-graph,uml stars:>=5000"
       ],
       "max_results": 20
     },
     "llm-framework": {
       "name": "🧠 LLM 框架 / SDK",
       "search": [
-        "(topic:llm-framework OR topic:ai-sdk) stars:>=5000"
+        "topic:llm-framework,ai-sdk,langchain,llamaindex,dspy stars:>=5000"
       ],
       "max_results": 30
     },
     "ai-gateway": {
       "name": "🚪 AI 网关 / API 管理",
       "search": [
-        "(topic:ai-gateway OR topic:llm-gateway) stars:>=5000"
+        "topic:ai-gateway,llm-gateway,model-router,openrouter stars:>=5000"
       ],
       "max_results": 15
     },
     "agent-workflow": {
       "name": "🔄 Agent / 工作流",
       "search": [
-        "(topic:ai-agents OR topic:agent-framework OR topic:multi-agent) stars:>=5000"
+        "topic:ai-agents,agent-framework,multi-agent,agent-orchestration stars:>=5000"
       ],
       "max_results": 40
     },
     "local-inference": {
       "name": "⚡ 本地推理",
       "search": [
-        "(topic:ollama OR topic:local-llm OR topic:llama.cpp) stars:>=5000"
+        "topic:ollama,local-llm,llama.cpp,local-inference stars:>=5000"
       ],
       "max_results": 30
     },
     "evaluation": {
       "name": "📏 评估 / 可观测",
       "search": [
-        "(topic:llm-evaluation OR topic:ai-eval) stars:>=5000"
+        "topic:llm-evaluation,ai-eval,llm-observability,llm-monitoring stars:>=5000"
       ],
       "max_results": 15
     },
     "browser-automation": {
       "name": "🌐 浏览器自动化",
       "search": [
-        "(topic:browser-automation OR topic:web-automation) stars:>=5000"
+        "topic:browser-automation,web-automation,browser-use,playwright stars:>=5000"
       ],
       "max_results": 15
     }
