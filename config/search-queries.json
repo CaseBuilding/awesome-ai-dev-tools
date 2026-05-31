@@ -1,30 +1,27 @@
 {
-  "_说明": "每个分类同时搜索 topic 和 description/name，以捕获未打标签但有描述的项目。",
+  "_说明": "每个分类精简为 topic 搜索 + 少数关键 description 搜索，控制 API 调用量。",
   "queries": {
     "ai-coding-agent": {
       "name": "🤖 AI Coding Agent",
       "search": [
-        "(topic:ai-agent OR topic:coding-agent OR topic:code-assistant OR topic:ai-coding) stars:>=5000",
-        "coding agent in:name,description stars:>=5000"
+        "(topic:ai-agent OR topic:coding-agent OR topic:code-assistant) stars:>=5000"
       ],
       "max_results": 50
     },
     "mcp": {
       "name": "🔌 MCP / 工具生态",
       "search": [
-        "(topic:mcp OR topic:mcp-server OR topic:mcp-client) stars:>=5000",
-        "mcp server in:name,description stars:>=5000",
-        "model context protocol in:description stars:>=5000"
+        "(topic:mcp OR topic:mcp-server) stars:>=5000",
+        "mcp server in:description stars:>=5000"
       ],
       "max_results": 50
     },
     "code-analysis": {
       "name": "🔍 代码分析 / 理解",
       "search": [
-        "(topic:code-analysis OR topic:code-review OR topic:static-analysis OR topic:code-intelligence) stars:>=5000",
-        "code analysis in:name,description stars:>=5000",
-        "code graph in:name,description stars:>=5000",
-        "code intelligence in:description stars:>=5000",
+        "(topic:code-analysis OR topic:code-review OR topic:code-intelligence) stars:>=5000",
+        "code graph in:description stars:>=5000",
+        "code analysis in:description stars:>=5000",
         "understand code in:description stars:>=5000"
       ],
       "max_results": 40
@@ -32,10 +29,8 @@
     "code-visualization": {
       "name": "🗺️ 代码导图 / 可视化",
       "search": [
-        "(topic:dependency-graph OR topic:code-visualization OR topic:code-map OR topic:uml) stars:>=5000",
-        "dependency graph in:name,description stars:>=5000",
-        "architecture diagram in:description stars:>=5000",
-        "call graph in:description stars:>=5000",
+        "(topic:dependency-graph OR topic:code-visualization OR topic:code-map) stars:>=5000",
+        "dependency graph in:description stars:>=5000",
         "code map in:description stars:>=5000"
       ],
       "max_results": 30
@@ -50,40 +45,35 @@
     "ai-gateway": {
       "name": "🚪 AI 网关 / API 管理",
       "search": [
-        "(topic:ai-gateway OR topic:llm-gateway) stars:>=5000",
-        "llm gateway in:name,description stars:>=5000",
-        "model router in:description stars:>=5000"
+        "(topic:ai-gateway OR topic:llm-gateway) stars:>=5000"
       ],
       "max_results": 20
     },
     "agent-workflow": {
       "name": "🔄 Agent / 工作流",
       "search": [
-        "(topic:ai-agents OR topic:agent-framework OR topic:multi-agent) stars:>=5000",
-        "agent framework in:description stars:>=5000"
+        "(topic:ai-agents OR topic:agent-framework OR topic:multi-agent) stars:>=5000"
       ],
       "max_results": 50
     },
     "local-inference": {
       "name": "⚡ 本地推理",
       "search": [
-        "(topic:ollama OR topic:local-llm OR topic:llama.cpp) stars:>=5000",
-        "local inference in:description stars:>=5000"
+        "(topic:ollama OR topic:local-llm) stars:>=5000"
       ],
       "max_results": 30
     },
     "evaluation": {
       "name": "📏 评估 / 可观测",
       "search": [
-        "(topic:llm-evaluation OR topic:ai-eval OR topic:llm-observability) stars:>=5000"
+        "(topic:llm-evaluation OR topic:ai-eval) stars:>=5000"
       ],
       "max_results": 20
     },
     "browser-automation": {
       "name": "🌐 浏览器自动化",
       "search": [
-        "(topic:browser-automation OR topic:web-automation OR topic:browser-use) stars:>=5000",
-        "browser use in:name,description stars:>=5000"
+        "(topic:browser-automation OR topic:browser-use) stars:>=5000"
       ],
       "max_results": 20
     }
