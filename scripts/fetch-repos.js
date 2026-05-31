@@ -108,6 +108,39 @@ async function main() {
     }
   }
 
+  // ── 读取手动补充项目（没有 topic 标签但想收录的） ──
+  const overrides = JSON.parse(
+    fs.readFileSync(path.join(ROOT, "data", "manual_overrides.json"), "utf-8")
+  );
+  const addMissing = overrides.add_missing || {};
+  const missingKeys = Object.keys(addMissing).filter(
+    (name) => !seen.has(name) && name !== "_说明"
+  );
+
+  if (missingKeys.length > 0) {
+    console.log(`\n📥 手动补充 ${missingKeys.length} 个项目...`);
+    for (const fullName of missingKeys) {
+      try {
+        const { data } = await octokit.repos.get({ owner: fullName.split("/")[0], repo: fullName.split("/")[1] });
+        if (data.stargazers_count >= MIN_STARS) {
+          allRepos.push({
+            full_name: data.full_name,
+            name: data.name,
+            description: data.description || "",
+            topics: data.topics || [],
+            stars: data.stargazers_count,
+            language: data.language || "",
+            html_url: data.html_url,
+          });
+          console.log(`    ✅ ${fullName} (${data.stargazers_count}⭐)`);
+        }
+        await new Promise((r) => setTimeout(r, 1000));
+      } catch (err) {
+        console.log(`    ❌ ${fullName}: ${err.message}`);
+      }
+    }
+  }
+
   // 按 Star 降序排列
   allRepos.sort((a, b) => b.stars - a.stars);
 
