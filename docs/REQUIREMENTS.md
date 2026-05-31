@@ -322,7 +322,7 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 | F4 | **Star 过滤** | 硬门槛 5,000 Stars，API 返回结果中再次验证 |
 | F5 | **去重** | 同一次运行中按 `full_name` 去重，后出现的覆盖先出现的 |
 | F6 | **跨查询去重** | 不同分类的搜索如果返回相同项目，只保留首次出现的分类标记 |
-| F7 | **限速控制** | 每次 API 调用后等待 2.5 秒，确保不超过 Search API 30 次/分钟的限制 |
+| F7 | **限速控制** | Search API 调用后等待 2.5 秒，add_missing 的 `repos.get()` 后等待 1 秒（Core API 额度 5,000 次/小时，1 秒足够）|
 | F8 | **手动补充** | 读取 `manual_overrides.json` 的 `add_missing` 字段，对每个项目调用 `octokit.repos.get()` 单独获取 |
 | F9 | **增量合并** | 读取已有的 `data/repos.json` 缓存，新搜索结果的同名项目覆盖旧数据，未匹配到的旧项目保留 |
 | F10 | **字段提取** | 每个项目提取 7 个字段：`full_name`, `name`, `description`, `topics`, `stars`, `language`, `html_url` |

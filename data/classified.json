@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T06:39:25.959Z",
+  "last_updated": "2026-05-31T07:38:04.606Z",
   "classified": {
     "ai-coding-agent": [
       {
@@ -16,12 +16,10 @@
           "mcp",
           "productivity"
         ],
-        "stars": 199524,
+        "stars": 199567,
         "language": "JavaScript",
         "html_url": "https://github.com/affaan-m/ECC",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -37,12 +35,10 @@
           "mcp-client",
           "mcp-server"
         ],
-        "stars": 104768,
+        "stars": 104771,
         "language": "TypeScript",
         "html_url": "https://github.com/google-gemini/gemini-cli",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -61,12 +57,10 @@
           "teaching",
           "tutorial"
         ],
-        "stars": 63743,
+        "stars": 63756,
         "language": "Python",
         "html_url": "https://github.com/shareAI-lab/learn-claude-code",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -88,12 +82,10 @@
           "open-source",
           "resume"
         ],
-        "stars": 47968,
+        "stars": 47970,
         "language": "JavaScript",
         "html_url": "https://github.com/santifer/career-ops",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -112,12 +104,10 @@
           "skills",
           "vibe-coding"
         ],
-        "stars": 46631,
+        "stars": 46635,
         "language": "TypeScript",
         "html_url": "https://github.com/CherryHQ/cherry-studio",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -145,34 +135,11 @@
           "coding-assistants",
           "llm"
         ],
-        "stars": 45265,
+        "stars": 45270,
         "language": "Python",
         "html_url": "https://github.com/hesreallyhim/awesome-claude-code",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
-      },
-      {
-        "full_name": "ZhuLinsen/daily_stock_analysis",
-        "name": "daily_stock_analysis",
-        "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-        "topics": [
-          "a-stock",
-          "ai-agent",
-          "aigc",
-          "llm",
-          "quant",
-          "quantitative-finance",
-          "quantitative-trading"
-        ],
-        "stars": 39537,
-        "language": "Python",
-        "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "_sourceCategory": "ai-coding-agent",
-        "_confidence": "high",
-        "_uncertain": true,
-        "_overridden": false
       },
       {
         "full_name": "sickn33/antigravity-awesome-skills",
@@ -200,12 +167,10 @@
           "mcp",
           "skill-library"
         ],
-        "stars": 39233,
+        "stars": 39238,
         "language": "Python",
         "html_url": "https://github.com/sickn33/antigravity-awesome-skills",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -219,12 +184,10 @@
           "cli",
           "coding"
         ],
-        "stars": 28093,
+        "stars": 28096,
         "language": "TypeScript",
         "html_url": "https://github.com/Gitlawb/openclaude",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -253,12 +216,10 @@
           "skills",
           "webui"
         ],
-        "stars": 27258,
+        "stars": 27261,
         "language": "TypeScript",
         "html_url": "https://github.com/iOfficeAI/AionUi",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -283,12 +244,10 @@
           "oauth2",
           "rust"
         ],
-        "stars": 26697,
+        "stars": 26698,
         "language": "Rust",
         "html_url": "https://github.com/googleworkspace/cli",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -302,12 +261,10 @@
           "management",
           "task-manager"
         ],
-        "stars": 26674,
+        "stars": 26676,
         "language": "Rust",
         "html_url": "https://github.com/BloopAI/vibe-kanban",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -328,12 +285,10 @@
           "programming",
           "vibe-coding"
         ],
-        "stars": 24774,
+        "stars": 24773,
         "language": "Python",
         "html_url": "https://github.com/oraios/serena",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -346,12 +301,10 @@
           "ai-tools",
           "cli"
         ],
-        "stars": 23117,
+        "stars": 23120,
         "language": "JavaScript",
         "html_url": "https://github.com/jackwener/OpenCLI",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -370,12 +323,10 @@
           "slide",
           "slides"
         ],
-        "stars": 22748,
+        "stars": 22767,
         "language": "Python",
         "html_url": "https://github.com/hugohe3/ppt-master",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -401,12 +352,10 @@
           "xiaohongshu",
           "youtube-transcript"
         ],
-        "stars": 20634,
+        "stars": 20639,
         "language": "Python",
         "html_url": "https://github.com/Panniantong/Agent-Reach",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -435,12 +384,10 @@
           "skills",
           "zed-extension"
         ],
-        "stars": 16052,
+        "stars": 16054,
         "language": "TypeScript",
         "html_url": "https://github.com/mksglu/context-mode",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -468,12 +415,10 @@
           "web-scraping",
           "website-clone"
         ],
-        "stars": 15734,
+        "stars": 15737,
         "language": "TypeScript",
         "html_url": "https://github.com/JCodesMore/ai-website-cloner-template",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -498,12 +443,10 @@
           "terminal-based",
           "terminal-ui"
         ],
-        "stars": 15425,
+        "stars": 15426,
         "language": "Go",
         "html_url": "https://github.com/plandex-ai/plandex",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -520,9 +463,7 @@
         "stars": 14925,
         "language": "TypeScript",
         "html_url": "https://github.com/GLips/Figma-Context-MCP",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -547,12 +488,10 @@
           "tui",
           "typescript"
         ],
-        "stars": 14783,
+        "stars": 14811,
         "language": "TypeScript",
         "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -572,12 +511,10 @@
           "swiss-design",
           "web-ppt"
         ],
-        "stars": 13575,
+        "stars": 13599,
         "language": "HTML",
         "html_url": "https://github.com/op7418/guizang-ppt-skill",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -606,12 +543,10 @@
           "voyage-ai",
           "vscode-extension"
         ],
-        "stars": 11648,
+        "stars": 11649,
         "language": "TypeScript",
         "html_url": "https://github.com/zilliztech/claude-context",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -640,12 +575,10 @@
           "paper-writing",
           "research-automation"
         ],
-        "stars": 11057,
+        "stars": 11061,
         "language": "Python",
         "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -670,9 +603,7 @@
         "stars": 10784,
         "language": "TypeScript",
         "html_url": "https://github.com/InsForge/InsForge",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -693,9 +624,7 @@
         "stars": 9237,
         "language": "Shell",
         "html_url": "https://github.com/frankbria/ralph-claude-code",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -719,12 +648,10 @@
           "tui",
           "typescript"
         ],
-        "stars": 8844,
+        "stars": 8869,
         "language": "TypeScript",
         "html_url": "https://github.com/can1357/oh-my-pi",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -745,9 +672,7 @@
         "stars": 7710,
         "language": "Jupyter Notebook",
         "html_url": "https://github.com/sweepai/sweep",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -764,12 +689,10 @@
           "powerpoint-generation",
           "presentation"
         ],
-        "stars": 7599,
+        "stars": 7601,
         "language": "TypeScript",
         "html_url": "https://github.com/presenton/presenton",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -790,9 +713,7 @@
         "stars": 7281,
         "language": "TypeScript",
         "html_url": "https://github.com/walkinglabs/learn-harness-engineering",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -814,9 +735,7 @@
         "stars": 6767,
         "language": "Rust",
         "html_url": "https://github.com/1jehuang/jcode",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -839,12 +758,10 @@
           "vue3",
           "web-ui"
         ],
-        "stars": 6703,
+        "stars": 6708,
         "language": "TypeScript",
         "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -871,9 +788,7 @@
         "stars": 6629,
         "language": "Lua",
         "html_url": "https://github.com/olimorris/codecompanion.nvim",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -888,12 +803,10 @@
           "data-analysis",
           "data-visualization"
         ],
-        "stars": 6548,
+        "stars": 6551,
         "language": "TypeScript",
         "html_url": "https://github.com/ChatLab/ChatLab",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -924,9 +837,7 @@
         "stars": 6450,
         "language": "Python",
         "html_url": "https://github.com/algorithmicsuperintelligence/openevolve",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -958,9 +869,7 @@
         "stars": 6020,
         "language": "TypeScript",
         "html_url": "https://github.com/UfoMiao/zcf",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -978,9 +887,7 @@
         "stars": 5053,
         "language": "TypeScript",
         "html_url": "https://github.com/cloudflare/vibesdk",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       }
     ],
@@ -993,12 +900,10 @@
           "ai",
           "mcp"
         ],
-        "stars": 88214,
+        "stars": 88216,
         "language": "",
         "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1027,12 +932,10 @@
           "typescript",
           "wsl-support"
         ],
-        "stars": 85847,
+        "stars": 85900,
         "language": "Rust",
         "html_url": "https://github.com/farion1231/cc-switch",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1056,12 +959,10 @@
           "openai",
           "skills"
         ],
-        "stars": 78000,
+        "stars": 78001,
         "language": "TypeScript",
         "html_url": "https://github.com/lobehub/lobehub",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1087,43 +988,11 @@
           "skill",
           "workflow-automation"
         ],
-        "stars": 62574,
+        "stars": 62579,
         "language": "Python",
         "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
-      },
-      {
-        "full_name": "sansan0/TrendRadar",
-        "name": "TrendRadar",
-        "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-        "topics": [
-          "ai",
-          "bark",
-          "data-analysis",
-          "docker",
-          "hot-news",
-          "llm",
-          "mail",
-          "mcp",
-          "mcp-server",
-          "news",
-          "ntfy",
-          "python",
-          "rss",
-          "trending-topics",
-          "wechat",
-          "wework"
-        ],
-        "stars": 58609,
-        "language": "Python",
-        "html_url": "https://github.com/sansan0/TrendRadar",
-        "_sourceCategory": "mcp",
-        "_confidence": "high",
-        "_uncertain": true,
-        "_overridden": false
       },
       {
         "full_name": "upstash/context7",
@@ -1135,12 +1004,10 @@
           "mcp-server",
           "vibe-coding"
         ],
-        "stars": 56443,
+        "stars": 56445,
         "language": "TypeScript",
         "html_url": "https://github.com/upstash/context7",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1172,9 +1039,7 @@
         "stars": 46527,
         "language": "Java",
         "html_url": "https://github.com/jeecgboot/JeecgBoot",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1203,12 +1068,10 @@
           "vision",
           "webui"
         ],
-        "stars": 37708,
+        "stars": 37710,
         "language": "TypeScript",
         "html_url": "https://github.com/danny-avila/LibreChat",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1237,12 +1100,10 @@
           "prompt-engineering",
           "workflows"
         ],
-        "stars": 36167,
+        "stars": 36168,
         "language": "Python",
         "html_url": "https://github.com/wshobson/agents",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1270,12 +1131,10 @@
           "translation",
           "zotero"
         ],
-        "stars": 34266,
+        "stars": 34265,
         "language": "Python",
         "html_url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1290,9 +1149,7 @@
         "stars": 30299,
         "language": "Go",
         "html_url": "https://github.com/github/github-mcp-server",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1304,12 +1161,10 @@
           "mcp",
           "skills"
         ],
-        "stars": 28858,
+        "stars": 28864,
         "language": "Python",
         "html_url": "https://github.com/anthropics/claude-plugins-official",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1338,9 +1193,7 @@
         "stars": 28537,
         "language": "TypeScript",
         "html_url": "https://github.com/ComposioHQ/composio",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1352,12 +1205,10 @@
           "esp32",
           "mcp"
         ],
-        "stars": 26888,
+        "stars": 26890,
         "language": "C++",
         "html_url": "https://github.com/78/xiaozhi-esp32",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1386,12 +1237,10 @@
           "openai",
           "typescript"
         ],
-        "stars": 25778,
+        "stars": 25781,
         "language": "TypeScript",
         "html_url": "https://github.com/yamadashy/repomix",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1409,12 +1258,10 @@
           "model-context-protocol",
           "python"
         ],
-        "stars": 25406,
+        "stars": 25409,
         "language": "Python",
         "html_url": "https://github.com/PrefectHQ/fastmcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1427,12 +1274,10 @@
           "n8n",
           "workflows"
         ],
-        "stars": 21387,
+        "stars": 21389,
         "language": "TypeScript",
         "html_url": "https://github.com/czlonkowski/n8n-mcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1460,9 +1305,7 @@
         "stars": 17699,
         "language": "TypeScript",
         "html_url": "https://github.com/nukeop/nuclear",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1491,12 +1334,10 @@
           "voice-activity-detection",
           "whisper-alternative"
         ],
-        "stars": 16657,
+        "stars": 16661,
         "language": "Python",
         "html_url": "https://github.com/modelscope/FunASR",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1515,9 +1356,7 @@
         "stars": 16307,
         "language": "TypeScript",
         "html_url": "https://github.com/udecode/plate",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1543,9 +1382,7 @@
         "stars": 16232,
         "language": "Jupyter Notebook",
         "html_url": "https://github.com/microsoft/mcp-for-beginners",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1577,9 +1414,7 @@
         "stars": 15396,
         "language": "Go",
         "html_url": "https://github.com/googleapis/mcp-toolbox",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1610,9 +1445,7 @@
         "stars": 14187,
         "language": "JavaScript",
         "html_url": "https://github.com/electerm/electerm",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1644,9 +1477,7 @@
         "stars": 14062,
         "language": "TypeScript",
         "html_url": "https://github.com/open-metadata/OpenMetadata",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1658,12 +1489,10 @@
           "mcp-server",
           "xiaohongshu-mcp"
         ],
-        "stars": 13881,
+        "stars": 13883,
         "language": "Go",
         "html_url": "https://github.com/xpzouying/xiaohongshu-mcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1690,12 +1519,10 @@
           "python",
           "web-scraping"
         ],
-        "stars": 13845,
+        "stars": 13847,
         "language": "Python",
         "html_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1719,9 +1546,7 @@
         "stars": 13738,
         "language": "Python",
         "html_url": "https://github.com/NevaMind-AI/memU",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1750,12 +1575,10 @@
           "threat-hunting",
           "threat-intelligence"
         ],
-        "stars": 12664,
+        "stars": 12674,
         "language": "Python",
         "html_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1778,9 +1601,7 @@
         "stars": 11995,
         "language": "TypeScript",
         "html_url": "https://github.com/codexu/note-gen",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1805,9 +1626,7 @@
         "stars": 11884,
         "language": "Python",
         "html_url": "https://github.com/tadata-org/fastapi_mcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1836,12 +1655,10 @@
           "windows",
           "xiaohongshu"
         ],
-        "stars": 11354,
+        "stars": 11355,
         "language": "Python",
         "html_url": "https://github.com/JoeanAmier/XHS-Downloader",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1870,9 +1687,7 @@
         "stars": 11178,
         "language": "Go",
         "html_url": "https://github.com/0xJacky/nginx-ui",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1900,9 +1715,7 @@
         "stars": 10162,
         "language": "C#",
         "html_url": "https://github.com/CoplayDev/unity-mcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1934,9 +1747,7 @@
         "stars": 10013,
         "language": "TypeScript",
         "html_url": "https://github.com/mcp-use/mcp-use",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -1955,9 +1766,7 @@
         "stars": 9683,
         "language": "JavaScript",
         "html_url": "https://github.com/xinnan-tech/xiaozhi-esp32-server",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -1978,9 +1787,7 @@
         "stars": 9163,
         "language": "Python",
         "html_url": "https://github.com/awslabs/mcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2012,9 +1819,7 @@
         "stars": 9014,
         "language": "Python",
         "html_url": "https://github.com/0x4m4/hexstrike-ai",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -2032,12 +1837,10 @@
           "modelcontextprotocol",
           "reverse-engineering"
         ],
-        "stars": 9003,
+        "stars": 9004,
         "language": "Python",
         "html_url": "https://github.com/mrexodia/ida-pro-mcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -2057,9 +1860,7 @@
         "stars": 8347,
         "language": "Python",
         "html_url": "https://github.com/lastmile-ai/mcp-agent",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -2077,12 +1878,10 @@
           "llm",
           "mcp"
         ],
-        "stars": 8117,
+        "stars": 8118,
         "language": "TypeScript",
         "html_url": "https://github.com/idosal/git-mcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -2103,9 +1902,7 @@
         "stars": 6090,
         "language": "TypeScript",
         "html_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       }
     ],
@@ -2136,12 +1933,10 @@
           "static-analysis",
           "windows"
         ],
-        "stars": 53719,
+        "stars": 53720,
         "language": "C++",
         "html_url": "https://github.com/WerWolv/ImHex",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2164,9 +1959,7 @@
         "stars": 47743,
         "language": "Rust",
         "html_url": "https://github.com/astral-sh/ruff",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2192,11 +1985,10 @@
           "understandcode",
           "vibe-coding"
         ],
-        "stars": 46274,
+        "stars": 46330,
         "language": "TypeScript",
         "html_url": "https://github.com/Lum1104/Understand-Anything",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -2214,9 +2006,7 @@
         "stars": 39500,
         "language": "Haskell",
         "html_url": "https://github.com/koalaman/shellcheck",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2232,9 +2022,7 @@
         "stars": 25906,
         "language": "Python",
         "html_url": "https://github.com/ycm-core/YouCompleteMe",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2265,9 +2053,7 @@
         "stars": 21106,
         "language": "JavaScript",
         "html_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2285,9 +2071,7 @@
         "stars": 19591,
         "language": "Swift",
         "html_url": "https://github.com/realm/SwiftLint",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2308,12 +2092,10 @@
           "static-analysis",
           "tree-sitter"
         ],
-        "stars": 17732,
+        "stars": 17734,
         "language": "Python",
         "html_url": "https://github.com/tirth8205/code-review-graph",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -2329,9 +2111,7 @@
         "stars": 17439,
         "language": "PHP",
         "html_url": "https://github.com/nikic/PHP-Parser",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2350,9 +2130,7 @@
         "stars": 15627,
         "language": "OCaml",
         "html_url": "https://github.com/facebook/infer",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2384,9 +2162,7 @@
         "stars": 15521,
         "language": "Java",
         "html_url": "https://github.com/Konloch/bytecode-viewer",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2407,12 +2183,10 @@
           "static-code-analysis",
           "typescript"
         ],
-        "stars": 15335,
+        "stars": 15337,
         "language": "OCaml",
         "html_url": "https://github.com/semgrep/semgrep",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2433,9 +2207,7 @@
         "stars": 14580,
         "language": "Rust",
         "html_url": "https://github.com/analysis-tools-dev/static-analysis",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2462,9 +2234,7 @@
         "stars": 14241,
         "language": "Rust",
         "html_url": "https://github.com/ast-grep/ast-grep",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2483,9 +2253,7 @@
         "stars": 13975,
         "language": "PHP",
         "html_url": "https://github.com/phpstan/phpstan",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2516,9 +2284,7 @@
         "stars": 13805,
         "language": "",
         "html_url": "https://github.com/rshipp/awesome-malware-analysis",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2549,9 +2315,7 @@
         "stars": 13690,
         "language": "TypeScript",
         "html_url": "https://github.com/gitpod-io/gitpod",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2567,9 +2331,7 @@
         "stars": 13523,
         "language": "PHP",
         "html_url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2594,9 +2356,7 @@
         "stars": 13060,
         "language": "CMake",
         "html_url": "https://github.com/ttroy50/cmake-examples",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2627,9 +2387,7 @@
         "stars": 12927,
         "language": "Python",
         "html_url": "https://github.com/OWASP/mastg",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2656,9 +2414,7 @@
         "stars": 12314,
         "language": "Go",
         "html_url": "https://github.com/anchore/grype",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2677,9 +2433,7 @@
         "stars": 12177,
         "language": "Haskell",
         "html_url": "https://github.com/hadolint/hadolint",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2693,12 +2447,10 @@
           "react",
           "skill"
         ],
-        "stars": 11630,
+        "stars": 11632,
         "language": "TypeScript",
         "html_url": "https://github.com/millionco/react-doctor",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -2715,12 +2467,10 @@
           "pull-request",
           "pull-requests"
         ],
-        "stars": 11414,
+        "stars": 11415,
         "language": "Python",
         "html_url": "https://github.com/The-PR-Agent/pr-agent",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -2741,9 +2491,7 @@
         "stars": 10991,
         "language": "Go",
         "html_url": "https://github.com/quay/clair",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2775,9 +2523,7 @@
         "stars": 10855,
         "language": "JavaScript",
         "html_url": "https://github.com/horsicq/Detect-It-Easy",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2795,9 +2541,7 @@
         "stars": 10779,
         "language": "PHP",
         "html_url": "https://github.com/squizlabs/PHP_CodeSniffer",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -2812,9 +2556,7 @@
         "stars": 10604,
         "language": "Java",
         "html_url": "https://github.com/SonarSource/sonarqube",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2831,9 +2573,7 @@
         "stars": 10285,
         "language": "Go",
         "html_url": "https://github.com/sourcegraph/sourcegraph-public-snapshot",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2858,9 +2598,7 @@
         "stars": 9329,
         "language": "Go",
         "html_url": "https://github.com/reviewdog/reviewdog",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2883,9 +2621,7 @@
         "stars": 9041,
         "language": "Go",
         "html_url": "https://github.com/anchore/syft",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2903,9 +2639,7 @@
         "stars": 8941,
         "language": "Java",
         "html_url": "https://github.com/checkstyle/checkstyle",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2936,9 +2670,7 @@
         "stars": 8916,
         "language": "",
         "html_url": "https://github.com/We5ter/Scanners-Box",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2953,12 +2685,10 @@
           "static-analysis",
           "static-code-analysis"
         ],
-        "stars": 8842,
+        "stars": 8843,
         "language": "Go",
         "html_url": "https://github.com/securego/gosec",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -2983,9 +2713,7 @@
         "stars": 8756,
         "language": "Python",
         "html_url": "https://github.com/bridgecrewio/checkov",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3006,9 +2734,7 @@
         "stars": 7247,
         "language": "Ruby",
         "html_url": "https://github.com/presidentbeef/brakeman",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3034,9 +2760,7 @@
         "stars": 7206,
         "language": "Java",
         "html_url": "https://github.com/Col-E/Recaf",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3056,9 +2780,7 @@
         "stars": 7199,
         "language": "C",
         "html_url": "https://github.com/universal-ctags/ctags",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3072,9 +2794,7 @@
         "stars": 7175,
         "language": "Java",
         "html_url": "https://github.com/google/error-prone",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3097,9 +2817,7 @@
         "stars": 7164,
         "language": "OCaml",
         "html_url": "https://github.com/facebook/pyre-check",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3130,9 +2848,7 @@
         "stars": 7006,
         "language": "Go",
         "html_url": "https://github.com/aquasecurity/tfsec",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3154,9 +2870,7 @@
         "stars": 6955,
         "language": "Kotlin",
         "html_url": "https://github.com/detekt/detekt",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3173,9 +2887,7 @@
         "stars": 6808,
         "language": "Go",
         "html_url": "https://github.com/dominikh/go-tools",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3199,9 +2911,7 @@
         "stars": 6711,
         "language": "JavaScript",
         "html_url": "https://github.com/sverweij/dependency-cruiser",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3219,9 +2929,7 @@
         "stars": 6638,
         "language": "C++",
         "html_url": "https://github.com/cppcheck-opensource/cppcheck",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3240,9 +2948,7 @@
         "stars": 6485,
         "language": "Go",
         "html_url": "https://github.com/ondrajz/go-callvis",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3258,9 +2964,7 @@
         "stars": 6408,
         "language": "PHP",
         "html_url": "https://github.com/larastan/larastan",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3276,9 +2980,7 @@
         "stars": 6275,
         "language": "Python",
         "html_url": "https://github.com/crytic/slither",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3307,9 +3009,7 @@
         "stars": 6250,
         "language": "Python",
         "html_url": "https://github.com/lintsinghua/DeepAudit",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3326,9 +3026,7 @@
         "stars": 6146,
         "language": "Python",
         "html_url": "https://github.com/davidhalter/jedi",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3351,9 +3049,7 @@
         "stars": 6100,
         "language": "Java",
         "html_url": "https://github.com/javaparser/javaparser",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3373,9 +3069,7 @@
         "stars": 6085,
         "language": "Python",
         "html_url": "https://github.com/dwisiswant0/apkleaks",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3392,9 +3086,7 @@
         "stars": 6077,
         "language": "TypeScript",
         "html_url": "https://github.com/dsherret/ts-morph",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3412,9 +3104,7 @@
         "stars": 5907,
         "language": "TypeScript",
         "html_url": "https://github.com/palantir/tslint",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3432,9 +3122,7 @@
         "stars": 5848,
         "language": "PHP",
         "html_url": "https://github.com/vimeo/psalm",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3455,9 +3143,7 @@
         "stars": 5732,
         "language": "TypeScript",
         "html_url": "https://github.com/backnotprop/plannotator",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3476,9 +3162,7 @@
         "stars": 5685,
         "language": "Python",
         "html_url": "https://github.com/pylint-dev/pylint",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3499,9 +3183,7 @@
         "stars": 5670,
         "language": "Ruby",
         "html_url": "https://github.com/danger/danger",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3519,9 +3201,7 @@
         "stars": 5616,
         "language": "PHP",
         "html_url": "https://github.com/phan/phan",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3540,9 +3220,7 @@
         "stars": 5510,
         "language": "Go",
         "html_url": "https://github.com/mgechev/revive",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3562,9 +3240,7 @@
         "stars": 5475,
         "language": "TypeScript",
         "html_url": "https://github.com/danger/danger-js",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3580,9 +3256,7 @@
         "stars": 5432,
         "language": "Rust",
         "html_url": "https://github.com/zizmorcore/zizmor",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3604,9 +3278,7 @@
         "stars": 5415,
         "language": "Java",
         "html_url": "https://github.com/pmd/pmd",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3627,9 +3299,7 @@
         "stars": 5198,
         "language": "",
         "html_url": "https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3646,9 +3316,7 @@
         "stars": 5189,
         "language": "Elixir",
         "html_url": "https://github.com/rrrene/credo",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3665,9 +3333,7 @@
         "stars": 5059,
         "language": "Kotlin",
         "html_url": "https://github.com/didi/booster",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3680,12 +3346,10 @@
           "code-review",
           "code-reviews"
         ],
-        "stars": 5045,
+        "stars": 5046,
         "language": "",
         "html_url": "https://github.com/joho/awesome-code-review",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -3704,9 +3368,7 @@
         "stars": 5034,
         "language": "Python",
         "html_url": "https://github.com/google/pytype",
-        "_sourceCategory": "code-analysis",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       }
     ],
@@ -3740,9 +3402,7 @@
         "stars": 20621,
         "language": "Go",
         "html_url": "https://github.com/qax-os/excelize",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3755,9 +3415,7 @@
         "stars": 5033,
         "language": "Jupyter Notebook",
         "html_url": "https://github.com/Deci-AI/super-gradients",
-        "_sourceCategory": "code-visualization",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       }
     ],
@@ -3788,43 +3446,11 @@
           "rag",
           "typescript"
         ],
-        "stars": 138078,
+        "stars": 138080,
         "language": "Python",
         "html_url": "https://github.com/langchain-ai/langchain",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
-      },
-      {
-        "full_name": "sansan0/TrendRadar",
-        "name": "TrendRadar",
-        "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-        "topics": [
-          "ai",
-          "bark",
-          "data-analysis",
-          "docker",
-          "hot-news",
-          "llm",
-          "mail",
-          "mcp",
-          "mcp-server",
-          "news",
-          "ntfy",
-          "python",
-          "rss",
-          "trending-topics",
-          "wechat",
-          "wework"
-        ],
-        "stars": 58609,
-        "language": "Python",
-        "html_url": "https://github.com/sansan0/TrendRadar",
-        "_sourceCategory": "mcp",
-        "_confidence": "high",
-        "_uncertain": true,
-        "_overridden": false
       },
       {
         "full_name": "mem0ai/mem0",
@@ -3846,12 +3472,10 @@
           "rag",
           "state-management"
         ],
-        "stars": 57171,
+        "stars": 57172,
         "language": "Python",
         "html_url": "https://github.com/mem0ai/mem0",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3866,34 +3490,11 @@
           "memory",
           "python"
         ],
-        "stars": 53103,
+        "stars": 53106,
         "language": "Python",
         "html_url": "https://github.com/MemPalace/mempalace",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
-      },
-      {
-        "full_name": "ZhuLinsen/daily_stock_analysis",
-        "name": "daily_stock_analysis",
-        "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-        "topics": [
-          "a-stock",
-          "ai-agent",
-          "aigc",
-          "llm",
-          "quant",
-          "quantitative-finance",
-          "quantitative-trading"
-        ],
-        "stars": 39537,
-        "language": "Python",
-        "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "_sourceCategory": "ai-coding-agent",
-        "_confidence": "high",
-        "_uncertain": true,
-        "_overridden": false
       },
       {
         "full_name": "langchain-ai/langgraph",
@@ -3919,12 +3520,10 @@
           "python",
           "rag"
         ],
-        "stars": 33418,
+        "stars": 33423,
         "language": "Python",
         "html_url": "https://github.com/langchain-ai/langgraph",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3945,12 +3544,10 @@
           "retrieval-augmented-generation",
           "vector-database"
         ],
-        "stars": 32352,
+        "stars": 32354,
         "language": "Python",
         "html_url": "https://github.com/VectifyAI/PageIndex",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3975,9 +3572,7 @@
         "stars": 24935,
         "language": "Python",
         "html_url": "https://github.com/volcengine/OpenViking",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -3999,12 +3594,10 @@
           "typescript",
           "workflows"
         ],
-        "stars": 24571,
+        "stars": 24573,
         "language": "TypeScript",
         "html_url": "https://github.com/mastra-ai/mastra",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4021,9 +3614,7 @@
         "stars": 17406,
         "language": "Python",
         "html_url": "https://github.com/pydantic/pydantic-ai",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4043,9 +3634,7 @@
         "stars": 16290,
         "language": "TypeScript",
         "html_url": "https://github.com/steven-tey/novel",
-        "_sourceCategory": "llm-framework",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -4074,12 +3663,10 @@
           "vector-search",
           "wiki"
         ],
-        "stars": 15822,
+        "stars": 15823,
         "language": "Go",
         "html_url": "https://github.com/Tencent/WeKnora",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4108,12 +3695,10 @@
           "vscode",
           "workflow"
         ],
-        "stars": 15344,
+        "stars": 15350,
         "language": "JavaScript",
         "html_url": "https://github.com/datawhalechina/easy-vibe",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4142,12 +3727,10 @@
           "vue",
           "vuepress"
         ],
-        "stars": 14888,
+        "stars": 14890,
         "language": "JavaScript",
         "html_url": "https://github.com/liyupi/ai-guide",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4179,9 +3762,7 @@
         "stars": 12619,
         "language": "Python",
         "html_url": "https://github.com/neuml/txtai",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4206,9 +3787,7 @@
         "stars": 12350,
         "language": "Python",
         "html_url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
-        "_sourceCategory": "llm-framework",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -4240,9 +3819,7 @@
         "stars": 12155,
         "language": "Java",
         "html_url": "https://github.com/langchain4j/langchain4j",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4271,12 +3848,10 @@
           "workflow",
           "workflow-orchestration"
         ],
-        "stars": 10688,
+        "stars": 10689,
         "language": "Python",
         "html_url": "https://github.com/The-Pocket/PocketFlow",
-        "_sourceCategory": "llm-framework",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4308,9 +3883,7 @@
         "stars": 9461,
         "language": "TypeScript",
         "html_url": "https://github.com/MemTensor/MemOS",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4336,9 +3909,7 @@
         "stars": 5580,
         "language": "Python",
         "html_url": "https://github.com/rllm-org/rllm",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       }
     ],
@@ -4363,12 +3934,10 @@
           "openai-proxy",
           "vertex-ai"
         ],
-        "stars": 48801,
+        "stars": 48804,
         "language": "Python",
         "html_url": "https://github.com/BerriAI/litellm",
-        "_sourceCategory": "ai-gateway",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4400,9 +3969,7 @@
         "stars": 43491,
         "language": "Lua",
         "html_url": "https://github.com/Kong/kong",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4418,12 +3985,10 @@
           "openai",
           "rerank"
         ],
-        "stars": 36251,
+        "stars": 36257,
         "language": "Go",
         "html_url": "https://github.com/QuantumNous/new-api",
-        "_sourceCategory": "ai-gateway",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -4451,34 +4016,7 @@
         "stars": 16658,
         "language": "Lua",
         "html_url": "https://github.com/apache/apisix",
-        "_sourceCategory": "ai-gateway",
         "_confidence": "high",
-        "_uncertain": false,
-        "_overridden": false
-      },
-      {
-        "full_name": "AsyncFuncAI/deepwiki-open",
-        "name": "deepwiki-open",
-        "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
-        "topics": [
-          "ai",
-          "codex",
-          "gemini",
-          "github",
-          "grok-cli",
-          "ollama",
-          "open-source",
-          "openai",
-          "openrouter",
-          "self-hosted",
-          "wiki"
-        ],
-        "stars": 16636,
-        "language": "Python",
-        "html_url": "https://github.com/AsyncFuncAI/deepwiki-open",
-        "_sourceCategory": "local-inference",
-        "_confidence": "high",
-        "_uncertain": true,
         "_overridden": false
       },
       {
@@ -4507,12 +4045,10 @@
           "qwen",
           "token-saver"
         ],
-        "stars": 15287,
+        "stars": 15293,
         "language": "JavaScript",
         "html_url": "https://github.com/decolua/9router",
-        "_sourceCategory": "ai-gateway",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4544,9 +4080,7 @@
         "stars": 13691,
         "language": "Go",
         "html_url": "https://github.com/casdoor/casdoor",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4570,12 +4104,10 @@
           "model-router",
           "openai"
         ],
-        "stars": 11912,
+        "stars": 11914,
         "language": "TypeScript",
         "html_url": "https://github.com/Portkey-AI/gateway",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4598,9 +4130,7 @@
         "stars": 9180,
         "language": "TypeScript",
         "html_url": "https://github.com/coaidev/coai",
-        "_sourceCategory": "ai-gateway",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -4617,9 +4147,7 @@
         "stars": 8524,
         "language": "Go",
         "html_url": "https://github.com/higress-group/higress",
-        "_sourceCategory": "ai-gateway",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -4645,12 +4173,10 @@
           "personal-ai",
           "token-tracking"
         ],
-        "stars": 6698,
+        "stars": 6699,
         "language": "TypeScript",
         "html_url": "https://github.com/mnfst/manifest",
-        "_sourceCategory": "llm-framework",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4679,9 +4205,7 @@
         "stars": 6552,
         "language": "Rust",
         "html_url": "https://github.com/katanemo/plano",
-        "_sourceCategory": "ai-gateway",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -4710,12 +4234,10 @@
           "qwen",
           "token-saver"
         ],
-        "stars": 5567,
+        "stars": 5569,
         "language": "TypeScript",
         "html_url": "https://github.com/diegosouzapw/OmniRoute",
-        "_sourceCategory": "ai-gateway",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4740,12 +4262,10 @@
           "model-router",
           "token-management"
         ],
-        "stars": 5361,
+        "stars": 5363,
         "language": "Go",
         "html_url": "https://github.com/maximhq/bifrost",
-        "_sourceCategory": "ai-gateway",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       }
     ],
@@ -4776,12 +4296,10 @@
           "workflow",
           "workflow-automation"
         ],
-        "stars": 190402,
+        "stars": 190406,
         "language": "TypeScript",
         "html_url": "https://github.com/n8n-io/n8n",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4806,12 +4324,10 @@
           "openai",
           "openclaw"
         ],
-        "stars": 173972,
+        "stars": 174022,
         "language": "Python",
         "html_url": "https://github.com/NousResearch/hermes-agent",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4840,12 +4356,10 @@
           "rag",
           "workflow"
         ],
-        "stars": 143230,
+        "stars": 143236,
         "language": "TypeScript",
         "html_url": "https://github.com/langgenius/dify",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4873,12 +4387,10 @@
           "web-search",
           "webscraping"
         ],
-        "stars": 126613,
+        "stars": 126623,
         "language": "TypeScript",
         "html_url": "https://github.com/firecrawl/firecrawl",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -4897,12 +4409,10 @@
           "rag",
           "retrieval-augmented-generation"
         ],
-        "stars": 81577,
+        "stars": 81579,
         "language": "Python",
         "html_url": "https://github.com/infiniflow/ragflow",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -4931,12 +4441,10 @@
           "sqlite",
           "supermemory"
         ],
-        "stars": 79795,
+        "stars": 79800,
         "language": "TypeScript",
         "html_url": "https://github.com/thedotmack/claude-mem",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -4956,9 +4464,7 @@
         "stars": 72515,
         "language": "TypeScript",
         "html_url": "https://github.com/daytonaio/daytona",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -4985,12 +4491,10 @@
           "superagent",
           "typescript"
         ],
-        "stars": 70045,
+        "stars": 70049,
         "language": "Python",
         "html_url": "https://github.com/bytedance/deer-flow",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5004,12 +4508,10 @@
           "metagpt",
           "multi-agent"
         ],
-        "stars": 68426,
+        "stars": 68427,
         "language": "Python",
         "html_url": "https://github.com/FoundationAgents/MetaGPT",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5026,12 +4528,10 @@
           "generative-ai",
           "semantic-kernel"
         ],
-        "stars": 66020,
+        "stars": 66027,
         "language": "Jupyter Notebook",
         "html_url": "https://github.com/microsoft/ai-agents-for-beginners",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5056,12 +4556,10 @@
           "tui",
           "typescript"
         ],
-        "stars": 60351,
+        "stars": 60357,
         "language": "TypeScript",
         "html_url": "https://github.com/code-yeongyu/oh-my-openagent",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5083,9 +4581,7 @@
         "stars": 58553,
         "language": "Python",
         "html_url": "https://github.com/microsoft/autogen",
-        "_sourceCategory": "llm-framework",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5114,12 +4610,10 @@
           "swarm-intelligence",
           "typescript"
         ],
-        "stars": 56738,
+        "stars": 56746,
         "language": "TypeScript",
         "html_url": "https://github.com/ruvnet/ruflo",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5148,12 +4642,10 @@
           "ui-generator",
           "vibe-coding"
         ],
-        "stars": 56063,
+        "stars": 56091,
         "language": "TypeScript",
         "html_url": "https://github.com/nexu-io/open-design",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5182,12 +4674,10 @@
           "pakistani-developer",
           "vibe-coding"
         ],
-        "stars": 55599,
+        "stars": 55611,
         "language": "HTML",
         "html_url": "https://github.com/shanraisshan/claude-code-best-practice",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5201,12 +4691,10 @@
           "aiagentframework",
           "llms"
         ],
-        "stars": 52498,
+        "stars": 52500,
         "language": "Python",
         "html_url": "https://github.com/crewAIInc/crewAI",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5219,12 +4707,10 @@
           "ai-agents",
           "mcp"
         ],
-        "stars": 46084,
+        "stars": 46087,
         "language": "Rust",
         "html_url": "https://github.com/aaif-goose/goose",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5249,12 +4735,10 @@
           "openclaw",
           "skills"
         ],
-        "stars": 44971,
+        "stars": 44972,
         "language": "Python",
         "html_url": "https://github.com/zhayujie/CowAgent",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5279,9 +4763,7 @@
         "stars": 43414,
         "language": "Python",
         "html_url": "https://github.com/HKUDS/nanobot",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5303,9 +4785,7 @@
         "stars": 41125,
         "language": "Python",
         "html_url": "https://github.com/666ghj/BettaFish",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5322,9 +4802,7 @@
         "stars": 40433,
         "language": "Python",
         "html_url": "https://github.com/agno-agi/agno",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5350,9 +4828,7 @@
         "stars": 39223,
         "language": "Python",
         "html_url": "https://github.com/mindsdb/minds-platform",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5376,12 +4852,10 @@
           "t3",
           "t3-stack"
         ],
-        "stars": 36153,
+        "stars": 36154,
         "language": "TypeScript",
         "html_url": "https://github.com/reworkd/AgentGPT",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5407,9 +4881,7 @@
         "stars": 35773,
         "language": "TypeScript",
         "html_url": "https://github.com/bytedance/UI-TARS-desktop",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5427,9 +4899,7 @@
         "stars": 35416,
         "language": "Jupyter Notebook",
         "html_url": "https://github.com/patchy631/ai-engineering-hub",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5448,12 +4918,10 @@
           "parallel-execution",
           "vibe-coding"
         ],
-        "stars": 35384,
+        "stars": 35389,
         "language": "TypeScript",
         "html_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5476,12 +4944,10 @@
           "self-hosted-ai",
           "vane"
         ],
-        "stars": 35018,
+        "stars": 35019,
         "language": "TypeScript",
         "html_url": "https://github.com/ItzCrazyKns/Vane",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5506,12 +4972,10 @@
           "qqbot",
           "telegram"
         ],
-        "stars": 33496,
+        "stars": 33499,
         "language": "Python",
         "html_url": "https://github.com/AstrBotDevs/AstrBot",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5540,12 +5004,10 @@
           "ts",
           "typescript"
         ],
-        "stars": 31856,
+        "stars": 31857,
         "language": "TypeScript",
         "html_url": "https://github.com/CopilotKit/CopilotKit",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5556,12 +5018,10 @@
           "ai-agents",
           "genai"
         ],
-        "stars": 31404,
+        "stars": 31405,
         "language": "",
         "html_url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5575,12 +5035,10 @@
           "claude-skills",
           "openclaw"
         ],
-        "stars": 29549,
+        "stars": 29551,
         "language": "TypeScript",
         "html_url": "https://github.com/nanocoai/nanoclaw",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5602,9 +5060,7 @@
         "stars": 28203,
         "language": "TypeScript",
         "html_url": "https://github.com/labring/FastGPT",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5622,9 +5078,7 @@
         "stars": 28142,
         "language": "Rust",
         "html_url": "https://github.com/chroma-core/chroma",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5647,9 +5101,7 @@
         "stars": 27404,
         "language": "Python",
         "html_url": "https://github.com/assafelovic/gpt-researcher",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5667,12 +5119,10 @@
           "multi-modal",
           "react-agent"
         ],
-        "stars": 25884,
+        "stars": 25886,
         "language": "Python",
         "html_url": "https://github.com/agentscope-ai/agentscope",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5701,12 +5151,10 @@
           "tutorial",
           "typescript"
         ],
-        "stars": 25291,
+        "stars": 25315,
         "language": "Python",
         "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5732,12 +5180,10 @@
           "stock-market",
           "trading"
         ],
-        "stars": 24728,
+        "stars": 24740,
         "language": "C++",
         "html_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5758,9 +5204,7 @@
         "stars": 24427,
         "language": "Python",
         "html_url": "https://github.com/HKUDS/DeepTutor",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5783,12 +5227,10 @@
           "opencode-skills",
           "skills"
         ],
-        "stars": 23664,
+        "stars": 23669,
         "language": "",
         "html_url": "https://github.com/VoltAgent/awesome-agent-skills",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5801,12 +5243,10 @@
           "llm",
           "llm-agent"
         ],
-        "stars": 23051,
+        "stars": 23052,
         "language": "Python",
         "html_url": "https://github.com/letta-ai/letta",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5838,9 +5278,7 @@
         "stars": 22930,
         "language": "Go",
         "html_url": "https://github.com/dolthub/dolt",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5865,12 +5303,10 @@
           "telegram-bot",
           "workflow-automation"
         ],
-        "stars": 22598,
+        "stars": 22599,
         "language": "",
         "html_url": "https://github.com/enescingoz/awesome-n8n-templates",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -5901,9 +5337,7 @@
         "stars": 22589,
         "language": "TypeScript",
         "html_url": "https://github.com/nocobase/nocobase",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5925,12 +5359,10 @@
           "workflow-automation",
           "workflows"
         ],
-        "stars": 22483,
+        "stars": 22484,
         "language": "TypeScript",
         "html_url": "https://github.com/activepieces/activepieces",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5961,9 +5393,7 @@
         "stars": 22277,
         "language": "Jupyter Notebook",
         "html_url": "https://github.com/NirDiamant/GenAI_Agents",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -5989,9 +5419,7 @@
         "stars": 21101,
         "language": "Python",
         "html_url": "https://github.com/1Panel-dev/MaxKB",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6010,12 +5438,10 @@
           "claude-subagents",
           "subagents"
         ],
-        "stars": 20922,
+        "stars": 20924,
         "language": "Shell",
         "html_url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6046,9 +5472,7 @@
         "stars": 20553,
         "language": "Jupyter Notebook",
         "html_url": "https://github.com/NirDiamant/agents-towards-production",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6069,12 +5493,10 @@
           "unity",
           "unreal-engine"
         ],
-        "stars": 20438,
+        "stars": 20442,
         "language": "Shell",
         "html_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6099,12 +5521,10 @@
           "multi-agents",
           "multi-agents-collaboration"
         ],
-        "stars": 19930,
+        "stars": 19931,
         "language": "Python",
         "html_url": "https://github.com/google/adk-python",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6119,9 +5539,7 @@
         "stars": 19807,
         "language": "TypeScript",
         "html_url": "https://github.com/kortix-ai/suna",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6141,12 +5559,10 @@
           "openai",
           "python"
         ],
-        "stars": 18092,
+        "stars": 18093,
         "language": "Python",
         "html_url": "https://github.com/emcie-co/parlant",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6163,12 +5579,10 @@
           "operating-system",
           "rust"
         ],
-        "stars": 17688,
+        "stars": 17689,
         "language": "Rust",
         "html_url": "https://github.com/RightNow-AI/openfang",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6200,9 +5614,7 @@
         "stars": 17599,
         "language": "Python",
         "html_url": "https://github.com/topoteretes/cognee",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6229,12 +5641,10 @@
           "windows",
           "windows-sandbox"
         ],
-        "stars": 17358,
+        "stars": 17361,
         "language": "HTML",
         "html_url": "https://github.com/trycua/cua",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6264,9 +5674,7 @@
         "stars": 17342,
         "language": "Go",
         "html_url": "https://github.com/vxcontrol/pentagi",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6298,9 +5706,7 @@
         "stars": 17281,
         "language": "TypeScript",
         "html_url": "https://github.com/leon-ai/leon",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6332,9 +5738,7 @@
         "stars": 16153,
         "language": "Python",
         "html_url": "https://github.com/langbot-app/LangBot",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6356,12 +5760,10 @@
           "python",
           "workflow-automation"
         ],
-        "stars": 15915,
+        "stars": 15916,
         "language": "Python",
         "html_url": "https://github.com/cft0808/edict",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6386,9 +5788,7 @@
         "stars": 15160,
         "language": "TypeScript",
         "html_url": "https://github.com/triggerdotdev/trigger.dev",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6412,12 +5812,10 @@
           "orchestration",
           "productivity"
         ],
-        "stars": 14772,
+        "stars": 14774,
         "language": "TypeScript",
         "html_url": "https://github.com/rowboatlabs/rowboat",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6438,9 +5836,7 @@
         "stars": 14162,
         "language": "TypeScript",
         "html_url": "https://github.com/eigent-ai/eigent",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6454,12 +5850,10 @@
           "agentic-workflow",
           "ai-agents"
         ],
-        "stars": 13929,
+        "stars": 13930,
         "language": "TypeScript",
         "html_url": "https://github.com/ag-ui-protocol/ag-ui",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6487,12 +5881,10 @@
           "workbuddy",
           "workflow"
         ],
-        "stars": 13390,
+        "stars": 13394,
         "language": "Shell",
         "html_url": "https://github.com/jnMetaCode/agency-agents-zh",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6509,9 +5901,7 @@
         "stars": 12546,
         "language": "Python",
         "html_url": "https://github.com/Arindam200/awesome-ai-apps",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6531,9 +5921,7 @@
         "stars": 12481,
         "language": "TypeScript",
         "html_url": "https://github.com/waooAI/waoowaoo",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6563,9 +5951,7 @@
         "stars": 12414,
         "language": "Python",
         "html_url": "https://github.com/e2b-dev/E2B",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6592,9 +5978,7 @@
         "stars": 12324,
         "language": "Python",
         "html_url": "https://github.com/lsdefine/GenericAgent",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6626,9 +6010,7 @@
         "stars": 11912,
         "language": "Go",
         "html_url": "https://github.com/kubeshark/kubeshark",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6650,12 +6032,10 @@
           "planning",
           "retrieval-augmented-generation"
         ],
-        "stars": 11713,
+        "stars": 11714,
         "language": "Python",
         "html_url": "https://github.com/simular-ai/Agent-S",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6684,12 +6064,10 @@
           "vibe-coding",
           "worktrees"
         ],
-        "stars": 11453,
+        "stars": 11454,
         "language": "TypeScript",
         "html_url": "https://github.com/superset-sh/superset",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6720,9 +6098,7 @@
         "stars": 11037,
         "language": "TypeScript",
         "html_url": "https://github.com/bytebot-ai/bytebot",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6741,12 +6117,10 @@
           "sdk",
           "workflows"
         ],
-        "stars": 10896,
+        "stars": 10897,
         "language": "Python",
         "html_url": "https://github.com/microsoft/agent-framework",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6760,12 +6134,10 @@
           "kubernetes",
           "sandbox"
         ],
-        "stars": 10893,
+        "stars": 10894,
         "language": "Python",
         "html_url": "https://github.com/alibaba/OpenSandbox",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6789,9 +6161,7 @@
         "stars": 10749,
         "language": "Python",
         "html_url": "https://github.com/ValueCell-ai/valuecell",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6817,9 +6187,7 @@
         "stars": 10461,
         "language": "Python",
         "html_url": "https://github.com/aden-hive/hive",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6851,9 +6219,7 @@
         "stars": 10120,
         "language": "Python",
         "html_url": "https://github.com/cocoindex-io/cocoindex",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6867,9 +6233,7 @@
         "stars": 9906,
         "language": "TypeScript",
         "html_url": "https://github.com/cloudflare/moltworker",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6887,12 +6251,10 @@
           "spring-ai",
           "workflow"
         ],
-        "stars": 9814,
+        "stars": 9815,
         "language": "Java",
         "html_url": "https://github.com/alibaba/spring-ai-alibaba",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6906,12 +6268,10 @@
           "claude-marketplace",
           "claude-skills"
         ],
-        "stars": 9512,
+        "stars": 9514,
         "language": "Python",
         "html_url": "https://github.com/Jeffallan/claude-skills",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6925,12 +6285,10 @@
           "hermes-agent",
           "nous-research"
         ],
-        "stars": 9474,
+        "stars": 9500,
         "language": "Python",
         "html_url": "https://github.com/nesquena/hermes-webui",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -6959,12 +6317,10 @@
           "tts",
           "typescript"
         ],
-        "stars": 9260,
+        "stars": 9261,
         "language": "TypeScript",
         "html_url": "https://github.com/VoltAgent/voltagent",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -6983,12 +6339,10 @@
           "quantitative-finance",
           "trading"
         ],
-        "stars": 9070,
+        "stars": 9080,
         "language": "Python",
         "html_url": "https://github.com/HKUDS/Vibe-Trading",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7014,9 +6368,7 @@
         "stars": 8531,
         "language": "Java",
         "html_url": "https://github.com/iflytek/astron-agent",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7033,9 +6385,7 @@
         "stars": 8455,
         "language": "Python",
         "html_url": "https://github.com/droidrun/mobilerun",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -7067,9 +6417,7 @@
         "stars": 7602,
         "language": "JavaScript",
         "html_url": "https://github.com/EvoMap/evolver",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7085,12 +6433,10 @@
           "eu-ai-act",
           "machine-learning"
         ],
-        "stars": 6785,
+        "stars": 6783,
         "language": "Python",
         "html_url": "https://github.com/GetBindu/Bindu",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7111,12 +6457,10 @@
           "novel-generation",
           "openclaw"
         ],
-        "stars": 6763,
+        "stars": 6766,
         "language": "TypeScript",
         "html_url": "https://github.com/Narcooo/inkos",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7137,9 +6481,7 @@
         "stars": 6497,
         "language": "Python",
         "html_url": "https://github.com/crestalnetwork/intentkit",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7171,9 +6513,7 @@
         "stars": 6292,
         "language": "TypeScript",
         "html_url": "https://github.com/open-multi-agent/open-multi-agent",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7201,12 +6541,10 @@
           "python",
           "strands-agents"
         ],
-        "stars": 5980,
+        "stars": 5982,
         "language": "Python",
         "html_url": "https://github.com/strands-agents/sdk-python",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7233,12 +6571,10 @@
           "openai-client",
           "openclaw"
         ],
-        "stars": 5854,
+        "stars": 5855,
         "language": "TypeScript",
         "html_url": "https://github.com/ThinkInAIXYZ/deepchat",
-        "_sourceCategory": "llm-framework",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7270,9 +6606,7 @@
         "stars": 5735,
         "language": "TypeScript",
         "html_url": "https://github.com/PySpur-Dev/pyspur",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7301,12 +6635,10 @@
           "typescript",
           "workspace"
         ],
-        "stars": 5454,
+        "stars": 5457,
         "language": "TypeScript",
         "html_url": "https://github.com/holaboss-ai/holaOS",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7331,9 +6663,7 @@
         "stars": 5379,
         "language": "HTML",
         "html_url": "https://github.com/adongwanai/AgentGuide",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7362,12 +6692,10 @@
           "vibe-coding",
           "workflow"
         ],
-        "stars": 5355,
+        "stars": 5356,
         "language": "",
         "html_url": "https://github.com/mahseema/awesome-ai-tools",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       }
     ],
@@ -7393,12 +6721,10 @@
           "ollama",
           "qwen"
         ],
-        "stars": 172691,
+        "stars": 172690,
         "language": "Go",
         "html_url": "https://github.com/ollama/ollama",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7422,12 +6748,10 @@
           "ui",
           "webui"
         ],
-        "stars": 139317,
+        "stars": 139323,
         "language": "Python",
         "html_url": "https://github.com/open-webui/open-webui",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7455,12 +6779,10 @@
           "vector-database",
           "web-scraping"
         ],
-        "stars": 60816,
+        "stars": 60820,
         "language": "JavaScript",
         "html_url": "https://github.com/Mintplex-Labs/anything-llm",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7487,12 +6809,10 @@
           "text-generation",
           "tts"
         ],
-        "stars": 46559,
+        "stars": 46561,
         "language": "Go",
         "html_url": "https://github.com/mudler/LocalAI",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7515,9 +6835,7 @@
         "stars": 40223,
         "language": "TypeScript",
         "html_url": "https://github.com/chatboxai/chatbox",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -7549,9 +6867,7 @@
         "stars": 38109,
         "language": "Python",
         "html_url": "https://github.com/chatchat-space/Langchain-Chatchat",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7569,12 +6885,10 @@
           "single-file-executable",
           "speech-to-text"
         ],
-        "stars": 24566,
+        "stars": 24567,
         "language": "C++",
         "html_url": "https://github.com/mozilla-ai/llamafile",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -7605,9 +6919,7 @@
         "stars": 20487,
         "language": "TypeScript",
         "html_url": "https://github.com/dyad-sh/dyad",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7639,34 +6951,7 @@
         "stars": 18765,
         "language": "Python",
         "html_url": "https://github.com/lss233/kirara-ai",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
-        "_overridden": false
-      },
-      {
-        "full_name": "AsyncFuncAI/deepwiki-open",
-        "name": "deepwiki-open",
-        "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
-        "topics": [
-          "ai",
-          "codex",
-          "gemini",
-          "github",
-          "grok-cli",
-          "ollama",
-          "open-source",
-          "openai",
-          "openrouter",
-          "self-hosted",
-          "wiki"
-        ],
-        "stars": 16636,
-        "language": "Python",
-        "html_url": "https://github.com/AsyncFuncAI/deepwiki-open",
-        "_sourceCategory": "local-inference",
-        "_confidence": "high",
-        "_uncertain": true,
         "_overridden": false
       },
       {
@@ -7695,9 +6980,7 @@
         "stars": 15323,
         "language": "Python",
         "html_url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -7714,9 +6997,7 @@
         "stars": 14907,
         "language": "",
         "html_url": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7740,12 +7021,10 @@
           "rag",
           "typescript"
         ],
-        "stars": 14367,
+        "stars": 14368,
         "language": "Python",
         "html_url": "https://github.com/MODSetter/SurfSense",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7777,9 +7056,7 @@
         "stars": 12425,
         "language": "Rust",
         "html_url": "https://github.com/Zackriya-Solutions/meetily",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7807,9 +7084,7 @@
         "stars": 12094,
         "language": "Python",
         "html_url": "https://github.com/TheR1D/shell_gpt",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7834,12 +7109,10 @@
           "vector-search",
           "vectors"
         ],
-        "stars": 11829,
+        "stars": 11830,
         "language": "Python",
         "html_url": "https://github.com/StarTrail-org/LEANN",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7859,12 +7132,10 @@
           "ollama",
           "windows"
         ],
-        "stars": 11167,
+        "stars": 11169,
         "language": "TypeScript",
         "html_url": "https://github.com/browseros-ai/BrowserOS",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7896,9 +7167,7 @@
         "stars": 10352,
         "language": "C++",
         "html_url": "https://github.com/RunanywhereAI/runanywhere-sdks",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7912,9 +7181,7 @@
         "stars": 10075,
         "language": "Python",
         "html_url": "https://github.com/ollama/ollama-python",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -7940,9 +7207,7 @@
         "stars": 10072,
         "language": "Rust",
         "html_url": "https://github.com/sigoden/aichat",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -7968,9 +7233,7 @@
         "stars": 8870,
         "language": "TypeScript",
         "html_url": "https://github.com/miurla/morphic",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -7994,9 +7257,7 @@
         "stars": 8565,
         "language": "JavaScript",
         "html_url": "https://github.com/reorproject/reor",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -8025,12 +7286,10 @@
           "searxng",
           "self-hosted"
         ],
-        "stars": 8222,
+        "stars": 8226,
         "language": "Python",
         "html_url": "https://github.com/LearningCircuit/local-deep-research",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -8047,9 +7306,7 @@
         "stars": 7958,
         "language": "TypeScript",
         "html_url": "https://github.com/n4ze3m/page-assist",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -8071,9 +7328,7 @@
         "stars": 7906,
         "language": "Python",
         "html_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8102,12 +7357,10 @@
           "typescript",
           "ui-generator"
         ],
-        "stars": 6555,
+        "stars": 6556,
         "language": "TypeScript",
         "html_url": "https://github.com/OpenCoworkAI/open-codesign",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8131,9 +7384,7 @@
         "stars": 6054,
         "language": "Swift",
         "html_url": "https://github.com/JerryZLiu/Dayflow",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8157,9 +7408,7 @@
         "stars": 6013,
         "language": "TypeScript",
         "html_url": "https://github.com/vas3k/TaxHacker",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8180,9 +7429,7 @@
         "stars": 5953,
         "language": "Swift",
         "html_url": "https://github.com/gluonfield/enchanted",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8200,12 +7447,10 @@
           "stock",
           "wails"
         ],
-        "stars": 5928,
+        "stars": 5929,
         "language": "Go",
         "html_url": "https://github.com/ArvinLovegood/go-stock",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -8226,9 +7471,7 @@
         "stars": 5699,
         "language": "JavaScript",
         "html_url": "https://github.com/clusterzx/paperless-ai",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       }
     ],
@@ -8259,12 +7502,10 @@
           "postgresql",
           "prometheus"
         ],
-        "stars": 78979,
+        "stars": 78978,
         "language": "C",
         "html_url": "https://github.com/netdata/netdata",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8292,12 +7533,10 @@
           "self-hosted",
           "ycombinator"
         ],
-        "stars": 28240,
+        "stars": 28241,
         "language": "TypeScript",
         "html_url": "https://github.com/langfuse/langfuse",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8327,9 +7566,7 @@
         "stars": 26207,
         "language": "Python",
         "html_url": "https://github.com/mlflow/mlflow",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8356,12 +7593,10 @@
           "testing",
           "vulnerability-scanners"
         ],
-        "stars": 21734,
+        "stars": 21736,
         "language": "TypeScript",
         "html_url": "https://github.com/promptfoo/promptfoo",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8383,12 +7618,10 @@
           "playground",
           "prompt-engineering"
         ],
-        "stars": 19407,
+        "stars": 19408,
         "language": "Python",
         "html_url": "https://github.com/comet-ml/opik",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8406,9 +7639,7 @@
         "stars": 15815,
         "language": "Python",
         "html_url": "https://github.com/confident-ai/deepeval",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -8433,12 +7664,10 @@
           "prompt-engineering",
           "smolagents"
         ],
-        "stars": 9927,
+        "stars": 9928,
         "language": "Python",
         "html_url": "https://github.com/Arize-ai/phoenix",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8455,9 +7684,7 @@
         "stars": 7977,
         "language": "Python",
         "html_url": "https://github.com/NVIDIA/garak",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -8473,9 +7700,7 @@
         "stars": 6095,
         "language": "",
         "html_url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -8506,9 +7731,7 @@
         "stars": 5758,
         "language": "TypeScript",
         "html_url": "https://github.com/Helicone/helicone",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8537,9 +7760,7 @@
         "stars": 5584,
         "language": "Python",
         "html_url": "https://github.com/AgentOps-AI/agentops",
-        "_sourceCategory": "local-inference",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8568,9 +7789,7 @@
         "stars": 5475,
         "language": "Go",
         "html_url": "https://github.com/coze-dev/coze-loop",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8599,9 +7818,7 @@
         "stars": 5409,
         "language": "Python",
         "html_url": "https://github.com/Giskard-AI/giskard-oss",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8622,9 +7839,7 @@
         "stars": 5073,
         "language": "Python",
         "html_url": "https://github.com/PacktPublishing/LLM-Engineers-Handbook",
-        "_sourceCategory": "evaluation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       }
     ],
@@ -8645,9 +7860,7 @@
         "stars": 96352,
         "language": "Python",
         "html_url": "https://github.com/browser-use/browser-use",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8671,12 +7884,10 @@
           "web",
           "webkit"
         ],
-        "stars": 89909,
+        "stars": 89912,
         "language": "TypeScript",
         "html_url": "https://github.com/microsoft/playwright",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8705,12 +7916,10 @@
           "webscraping",
           "xpath"
         ],
-        "stars": 55964,
+        "stars": 55979,
         "language": "Python",
         "html_url": "https://github.com/D4Vinci/Scrapling",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8727,12 +7936,10 @@
           "mcp-server",
           "puppeteer"
         ],
-        "stars": 42368,
+        "stars": 42374,
         "language": "TypeScript",
         "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8746,9 +7953,7 @@
         "stars": 33246,
         "language": "TypeScript",
         "html_url": "https://github.com/microsoft/playwright-mcp",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8765,12 +7970,10 @@
           "puppeteer",
           "zig"
         ],
-        "stars": 30694,
+        "stars": 30695,
         "language": "Zig",
         "html_url": "https://github.com/lightpanda-io/browser",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -8799,9 +8002,7 @@
         "stars": 23575,
         "language": "TypeScript",
         "html_url": "https://github.com/apify/crawlee",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8819,9 +8020,7 @@
         "stars": 22862,
         "language": "TypeScript",
         "html_url": "https://github.com/browserbase/stagehand",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8850,12 +8049,10 @@
           "web-scraping",
           "webscraping"
         ],
-        "stars": 22689,
+        "stars": 22694,
         "language": "Python",
         "html_url": "https://github.com/CloakHQ/CloakBrowser",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8875,12 +8072,10 @@
           "typescript",
           "video"
         ],
-        "stars": 22627,
+        "stars": 22639,
         "language": "TypeScript",
         "html_url": "https://github.com/heygen-com/hyperframes",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8905,12 +8100,10 @@
           "vision",
           "workflow"
         ],
-        "stars": 21779,
+        "stars": 21780,
         "language": "Python",
         "html_url": "https://github.com/Skyvern-AI/skyvern",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8928,12 +8121,10 @@
           "vue",
           "workflow"
         ],
-        "stars": 21366,
+        "stars": 21365,
         "language": "Vue",
         "html_url": "https://github.com/AutomaApp/automa",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8953,9 +8144,7 @@
         "stars": 18190,
         "language": "TypeScript",
         "html_url": "https://github.com/alibaba/page-agent",
-        "_sourceCategory": "mcp",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -8971,9 +8160,7 @@
         "stars": 16014,
         "language": "Python",
         "html_url": "https://github.com/browser-use/web-ui",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9003,9 +8190,7 @@
         "stars": 15687,
         "language": "TypeScript",
         "html_url": "https://github.com/getmaxun/maxun",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9022,9 +8207,7 @@
         "stars": 15286,
         "language": "JavaScript",
         "html_url": "https://github.com/checkly/headless-recorder",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9040,9 +8223,7 @@
         "stars": 14684,
         "language": "Python",
         "html_url": "https://github.com/microsoft/playwright-python",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9065,12 +8246,10 @@
           "vps-agent",
           "web-automation"
         ],
-        "stars": 14087,
+        "stars": 14089,
         "language": "Python",
         "html_url": "https://github.com/browser-use/browser-harness",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9087,12 +8266,10 @@
           "phone-use",
           "testing"
         ],
-        "stars": 13507,
+        "stars": 13509,
         "language": "TypeScript",
         "html_url": "https://github.com/web-infra-dev/midscene",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9114,9 +8291,7 @@
         "stars": 13247,
         "language": "TypeScript",
         "html_url": "https://github.com/browserless/browserless",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9148,9 +8323,7 @@
         "stars": 13060,
         "language": "TypeScript",
         "html_url": "https://github.com/nanobrowser/nanobrowser",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9180,9 +8353,7 @@
         "stars": 12748,
         "language": "Python",
         "html_url": "https://github.com/seleniumbase/SeleniumBase",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9204,12 +8375,10 @@
           "xianyu",
           "xianyu-bot"
         ],
-        "stars": 12249,
+        "stars": 12250,
         "language": "Python",
         "html_url": "https://github.com/Usagi-org/ai-goofish-monitor",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9224,9 +8393,7 @@
         "stars": 12046,
         "language": "Python",
         "html_url": "https://github.com/g1879/DrissionPage",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9236,12 +8403,10 @@
         "topics": [
           "playwright"
         ],
-        "stars": 10890,
+        "stars": 10892,
         "language": "TypeScript",
         "html_url": "https://github.com/microsoft/playwright-cli",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9258,12 +8423,10 @@
           "cua",
           "ui"
         ],
-        "stars": 9874,
+        "stars": 9876,
         "language": "Python",
         "html_url": "https://github.com/microsoft/magentic-ui",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9281,9 +8444,7 @@
         "stars": 9464,
         "language": "TypeScript",
         "html_url": "https://github.com/ntegrals/openbrowser",
-        "_sourceCategory": "agent-workflow",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9302,9 +8463,7 @@
         "stars": 9140,
         "language": "Go",
         "html_url": "https://github.com/pinchtab/pinchtab",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9333,9 +8492,7 @@
         "stars": 9126,
         "language": "Python",
         "html_url": "https://github.com/apify/crawlee-python",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9367,9 +8524,7 @@
         "stars": 8990,
         "language": "JavaScript",
         "html_url": "https://github.com/artilleryio/artillery",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9386,12 +8541,10 @@
           "scraping",
           "webscraping"
         ],
-        "stars": 8848,
+        "stars": 8852,
         "language": "C++",
         "html_url": "https://github.com/daijro/camoufox",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9413,9 +8566,7 @@
         "stars": 8295,
         "language": "Python",
         "html_url": "https://github.com/mherrmann/helium",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9432,9 +8583,7 @@
         "stars": 7091,
         "language": "TypeScript",
         "html_url": "https://github.com/steel-dev/steel-browser",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9465,9 +8614,7 @@
         "stars": 6877,
         "language": "Python",
         "html_url": "https://github.com/autoscrape-labs/pydoll",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9492,9 +8639,7 @@
         "stars": 6761,
         "language": "TypeScript",
         "html_url": "https://github.com/mishushakov/llm-scraper",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9512,9 +8657,7 @@
         "stars": 6586,
         "language": "TypeScript",
         "html_url": "https://github.com/BrowserMCP/mcp",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9529,9 +8672,7 @@
         "stars": 6193,
         "language": "TypeScript",
         "html_url": "https://github.com/SawyerHood/dev-browser",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       },
       {
@@ -9555,12 +8696,10 @@
           "stealth-browser",
           "web-scraping"
         ],
-        "stars": 6006,
+        "stars": 6008,
         "language": "JavaScript",
         "html_url": "https://github.com/jo-inc/camofox-browser",
-        "_sourceCategory": "ai-coding-agent",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9585,9 +8724,7 @@
         "stars": 5605,
         "language": "TypeScript",
         "html_url": "https://github.com/antiwork/shortest",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": true
       },
       {
@@ -9604,122 +8741,32 @@
         "stars": 5341,
         "language": "Python",
         "html_url": "https://github.com/microsoft/fara",
-        "_sourceCategory": "browser-automation",
         "_confidence": "high",
-        "_uncertain": false,
         "_overridden": false
       }
     ],
     "__unclassified__": []
   },
-  "uncertain": [
-    {
-      "repo": {
-        "full_name": "sansan0/TrendRadar",
-        "name": "TrendRadar",
-        "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-        "topics": [
-          "ai",
-          "bark",
-          "data-analysis",
-          "docker",
-          "hot-news",
-          "llm",
-          "mail",
-          "mcp",
-          "mcp-server",
-          "news",
-          "ntfy",
-          "python",
-          "rss",
-          "trending-topics",
-          "wechat",
-          "wework"
-        ],
-        "stars": 58609,
-        "language": "Python",
-        "html_url": "https://github.com/sansan0/TrendRadar",
-        "_sourceCategory": "mcp"
-      },
-      "matched_categories": [
-        "mcp",
-        "llm-framework"
-      ],
-      "confidence": "high"
-    },
-    {
-      "repo": {
-        "full_name": "ZhuLinsen/daily_stock_analysis",
-        "name": "daily_stock_analysis",
-        "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-        "topics": [
-          "a-stock",
-          "ai-agent",
-          "aigc",
-          "llm",
-          "quant",
-          "quantitative-finance",
-          "quantitative-trading"
-        ],
-        "stars": 39537,
-        "language": "Python",
-        "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "_sourceCategory": "ai-coding-agent"
-      },
-      "matched_categories": [
-        "ai-coding-agent",
-        "llm-framework"
-      ],
-      "confidence": "high"
-    },
-    {
-      "repo": {
-        "full_name": "AsyncFuncAI/deepwiki-open",
-        "name": "deepwiki-open",
-        "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
-        "topics": [
-          "ai",
-          "codex",
-          "gemini",
-          "github",
-          "grok-cli",
-          "ollama",
-          "open-source",
-          "openai",
-          "openrouter",
-          "self-hosted",
-          "wiki"
-        ],
-        "stars": 16636,
-        "language": "Python",
-        "html_url": "https://github.com/AsyncFuncAI/deepwiki-open",
-        "_sourceCategory": "local-inference"
-      },
-      "matched_categories": [
-        "ai-gateway",
-        "local-inference"
-      ],
-      "confidence": "high"
-    }
-  ],
   "unclassified": [],
   "hidden": [
     "Snailclimb/JavaGuide",
     "ChatGPTNextWeb/NextChat",
     "dair-ai/Prompt-Engineering-Guide",
     "thedaviddias/Front-End-Checklist",
+    "sansan0/TrendRadar",
     "siyuan-note/siyuan",
+    "ZhuLinsen/daily_stock_analysis",
     "1Panel-dev/1Panel",
     "alibaba/nacos",
     "go-kratos/kratos",
     "flipped-aurora/gin-vue-admin",
-    "ovity/octotree"
+    "ovity/octotree",
+    "AsyncFuncAI/deepwiki-open"
   ],
   "stats": {
     "total": 370,
-    "classified": 363,
+    "classified": 357,
     "unclassified": 0,
-    "uncertain": 3,
-    "hidden": 10
+    "hidden": 13
   }
 }

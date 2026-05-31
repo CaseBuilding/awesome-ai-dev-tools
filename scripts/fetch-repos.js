@@ -86,7 +86,6 @@ async function main() {
       for (const repo of repos) {
         if (seen.has(repo.full_name)) continue;
         seen.add(repo.full_name);
-        repo._sourceCategory = categoryId;
         newRepos.push(repo);
       }
       await new Promise((r) => setTimeout(r, 2500));

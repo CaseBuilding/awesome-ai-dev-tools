@@ -2,7 +2,7 @@
  * generate-readme.js
  *
  * 生成 README.md
- * 功能：导航栏、我的关注、精选/全部/待确认分级、折叠分类、中文描述优先
+ * 功能：导航栏、我的关注、精选/全部分级、折叠分类、中英双语描述
  */
 
 import fs from "fs";
@@ -151,7 +151,7 @@ async function main() {
   lines.push(`| --- | --- |`);
   lines.push(`| 收录项目 | ${classifiedData.stats.total} |`);
   lines.push(`| 已分类 | ${classifiedData.stats.classified} |`);
-  lines.push(`| 待确认 | ${classifiedData.stats.uncertain || 0} |`);
+
   lines.push(`| 未分类 | ${classifiedData.stats.unclassified} |`);
   lines.push(`| 最后更新 | ${lastUpdated} |`);
   lines.push(``);
@@ -232,11 +232,8 @@ async function main() {
 
     // 精选：高 confidence + 高 stars 的前 5 个
     const featured = repos
-      .filter((r) => r._confidence === "high" && !r._uncertain)
+      .filter((r) => r._confidence === "high")
       .slice(0, 5);
-
-    // 待确认
-    const uncertain = repos.filter((r) => r._uncertain);
 
     if (featured.length > 0) {
       lines.push(`### ⭐ 精选推荐`);
@@ -250,7 +247,7 @@ async function main() {
 
     // 全部项目（折叠，从缓存读取中文描述，不触发 GitHub 请求）
     const rest = repos.filter(
-      (r) => !uncertain.includes(r) && !featured.includes(r)
+      (r) => !featured.includes(r)
     );
     if (rest.length > featured.length) {
       lines.push(`### 📋 全部项目 (${rest.length})`);
@@ -259,23 +256,6 @@ async function main() {
       lines.push(`<summary>点击展开全部 ${rest.length} 个项目</summary>`);
       lines.push(`<br>`);
       for (const repo of rest) {
-        const descCn = cnCache[repo.full_name] || "";
-        lines.push(renderRepoLine(repo, descCn));
-        lines.push(`---`);
-      }
-      lines.push(`</details>`);
-    }
-
-    // 待确认
-    if (uncertain.length > 0) {
-      lines.push(`### ❓ 待确认 (${uncertain.length})`);
-      lines.push(``);
-      lines.push(`> 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json`);
-      lines.push(``);
-      lines.push(`<details>`);
-      lines.push(`<summary>点击查看 ${uncertain.length} 个待确认项目</summary>`);
-      lines.push(`<br>`);
-      for (const repo of uncertain) {
         const descCn = cnCache[repo.full_name] || "";
         lines.push(renderRepoLine(repo, descCn));
         lines.push(`---`);

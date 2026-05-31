@@ -903,18 +903,21 @@
     "nocobase/nocobase": {
       "category": "agent-workflow",
       "reason": "人工分类：agent-workflow"
-    }
-  },
-  "needs_review": {
-    "_说明": "真正无法确定分类的项目（非 AI 开发工具），需人工审查",
+    },
     "sansan0/TrendRadar": {
-      "reason": "AI 舆情监控应用，不匹配任何预设开发工具分类"
+      "category": null,
+      "hidden": true,
+      "reason": "原 needs_review：AI 舆情监控应用，不匹配任何预设开发工具分类"
     },
     "ZhuLinsen/daily_stock_analysis": {
-      "reason": "AI 股票分析系统，金融分析应用非开发工具"
+      "category": null,
+      "hidden": true,
+      "reason": "原 needs_review：AI 股票分析系统，金融分析应用非开发工具"
     },
     "AsyncFuncAI/deepwiki-open": {
-      "reason": "AI Wiki 生成器，偏向文档生成不属于预设分类"
+      "category": null,
+      "hidden": true,
+      "reason": "原 needs_review：AI Wiki 生成器，偏向文档生成不属于预设分类"
     }
   }
 }

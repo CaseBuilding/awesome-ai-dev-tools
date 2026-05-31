@@ -7,8 +7,7 @@
 | 指标 | 数值 |
 | --- | --- |
 | 收录项目 | 370 |
-| 已分类 | 363 |
-| 待确认 | 3 |
+| 已分类 | 357 |
 | 未分类 | 0 |
 | 最后更新 | 2026/5/31 |
 
@@ -30,11 +29,11 @@
 <a name="ai-coding-agent"></a>
 
 <details open>
-<summary><b>🤖 AI Coding Agent</b> <code>37</code></summary>
+<summary><b>🤖 AI Coding Agent</b> <code>36</code></summary>
 <br>
 ### ⭐ 精选推荐
 
-### affaan-m/ECC ⭐199.5K · 🔤JavaScript
+### affaan-m/ECC ⭐199.6K · 🔤JavaScript
 
 🌏 **> **140K+ stars** | **21K+ forks** | **170+ 贡献者** | **12+ 语言系统** | **Anthropic黑客松获胜者****
 
@@ -52,7 +51,7 @@
 🔗 [GitHub](https://github.com/google-gemini/gemini-cli)
 
 ---
-### shareAI-lab/learn-claude-code ⭐63.7K · 🔤Python
+### shareAI-lab/learn-claude-code ⭐63.8K · 🔤Python
 
 🌏 **Bash 即一切——一个极简的 Claude Code 风格「代理工具链」，从零到一构建。**
 
@@ -156,7 +155,7 @@
 🔗 [GitHub](https://github.com/jackwener/OpenCLI)
 
 ---
-### hugohe3/ppt-master ⭐22.7K · 🔤Python
+### hugohe3/ppt-master ⭐22.8K · 🔤Python
 
 🌏 **AI 从任何文档生成真正的可编辑 PowerPoint——原生形状和动画、演讲者笔记配音，支持自定义模板。**
 
@@ -264,7 +263,7 @@
 🔗 [GitHub](https://github.com/frankbria/ralph-claude-code)
 
 ---
-### can1357/oh-my-pi ⭐8.8K · 🔤TypeScript
+### can1357/oh-my-pi ⭐8.9K · 🔤TypeScript
 
 🌏 **⌥ 终端 AI 编码代理——哈希锚定编辑、优化工具链、LSP、Python、浏览器、子代理等。**
 
@@ -327,7 +326,7 @@
 🔗 [GitHub](https://github.com/olimorris/codecompanion.nvim)
 
 ---
-### ChatLab/ChatLab ⭐6.5K · 🔤TypeScript
+### ChatLab/ChatLab ⭐6.6K · 🔤TypeScript
 
 🌏 **本地优先的 AI 聊天记录分析工具。**
 
@@ -364,23 +363,6 @@
 
 ---
 </details>
-### ❓ 待确认 (1)
-
-> 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json
-
-<details>
-<summary>点击查看 1 个待确认项目</summary>
-<br>
-### ZhuLinsen/daily_stock_analysis ⭐39.5K · 🔤Python
-
-🌏 **LLM 驱动的 A/H/美股智能分析系统，支持多数据源行情、实时新闻、LLM 决策仪表盘和多渠道推送。**
-
-📝 LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
-
-🔗 [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis)
-
----
-</details>
 </details>
 
 ---
@@ -388,7 +370,7 @@
 <a name="mcp-工具生态"></a>
 
 <details open>
-<summary><b>🔌 MCP / 工具生态</b> <code>41</code></summary>
+<summary><b>🔌 MCP / 工具生态</b> <code>40</code></summary>
 <br>
 ### ⭐ 精选推荐
 
@@ -401,7 +383,7 @@
 🔗 [GitHub](https://github.com/punkpeye/awesome-mcp-servers)
 
 ---
-### farion1231/cc-switch ⭐85.8K · 🔤Rust
+### farion1231/cc-switch ⭐85.9K · 🔤Rust
 
 🌏 **跨平台桌面全能助手，支持 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 和 Hermes Agent。**
 
@@ -755,23 +737,6 @@
 📝 This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 🔗 [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP)
-
----
-</details>
-### ❓ 待确认 (1)
-
-> 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json
-
-<details>
-<summary>点击查看 1 个待确认项目</summary>
-<br>
-### sansan0/TrendRadar ⭐58.6K · 🔤Python
-
-🌏 **AI 驱动的舆情监测工具，聚合多平台热点、RSS 订阅与智能告警，支持 MCP 架构。告别信息过载。**
-
-📝 ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构
-
-🔗 [GitHub](https://github.com/sansan0/TrendRadar)
 
 ---
 </details>
@@ -1440,7 +1405,7 @@
 <a name="llm-框架-sdk"></a>
 
 <details >
-<summary><b>🧠 LLM 框架 / SDK</b> <code>20</code></summary>
+<summary><b>🧠 LLM 框架 / SDK</b> <code>18</code></summary>
 <br>
 ### ⭐ 精选推荐
 
@@ -1612,32 +1577,6 @@
 
 ---
 </details>
-### ❓ 待确认 (2)
-
-> 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json
-
-<details>
-<summary>点击查看 2 个待确认项目</summary>
-<br>
-### sansan0/TrendRadar ⭐58.6K · 🔤Python
-
-🌏 **AI 驱动的舆情监测工具，聚合多平台热点、RSS 订阅与智能告警，支持 MCP 架构。告别信息过载。**
-
-📝 ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构
-
-🔗 [GitHub](https://github.com/sansan0/TrendRadar)
-
----
-### ZhuLinsen/daily_stock_analysis ⭐39.5K · 🔤Python
-
-🌏 **LLM 驱动的 A/H/美股智能分析系统，支持多数据源行情、实时新闻、LLM 决策仪表盘和多渠道推送。**
-
-📝 LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
-
-🔗 [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis)
-
----
-</details>
 </details>
 
 ---
@@ -1645,7 +1584,7 @@
 <a name="ai-网关-api-管理"></a>
 
 <details >
-<summary><b>🚪 AI 网关 / API 管理</b> <code>14</code></summary>
+<summary><b>🚪 AI 网关 / API 管理</b> <code>13</code></summary>
 <br>
 ### ⭐ 精选推荐
 
@@ -1769,23 +1708,6 @@
 📝 Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
 
 🔗 [GitHub](https://github.com/maximhq/bifrost)
-
----
-</details>
-### ❓ 待确认 (1)
-
-> 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json
-
-<details>
-<summary>点击查看 1 个待确认项目</summary>
-<br>
-### AsyncFuncAI/deepwiki-open ⭐16.6K · 🔤Python
-
-🌏 **开源 DeepWiki：面向 GitHub/Gitlab/Bitbucket 仓库的 AI 驱动 Wiki 生成器。**
-
-📝 Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-
-🔗 [GitHub](https://github.com/AsyncFuncAI/deepwiki-open)
 
 ---
 </details>
@@ -2075,7 +1997,7 @@
 🔗 [GitHub](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 
 ---
-### nanocoai/nanoclaw ⭐29.5K · 🔤TypeScript
+### nanocoai/nanoclaw ⭐29.6K · 🔤TypeScript
 
 🌏 **OpenClaw 的轻量级替代方案，容器化运行更安全，支持 WhatsApp、Telegram、Slack 等多消息平台。**
 
@@ -2677,7 +2599,7 @@
 <a name="本地推理"></a>
 
 <details >
-<summary><b>⚡ 本地推理</b> <code>31</code></summary>
+<summary><b>⚡ 本地推理</b> <code>30</code></summary>
 <br>
 ### ⭐ 精选推荐
 
@@ -2954,23 +2876,6 @@
 📝 An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 
 🔗 [GitHub](https://github.com/clusterzx/paperless-ai)
-
----
-</details>
-### ❓ 待确认 (1)
-
-> 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json
-
-<details>
-<summary>点击查看 1 个待确认项目</summary>
-<br>
-### AsyncFuncAI/deepwiki-open ⭐16.6K · 🔤Python
-
-🌏 **开源 DeepWiki：面向 GitHub/Gitlab/Bitbucket 仓库的 AI 驱动 Wiki 生成器。**
-
-📝 Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-
-🔗 [GitHub](https://github.com/AsyncFuncAI/deepwiki-open)
 
 ---
 </details>
@@ -3331,7 +3236,7 @@
 🔗 [GitHub](https://github.com/seleniumbase/SeleniumBase)
 
 ---
-### Usagi-org/ai-goofish-monitor ⭐12.2K · 🔤Python
+### Usagi-org/ai-goofish-monitor ⭐12.3K · 🔤Python
 
 🌏 **基于 Playwright 和 AI 的闲鱼多任务实时监控与智能分析系统，配备后台管理 UI。**
 
@@ -3403,7 +3308,7 @@
 🔗 [GitHub](https://github.com/artilleryio/artillery)
 
 ---
-### daijro/camoufox ⭐8.8K · 🔤C++
+### daijro/camoufox ⭐8.9K · 🔤C++
 
 🌏 **🦊 反检测浏览器。**
 
