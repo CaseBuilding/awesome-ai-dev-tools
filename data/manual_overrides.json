@@ -75,6 +75,14 @@
       "category": null,
       "hidden": true,
       "reason": "GitHub 浏览器扩展，不是代码分析工具"
+    },
+    "Lum1104/Understand-Anything": {
+      "category": "code-analysis",
+      "reason": "代码知识图谱工具，46.2K Stars"
+    },
+    "tirth8205/code-review-graph": {
+      "category": "code-analysis",
+      "reason": "代码审查图谱工具，17.7K Stars"
     }
   }
 }
