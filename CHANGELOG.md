@@ -136,5 +136,14 @@
     "changes": {
       "docs/SKILL-GUIDE.md": "创建 skill 使用指南"
     }
+  },
+  {
+    "date": "2026-06-01",
+    "type": "docs",
+    "reason": "创建 ADR-001，记录本次会话的关键架构决策：中英双语 README、红绿灯测试体系、导航配置化、死代码清理",
+    "changed_by": "Reasonix 整理 + CaseBuilding 确认",
+    "changes": {
+      "docs/decisions/ADR-001.md": "新建架构决策记录"
+    }
   }
 ]
