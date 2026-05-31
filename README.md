@@ -45,7 +45,7 @@
 ---
 ### google-gemini/gemini-cli ⭐104.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个开源的 AI 代理，将 Gemini 的能力直接带到你的终端中。**
 
 📝 An open-source AI agent that brings the power of Gemini directly into your terminal.
 
@@ -54,7 +54,7 @@
 ---
 ### shareAI-lab/learn-claude-code ⭐63.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Bash 即一切——一个极简的 Claude Code 风格「代理工具链」，从零到一构建。**
 
 📝 Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
@@ -63,7 +63,7 @@
 ---
 ### santifer/career-ops ⭐48K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **基于 Claude Code 的 AI 驱动求职系统，支持 14 种技能模式、Go 仪表盘、PDF 生成和批量处理。**
 
 📝 AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
@@ -72,7 +72,7 @@
 ---
 ### CherryHQ/cherry-studio ⭐46.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **AI 生产力工作室，集智能聊天、自主代理和 300+ 助手于一体，统一接入前沿 LLM。**
 
 📝 AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
@@ -394,7 +394,7 @@
 
 ### punkpeye/awesome-mcp-servers ⭐88.2K
 
-🌏 *中文描述待补充*
+🌏 **MCP 服务器精选合集。**
 
 📝 A collection of MCP servers.
 
@@ -403,7 +403,7 @@
 ---
 ### farion1231/cc-switch ⭐85.8K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **跨平台桌面全能助手，支持 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 和 Hermes Agent。**
 
 📝 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
@@ -421,7 +421,7 @@
 ---
 ### ComposioHQ/awesome-claude-skills ⭐62.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **精选的 Claude Skills、资源和工具列表，用于定制 Claude AI 工作流。**
 
 📝 A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
@@ -430,7 +430,7 @@
 ---
 ### upstash/context7 ⭐56.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Context7 平台——为 LLM 和 AI 代码编辑器提供最新的代码文档。**
 
 📝 Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 
@@ -788,7 +788,7 @@
 
 ### WerWolv/ImHex ⭐53.7K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **面向逆向工程师、程序员和凌晨三点还在工作的视网膜守护者的十六进制编辑器。**
 
 📝 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
@@ -797,7 +797,7 @@
 ---
 ### astral-sh/ruff ⭐47.7K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **用 Rust 编写的极速 Python 代码检查器和格式化工具。**
 
 📝 An extremely fast Python linter and code formatter, written in Rust.
 
@@ -815,7 +815,7 @@
 ---
 ### koalaman/shellcheck ⭐39.5K · 🔤Haskell
 
-🌏 *中文描述待补充*
+🌏 **ShellCheck，一个针对 shell 脚本的静态分析工具。**
 
 📝 ShellCheck, a static analysis tool for shell scripts
 
@@ -824,7 +824,7 @@
 ---
 ### ycm-core/YouCompleteMe ⭐25.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Vim 的代码补全引擎。**
 
 📝 A code-completion engine for Vim
 
@@ -1417,7 +1417,7 @@
 
 ### qax-os/excelize ⭐20.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Go 语言读写 Microsoft Excel™（XLAM / XLSM / XLSX / XLTM / XLTX）的库。**
 
 📝 Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 
@@ -1426,7 +1426,7 @@
 ---
 ### Deci-AI/super-gradients ⭐5K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **通过一个开源训练库轻松训练或微调 SOTA 计算机视觉模型。**
 
 📝 Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 
@@ -1446,7 +1446,7 @@
 
 ### langchain-ai/langchain ⭐138.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **代理工程平台。**
 
 📝 The agent engineering platform.
 
@@ -1455,7 +1455,7 @@
 ---
 ### mem0ai/mem0 ⭐57.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AI 代理的通用记忆层。**
 
 📝 Universal memory layer for AI Agents
 
@@ -1464,7 +1464,7 @@
 ---
 ### MemPalace/mempalace ⭐53.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **基准测试最优的开源 AI 记忆系统，且免费使用。**
 
 📝 The best-benchmarked open-source AI memory system. And it's free.
 
@@ -1473,7 +1473,7 @@
 ---
 ### langchain-ai/langgraph ⭐33.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **构建弹性 AI 代理。**
 
 📝 Build resilient agents.
 
@@ -1482,7 +1482,7 @@
 ---
 ### VectifyAI/PageIndex ⭐32.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **📑 PageIndex：面向无向量、基于推理的 RAG 的文档索引系统。**
 
 📝 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
@@ -1651,7 +1651,7 @@
 
 ### BerriAI/litellm ⭐48.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Python SDK 和代理服务器（AI 网关），以 OpenAI 格式调用 100+ LLM API。**
 
 📝 Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 
@@ -1660,7 +1660,7 @@
 ---
 ### Kong/kong ⭐43.5K · 🔤Lua
 
-🌏 *中文描述待补充*
+🌏 **🦍 API 与 AI 网关。**
 
 📝 🦍 The API and AI Gateway
 
@@ -1669,7 +1669,7 @@
 ---
 ### QuantumNous/new-api ⭐36.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **统一的 AI 模型枢纽，支持聚合与分发，跨格式转换。**
 
 📝 A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 
@@ -1678,7 +1678,7 @@
 ---
 ### apache/apisix ⭐16.7K · 🔤Lua
 
-🌏 *中文描述待补充*
+🌏 **云原生 API 网关和 AI 网关。**
 
 📝 The Cloud-Native API Gateway and AI Gateway
 
@@ -1802,7 +1802,7 @@
 
 ### n8n-io/n8n ⭐190.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **公平代码的工作流自动化平台，内置原生 AI 能力，结合可视化构建和自定义编码。**
 
 📝 Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -1820,7 +1820,7 @@
 ---
 ### langgenius/dify ⭐143.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向生产环境的代理工作流开发平台。**
 
 📝 Production-ready platform for agentic workflow development.
 
@@ -1829,7 +1829,7 @@
 ---
 ### firecrawl/firecrawl ⭐126.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **大规模搜索、抓取和与网页交互的 API。🔥**
 
 📝 The API to search, scrape, and interact with the web at scale. 🔥
 
@@ -1838,7 +1838,7 @@
 ---
 ### infiniflow/ragflow ⭐81.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **RAGFlow 是一款领先的开源检索增强生成（RAG）引擎。**
 
 📝 RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
@@ -2683,7 +2683,7 @@
 
 ### ollama/ollama ⭐172.7K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **快速上手运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等模型。**
 
 📝 Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
@@ -2692,7 +2692,7 @@
 ---
 ### open-webui/open-webui ⭐139.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用户友好的 AI 界面（支持 Ollama、OpenAI API 等）。**
 
 📝 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -2701,7 +2701,7 @@
 ---
 ### Mintplex-Labs/anything-llm ⭐60.8K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **全合一 AI 生产力加速器。设备本地运行，隐私优先，无需联网。**
 
 📝 The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 
@@ -2710,7 +2710,7 @@
 ---
 ### mudler/LocalAI ⭐46.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **LocalAI 是开源的 AI 引擎。可运行任意模型——LLM、视觉、语音、图像生成等，无需 GPU。**
 
 📝 LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
@@ -2719,7 +2719,7 @@
 ---
 ### chatboxai/chatbox ⭐40.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **强大的 AI 客户端，支持多种 LLM 后端和本地部署。**
 
 📝 Powerful AI Client
 
@@ -2987,7 +2987,7 @@
 
 ### netdata/netdata ⭐79K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **通往 AI 驱动的全栈可观测性的最快路径，即使对于精简团队也适用。**
 
 📝 The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -2996,7 +2996,7 @@
 ---
 ### langfuse/langfuse ⭐28.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🪢 开源 LLM 工程平台：LLM 可观测性、指标、评估、提示管理和测试。**
 
 📝 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 
@@ -3005,7 +3005,7 @@
 ---
 ### mlflow/mlflow ⭐26.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **面向代理、LLM 和 ML 模型的开源 AI 工程平台。**
 
 📝 The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 
@@ -3014,7 +3014,7 @@
 ---
 ### promptfoo/promptfoo ⭐21.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **测试你的提示词、代理和 RAG 系统。支持红队测试、渗透测试和漏洞扫描。**
 
 📝 Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 
@@ -3023,7 +3023,7 @@
 ---
 ### comet-ml/opik ⭐19.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **调试、评估和监控你的 LLM 应用、RAG 系统和代理工作流。**
 
 📝 Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 
@@ -3130,7 +3130,7 @@
 
 ### browser-use/browser-use ⭐96.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🌐 让网站对 AI 代理可访问，轻松在线自动化任务。**
 
 📝 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
@@ -3139,7 +3139,7 @@
 ---
 ### microsoft/playwright ⭐89.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Playwright 是一个 Web 测试和自动化框架，支持 Chromium、Firefox 和 WebKit 跨浏览器测试。**
 
 📝 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 
@@ -3148,7 +3148,7 @@
 ---
 ### D4Vinci/Scrapling ⭐56K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🕷️ 自适应网页抓取框架，从单个请求处理反检测、动态内容和 JS 渲染。**
 
 📝 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
@@ -3157,7 +3157,7 @@
 ---
 ### ChromeDevTools/chrome-devtools-mcp ⭐42.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向编码代理的 Chrome 开发者工具 MCP 集成。**
 
 📝 Chrome DevTools for coding agents
 
@@ -3166,7 +3166,7 @@
 ---
 ### microsoft/playwright-mcp ⭐33.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Playwright MCP 服务器。**
 
 📝 Playwright MCP server
 
