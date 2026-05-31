@@ -1,8 +1,8 @@
 /**
  * fetch-repos.js
  *
- * 从 GitHub Search API 搜索项目，按 search-queries.json 配置
- * 过滤 Star ≥ 5000，输出到 data/repos.json
+ * 从 GitHub Search API 搜索项目，合并已有缓存（增量更新）。
+ * 已有项目持续保留，新搜索到的项目追加进去。
  *
  * 环境变量: GITHUB_TOKEN — GitHub Personal Access Token
  */
@@ -15,32 +15,24 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 
-// 读取搜索配置
 const searchQueries = JSON.parse(
   fs.readFileSync(path.join(ROOT, "config", "search-queries.json"), "utf-8")
 );
-
-// 读取分类配置（用于获取分类名称）
 const categories = JSON.parse(
   fs.readFileSync(path.join(ROOT, "config", "categories.json"), "utf-8")
 ).categories;
 
-// 建立分类 ID → 名称的映射
 const categoryNames = {};
 for (const cat of categories) {
   categoryNames[cat.id] = cat.name;
 }
 
-// GitHub API 客户端
 const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN || "",
 });
 
 const MIN_STARS = 5000;
 
-/**
- * 执行一个搜索查询，返回去重后的项目列表
- */
 async function searchRepos(queryStr, maxResults) {
   const seen = new Set();
   const repos = [];
@@ -60,10 +52,7 @@ async function searchRepos(queryStr, maxResults) {
     for (const item of data.items) {
       if (seen.has(item.full_name)) continue;
       seen.add(item.full_name);
-
-      // 再次确保 Star 门槛
       if (item.stargazers_count < MIN_STARS) continue;
-
       repos.push({
         full_name: item.full_name,
         name: item.name,
@@ -74,20 +63,19 @@ async function searchRepos(queryStr, maxResults) {
         html_url: item.html_url,
       });
     }
-
     page++;
-    if (page > 10) break; // 安全限制
+    if (page > 10) break;
   }
-
   return repos;
 }
 
 async function main() {
   console.log("🔍 开始搜索 GitHub 项目...\n");
 
-  const allRepos = [];
+  const newRepos = [];
   const seen = new Set();
 
+  // ── 第 1 步：搜索新项目 ──
   for (const [categoryId, config] of Object.entries(searchQueries.queries)) {
     const categoryName = categoryNames[categoryId] || categoryId;
     console.log(`  [${categoryName}]`);
@@ -95,20 +83,17 @@ async function main() {
     for (const query of config.search) {
       console.log(`    → ${query}`);
       const repos = await searchRepos(query, config.max_results);
-
       for (const repo of repos) {
         if (seen.has(repo.full_name)) continue;
         seen.add(repo.full_name);
         repo._sourceCategory = categoryId;
-        allRepos.push(repo);
+        newRepos.push(repo);
       }
-
-      // GitHub Search API 限速：30 请求/分钟，留余量
       await new Promise((r) => setTimeout(r, 2500));
     }
   }
 
-  // ── 读取手动补充项目（没有 topic 标签但想收录的） ──
+  // ── 第 2 步：手动补充项目（没有 topic 标签的） ──
   const overrides = JSON.parse(
     fs.readFileSync(path.join(ROOT, "data", "manual_overrides.json"), "utf-8")
   );
@@ -121,19 +106,20 @@ async function main() {
     console.log(`\n📥 手动补充 ${missingKeys.length} 个项目...`);
     for (const fullName of missingKeys) {
       try {
-        const { data } = await octokit.repos.get({ owner: fullName.split("/")[0], repo: fullName.split("/")[1] });
-        if (data.stargazers_count >= MIN_STARS) {
-          allRepos.push({
-            full_name: data.full_name,
-            name: data.name,
-            description: data.description || "",
-            topics: data.topics || [],
-            stars: data.stargazers_count,
-            language: data.language || "",
-            html_url: data.html_url,
-          });
-          console.log(`    ✅ ${fullName} (${data.stargazers_count}⭐)`);
-        }
+        const [owner, repoName] = fullName.split("/");
+        const { data } = await octokit.repos.get({ owner, repo: repoName });
+        const repo = {
+          full_name: data.full_name,
+          name: data.name,
+          description: data.description || "",
+          topics: data.topics || [],
+          stars: data.stargazers_count,
+          language: data.language || "",
+          html_url: data.html_url,
+        };
+        newRepos.push(repo);
+        seen.add(fullName);
+        console.log(`    ✅ ${fullName} (${data.stargazers_count}⭐)`);
         await new Promise((r) => setTimeout(r, 1000));
       } catch (err) {
         console.log(`    ❌ ${fullName}: ${err.message}`);
@@ -141,21 +127,48 @@ async function main() {
     }
   }
 
-  // 按 Star 降序排列
-  allRepos.sort((a, b) => b.stars - a.stars);
+  // ── 第 3 步：合并已有缓存（增量更新，保留历史） ──
+  let existingRepos = [];
+  try {
+    const existing = JSON.parse(
+      fs.readFileSync(path.join(ROOT, "data", "repos.json"), "utf-8")
+    );
+    if (existing.repos) {
+      existingRepos = existing.repos;
+    }
+  } catch {
+    // 首次运行，无缓存
+  }
 
-  // 写入缓存
+  console.log(`\n📊 已有缓存: ${existingRepos.length} 个项目`);
+  console.log(`   新搜索到: ${newRepos.length} 个项目`);
+
+  // 合并：新搜索的覆盖旧数据，旧数据中没有被覆盖的保留
+  const merged = new Map();
+  for (const repo of existingRepos) {
+    merged.set(repo.full_name, repo);
+  }
+  for (const repo of newRepos) {
+    merged.set(repo.full_name, repo);
+  }
+
+  const finalRepos = Array.from(merged.values());
+  finalRepos.sort((a, b) => b.stars - a.stars);
+
+  const added = finalRepos.length - existingRepos.length;
+
+  // ── 第 4 步：写入 ──
   const output = {
-    _说明: "此文件由 scripts/fetch-repos.js 自动生成，缓存 GitHub API 搜索结果",
+    _说明: "此文件由 scripts/fetch-repos.js 自动生成。已有项目持续保留，新的追加。",
     last_updated: new Date().toISOString(),
-    total_count: allRepos.length,
-    repos: allRepos,
+    total_count: finalRepos.length,
+    repos: finalRepos,
   };
 
   const outputPath = path.join(ROOT, "data", "repos.json");
   fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), "utf-8");
 
-  console.log(`\n✅ 完成！共获取 ${allRepos.length} 个项目`);
+  console.log(`\n✅ 完成！共 ${finalRepos.length} 个项目 (新增 ${added} 个)`);
   console.log(`   已写入 data/repos.json`);
 }
 
