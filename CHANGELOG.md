@@ -113,5 +113,19 @@
       "docs/REQUIREMENTS.md": "新增 §19-25 PRD 模块（目标用户、成功标准、范围、风险、未决问题、Roadmap、术语表）；更新 §5.4 和 §10 双语展示规则",
       "CHANGELOG.md": "追加本条记录"
     }
+  },
+  {
+    "date": "2026-06-01",
+    "type": "test",
+    "reason": "建立红绿灯测试体系，确保核心分类逻辑、数据完整性、README 格式不退化",
+    "changed_by": "Reasonix 实现 + CaseBuilding 确认",
+    "changes": {
+      "scripts/classify.js": "autoClassify 和 applyOverrides 改为参数化导出供测试",
+      "scripts/generate-readme.js": "导出 formatStars、anchorName 供测试",
+      "test/classify.test.js": "新增 29 个测试（分类逻辑、覆盖、格式、数据完整性、导航一致性）",
+      "test/fixtures/": "测试用 mock 数据",
+      "package.json": "新增 scripts.test",
+      "CHANGELOG.md": "追加本条记录"
+    }
   }
 ]
