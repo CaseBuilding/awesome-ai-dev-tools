@@ -1,0 +1,16 @@
+{
+  "name": "awesome-ai-dev-tools",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "热门 AI 开发者工具合集",
+  "scripts": {
+    "fetch": "node scripts/fetch-repos.js",
+    "classify": "node scripts/classify.js",
+    "generate": "node scripts/generate-readme.js",
+    "build": "npm run fetch && npm run classify && npm run generate"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.0.0"
+  }
+}

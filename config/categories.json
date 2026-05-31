@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "id": "ai-coding-agent",
+      "name": "🤖 AI Coding Agent",
+      "order": 1,
+      "match": {
+        "topics": [
+          "ai-agent",
+          "coding-agent",
+          "ai-coding",
+          "ai-code-assistant",
+          "code-assistant",
+          "ai-programming",
+          "coding-assistant"
+        ],
+        "desc_keywords": [
+          "coding agent",
+          "code assistant",
+          "ai coding",
+          "ai programming",
+          "code generation agent",
+          "autonomous coding"
+        ]
+      }
+    },
+    {
+      "id": "mcp",
+      "name": "🔌 MCP / 工具生态",
+      "order": 2,
+      "match": {
+        "topics": [
+          "mcp",
+          "mcp-server",
+          "mcp-client",
+          "model-context-protocol",
+          "mcp-tool"
+        ],
+        "desc_keywords": [
+          "mcp server",
+          "mcp client",
+          "model context protocol",
+          "mcp protocol"
+        ]
+      }
+    },
+    {
+      "id": "code-analysis",
+      "name": "🔍 代码分析 / 理解",
+      "order": 3,
+      "match": {
+        "topics": [
+          "code-analysis",
+          "static-analysis",
+          "code-review",
+          "code-intelligence",
+          "code-quality",
+          "dependency-analysis",
+          "codeql"
+        ],
+        "desc_keywords": [
+          "code analysis",
+          "static analysis",
+          "code review",
+          "code intelligence",
+          "dependency analysis",
+          "code quality"
+        ]
+      }
+    },
+    {
+      "id": "code-visualization",
+      "name": "🗺️ 代码导图 / 可视化",
+      "order": 4,
+      "match": {
+        "topics": [
+          "code-visualization",
+          "dependency-graph",
+          "architecture-diagram",
+          "code-map",
+          "uml",
+          "visualization",
+          "call-graph"
+        ],
+        "desc_keywords": [
+          "dependency graph",
+          "code map",
+          "architecture diagram",
+          "call graph",
+          "code visualization",
+          "uml diagram"
+        ]
+      }
+    },
+    {
+      "id": "llm-framework",
+      "name": "🧠 LLM 框架 / SDK",
+      "order": 5,
+      "match": {
+        "topics": [
+          "llm",
+          "llm-framework",
+          "langchain",
+          "llamaindex",
+          "dspy",
+          "semantic-kernel",
+          "ai-sdk"
+        ],
+        "desc_keywords": [
+          "llm framework",
+          "large language model",
+          "ai sdk",
+          "llm sdk",
+          "language model"
+        ]
+      }
+    },
+    {
+      "id": "ai-gateway",
+      "name": "🚪 AI 网关 / API 管理",
+      "order": 6,
+      "match": {
+        "topics": [
+          "ai-gateway",
+          "api-gateway",
+          "llm-gateway",
+          "model-router",
+          "openrouter"
+        ],
+        "desc_keywords": [
+          "ai gateway",
+          "llm gateway",
+          "api gateway",
+          "model routing",
+          "multi-model",
+          "cost management"
+        ]
+      }
+    },
+    {
+      "id": "agent-workflow",
+      "name": "🔄 Agent / 工作流",
+      "order": 7,
+      "match": {
+        "topics": [
+          "ai-agents",
+          "agent-framework",
+          "workflow",
+          "automation",
+          "multi-agent",
+          "agent-orchestration",
+          "agents"
+        ],
+        "desc_keywords": [
+          "agent framework",
+          "multi-agent",
+          "agent orchestration",
+          "workflow automation",
+          "ai agent"
+        ]
+      }
+    },
+    {
+      "id": "local-inference",
+      "name": "⚡ 本地推理",
+      "order": 8,
+      "match": {
+        "topics": [
+          "ollama",
+          "llama.cpp",
+          "local-llm",
+          "inference",
+          "self-hosted-llm",
+          "onnx",
+          "local-inference"
+        ],
+        "desc_keywords": [
+          "local inference",
+          "run llm locally",
+          "self-hosted",
+          "local language model",
+          "llama.cpp"
+        ]
+      }
+    },
+    {
+      "id": "evaluation",
+      "name": "📏 评估 / 可观测",
+      "order": 9,
+      "match": {
+        "topics": [
+          "llm-evaluation",
+          "llm-observability",
+          "eval",
+          "monitoring",
+          "ai-eval",
+          "llm-monitoring"
+        ],
+        "desc_keywords": [
+          "llm evaluation",
+          "ai monitoring",
+          "llm observability",
+          "model evaluation",
+          "eval framework"
+        ]
+      }
+    },
+    {
+      "id": "browser-automation",
+      "name": "🌐 浏览器自动化",
+      "order": 10,
+      "match": {
+        "topics": [
+          "browser-automation",
+          "web-automation",
+          "playwright",
+          "puppeteer",
+          "selenium",
+          "browser-use"
+        ],
+        "desc_keywords": [
+          "browser automation",
+          "web automation",
+          "browser use",
+          "headless browser",
+          "playwright"
+        ]
+      }
+    }
+  ],
+  "unclassified_category": {
+    "name": "📂 未分类",
+    "order": 99
+  }
+}

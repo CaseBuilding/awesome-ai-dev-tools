@@ -1,0 +1,11 @@
+{
+  "_说明": "在此文件中手动修正自动分类结果。每次脚本运行时都会读取此文件，覆盖自动分类。",
+  "_格式": {
+    "full_repo_name": {
+      "category": "分类ID（对应 categories.json 中的 id）",
+      "hidden": false,
+      "reason": "为什么这样调整"
+    }
+  },
+  "overrides": {}
+}
