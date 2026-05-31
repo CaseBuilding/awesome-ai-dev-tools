@@ -1,6 +1,6 @@
 {
-  "_说明": "此文件由 scripts/fetch-repos.js 自动生成，缓存 GitHub API 搜索结果。",
-  "_格式": "每次更新时覆盖重写，不要手动编辑此文件。",
-  "last_updated": null,
+  "_说明": "此文件由 scripts/fetch-repos.js 自动生成，缓存 GitHub API 搜索结果",
+  "last_updated": "2026-05-31T05:17:25.149Z",
+  "total_count": 0,
   "repos": []
 }
