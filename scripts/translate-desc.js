@@ -60,7 +60,7 @@ function getFeaturedWithoutChinese() {
   for (const cat of categories) {
     const repos = classifiedData.classified[cat.id] || [];
     const featured = repos
-      .filter((r) => r._confidence === "high" && !r._uncertain)
+      .filter((r) => r._confidence === "high")
       .slice(0, 5);
 
     for (const repo of featured) {

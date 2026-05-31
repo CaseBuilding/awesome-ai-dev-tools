@@ -64,7 +64,6 @@ async function searchRepos(queryStr, maxResults) {
       });
     }
     page++;
-    if (page > 10) break;
   }
   return repos;
 }

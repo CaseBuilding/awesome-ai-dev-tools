@@ -166,4 +166,5 @@ function main() {
   console.log(`   已写入 data/classified.json`);
 }
 
-main();
+const isMain = process.argv[1] === fileURLToPath(import.meta.url);
+if (isMain) main();

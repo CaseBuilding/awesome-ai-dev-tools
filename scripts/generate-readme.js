@@ -364,7 +364,10 @@ async function main() {
   console.log(`   中文描述缓存: ${Object.keys(cnCache).filter((k) => cnCache[k]).length} 条`);
 }
 
-main().catch((err) => {
-  console.error("❌ 出错:", err.message);
-  process.exit(1);
-});
+const isMain = process.argv[1] === fileURLToPath(import.meta.url);
+if (isMain) {
+  main().catch((err) => {
+    console.error("❌ 出错:", err.message);
+    process.exit(1);
+  });
+}
