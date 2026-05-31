@@ -105,12 +105,13 @@ async function fetchChineseDescription(repo) {
 
 // ── 渲染 ──
 
-function renderRepoLine(repo, descCn) {
+function renderRepoLine(repo, descCn, number, rankEmoji) {
   const stars = formatStars(repo.stars);
   const lang = repo.language || "";
   const desc = repo.description || "";
+  const prefix = number ? (rankEmoji ? `${rankEmoji} #${number} — ` : `#${number} — `) : "";
 
-  let lines = `### ${repo.full_name} ⭐${stars}`;
+  let lines = `### ${prefix}${repo.full_name} ⭐${stars}`;
   if (lang) lines += ` · 🔤${lang}`;
 
   // 🌏 中文描述：有则显示，无则显示占位（由用户手动触发 AI 翻译填充）
@@ -144,42 +145,85 @@ async function main() {
   lines.push(`> 热门 AI 开发者工具合集 · **${classifiedData.stats.total}** 个项目 · 每周日自动更新`);
   lines.push(``);
 
-  // ════════ 统计 ════════
+  // ════════ 统计（按分类展开） ════════
   lines.push(`## 📊 统计`);
   lines.push(``);
-  lines.push(`| 指标 | 数值 |`);
-  lines.push(`| --- | --- |`);
-  lines.push(`| 收录项目 | ${classifiedData.stats.total} |`);
-  lines.push(`| 已分类 | ${classifiedData.stats.classified} |`);
+  lines.push(`| 分类 | 数量 | | 分类 | 数量 |`);
+  lines.push(`| --- | --- | --- | --- | --- |`);
 
-  lines.push(`| 未分类 | ${classifiedData.stats.unclassified} |`);
-  lines.push(`| 最后更新 | ${lastUpdated} |`);
-  lines.push(``);
-
-  // ════════ 导航栏 ════════
-  lines.push(`## 📑 导航`);
-  lines.push(``);
-
-  const navItems = [];
-  // 我的关注
-  const watched = watchedData.watched || {};
-  const watchedKeys = Object.keys(watched);
-  if (watchedKeys.length > 0) {
-    navItems.push(`[👁️ 我的关注](#-我的关注)`);
-  }
-
-  for (const cat of categories) {
-    const count = classifiedData.classified[cat.id]?.length || 0;
-    if (count > 0) {
-      navItems.push(`[${cat.name}](#${anchorName(cat.name)})`);
+  const allCats = categories.map((cat) => ({
+    name: cat.name,
+    count: classifiedData.classified[cat.id]?.length || 0,
+  }));
+  const half = Math.ceil(allCats.length / 2);
+  for (let i = 0; i < half; i++) {
+    const left = allCats[i];
+    const right = allCats[i + half];
+    if (right) {
+      lines.push(`| ${left.name} | ${left.count} | | ${right.name} | ${right.count} |`);
+    } else {
+      lines.push(`| ${left.name} | ${left.count} | | | |`);
     }
   }
 
-  if (classifiedData.unclassified?.length > 0) {
-    navItems.push(`[📂 未分类](#-未分类)`);
+  lines.push(`| **合计** | **${classifiedData.stats.classified}** | | 最后更新 | ${lastUpdated} |`);
+  lines.push(``);
+
+  // ════════ 导航栏（分组表格） ════════
+  lines.push(`## 📑 导航`);
+  lines.push(``);
+
+  // 分类分组规则
+  const navGroups = {
+    "AI 工具方向": ["ai-coding-agent", "mcp", "agent-workflow", "browser-automation"],
+    "代码方向":     ["code-analysis", "code-visualization", "evaluation"],
+    "平台方向":     ["llm-framework", "ai-gateway", "local-inference"],
+  };
+
+  // 构建每组的链接数组
+  const groupLinks = {};
+  for (const [groupName, catIds] of Object.entries(navGroups)) {
+    groupLinks[groupName] = [];
+    for (const catId of catIds) {
+      const cat = categories.find((c) => c.id === catId);
+      if (!cat) continue;
+      const count = classifiedData.classified[cat.id]?.length || 0;
+      if (count > 0) {
+        groupLinks[groupName].push(`[${cat.name}](#${anchorName(cat.name)})`);
+      }
+    }
   }
 
-  lines.push(navItems.join(" · "));
+  // 概览列：我的关注
+  const overviewItems = [];
+  const watched = watchedData.watched || {};
+  const watchedKeys = Object.keys(watched);
+  if (watchedKeys.length > 0) {
+    overviewItems.push(`[👁️ 我的关注](#-我的关注)`);
+  }
+
+  // 计算最大行数
+  const allGroups = ["概览", ...Object.keys(navGroups)];
+  const maxRows = Math.max(
+    overviewItems.length || 1,
+    ...Object.values(groupLinks).map((links) => links.length || 1)
+  );
+
+  // 渲染表格
+  lines.push(`| ${allGroups.map((g) => g).join(" | ")} |`);
+  lines.push(`| ${allGroups.map(() => " --- ").join(" | ")} |`);
+
+  for (let row = 0; row < maxRows; row++) {
+    const cells = [];
+    // 概览列
+    cells.push(row < overviewItems.length ? overviewItems[row] : "");
+    // 各分组列
+    for (const groupName of Object.keys(navGroups)) {
+      const links = groupLinks[groupName] || [];
+      cells.push(row < links.length ? links[row] : "");
+    }
+    lines.push(`| ${cells.join(" | ")} |`);
+  }
   lines.push(``);
 
   // ════════ 我的关注 ════════
@@ -235,12 +279,18 @@ async function main() {
       .filter((r) => r._confidence === "high")
       .slice(0, 5);
 
+    const totalCount = repos.length;
+    const rankEmojis = ["🥇", "🥈", "🥉"];
+
     if (featured.length > 0) {
-      lines.push(`### ⭐ 精选推荐`);
+      lines.push(`### ⭐ 精选推荐（Top ${featured.length} / 共 ${totalCount}）`);
       lines.push(``);
-      for (const repo of featured) {
+      for (let i = 0; i < featured.length; i++) {
+        const repo = featured[i];
+        const number = i + 1;
+        const emoji = i < 3 ? rankEmojis[i] : "";
         const descCn = await fetchChineseDescription(repo);
-        lines.push(renderRepoLine(repo, descCn));
+        lines.push(renderRepoLine(repo, descCn, number, emoji));
         lines.push(`---`);
       }
     }
@@ -249,17 +299,20 @@ async function main() {
     const rest = repos.filter(
       (r) => !featured.includes(r)
     );
-    if (rest.length > featured.length) {
-      lines.push(`### 📋 全部项目 (${rest.length})`);
+    if (rest.length > 0) {
+      lines.push(`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`);
+      lines.push(``);
+      lines.push(`### 📋 全部项目（${rest.length} 个）`);
       lines.push(``);
       lines.push(`<details>`);
       lines.push(`<summary>点击展开全部 ${rest.length} 个项目</summary>`);
       lines.push(`<br>`);
-      for (const repo of rest) {
+      rest.forEach((repo, idx) => {
+        const number = featured.length + idx + 1;
         const descCn = cnCache[repo.full_name] || "";
-        lines.push(renderRepoLine(repo, descCn));
+        lines.push(renderRepoLine(repo, descCn, number, ""));
         lines.push(`---`);
-      }
+      });
       lines.push(`</details>`);
     }
 
