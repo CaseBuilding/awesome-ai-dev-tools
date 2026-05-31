@@ -1,13 +1,13 @@
 # Awesome AI Dev Tools
 
-> 热门 AI 开发者工具合集 · **369** 个项目 · 每周日自动更新
+> 热门 AI 开发者工具合集 · **370** 个项目 · 每周日自动更新
 
 ## 📊 统计
 
 | 指标 | 数值 |
 | --- | --- |
-| 收录项目 | 369 |
-| 已分类 | 649 |
+| 收录项目 | 370 |
+| 已分类 | 650 |
 | 待确认 | 203 |
 | 未分类 | 0 |
 | 最后更新 | 2026/5/31 |
@@ -22,7 +22,7 @@
 
 | 项目 | Stars | 分类 | 备注 |
 | --- | --- | --- | --- |
-| Lum1104/Understand-Anything | — | — | ⚠️ 未在搜索结果中找到 |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 46.3K | 🔍 代码分析 / 理解 | 重点关注 - 代码知识图谱，46.2K Stars |
 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 17.7K | 🔍 代码分析 / 理解 | 重点关注 - 代码审查图谱，17.7K Stars |
 
 ---
@@ -140,8 +140,6 @@
 <br>
 ### NousResearch/hermes-agent ⭐174K · 🔤Python
 
-🌏 ****由 [Nous Research](https://nousresearch.com) 构建的自进化 AI 代理。** 它是唯一内置学习闭环的智能代理——从经验中创建技能，在使用中改进技能，主动持久化知识，搜索过往对话，并在跨会话中逐步构建对你的深度理解。可以在 $5 的 VPS 上运行，也可以在 GPU 集群上运行，或者使用几乎零成本的 Serverless 基础设施。它不绑定你的笔记本——**
-
 📝 The agent that grows with you
 
 🔗 [GitHub](https://github.com/NousResearch/hermes-agent)
@@ -198,7 +196,7 @@
 ---
 ### ZhuLinsen/daily_stock_analysis ⭐39.5K · 🔤Python
 
-🌏 **LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.**
+📝 LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 
 🔗 [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis)
 
@@ -247,16 +245,12 @@
 ---
 ### jackwener/OpenCLI ⭐23.1K · 🔤JavaScript
 
-🌏 **> **把任意网站变成 CLI & 在你的登录态浏览器上跑 Browser Use。****
-
 📝 Make Any Website into CLI & Use your logged-in browser by AI agent. 
 
 🔗 [GitHub](https://github.com/jackwener/OpenCLI)
 
 ---
 ### nocobase/nocobase ⭐22.6K · 🔤TypeScript
-
-🌏 **- [NocoBase 是什么](#nocobase-是什么)**
 
 📝 NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 
@@ -321,8 +315,6 @@
 ---
 ### decolua/9router ⭐15.3K · 🔤JavaScript
 
-🌏 **# 9Router - 免费 AI 路由器与 Token 节省器**
-
 📝 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
 🔗 [GitHub](https://github.com/decolua/9router)
@@ -336,8 +328,6 @@
 
 ---
 ### esengine/DeepSeek-Reasonix ⭐14.8K · 🔤TypeScript
-
-🌏 **<strong>简体中文</strong>**
 
 📝 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 
@@ -353,7 +343,7 @@
 ---
 ### waooAI/waoowaoo ⭐12.5K · 🔤TypeScript
 
-🌏 **首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.**
+📝 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
 🔗 [GitHub](https://github.com/waooAI/waoowaoo)
 
@@ -423,8 +413,6 @@
 ---
 ### EvoMap/evolver ⭐7.6K · 🔤JavaScript
 
-🌏 ****[evomap.ai](https://evomap.ai)** | [Wiki 文档](https://evomap.ai/wiki) | [English Docs](README.md) | [Japanese / 日本語ドキュメント](README.ja-JP.md) | [한국어 문서](README.ko-KR.md) | [GitHub](https://github.com/E**
-
 📝 The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 
 🔗 [GitHub](https://github.com/EvoMap/evolver)
@@ -474,7 +462,7 @@
 ---
 ### ChatLab/ChatLab ⭐6.5K · 🔤TypeScript
 
-🌏 **Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具**
+📝 Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
 
 🔗 [GitHub](https://github.com/ChatLab/ChatLab)
 
@@ -523,7 +511,7 @@
 ---
 ### adongwanai/AgentGuide ⭐5.4K · 🔤HTML
 
-🌏 **https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
+📝 https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
 
 🔗 [GitHub](https://github.com/adongwanai/AgentGuide)
 
@@ -607,16 +595,12 @@
 ---
 ### lobehub/lobehub ⭐78K · 🔤TypeScript
 
-🌏 **LobeHub 帮你把专属 Agent 组织成 7×24 不打烊的高效队伍：**
-
 📝 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
 🔗 [GitHub](https://github.com/lobehub/lobehub)
 
 ---
 ### danny-avila/LibreChat ⭐37.7K · 🔤TypeScript
-
-🌏 **<strong>中文</strong>**
 
 📝 Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 
@@ -625,7 +609,7 @@
 ---
 ### PDFMathTranslate/PDFMathTranslate ⭐34.3K · 🔤Python
 
-🌏 **[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero**
+📝 [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 🔗 [GitHub](https://github.com/PDFMathTranslate/PDFMathTranslate)
 
@@ -646,7 +630,7 @@
 ---
 ### 78/xiaozhi-esp32 ⭐26.9K · 🔤C++
 
-🌏 **An MCP-based chatbot | 一个基于MCP的聊天机器人**
+📝 An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 🔗 [GitHub](https://github.com/78/xiaozhi-esp32)
 
@@ -716,7 +700,7 @@
 ---
 ### JoeanAmier/XHS-Downloader ⭐11.4K · 🔤Python
 
-🌏 **小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件**
+📝 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
 
 🔗 [GitHub](https://github.com/JoeanAmier/XHS-Downloader)
 
@@ -730,7 +714,7 @@
 ---
 ### xinnan-tech/xiaozhi-esp32-server ⭐9.7K · 🔤JavaScript
 
-🌏 **本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.**
+📝 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
 🔗 [GitHub](https://github.com/xinnan-tech/xiaozhi-esp32-server)
 
@@ -751,8 +735,6 @@
 <summary>点击查看 82 个待确认项目</summary>
 <br>
 ### affaan-m/ECC ⭐199.5K · 🔤JavaScript
-
-🌏 **> **140K+ stars** | **21K+ forks** | **170+ 贡献者** | **12+ 语言系统** | **Anthropic黑客松获胜者****
 
 📝 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
@@ -803,7 +785,7 @@
 ---
 ### sansan0/TrendRadar ⭐58.6K · 🔤Python
 
-🌏 **⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。**
+📝 ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构
 
 🔗 [GitHub](https://github.com/sansan0/TrendRadar)
 
@@ -845,7 +827,7 @@
 ---
 ### jeecgboot/JeecgBoot ⭐46.5K · 🔤Java
 
-🌏 **AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。**
+📝 AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 
 🔗 [GitHub](https://github.com/jeecgboot/JeecgBoot)
 
@@ -893,8 +875,6 @@
 
 ---
 ### bytedance/UI-TARS-desktop ⭐35.8K · 🔤TypeScript
-
-🌏 **<b>TARS<sup>\*</sup></b> 是一个多模态 AI Agent Stack，目前包含两个项目：[Agent TARS](#agent-tars) 和 [UI-TARS-desktop](#ui-tars-desktop)：**
 
 📝 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
@@ -1008,7 +988,7 @@
 ---
 ### 1Panel-dev/MaxKB ⭐21.1K · 🔤Python
 
-🌏 **🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。**
+📝 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 
 🔗 [GitHub](https://github.com/1Panel-dev/MaxKB)
 
@@ -1085,14 +1065,12 @@
 ---
 ### liyupi/ai-guide ⭐14.9K · 🔤JavaScript
 
-🌏 **程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站**
+📝 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor /
 
 🔗 [GitHub](https://github.com/liyupi/ai-guide)
 
 ---
 ### yusufkaraaslan/Skill_Seekers ⭐13.8K · 🔤Python
-
-🌏 **> ⚠️ **机器翻译声明****
 
 📝 Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -1178,8 +1156,6 @@
 ---
 ### ValueCell-ai/valuecell ⭐10.7K · 🔤Python
 
-🌏 **<a href="README.zh.md" style="color: gray;">中文（简体）</a>**
-
 📝 ValueCell is a community-driven, multi-agent platform for financial applications.
 
 🔗 [GitHub](https://github.com/ValueCell-ai/valuecell)
@@ -1264,8 +1240,6 @@
 ---
 ### EvoMap/evolver ⭐7.6K · 🔤JavaScript
 
-🌏 ****[evomap.ai](https://evomap.ai)** | [Wiki 文档](https://evomap.ai/wiki) | [English Docs](README.md) | [Japanese / 日本語ドキュメント](README.ja-JP.md) | [한국어 문서](README.ko-KR.md) | [GitHub](https://github.com/E**
-
 📝 The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 
 🔗 [GitHub](https://github.com/EvoMap/evolver)
@@ -1308,8 +1282,6 @@
 ---
 ### ThinkInAIXYZ/deepchat ⭐5.9K · 🔤TypeScript
 
-🌏 **<img src='./build/icon.png' width="150" height="150" alt="DeepChat AI助手图标" />**
-
 📝 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 
 🔗 [GitHub](https://github.com/ThinkInAIXYZ/deepchat)
@@ -1344,7 +1316,7 @@
 <a name="代码分析-理解"></a>
 
 <details open>
-<summary><b>🔍 代码分析 / 理解</b> <code>69</code></summary>
+<summary><b>🔍 代码分析 / 理解</b> <code>70</code></summary>
 <br>
 ### ⭐ 精选推荐
 
@@ -1362,6 +1334,15 @@
 🔗 [GitHub](https://github.com/astral-sh/ruff)
 
 ---
+### Lum1104/Understand-Anything ⭐46.3K · 🔤TypeScript
+
+🌏 **<strong>将任意代码库、知识库或文档转化为可探索、可搜索、可对话的交互式知识图谱</strong>**
+
+📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,
+
+🔗 [GitHub](https://github.com/Lum1104/Understand-Anything)
+
+---
 ### koalaman/shellcheck ⭐39.5K · 🔤Haskell
 
 📝 ShellCheck, a static analysis tool for shell scripts
@@ -1376,17 +1357,10 @@
 🔗 [GitHub](https://github.com/ycm-core/YouCompleteMe)
 
 ---
-### MobSF/Mobile-Security-Framework-MobSF ⭐21.1K · 🔤JavaScript
-
-📝 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
-
-🔗 [GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-
----
-### 📋 全部项目 (59)
+### 📋 全部项目 (60)
 
 <details>
-<summary>点击展开全部 59 个项目</summary>
+<summary>点击展开全部 60 个项目</summary>
 <br>
 ### WerWolv/ImHex ⭐53.7K · 🔤C++
 
@@ -1400,6 +1374,13 @@
 📝 An extremely fast Python linter and code formatter, written in Rust.
 
 🔗 [GitHub](https://github.com/astral-sh/ruff)
+
+---
+### Lum1104/Understand-Anything ⭐46.3K · 🔤TypeScript
+
+📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,
+
+🔗 [GitHub](https://github.com/Lum1104/Understand-Anything)
 
 ---
 ### koalaman/shellcheck ⭐39.5K · 🔤Haskell
@@ -1431,8 +1412,6 @@
 
 ---
 ### tirth8205/code-review-graph ⭐17.7K · 🔤Python
-
-🌏 **<strong>不再浪费 token，让代码审查更智能。</strong>**
 
 📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 
@@ -1588,7 +1567,7 @@
 ---
 ### We5ter/Scanners-Box ⭐8.9K
 
-🌏 **A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑**
+📝 A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
 
 🔗 [GitHub](https://github.com/We5ter/Scanners-Box)
 
@@ -1813,8 +1792,6 @@
 <br>
 ### yusufkaraaslan/Skill_Seekers ⭐13.8K · 🔤Python
 
-🌏 **> ⚠️ **机器翻译声明****
-
 📝 Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
 🔗 [GitHub](https://github.com/yusufkaraaslan/Skill_Seekers)
@@ -1857,7 +1834,7 @@
 ---
 ### lintsinghua/DeepAudit ⭐6.3K · 🔤Python
 
-🌏 **DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。**
+📝 DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
 
 🔗 [GitHub](https://github.com/lintsinghua/DeepAudit)
 
@@ -1965,16 +1942,12 @@
 <br>
 ### affaan-m/ECC ⭐199.5K · 🔤JavaScript
 
-🌏 **> **140K+ stars** | **21K+ forks** | **170+ 贡献者** | **12+ 语言系统** | **Anthropic黑客松获胜者****
-
 📝 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 🔗 [GitHub](https://github.com/affaan-m/ECC)
 
 ---
 ### NousResearch/hermes-agent ⭐174K · 🔤Python
-
-🌏 ****由 [Nous Research](https://nousresearch.com) 构建的自进化 AI 代理。** 它是唯一内置学习闭环的智能代理——从经验中创建技能，在使用中改进技能，主动持久化知识，搜索过往对话，并在跨会话中逐步构建对你的深度理解。可以在 $5 的 VPS 上运行，也可以在 GPU 集群上运行，或者使用几乎零成本的 Serverless 基础设施。它不绑定你的笔记本——**
 
 📝 The agent that grows with you
 
@@ -2060,7 +2033,7 @@
 ---
 ### sansan0/TrendRadar ⭐58.6K · 🔤Python
 
-🌏 **⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。**
+📝 ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构
 
 🔗 [GitHub](https://github.com/sansan0/TrendRadar)
 
@@ -2109,7 +2082,7 @@
 ---
 ### jeecgboot/JeecgBoot ⭐46.5K · 🔤Java
 
-🌏 **AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。**
+📝 AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 
 🔗 [GitHub](https://github.com/jeecgboot/JeecgBoot)
 
@@ -2137,14 +2110,14 @@
 ---
 ### ZhuLinsen/daily_stock_analysis ⭐39.5K · 🔤Python
 
-🌏 **LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.**
+📝 LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 
 🔗 [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis)
 
 ---
 ### chatchat-space/Langchain-Chatchat ⭐38.1K · 🔤Python
 
-🌏 **Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain **
+📝 Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 
 🔗 [GitHub](https://github.com/chatchat-space/Langchain-Chatchat)
 
@@ -2291,7 +2264,7 @@
 ---
 ### 1Panel-dev/MaxKB ⭐21.1K · 🔤Python
 
-🌏 **🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。**
+📝 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 
 🔗 [GitHub](https://github.com/1Panel-dev/MaxKB)
 
@@ -2354,14 +2327,14 @@
 ---
 ### langbot-app/LangBot ⭐16.2K · 🔤Python
 
-🌏 **Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, openclaw / hermes agent**
+📝 Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 
 🔗 [GitHub](https://github.com/langbot-app/LangBot)
 
 ---
 ### cft0808/edict ⭐15.9K · 🔤Python
 
-🌏 **🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails**
+📝 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 
 🔗 [GitHub](https://github.com/cft0808/edict)
 
@@ -2396,8 +2369,6 @@
 ---
 ### decolua/9router ⭐15.3K · 🔤JavaScript
 
-🌏 **# 9Router - 免费 AI 路由器与 Token 节省器**
-
 📝 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
 🔗 [GitHub](https://github.com/decolua/9router)
@@ -2405,14 +2376,12 @@
 ---
 ### liyupi/ai-guide ⭐14.9K · 🔤JavaScript
 
-🌏 **程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站**
+📝 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor /
 
 🔗 [GitHub](https://github.com/liyupi/ai-guide)
 
 ---
 ### esengine/DeepSeek-Reasonix ⭐14.8K · 🔤TypeScript
-
-🌏 **<strong>简体中文</strong>**
 
 📝 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 
@@ -2427,8 +2396,6 @@
 
 ---
 ### MODSetter/SurfSense ⭐14.4K · 🔤Python
-
-🌏 **NotebookLM 是目前最好、最实用的 AI 平台之一，但当你开始经常使用它时，你也会感受到它的局限性，总觉得还有不足之处。**
 
 📝 An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 
@@ -2451,7 +2418,7 @@
 ---
 ### jnMetaCode/agency-agents-zh ⭐13.4K · 🔤Shell
 
-🌏 **🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）**
+📝 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 
 🔗 [GitHub](https://github.com/jnMetaCode/agency-agents-zh)
 
@@ -2731,7 +2698,7 @@
 ---
 ### lintsinghua/DeepAudit ⭐6.3K · 🔤Python
 
-🌏 **DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。**
+📝 DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
 
 🔗 [GitHub](https://github.com/lintsinghua/DeepAudit)
 
@@ -2772,8 +2739,6 @@
 
 ---
 ### ThinkInAIXYZ/deepchat ⭐5.9K · 🔤TypeScript
-
-🌏 **<img src='./build/icon.png' width="150" height="150" alt="DeepChat AI助手图标" />**
 
 📝 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 
@@ -2824,7 +2789,7 @@
 ---
 ### adongwanai/AgentGuide ⭐5.4K · 🔤HTML
 
-🌏 **https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
+📝 https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
 
 🔗 [GitHub](https://github.com/adongwanai/AgentGuide)
 
@@ -2961,16 +2926,12 @@
 ---
 ### AsyncFuncAI/deepwiki-open ⭐16.6K · 🔤Python
 
-🌏 ****DeepWiki**可以为任何GitHub、GitLab或BitBucket代码仓库自动创建美观、交互式的Wiki！只需输入仓库名称，DeepWiki将：**
-
 📝 Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
 🔗 [GitHub](https://github.com/AsyncFuncAI/deepwiki-open)
 
 ---
 ### decolua/9router ⭐15.3K · 🔤JavaScript
-
-🌏 **# 9Router - 免费 AI 路由器与 Token 节省器**
 
 📝 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
@@ -3006,8 +2967,6 @@
 
 ---
 ### OpenCoworkAI/open-codesign ⭐6.6K · 🔤TypeScript
-
-🌏 **> 你的提示词，你的模型，你的电脑。**
 
 📝 Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 
@@ -3112,8 +3071,6 @@
 ---
 ### nexu-io/open-design ⭐56.1K · 🔤TypeScript
 
-🌏 **> **Open Design 是 [Claude Design][cd] 的开源、本地优先替代品。** 可部署到 Vercel、每一层都 BYOK —— **16 套 coding-agent CLI** 在 `PATH` 上自动检测（Claude Code, Codex, Devin for Terminal, Cursor Agent, Gemini CLI, OpenCode, Qwen,**
-
 📝 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 S
 
 🔗 [GitHub](https://github.com/nexu-io/open-design)
@@ -3135,7 +3092,7 @@
 ---
 ### 666ghj/BettaFish ⭐41.1K · 🔤Python
 
-🌏 **微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。**
+📝 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
 🔗 [GitHub](https://github.com/666ghj/BettaFish)
 
@@ -3148,8 +3105,6 @@
 
 ---
 ### Yeachan-Heo/oh-my-claudecode ⭐35.4K · 🔤TypeScript
-
-🌏 **> **Codex 用户：** 查看 [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — 为 OpenAI Codex CLI 提供同样的编排体验。**
 
 📝 Teams-first Multi-agent orchestration for Claude Code
 
@@ -3320,8 +3275,6 @@
 <br>
 ### affaan-m/ECC ⭐199.5K · 🔤JavaScript
 
-🌏 **> **140K+ stars** | **21K+ forks** | **170+ 贡献者** | **12+ 语言系统** | **Anthropic黑客松获胜者****
-
 📝 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 🔗 [GitHub](https://github.com/affaan-m/ECC)
@@ -3335,8 +3288,6 @@
 
 ---
 ### NousResearch/hermes-agent ⭐174K · 🔤Python
-
-🌏 ****由 [Nous Research](https://nousresearch.com) 构建的自进化 AI 代理。** 它是唯一内置学习闭环的智能代理——从经验中创建技能，在使用中改进技能，主动持久化知识，搜索过往对话，并在跨会话中逐步构建对你的深度理解。可以在 $5 的 VPS 上运行，也可以在 GPU 集群上运行，或者使用几乎零成本的 Serverless 基础设施。它不绑定你的笔记本——**
 
 📝 The agent that grows with you
 
@@ -3513,8 +3464,6 @@
 ---
 ### bytedance/UI-TARS-desktop ⭐35.8K · 🔤TypeScript
 
-🌏 **<b>TARS<sup>\*</sup></b> 是一个多模态 AI Agent Stack，目前包含两个项目：[Agent TARS](#agent-tars) 和 [UI-TARS-desktop](#ui-tars-desktop)：**
-
 📝 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
 🔗 [GitHub](https://github.com/bytedance/UI-TARS-desktop)
@@ -3648,8 +3597,6 @@
 ---
 ### jackwener/OpenCLI ⭐23.1K · 🔤JavaScript
 
-🌏 **> **把任意网站变成 CLI & 在你的登录态浏览器上跑 Browser Use。****
-
 📝 Make Any Website into CLI & Use your logged-in browser by AI agent. 
 
 🔗 [GitHub](https://github.com/jackwener/OpenCLI)
@@ -3677,8 +3624,6 @@
 
 ---
 ### nocobase/nocobase ⭐22.6K · 🔤TypeScript
-
-🌏 **- [NocoBase 是什么](#nocobase-是什么)**
 
 📝 NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 
@@ -3792,7 +3737,7 @@
 ---
 ### cft0808/edict ⭐15.9K · 🔤Python
 
-🌏 **🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails**
+📝 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 
 🔗 [GitHub](https://github.com/cft0808/edict)
 
@@ -3834,8 +3779,6 @@
 ---
 ### decolua/9router ⭐15.3K · 🔤JavaScript
 
-🌏 **# 9Router - 免费 AI 路由器与 Token 节省器**
-
 📝 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
 🔗 [GitHub](https://github.com/decolua/9router)
@@ -3857,8 +3800,6 @@
 ---
 ### esengine/DeepSeek-Reasonix ⭐14.8K · 🔤TypeScript
 
-🌏 **<strong>简体中文</strong>**
-
 📝 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 
 🔗 [GitHub](https://github.com/esengine/DeepSeek-Reasonix)
@@ -3873,16 +3814,12 @@
 ---
 ### MODSetter/SurfSense ⭐14.4K · 🔤Python
 
-🌏 **NotebookLM 是目前最好、最实用的 AI 平台之一，但当你开始经常使用它时，你也会感受到它的局限性，总觉得还有不足之处。**
-
 📝 An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 
 🔗 [GitHub](https://github.com/MODSetter/SurfSense)
 
 ---
 ### yusufkaraaslan/Skill_Seekers ⭐13.8K · 🔤Python
-
-🌏 **> ⚠️ **机器翻译声明****
 
 📝 Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -3891,7 +3828,7 @@
 ---
 ### jnMetaCode/agency-agents-zh ⭐13.4K · 🔤Shell
 
-🌏 **🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）**
+📝 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 
 🔗 [GitHub](https://github.com/jnMetaCode/agency-agents-zh)
 
@@ -3926,7 +3863,7 @@
 ---
 ### waooAI/waoowaoo ⭐12.5K · 🔤TypeScript
 
-🌏 **首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.**
+📝 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
 🔗 [GitHub](https://github.com/waooAI/waoowaoo)
 
@@ -3947,7 +3884,7 @@
 ---
 ### Usagi-org/ai-goofish-monitor ⭐12.2K · 🔤Python
 
-🌏 **基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。**
+📝 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
 🔗 [GitHub](https://github.com/Usagi-org/ai-goofish-monitor)
 
@@ -4002,8 +3939,6 @@
 
 ---
 ### ValueCell-ai/valuecell ⭐10.7K · 🔤Python
-
-🌏 **<a href="README.zh.md" style="color: gray;">中文（简体）</a>**
 
 📝 ValueCell is a community-driven, multi-agent platform for financial applications.
 
@@ -4131,8 +4066,6 @@
 ---
 ### EvoMap/evolver ⭐7.6K · 🔤JavaScript
 
-🌏 ****[evomap.ai](https://evomap.ai)** | [Wiki 文档](https://evomap.ai/wiki) | [English Docs](README.md) | [Japanese / 日本語ドキュメント](README.ja-JP.md) | [한국어 문서](README.ko-KR.md) | [GitHub](https://github.com/E**
-
 📝 The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 
 🔗 [GitHub](https://github.com/EvoMap/evolver)
@@ -4168,7 +4101,7 @@
 ---
 ### ChatLab/ChatLab ⭐6.5K · 🔤TypeScript
 
-🌏 **Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具**
+📝 Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
 
 🔗 [GitHub](https://github.com/ChatLab/ChatLab)
 
@@ -4280,7 +4213,7 @@
 ---
 ### adongwanai/AgentGuide ⭐5.4K · 🔤HTML
 
-🌏 **https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成**
+📝 https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
 
 🔗 [GitHub](https://github.com/adongwanai/AgentGuide)
 
@@ -4360,7 +4293,7 @@
 ---
 ### lss233/kirara-ai ⭐18.8K · 🔤Python
 
-🌏 **🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | **
+📝 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | 
 
 🔗 [GitHub](https://github.com/lss233/kirara-ai)
 
@@ -4409,7 +4342,7 @@
 ---
 ### ArvinLovegood/go-stock ⭐5.9K · 🔤Go
 
-🌏 **🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。**
+📝 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 
 🔗 [GitHub](https://github.com/ArvinLovegood/go-stock)
 
@@ -4445,14 +4378,14 @@
 ---
 ### chatchat-space/Langchain-Chatchat ⭐38.1K · 🔤Python
 
-🌏 **Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain **
+📝 Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 
 🔗 [GitHub](https://github.com/chatchat-space/Langchain-Chatchat)
 
 ---
 ### 1Panel-dev/MaxKB ⭐21.1K · 🔤Python
 
-🌏 **🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。**
+📝 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 
 🔗 [GitHub](https://github.com/1Panel-dev/MaxKB)
 
@@ -4466,8 +4399,6 @@
 ---
 ### AsyncFuncAI/deepwiki-open ⭐16.6K · 🔤Python
 
-🌏 ****DeepWiki**可以为任何GitHub、GitLab或BitBucket代码仓库自动创建美观、交互式的Wiki！只需输入仓库名称，DeepWiki将：**
-
 📝 Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
 🔗 [GitHub](https://github.com/AsyncFuncAI/deepwiki-open)
@@ -4475,7 +4406,7 @@
 ---
 ### langbot-app/LangBot ⭐16.2K · 🔤Python
 
-🌏 **Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, openclaw / hermes agent**
+📝 Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 
 🔗 [GitHub](https://github.com/langbot-app/LangBot)
 
@@ -4495,8 +4426,6 @@
 
 ---
 ### MODSetter/SurfSense ⭐14.4K · 🔤Python
-
-🌏 **NotebookLM 是目前最好、最实用的 AI 平台之一，但当你开始经常使用它时，你也会感受到它的局限性，总觉得还有不足之处。**
 
 📝 An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 
@@ -4574,8 +4503,6 @@
 
 ---
 ### OpenCoworkAI/open-codesign ⭐6.6K · 🔤TypeScript
-
-🌏 **> 你的提示词，你的模型，你的电脑。**
 
 📝 Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 
@@ -4853,8 +4780,6 @@
 ---
 ### web-infra-dev/midscene ⭐13.5K · 🔤TypeScript
 
-🌏 **<strong>官网</strong>: <a href="https://midscenejs.com/">https://midscenejs.com/</a>**
-
 📝 AI-powered, vision-driven UI automation for every platform.
 
 🔗 [GitHub](https://github.com/web-infra-dev/midscene)
@@ -4961,8 +4886,6 @@
 ---
 ### bytedance/UI-TARS-desktop ⭐35.8K · 🔤TypeScript
 
-🌏 **<b>TARS<sup>\*</sup></b> 是一个多模态 AI Agent Stack，目前包含两个项目：[Agent TARS](#agent-tars) 和 [UI-TARS-desktop](#ui-tars-desktop)：**
-
 📝 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
 🔗 [GitHub](https://github.com/bytedance/UI-TARS-desktop)
@@ -5061,7 +4984,7 @@
 ---
 ### Usagi-org/ai-goofish-monitor ⭐12.2K · 🔤Python
 
-🌏 **基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。**
+📝 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
 🔗 [GitHub](https://github.com/Usagi-org/ai-goofish-monitor)
 
