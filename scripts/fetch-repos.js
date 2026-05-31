@@ -46,13 +46,12 @@ async function searchRepos(queryStr, maxResults) {
   const repos = [];
   let page = 1;
 
-  while (repos.length < maxResults) {
-    const perPage = Math.min(100, maxResults - repos.length);
+  while (repos.length < maxResults && page <= 2) {
     const { data } = await octokit.search.repos({
       q: queryStr,
       sort: "stars",
       order: "desc",
-      per_page: perPage,
+      per_page: 100,
       page,
     });
 
