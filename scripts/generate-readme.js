@@ -113,11 +113,15 @@ function renderRepoLine(repo, descCn) {
   let lines = `### ${repo.full_name} ⭐${stars}`;
   if (lang) lines += ` · 🔤${lang}`;
 
-  // 优先展示中文描述
+  // 🌏 中文描述：有则显示，无则显示占位（由用户手动触发 AI 翻译填充）
   if (descCn) {
     lines += `\n\n🌏 **${descCn}**`;
+  } else {
+    lines += `\n\n🌏 *中文描述待补充*`;
   }
-  if (desc && (!descCn || desc !== descCn)) {
+
+  // 📝 英文描述：始终显示（截断 200 字）
+  if (desc) {
     lines += `\n\n📝 ${desc.slice(0, 200)}`;
   }
 
@@ -244,9 +248,9 @@ async function main() {
       }
     }
 
-    // 全部项目（折叠，跳过中文抓取）
+    // 全部项目（折叠，从缓存读取中文描述，不触发 GitHub 请求）
     const rest = repos.filter(
-      (r) => !uncertain.includes(r) || featured.includes(r)
+      (r) => !uncertain.includes(r) && !featured.includes(r)
     );
     if (rest.length > featured.length) {
       lines.push(`### 📋 全部项目 (${rest.length})`);
@@ -255,7 +259,8 @@ async function main() {
       lines.push(`<summary>点击展开全部 ${rest.length} 个项目</summary>`);
       lines.push(`<br>`);
       for (const repo of rest) {
-        lines.push(renderRepoLine(repo, ""));
+        const descCn = cnCache[repo.full_name] || "";
+        lines.push(renderRepoLine(repo, descCn));
         lines.push(`---`);
       }
       lines.push(`</details>`);
@@ -271,7 +276,8 @@ async function main() {
       lines.push(`<summary>点击查看 ${uncertain.length} 个待确认项目</summary>`);
       lines.push(`<br>`);
       for (const repo of uncertain) {
-        lines.push(renderRepoLine(repo, ""));
+        const descCn = cnCache[repo.full_name] || "";
+        lines.push(renderRepoLine(repo, descCn));
         lines.push(`---`);
       }
       lines.push(`</details>`);
@@ -294,7 +300,8 @@ async function main() {
     lines.push(`<summary>点击查看 ${classifiedData.unclassified.length} 个未分类项目</summary>`);
     lines.push(`<br>`);
     for (const repo of classifiedData.unclassified) {
-      lines.push(renderRepoLine(repo, ""));
+      const descCn = cnCache[repo.full_name] || "";
+      lines.push(renderRepoLine(repo, descCn));
       lines.push(`---`);
     }
     lines.push(`</details>`);

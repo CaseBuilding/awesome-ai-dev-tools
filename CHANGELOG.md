@@ -92,5 +92,26 @@
       "CHANGELOG.md": "创建审计日志（追加写入，不修改已有条目）",
       "docs/REQUIREMENTS.md": "第 17 章改为维护异常处理+审计规范"
     }
+  },
+  {
+    "date": "2026-05-31",
+    "type": "install",
+    "reason": "安装 addyosmani/agent-skills 全套 23 个 Skills（47.2K⭐，Google Chrome 团队 Addy Osmani）",
+    "changed_by": "CaseBuilding + Reasonix 确认",
+    "changes": {
+      ".reasonix/skills/": "新增 23 个文件：interview-me、idea-refine、spec-driven-development、doubt-driven-development 等"
+    }
+  },
+  {
+    "date": "2026-06-01",
+    "type": "feature",
+    "reason": "中英双语 README — Q5 决定改为双语展示，AI 补充缺失中文描述",
+    "changed_by": "CaseBuilding 决定 + Reasonix 实现",
+    "changes": {
+      "scripts/generate-readme.js": "renderRepoLine 始终输出 🌏 + 📝 两行；全部项目区也从缓存读取中文描述；修复精选项目在全部项目区重复的 Bug（||→&&）",
+      "scripts/translate-desc.js": "新增 AI 翻译辅助脚本（--dry-run / --list / --import / --set），由用户手动运行",
+      "docs/REQUIREMENTS.md": "新增 §19-25 PRD 模块（目标用户、成功标准、范围、风险、未决问题、Roadmap、术语表）；更新 §5.4 和 §10 双语展示规则",
+      "CHANGELOG.md": "追加本条记录"
+    }
   }
 ]

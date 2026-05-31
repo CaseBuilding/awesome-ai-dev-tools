@@ -104,16 +104,20 @@
 <summary>🤖 AI Coding Agent (37)</summary>
 
 ### ⭐ 精选推荐
-Top 5 高 confidence + 高 Stars 的项目，含中文描述
+Top 5 高 confidence + 高 Stars 的项目，含中文 + 英文描述
 
 ### 📋 全部项目 (折叠)
-其余项目列表，不含中文描述
+其余项目列表，从缓存读取中文描述（不触发 GitHub 请求）
 
 </details>
 ```
 
 - 前 3 个分类默认展开，其余折叠
-- 中文描述仅对精选项目抓取（从 `README.zh-CN.md` 提取）
+- 中文描述来源：GitHub 自带 README.zh-CN.md → AI 翻译缓存（`chinese_descriptions.json`）
+  - 精选项目：按优先级顺序尝试全部来源
+  - 全部项目：仅从缓存读取（不触发 GitHub 请求，保持性能）
+  - 均未命中时显示 `*中文描述待补充*` 占位
+- 英文描述始终显示
 - ❓ 待确认区已被优先级系统取代（见第 7 章）
 
 ---
@@ -236,9 +240,35 @@ Reasonix 可读取项目的 README，判断其实际用途后更新 `manual_over
 
 ```
 ### owner/repo ⭐ Stars · 🔤 语言
-🌏 中文描述（如果有，仅精选项目）
-📝 英文描述
+🌏 中文描述（有则显示，无则显示 "*中文描述待补充*"）
+📝 英文描述（始终显示）
 🔗 GitHub 链接
+```
+
+### 10.1 中文描述来源优先级
+
+| 优先级 | 来源 | 说明 |
+|:------:|------|------|
+| 1 | GitHub 仓库自带 `README.zh-CN.md` | 自动抓取第一段有意义的中文 |
+| 2 | `data/chinese_descriptions.json` 缓存 | AI 翻译写入的缓存，启动时加载 |
+| 3 | 英文描述本身含中文 | 直接复用 `description` 字段 |
+| 未命中 | 显示 `*中文描述待补充*` | 占位提示，等待手动触发 AI 翻译 |
+
+### 10.2 AI 翻译流程
+
+AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
+
+```
+维护者执行:
+  node scripts/translate-desc.js --list
+        ↓
+  Reasonix 逐批生成中文描述
+        ↓
+  node scripts/translate-desc.js --import batch.json
+        ↓
+  chinese_descriptions.json 新增条目
+        ↓
+  下一次 GitHub Actions 运行或本地 npm run generate 后 README 更新
 ```
 
 ---
