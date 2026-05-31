@@ -104,8 +104,8 @@ async function main() {
         allRepos.push(repo);
       }
 
-      // GitHub Search API 限速：30 请求/分钟
-      await new Promise((r) => setTimeout(r, 500));
+      // GitHub Search API 限速：30 请求/分钟，留余量
+      await new Promise((r) => setTimeout(r, 2500));
     }
   }
 
