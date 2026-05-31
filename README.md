@@ -48,7 +48,7 @@
 🔗 [GitHub](https://github.com/Gitlawb/openclaude)
 
 ---
-### hugohe3/ppt-master ⭐22.7K · 🔤Python
+### hugohe3/ppt-master ⭐22.8K · 🔤Python
 
 📝 AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · b
 
@@ -88,7 +88,7 @@
 🔗 [GitHub](https://github.com/Gitlawb/openclaude)
 
 ---
-### hugohe3/ppt-master ⭐22.7K · 🔤Python
+### hugohe3/ppt-master ⭐22.8K · 🔤Python
 
 📝 AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · b
 
@@ -542,7 +542,7 @@
 🔗 [GitHub](https://github.com/punkpeye/awesome-mcp-servers)
 
 ---
-### farion1231/cc-switch ⭐85.8K · 🔤Rust
+### farion1231/cc-switch ⭐85.9K · 🔤Rust
 
 📝 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
@@ -586,7 +586,7 @@
 🔗 [GitHub](https://github.com/punkpeye/awesome-mcp-servers)
 
 ---
-### farion1231/cc-switch ⭐85.8K · 🔤Rust
+### farion1231/cc-switch ⭐85.9K · 🔤Rust
 
 📝 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
@@ -3882,7 +3882,7 @@
 🔗 [GitHub](https://github.com/lsdefine/GenericAgent)
 
 ---
-### Usagi-org/ai-goofish-monitor ⭐12.2K · 🔤Python
+### Usagi-org/ai-goofish-monitor ⭐12.3K · 🔤Python
 
 📝 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
@@ -4982,7 +4982,7 @@
 🔗 [GitHub](https://github.com/lsdefine/GenericAgent)
 
 ---
-### Usagi-org/ai-goofish-monitor ⭐12.2K · 🔤Python
+### Usagi-org/ai-goofish-monitor ⭐12.3K · 🔤Python
 
 📝 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
