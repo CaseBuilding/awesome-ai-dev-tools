@@ -1,6 +1,6 @@
 {
   "_说明": "此文件由 scripts/fetch-repos.js 自动生成，缓存 GitHub API 搜索结果",
-  "last_updated": "2026-05-31T06:07:34.464Z",
+  "last_updated": "2026-05-31T06:10:37.990Z",
   "total_count": 60,
   "repos": [
     {
@@ -8,7 +8,7 @@
       "name": "claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "topics": [],
-      "stars": 128490,
+      "stars": 128491,
       "language": "Python",
       "html_url": "https://github.com/anthropics/claude-code",
       "_sourceCategory": "code-analysis"
@@ -42,7 +42,7 @@
         "vibe-design",
         "vibecoding"
       ],
-      "stars": 85947,
+      "stars": 85948,
       "language": "",
       "html_url": "https://github.com/VoltAgent/awesome-design-md",
       "_sourceCategory": "code-analysis"
@@ -64,7 +64,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 56890,
+      "stars": 56891,
       "language": "Python",
       "html_url": "https://github.com/safishamsi/graphify",
       "_sourceCategory": "code-analysis"
@@ -92,7 +92,7 @@
         "understandcode",
         "vibe-coding"
       ],
-      "stars": 46245,
+      "stars": 46248,
       "language": "TypeScript",
       "html_url": "https://github.com/Lum1104/Understand-Anything",
       "_sourceCategory": "code-analysis"
@@ -112,7 +112,7 @@
       "name": "codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "topics": [],
-      "stars": 34579,
+      "stars": 34581,
       "language": "TypeScript",
       "html_url": "https://github.com/colbymchenry/codegraph",
       "_sourceCategory": "code-analysis"

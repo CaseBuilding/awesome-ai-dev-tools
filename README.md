@@ -7,9 +7,9 @@
 | 指标 | 数值 |
 | --- | --- |
 | 收录项目 | 60 |
-| 已分类 | 72 |
-| 待确认 | 18 |
-| 未分类 | 14 |
+| 已分类 | 70 |
+| 待确认 | 17 |
+| 未分类 | 13 |
 | 最后更新 | 2026/5/31 |
 
 ## 📑 导航
@@ -22,15 +22,15 @@
 
 | 项目 | Stars | 分类 | 备注 |
 | --- | --- | --- | --- |
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 46.2K | — | 重点关注 - 代码知识图谱，46.2K Stars |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 17.7K | 🤖 AI Coding Agent | 重点关注 - 代码审查图谱，17.7K Stars |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 46.2K | 🔍 代码分析 / 理解 | 重点关注 - 代码知识图谱，46.2K Stars |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 17.7K | 🔍 代码分析 / 理解 | 重点关注 - 代码审查图谱，17.7K Stars |
 
 ---
 
 <a name="ai-coding-agent"></a>
 
 <details open>
-<summary><b>🤖 AI Coding Agent</b> <code>6</code></summary>
+<summary><b>🤖 AI Coding Agent</b> <code>5</code></summary>
 <br>
 ### 📋 全部项目 (2)
 
@@ -52,27 +52,18 @@
 
 ---
 </details>
-### ❓ 待确认 (4)
+### ❓ 待确认 (3)
 
 > 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json
 
 <details>
-<summary>点击查看 4 个待确认项目</summary>
+<summary>点击查看 3 个待确认项目</summary>
 <br>
 ### activepieces/activepieces ⭐22.5K · 🔤TypeScript
 
 📝 AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 🔗 [GitHub](https://github.com/activepieces/activepieces)
-
----
-### tirth8205/code-review-graph ⭐17.7K · 🔤Python
-
-🌏 **<strong>不再浪费 token，让代码审查更智能。</strong>**
-
-📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
-
-🔗 [GitHub](https://github.com/tirth8205/code-review-graph)
 
 ---
 ### GLips/Figma-Context-MCP ⭐14.9K · 🔤TypeScript
@@ -97,7 +88,7 @@
 <a name="mcp-工具生态"></a>
 
 <details open>
-<summary><b>🔌 MCP / 工具生态</b> <code>33</code></summary>
+<summary><b>🔌 MCP / 工具生态</b> <code>32</code></summary>
 <br>
 ### ⭐ 精选推荐
 
@@ -247,12 +238,12 @@
 
 ---
 </details>
-### ❓ 待确认 (18)
+### ❓ 待确认 (17)
 
 > 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json
 
 <details>
-<summary>点击查看 18 个待确认项目</summary>
+<summary>点击查看 17 个待确认项目</summary>
 <br>
 ### microsoft/playwright-mcp ⭐33.2K · 🔤TypeScript
 
@@ -273,15 +264,6 @@
 📝 AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 🔗 [GitHub](https://github.com/activepieces/activepieces)
-
----
-### tirth8205/code-review-graph ⭐17.7K · 🔤Python
-
-🌏 **<strong>不再浪费 token，让代码审查更智能。</strong>**
-
-📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
-
-🔗 [GitHub](https://github.com/tirth8205/code-review-graph)
 
 ---
 ### googleapis/mcp-toolbox ⭐15.4K · 🔤Go
@@ -392,10 +374,28 @@
 <a name="代码分析-理解"></a>
 
 <details open>
-<summary><b>🔍 代码分析 / 理解</b> <code>14</code></summary>
+<summary><b>🔍 代码分析 / 理解</b> <code>15</code></summary>
 <br>
 ### ⭐ 精选推荐
 
+### Lum1104/Understand-Anything ⭐46.2K · 🔤TypeScript
+
+🌏 **<strong>将任意代码库、知识库或文档转化为可探索、可搜索、可对话的交互式知识图谱</strong>**
+
+📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,
+
+🔗 [GitHub](https://github.com/Lum1104/Understand-Anything)
+
+---
+### tirth8205/code-review-graph ⭐17.7K · 🔤Python
+
+🌏 **<strong>不再浪费 token，让代码审查更智能。</strong>**
+
+📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
+
+🔗 [GitHub](https://github.com/tirth8205/code-review-graph)
+
+---
 ### semgrep/semgrep ⭐15.3K · 🔤OCaml
 
 📝 Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -417,25 +417,20 @@
 🔗 [GitHub](https://github.com/phpstan/phpstan)
 
 ---
-### reviewdog/reviewdog ⭐9.3K · 🔤Go
-
-📝 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-
-🔗 [GitHub](https://github.com/reviewdog/reviewdog)
-
----
-### detekt/detekt ⭐7K · 🔤Kotlin
-
-📝 Static code analysis for Kotlin
-
-🔗 [GitHub](https://github.com/detekt/detekt)
-
----
-### 📋 全部项目 (11)
+### 📋 全部项目 (13)
 
 <details>
-<summary>点击展开全部 11 个项目</summary>
+<summary>点击展开全部 13 个项目</summary>
 <br>
+### Lum1104/Understand-Anything ⭐46.2K · 🔤TypeScript
+
+🌏 **<strong>将任意代码库、知识库或文档转化为可探索、可搜索、可对话的交互式知识图谱</strong>**
+
+📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,
+
+🔗 [GitHub](https://github.com/Lum1104/Understand-Anything)
+
+---
 ### abhigyanpatwari/GitNexus ⭐40.8K · 🔤TypeScript
 
 📝 GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
@@ -448,6 +443,15 @@
 📝 The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
 🔗 [GitHub](https://github.com/dotnet/roslyn)
+
+---
+### tirth8205/code-review-graph ⭐17.7K · 🔤Python
+
+🌏 **<strong>不再浪费 token，让代码审查更智能。</strong>**
+
+📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
+
+🔗 [GitHub](https://github.com/tirth8205/code-review-graph)
 
 ---
 ### semgrep/semgrep ⭐15.3K · 🔤OCaml
@@ -514,22 +518,13 @@
 
 ---
 </details>
-### ❓ 待确认 (3)
+### ❓ 待确认 (2)
 
 > 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json
 
 <details>
-<summary>点击查看 3 个待确认项目</summary>
+<summary>点击查看 2 个待确认项目</summary>
 <br>
-### tirth8205/code-review-graph ⭐17.7K · 🔤Python
-
-🌏 **<strong>不再浪费 token，让代码审查更智能。</strong>**
-
-📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
-
-🔗 [GitHub](https://github.com/tirth8205/code-review-graph)
-
----
 ### wonderwhy-er/DesktopCommanderMCP ⭐6.1K · 🔤TypeScript
 
 📝 This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
@@ -552,24 +547,15 @@
 <a name="llm-框架-sdk"></a>
 
 <details >
-<summary><b>🧠 LLM 框架 / SDK</b> <code>6</code></summary>
+<summary><b>🧠 LLM 框架 / SDK</b> <code>5</code></summary>
 <br>
-### ❓ 待确认 (6)
+### ❓ 待确认 (5)
 
 > 以下项目匹配了多个分类，不确定应归入哪一类。请手动确认并更新 data/manual_overrides.json
 
 <details>
-<summary>点击查看 6 个待确认项目</summary>
+<summary>点击查看 5 个待确认项目</summary>
 <br>
-### tirth8205/code-review-graph ⭐17.7K · 🔤Python
-
-🌏 **<strong>不再浪费 token，让代码审查更智能。</strong>**
-
-📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
-
-🔗 [GitHub](https://github.com/tirth8205/code-review-graph)
-
----
 ### googleapis/mcp-toolbox ⭐15.4K · 🔤Go
 
 📝 MCP Toolbox for Databases is an open source MCP server for databases.
@@ -777,22 +763,13 @@
 以下项目暂未自动分类，请手动指定所属类别。
 
 <details>
-<summary>点击查看 14 个未分类项目</summary>
+<summary>点击查看 13 个未分类项目</summary>
 <br>
 ### anthropics/claude-code ⭐128.5K · 🔤Python
 
 📝 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 
 🔗 [GitHub](https://github.com/anthropics/claude-code)
-
----
-### Lum1104/Understand-Anything ⭐46.2K · 🔤TypeScript
-
-🌏 **<strong>将任意代码库、知识库或文档转化为可探索、可搜索、可对话的交互式知识图谱</strong>**
-
-📝 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,
-
-🔗 [GitHub](https://github.com/Lum1104/Understand-Anything)
 
 ---
 ### colbymchenry/codegraph ⭐34.6K · 🔤TypeScript
