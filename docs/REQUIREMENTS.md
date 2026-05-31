@@ -27,7 +27,7 @@
 | 条件 | 标准 |
 |------|------|
 | ⭐ **Star 门槛** | ≥ **5,000** Stars |
-| 🔄 **更新频率** | 每周自动更新（GitHub Actions 定时 + 支持手动触发） |
+| 🔄 **更新频率** | 每周日 UTC 0:00 自动更新（GitHub Actions 定时 + 支持手动触发） |
 | 🌐 **搜索方式** | GitHub topic 标签搜索 + 手动补充（`add_missing`） |
 | 🚫 **不收录** | 训练框架、微调工具、向量数据库、纯学术论文实现 |
 
@@ -59,7 +59,7 @@
 │ # Awesome AI Dev Tools                     │
 │ > 370 个项目 · 每周日自动更新              │
 │ ┌─ 统计 ─────────────────────────┐         │
-│ │ 收录项目: 370 · 待确认: 203 ···│         │
+│ │ 收录项目: 370 · 待确认: 0 ······│         │
 │ └────────────────────────────────┘         │
 ├─ 📑 导航 ─────────────────────────────────┤
 │ [我的关注] · [AI Coding Agent] · [MCP] ···│
@@ -69,7 +69,6 @@
 ├─ 🤖 AI Coding Agent (折叠) ──────────────┤
 │  ⭐ 精选推荐 (Top 5)                      │
 │  📋 全部项目 (折叠)                       │
-│  ❓ 待确认 (折叠)                         │
 ├─ 🔌 MCP / 工具生态 (折叠) ───────────────┤
 │  ...                                      │
 └───────────────────────────────────────────┘
@@ -101,7 +100,7 @@
 
 ```
 <details open>
-<summary>🤖 AI Coding Agent (63)</summary>
+<summary>🤖 AI Coding Agent (37)</summary>
 
 ### ⭐ 精选推荐
 Top 5 高 confidence + 高 Stars 的项目，含中文描述
@@ -109,14 +108,12 @@ Top 5 高 confidence + 高 Stars 的项目，含中文描述
 ### 📋 全部项目 (折叠)
 其余项目列表，不含中文描述
 
-### ❓ 待确认 (折叠)
-匹配了多个分类的项目，需要人工确认
-
 </details>
 ```
 
 - 前 3 个分类默认展开，其余折叠
 - 中文描述仅对精选项目抓取（从 `README.zh-CN.md` 提取）
+- ❓ 待确认区已被优先级系统取代（见第 7 章）
 
 ---
 
@@ -134,41 +131,64 @@ topic:ai-agent,coding-agent,code-assistant stars:>=5000
 
 ### 6.2 手动补充（add_missing）
 
-对于没有 topic 标签但有价值的项目（如 `Lum1104/Understand-Anything`），在 `manual_overrides.json` 的 `add_missing` 字段中列出，脚本会通过 `octokit.repos.get()` 单独获取。
+通过 `manual_overrides.json` 的 `add_missing` 字段收录没有 topic 标签的项目。详见 [7.4 额外收录](#74-额外收录add_missing)。
 
 ---
 
 ## 7. 分类逻辑
 
-### 7.1 自动分类（关键词匹配）
+### 7.1 优先级系统
+
+每个分类有一个 `priority` 值（1-10），数字越大表示分类越具体。
+
+| 优先级 | 分类 |
+|:------:|------|
+| 10 | 🔌 MCP / 工具生态（最具体）|
+| 9 | 🤖 AI Coding Agent |
+| 8 | 🔍 代码分析 / 理解 |
+| 7 | 🗺️ 代码导图 / 可视化 |
+| 6 | 🌐 浏览器自动化 |
+| 5 | 📏 评估 / 可观测 |
+| 4 | 🚪 AI 网关 / API 管理 |
+| 3 | ⚡ 本地推理 |
+| 2 | 🧠 LLM 框架 / SDK |
+| 1 | 🔄 Agent / 工作流（最宽泛）|
+
+### 7.2 自动分类（关键词匹配 + 优先级裁决）
 
 不使用 AI。匹配规则：
 
 ```
-1. topics 标签完全匹配 → high confidence ✅
-2. description 关键词匹配 → low confidence ⚠️
-3. 都不匹配 → 未分类
-4. 匹配 2+ 分类 → 标记为「待确认」❓
+1. topics 标签匹配 → high confidence ✅
+2. description 关键词匹配 → low confidence ⚠️（降级方案）
+3. 都不匹配 → 未分类（极少见）
+4. 匹配 2+ 分类 → 保留 priority 最高的那个（自动消歧义）
 ```
 
-### 7.2 手动覆盖
+### 7.3 手动覆盖
 
-在 `data/manual_overrides.json` 中记录。支持：
+在 `data/manual_overrides.json` 中记录：
 
 | 操作 | 效果 |
 |------|------|
 | `category: "code-analysis"` | 强制归入指定分类 |
 | `hidden: true` | 从合集中隐藏 |
-| 不设置 | 保留自动分类结果 |
+| 不设置 | 保留优先级自动分类结果 |
 
-### 7.3 AI 辅助审查
+### 7.4 额外收录（add_missing）
 
-Reasonix 可以使用 `explore` 工具读取项目的 README，判断其实际用途，然后更新 `manual_overrides.json`。流程：
+对于没有 topic 标签但有价值的项目，在 `manual_overrides.json` 的 `add_missing` 字段中列出。脚本通过 `octokit.repos.get()` 单独获取并加入合集。
+
+### 7.5 AI 辅助审查
+
+Reasonix 可读取项目的 README，判断其实际用途后更新 `manual_overrides.json`。完全无法判断的（极少）标记为 `needs_review` 展示给用户。
+
+流程：
 
 ```
-1. 读取 classified.json 中的 uncertain 列表
-2. 对每个项目，查看 README 和描述
-3. 确定应属分类 → 写入 manual_overrides.json
+1. 读取 repos.json
+2. 对不确定的项目，查看 README 和描述
+3. 确定分类 → 写入 manual_overrides.json
 4. 真正不确定的 → 展示给用户决定
 ```
 
