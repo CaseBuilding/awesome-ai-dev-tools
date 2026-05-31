@@ -7,5 +7,74 @@
       "reason": "为什么这样调整"
     }
   },
-  "overrides": {}
+  "overrides": {
+    "Snailclimb/JavaGuide": {
+      "category": null,
+      "hidden": true,
+      "reason": "Java 面试指南，不是 MCP 工具"
+    },
+    "thedaviddias/Front-End-Checklist": {
+      "category": null,
+      "hidden": true,
+      "reason": "前端开发清单，不是 AI Coding Agent"
+    },
+    "netdata/netdata": {
+      "category": "evaluation",
+      "reason": "基础设施监控平台，归入 评估/可观测"
+    },
+    "Kong/kong": {
+      "category": "ai-gateway",
+      "reason": "API & AI 网关，归入 AI 网关"
+    },
+    "microsoft/markitdown": {
+      "category": null,
+      "hidden": true,
+      "reason": "文档转换工具，不是 LLM 框架"
+    },
+    "dair-ai/Prompt-Engineering-Guide": {
+      "category": null,
+      "hidden": true,
+      "reason": "Prompt 学习指南，不是 Agent 工作流"
+    },
+    "ChatGPTNextWeb/NextChat": {
+      "category": null,
+      "hidden": true,
+      "reason": "AI 聊天客户端，不是本地推理引擎"
+    },
+    "siyuan-note/siyuan": {
+      "category": null,
+      "hidden": true,
+      "reason": "笔记知识管理软件，不是本地推理"
+    },
+    "alibaba/nacos": {
+      "category": null,
+      "hidden": true,
+      "reason": "微服务注册中心，不是 MCP 工具"
+    },
+    "ashishps1/awesome-low-level-design": {
+      "category": null,
+      "hidden": true,
+      "reason": "低阶设计学习资源，不是代码导图工具"
+    },
+    "go-kratos/kratos": {
+      "category": null,
+      "hidden": true,
+      "reason": "Go 微服务框架，不是 MCP 工具"
+    },
+    "flipped-aurora/gin-vue-admin": {
+      "category": null,
+      "hidden": true,
+      "reason": "管理后台框架，不是 MCP 工具"
+    },
+    "1Panel-dev/1Panel": {
+      "category": null,
+      "hidden": true,
+      "reason": "VPS 管理面板，不是本地推理"
+    },
+    "ovity/octotree": {
+      "category": null,
+      "hidden": true,
+      "reason": "GitHub 浏览器扩展，不是代码分析工具"
+    }
+  }
 }

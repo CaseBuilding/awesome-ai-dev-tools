@@ -4,7 +4,11 @@
  * 读取 repos.json，按 categories.json 的关键词规则自动分类，
  * 再应用 manual_overrides.json 的手动修正。
  *
- * 输出: 分类结果数组（用于 generate-readme.js）
+ * 新增：「待确认」标记
+ *   - 匹配 2+ 个分类 → uncertain（不知道该放哪）
+ *   - 仅 description 匹配（非 topics）→ low confidence
+ *
+ * 输出: data/classified.json
  */
 
 import fs from "fs";
@@ -14,7 +18,6 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 
-// 读取数据
 const reposData = JSON.parse(
   fs.readFileSync(path.join(ROOT, "data", "repos.json"), "utf-8")
 );
@@ -30,26 +33,28 @@ const unclassifiedCategory = categoriesConfig.unclassified_category;
 
 /**
  * 对单个项目执行自动分类
- * 返回分类 ID 数组（一个项目可能匹配多个分类）
+ * 返回 { matched: [分类ID], confidence: "high"|"low" }
+ *   - high: 通过 topics 匹配
+ *   - low: 仅通过 description 匹配
  */
 function autoClassify(repo) {
   const matched = [];
+  let confidence = "low";
 
   for (const cat of categories) {
     const topics = repo.topics || [];
     const desc = (repo.description || "").toLowerCase();
 
-    // 优先匹配 topics 标签
     const topicMatch = cat.match.topics.some((keyword) =>
       topics.some((t) => t.toLowerCase() === keyword.toLowerCase())
     );
 
     if (topicMatch) {
       matched.push(cat.id);
-      continue; // topics 命中了就不再看 description
+      confidence = "high";
+      continue;
     }
 
-    // 降级匹配 description
     const descMatch = cat.match.desc_keywords.some((keyword) =>
       desc.includes(keyword.toLowerCase())
     );
@@ -59,25 +64,22 @@ function autoClassify(repo) {
     }
   }
 
-  return matched;
+  return { matched, confidence };
 }
 
-/**
- * 应用手动覆盖规则
- */
-function applyOverrides(repo, autoMatched) {
+function applyOverrides(repo, autoResult) {
   const override = overrides.overrides?.[repo.full_name];
-  if (!override) return autoMatched;
+  if (!override) return { ...autoResult, overridden: false };
 
   if (override.hidden === true) {
-    return []; // 标记为隐藏
+    return { matched: [], confidence: "high", overridden: true };
   }
 
   if (override.category) {
-    return [override.category]; // 强制指定分类
+    return { matched: [override.category], confidence: "high", overridden: true };
   }
 
-  return autoMatched;
+  return { ...autoResult, overridden: false };
 }
 
 function main() {
@@ -86,6 +88,7 @@ function main() {
 
   // 分类结果: { categoryId: [repo, ...] }
   const classified = {};
+  const uncertain = [];   // 匹配 2+ 分类，不确定归哪
   const hidden = [];
   const unclassified = [];
 
@@ -95,11 +98,10 @@ function main() {
   classified["__unclassified__"] = [];
 
   for (const repo of repos) {
-    const autoMatched = autoClassify(repo);
-    const finalCategories = applyOverrides(repo, autoMatched);
+    const autoResult = autoClassify(repo);
+    const final = applyOverrides(repo, autoResult);
 
-    if (finalCategories.length === 0) {
-      // 检查是否被隐藏
+    if (final.matched.length === 0) {
       const override = overrides.overrides?.[repo.full_name];
       if (override?.hidden) {
         hidden.push(repo.full_name);
@@ -110,18 +112,34 @@ function main() {
       continue;
     }
 
-    for (const catId of finalCategories) {
+    // 匹配 2+ 分类且没有被手动覆盖 → 标记待确认
+    if (final.matched.length >= 2 && !final.overridden) {
+      uncertain.push({
+        repo,
+        matched_categories: final.matched,
+        confidence: final.confidence,
+      });
+    }
+
+    // 仍然放进匹配的分类中展示
+    for (const catId of final.matched) {
       if (!classified[catId]) classified[catId] = [];
-      classified[catId].push(repo);
+      classified[catId].push({
+        ...repo,
+        _confidence: final.confidence,
+        _uncertain: final.matched.length >= 2 && !final.overridden,
+        _overridden: final.overridden,
+      });
     }
   }
 
-  // 每个分类内按 Star 降序
+  // 排序
   for (const catId of Object.keys(classified)) {
     classified[catId].sort((a, b) => b.stars - a.stars);
   }
+  uncertain.sort((a, b) => b.repo.stars - a.repo.stars);
 
-  // 输出统计
+  // 统计
   let totalClassified = 0;
   for (const cat of categories) {
     const count = classified[cat.id]?.length || 0;
@@ -129,33 +147,28 @@ function main() {
     totalClassified += count;
   }
   console.log(`  📂 未分类: ${unclassified.length} 个项目`);
-  if (hidden.length > 0) {
-    console.log(`  🙈 已隐藏: ${hidden.length} 个项目`);
-  }
+  console.log(`  ❓ 待确认: ${uncertain.length} 个项目（匹配多个分类）`);
+  if (hidden.length > 0) console.log(`  🙈 已隐藏: ${hidden.length} 个项目`);
   console.log(`\n✅ 分类完成！共处理 ${repos.length} 个项目`);
 
-  // 保存分类结果供 generate-readme.js 使用
+  // 写入
+  const output = {
+    last_updated: reposData.last_updated,
+    classified,
+    uncertain,
+    unclassified,
+    hidden,
+    stats: {
+      total: repos.length,
+      classified: totalClassified,
+      unclassified: unclassified.length,
+      uncertain: uncertain.length,
+      hidden: hidden.length,
+    },
+  };
+
   const outputPath = path.join(ROOT, "data", "classified.json");
-  fs.writeFileSync(
-    outputPath,
-    JSON.stringify(
-      {
-        last_updated: reposData.last_updated,
-        classified,
-        unclassified,
-        hidden,
-        stats: {
-          total: repos.length,
-          classified: totalClassified,
-          unclassified: unclassified.length,
-          hidden: hidden.length,
-        },
-      },
-      null,
-      2
-    ),
-    "utf-8"
-  );
+  fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), "utf-8");
   console.log(`   已写入 data/classified.json`);
 }
 

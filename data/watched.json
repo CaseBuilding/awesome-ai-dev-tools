@@ -1,0 +1,16 @@
+{
+  "_说明": "在此文件中标记你重点关注的项目，它们会在 README 顶部「我的关注」区显示。",
+  "_格式": {
+      "full_repo_name": {
+          "note": "你对该项目的备注"
+      }
+  },
+  "watched": {
+    "Lum1104/Understand-Anything": {
+      "note": "重点关注 - 代码知识图谱，46.2K Stars"
+    },
+    "tirth8205/code-review-graph": {
+      "note": "重点关注 - 代码审查图谱，17.7K Stars"
+    }
+  }
+}
