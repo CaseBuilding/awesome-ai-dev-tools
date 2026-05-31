@@ -244,7 +244,7 @@ async function main() {
       }
     }
 
-    // 全部项目（折叠）
+    // 全部项目（折叠，跳过中文抓取）
     const rest = repos.filter(
       (r) => !uncertain.includes(r) || featured.includes(r)
     );
@@ -255,8 +255,7 @@ async function main() {
       lines.push(`<summary>点击展开全部 ${rest.length} 个项目</summary>`);
       lines.push(`<br>`);
       for (const repo of rest) {
-        const descCn = await fetchChineseDescription(repo);
-        lines.push(renderRepoLine(repo, descCn));
+        lines.push(renderRepoLine(repo, ""));
         lines.push(`---`);
       }
       lines.push(`</details>`);
@@ -272,8 +271,7 @@ async function main() {
       lines.push(`<summary>点击查看 ${uncertain.length} 个待确认项目</summary>`);
       lines.push(`<br>`);
       for (const repo of uncertain) {
-        const descCn = await fetchChineseDescription(repo);
-        lines.push(renderRepoLine(repo, descCn));
+        lines.push(renderRepoLine(repo, ""));
         lines.push(`---`);
       }
       lines.push(`</details>`);
@@ -296,8 +294,7 @@ async function main() {
     lines.push(`<summary>点击查看 ${classifiedData.unclassified.length} 个未分类项目</summary>`);
     lines.push(`<br>`);
     for (const repo of classifiedData.unclassified) {
-      const descCn = await fetchChineseDescription(repo);
-      lines.push(renderRepoLine(repo, descCn));
+      lines.push(renderRepoLine(repo, ""));
       lines.push(`---`);
     }
     lines.push(`</details>`);
