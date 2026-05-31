@@ -127,5 +127,14 @@
       "package.json": "新增 scripts.test",
       "CHANGELOG.md": "追加本条记录"
     }
+  },
+  {
+    "date": "2026-06-01",
+    "type": "docs",
+    "reason": "新增 SKILL-GUIDE.md，记录项目推荐使用的 skill 流程，方便后续快速查阅",
+    "changed_by": "CaseBuilding 提出 + Reasonix 实现",
+    "changes": {
+      "docs/SKILL-GUIDE.md": "创建 skill 使用指南"
+    }
   }
 ]
