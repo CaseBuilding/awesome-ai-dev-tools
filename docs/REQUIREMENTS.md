@@ -276,3 +276,247 @@ Reasonix 可读取项目的 README，判断其实际用途后更新 `manual_over
 - **搜索方式:** `GET /search/repositories` (topic 标签)
 - **数据格式:** JSON
 - **输出产物:** `README.md`
+
+---
+
+## 14. 功能级需求（详细）
+
+### 14.1 fetch-repos.js — 搜索 & 获取项目数据
+
+| # | 需求 | 详细说明 |
+|---|------|---------|
+| F1 | **读取搜索配置** | 从 `config/search-queries.json` 读取每个分类的查询语句和 `max_results` |
+| F2 | **执行搜索** | 调用 `octokit.search.repos()`，按 stars 降序排列 |
+| F3 | **分页控制** | 每页 100 条，最多 2 页（200 条/查询），超过停止 |
+| F4 | **Star 过滤** | 硬门槛 5,000 Stars，API 返回结果中再次验证 |
+| F5 | **去重** | 同一次运行中按 `full_name` 去重，后出现的覆盖先出现的 |
+| F6 | **跨查询去重** | 不同分类的搜索如果返回相同项目，只保留首次出现的分类标记 |
+| F7 | **限速控制** | 每次 API 调用后等待 2.5 秒，确保不超过 Search API 30 次/分钟的限制 |
+| F8 | **手动补充** | 读取 `manual_overrides.json` 的 `add_missing` 字段，对每个项目调用 `octokit.repos.get()` 单独获取 |
+| F9 | **增量合并** | 读取已有的 `data/repos.json` 缓存，新搜索结果的同名项目覆盖旧数据，未匹配到的旧项目保留 |
+| F10 | **字段提取** | 每个项目提取 7 个字段：`full_name`, `name`, `description`, `topics`, `stars`, `language`, `html_url` |
+| F11 | **写入缓存** | 合并后的数据写入 `data/repos.json`，含 `last_updated` 时间戳 |
+
+**错误处理：**
+
+| 场景 | 行为 |
+|------|------|
+| API 返回 403 限速 | 打印错误信息，立即退出，不写入不完整的缓存 |
+| 网络超时 | 自动重试（@octokit 内置），失败则退出 |
+| `add_missing` 项目不存在（404） | 打印警告，跳过该项目 |
+| `search-queries.json` 格式错误 | 退出并打印解析错误 |
+| `data/repos.json` 首次运行不存在 | 视为空缓存，继续正常流程 |
+
+### 14.2 classify.js — 自动分类
+
+| # | 需求 | 详细说明 |
+|---|------|---------|
+| F12 | **读取数据** | 从 `data/repos.json`、`config/categories.json`、`data/manual_overrides.json` 读取 |
+| F13 | **关键词匹配** | 将项目的 `topics` 数组与每个分类的 `match.topics` 列表逐项匹配（不区分大小写，完全匹配） |
+| F14 | **降级匹配** | 如果 topics 未命中，将项目 `description` 转为小写，与 `match.desc_keywords` 列表做子串匹配 |
+| F15 | **优先级裁决** | 如果命中多个分类，按 `priority` 从高到低排序，只保留最高优先级的分类 |
+| F16 | **手动覆盖** | 如果项目在 `manual_overrides.json` 的 `overrides` 中，忽略自动分类结果 |
+| F17 | **应用覆盖** | `category: "xxx"` → 强制归入指定分类；`hidden: true` → 不归入任何分类 |
+| F18 | **标注来源** | 每个分类结果附带 `_confidence`（high/low）、`_overridden`（true/false）标记 |
+| F19 | **输出分类结果** | 写入 `data/classified.json`，包含每个分类的项目列表、未分类列表、统计数据 |
+
+**分类优先级匹配规则示例：**
+
+```
+项目 topics: ["mcp", "ai-agents", "automation"]
+  → 匹配 MCP (p=10) 和 Agent 工作流 (p=1)
+  → 保留 MCP ✅
+
+项目 topics: ["ai-agent", "code-assistant"]
+  → 匹配 AI Coding Agent (p=9)
+  → 保留 AI Coding Agent ✅
+```
+
+### 14.3 generate-readme.js — 生成 README
+
+| # | 需求 | 详细说明 |
+|---|------|---------|
+| F20 | **标题区** | 输出 `# Awesome AI Dev Tools` + 统计概要 |
+| F21 | **统计表** | 输出 Markdown 表格，含收录总数、已分类数、未分类数、最后更新时间 |
+| F22 | **导航栏** | 输出所有分类的锚点链接，用 ` · ` 分隔 |
+| F23 | **我的关注** | 从 `data/watched.json` 读取关注列表，查询其在分类结果中的分类名称和 Stars，输出 Markdown 表格 |
+| F24 | **未找到提示** | 如果关注的项目不在合集中，显示 "⚠️ 未在搜索结果中找到" |
+| F25 | **分类输出** | 按 `categories.json` 的 `order` 顺序遍历，跳过空分类 |
+| F26 | **锚点** | 每个分类前输出 `<a name="xxx">` 锚点，名称由分类名的拼音/英文缩写生成 |
+| F27 | **折叠标签** | 前 3 个分类 `<details open>`，其余 `<details>`（默认折叠） |
+| F28 | **精选推荐** | 取该分类中 `_confidence === "high" && !_uncertain` 的前 5 个项目 |
+| F29 | **全部项目** | 精选之外的项目放入嵌套的 `<details>` 折叠区 |
+| F30 | **中文描述抓取** | 仅对精选项目：按顺序尝试 `README.zh-CN.md` → `READMEs/README.zh-CN.md` → `README.zh.md`，每个 URL 超时 3 秒 |
+| F31 | **中文描述缓存** | 抓取到的中文描述写入 `data/chinese_descriptions.json`，避免每次重复抓取 |
+| F32 | **项目信息渲染** | 每条项目固定 4 行：`### name ⭐Stars · 🔤lang` → `🌏 中文`（有则显示） → `📝 英文描述`（截断 200 字） → `🔗 链接` |
+| F33 | **分隔线** | 每个项目之间用 `---` 分隔 |
+| F34 | **写入 README** | 输出到 `README.md` |
+
+### 14.4 GitHub Actions 工作流
+
+| # | 需求 | 详细说明 |
+|---|------|---------|
+| F35 | **触发方式** | `schedule`（每周日 UTC 0:00）+ `workflow_dispatch`（手动触发） |
+| F36 | **运行环境** | `ubuntu-latest`，Node.js 20 |
+| F37 | **依赖安装** | `npm ci` |
+| F38 | **执行顺序** | `fetch-repos.js` → `classify.js` → `generate-readme.js` |
+| F39 | **自动提交** | 检测 `README.md` 或 `data/repos.json` 是否有变更，有则 commit + push |
+| F40 | **提交信息** | `chore: auto-update README YYYY-MM-DD` |
+| F41 | **Git 配置** | 使用 `github-actions[bot]` 身份提交 |
+| F42 | **Token 权限** | `contents: write`，搜索使用的 Token 通过 `secrets.TOKEN` 传入（需要用户在 GitHub Secrets 中配置） |
+
+---
+
+## 15. UI/UX 需求（展示 & 交互）
+
+### 15.1 README 视觉层次
+
+```
+层级 1: # Awesome AI Dev Tools        ← 大标题
+层级 2: ## 📊 统计                    ← 区域标题
+层级 3: <details><summary>分类名</>    ← 分类标题（可折叠）
+层级 4: ### ⭐ 精选推荐               ← 分组标题
+层级 5: ### owner/repo ⭐ Stars       ← 项目标题
+层级 6: 📝 / 🌏 / 🔗                  ← 信息行
+```
+
+### 15.2 导航栏规范
+
+| 规范 | 要求 |
+|------|------|
+| **位置** | 统计表下方，紧接分隔线 |
+| **分隔符** | ` · `（空格·空格） |
+| **格式** | `[🤖 AI Coding Agent](#ai-coding-agent)` |
+| **锚点名称** | 英文小写 + 连字符，如 `#mcp-工具生态` |
+| **锚点生成规则** | 分类名转小写 → 非字母/中文转 `-` → 去掉首尾 `-` |
+| **包含** | 所有有项目存在的分类 + 我的关注（如有） |
+
+### 15.3 分类折叠区规范
+
+| 状态 | 规则 |
+|------|------|
+| **默认展开** | 前 3 个分类（按 `order` 排序） |
+| **默认折叠** | 第 4 个分类及之后 |
+| **展开/折叠标识** | 浏览器原生 `<details>` 三角箭头 |
+| **摘要文字** | `🤖 AI Coding Agent <code>37</code>`（emoji + 名称 + 数量标签） |
+
+### 15.4 项目卡片规范
+
+| 字段 | 格式 | 长度限制 | 示例 |
+|------|------|---------|------|
+| **项目名** | `### owner/repo ⭐Stars · 🔤语言` | 完整显示 | `### esengine/DeepSeek-Reasonix ⭐14.7K · 🔤TypeScript` |
+| **Stars 格式化** | ≥1000 显示 `X.XK`，否则显示整数 | — | `14.7K`、`5000` |
+| **语言** | 来自 GitHub API 的 `language` 字段 | — | `TypeScript`, `Python` |
+| **语言缺失** | 不显示 `· 🔤` 部分 | — | `### owner/repo ⭐5K` |
+| **中文描述** | `🌏 **中文描述...**` | 200 字截断 | `🌏 **为 DeepSeek 原生的终端 AI 编程 Agent**` |
+| **英文描述** | `📝 英文描述...` | 200 字符截断 | `📝 DeepSeek-native AI coding agent...` |
+| **链接** | `🔗 [GitHub](url)` | — | `🔗 [GitHub](https://github.com/...)` |
+
+### 15.5 我的关注表格规范
+
+| 列 | 宽度 | 说明 |
+|----|------|------|
+| **项目** | 自适应 | 项目名链接到 GitHub |
+| **Stars** | 固定 | `X.XK` 格式 |
+| **分类** | 自适应 | 该项目的分类名称 |
+| **备注** | 自适应 | 用户填写的关注理由 |
+
+### 15.6 空状态处理
+
+| 场景 | 显示 |
+|------|------|
+| 分类无项目 | 不输出该分类 |
+| 某个分类精选不足 5 个 | 实际有几个显示几个 |
+| 我的关注为空 | 不显示 👁️ 区域 |
+| 无中文描述 | 不显示 🌏 行，直接显示 📝 行 |
+
+### 15.7 响应式/可读性
+
+| 需求 | 说明 |
+|------|------|
+| 所有链接可点击 | GitHub Markdown 原生支持 |
+| 折叠区可交互 | 浏览器原生 `<details>` 支持点击展开/折叠 |
+| 代码块不溢出 | 项目名放在标题（###）中，无需代码块 |
+| 深色模式兼容 | 标准 GitHub Markdown，自动适配 |
+
+---
+
+## 16. 边界情况 & 异常处理
+
+| # | 场景 | 预期行为 |
+|---|------|---------|
+| E1 | 搜索 API 返回 0 结果 | 跳过该查询，继续下一个 |
+| E2 | 所有搜索都返回 0 结果 | 保留上次缓存，不覆盖 |
+| E3 | GitHub Actions Token 未配置 | workflow 运行失败，打印错误 |
+| E4 | 搜索结果中 Star 数低于门槛 | 过滤掉，不收录 |
+| E5 | 同名项目在不同搜索中重复出现 | 只收录一次，标记首次出现的分类 |
+| E6 | `manual_overrides.json` JSON 格式错误 | classify.js 退出并打印解析错误 |
+| E7 | `config/categories.json` 缺少 `priority` 字段 | 默认 priority = 0 |
+| E8 | 中文 README 抓取超时（3 秒） | 跳过中文描述，使用英文描述 |
+| E9 | `watched.json` 中的项目不在任何分类中 | 显示 "⚠️ 未在搜索结果中找到" |
+| E10 | add_missing 的项目已在搜索结果中 | 去重机制自动处理 |
+| E11 | 工作流被手动触发时上次运行未完成 | GitHub 自动排队，不并发 |
+| E12 | generate-readme.js 运行中 crash | 已写入的部分不提交（git diff 检测无变更） |
+
+---
+
+## 17. 配置文件格式规范
+
+### 17.1 search-queries.json
+
+```json
+{
+  "queries": {
+    "分类ID": {
+      "name": "分类显示名（仅参考）",
+      "search": ["查询语句1", "查询语句2"],
+      "max_results": 搜索上限（建议 20-100）
+    }
+  }
+}
+```
+
+**约束：**
+- `search` 数组每个元素是一条独立搜索，结果合并去重
+- `max_results` 控制每个查询最多获取的项目数
+- GitHub API 每页 100 条，最多 2 页
+
+### 17.2 categories.json 中 priority 字段
+
+```json
+{
+  "id": "分类ID",
+  "priority": 1-10 的整数,
+  "match": {
+    "topics": ["关键词1", "关键词2"],
+    "desc_keywords": ["描述1", "描述2"]
+  }
+}
+```
+
+**约束：**
+- `priority` 越大越具体，多个匹配时取最高
+- 建议 MCP=10 > Coding Agent=9 > ... > Agent 工作流=1
+- 同一 priority 值的分类同时命中时，按 `order` 顺序取第一个
+
+### 17.3 manual_overrides.json
+
+```json
+{
+  "add_missing": {
+    "owner/repo": { "category": "分类ID", "reason": "原因" }
+  },
+  "overrides": {
+    "owner/repo": {
+      "category": "分类ID | null",
+      "hidden": true | false,
+      "reason": "原因"
+    }
+  }
+}
+```
+
+**约束：**
+- `add_missing` → 收录没有 topic 标签的项目，脚本会主动获取
+- `overrides` 中 `category: null` + `hidden: true` → 从合集中隐藏
+- `overrides` 中 `category: "xxx"` → 强制归入指定分类
