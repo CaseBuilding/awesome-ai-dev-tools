@@ -4,6 +4,7 @@
       "id": "ai-coding-agent",
       "name": "🤖 AI Coding Agent",
       "order": 1,
+      "priority": 9,
       "match": {
         "topics": [
           "ai-agent",
@@ -28,6 +29,7 @@
       "id": "mcp",
       "name": "🔌 MCP / 工具生态",
       "order": 2,
+      "priority": 10,
       "match": {
         "topics": [
           "mcp",
@@ -48,6 +50,7 @@
       "id": "code-analysis",
       "name": "🔍 代码分析 / 理解",
       "order": 3,
+      "priority": 8,
       "match": {
         "topics": [
           "code-analysis",
@@ -72,6 +75,7 @@
       "id": "code-visualization",
       "name": "🗺️ 代码导图 / 可视化",
       "order": 4,
+      "priority": 7,
       "match": {
         "topics": [
           "code-visualization",
@@ -96,6 +100,7 @@
       "id": "llm-framework",
       "name": "🧠 LLM 框架 / SDK",
       "order": 5,
+      "priority": 2,
       "match": {
         "topics": [
           "llm",
@@ -119,6 +124,7 @@
       "id": "ai-gateway",
       "name": "🚪 AI 网关 / API 管理",
       "order": 6,
+      "priority": 4,
       "match": {
         "topics": [
           "ai-gateway",
@@ -141,6 +147,7 @@
       "id": "agent-workflow",
       "name": "🔄 Agent / 工作流",
       "order": 7,
+      "priority": 1,
       "match": {
         "topics": [
           "ai-agents",
@@ -164,6 +171,7 @@
       "id": "local-inference",
       "name": "⚡ 本地推理",
       "order": 8,
+      "priority": 3,
       "match": {
         "topics": [
           "ollama",
@@ -187,6 +195,7 @@
       "id": "evaluation",
       "name": "📏 评估 / 可观测",
       "order": 9,
+      "priority": 5,
       "match": {
         "topics": [
           "llm-evaluation",
@@ -209,6 +218,7 @@
       "id": "browser-automation",
       "name": "🌐 浏览器自动化",
       "order": 10,
+      "priority": 6,
       "match": {
         "topics": [
           "browser-automation",

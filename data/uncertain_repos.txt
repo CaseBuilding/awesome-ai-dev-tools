@@ -1,0 +1,203 @@
+affaan-m/ECC|199524|mcp,llm-framework,agent-workflow|The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod
+n8n-io/n8n|190402|mcp,agent-workflow|Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+NousResearch/hermes-agent|173972|ai-coding-agent,llm-framework,agent-workflow|The agent that grows with you
+ollama/ollama|172691|llm-framework,local-inference|Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+langgenius/dify|143230|mcp,llm-framework,agent-workflow|Production-ready platform for agentic workflow development.
+open-webui/open-webui|139317|mcp,llm-framework,local-inference|User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+langchain-ai/langchain|138078|llm-framework,agent-workflow|The agent engineering platform.
+firecrawl/firecrawl|126613|llm-framework,agent-workflow|The API to search, scrape, and interact with the web at scale. 🔥
+google-gemini/gemini-cli|104768|mcp,agent-workflow|An open-source AI agent that brings the power of Gemini directly into your terminal.
+browser-use/browser-use|96352|llm-framework,agent-workflow,browser-automation|🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+microsoft/playwright|89909|agent-workflow,browser-automation|Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+bytedance/deer-flow|70045|llm-framework,agent-workflow|An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and 
+FoundationAgents/MetaGPT|68426|llm-framework,agent-workflow|🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+microsoft/ai-agents-for-beginners|66020|llm-framework,agent-workflow|12 Lessons to Get Started Building AI Agents
+shareAI-lab/learn-claude-code|63743|ai-coding-agent,llm-framework|Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+ComposioHQ/awesome-claude-skills|62574|mcp,agent-workflow|A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+Mintplex-Labs/anything-llm|60816|mcp,llm-framework,agent-workflow,local-inference|The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+sansan0/TrendRadar|58609|mcp,llm-framework|⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词
+microsoft/autogen|58553|llm-framework,agent-workflow|A programming framework for agentic AI
+mem0ai/mem0|57171|llm-framework,agent-workflow|Universal memory layer for AI Agents
+ruvnet/ruflo|56738|ai-coding-agent,mcp,agent-workflow|🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversation
+upstash/context7|56443|mcp,llm-framework|Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+D4Vinci/Scrapling|55964|mcp,agent-workflow,browser-automation|🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+MemPalace/mempalace|53103|mcp,llm-framework|The best-benchmarked open-source AI memory system. And it's free.
+BerriAI/litellm|48801|llm-framework,ai-gateway|Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [
+santifer/career-ops|47968|ai-coding-agent,agent-workflow|AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+mudler/LocalAI|46559|mcp,llm-framework,agent-workflow|LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+jeecgboot/JeecgBoot|46527|mcp,llm-framework|AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发
+aaif-goose/goose|46084|mcp,agent-workflow|an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+hesreallyhim/awesome-claude-code|45265|ai-coding-agent,llm-framework|A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+zhayujie/CowAgent|44971|ai-coding-agent,mcp,llm-framework,ai-gateway,agent-workflow|Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-c
+HKUDS/nanobot|43414|ai-coding-agent,llm-framework,agent-workflow|Lightweight, open-source AI agent for your tools, chats, and workflows.
+ChromeDevTools/chrome-devtools-mcp|42368|ai-coding-agent,mcp,browser-automation|Chrome DevTools for coding agents
+ZhuLinsen/daily_stock_analysis|39537|ai-coding-agent,llm-framework|LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+sickn33/antigravity-awesome-skills|39233|ai-coding-agent,mcp,agent-workflow|Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bun
+mindsdb/minds-platform|39223|mcp,agent-workflow|Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they ca
+chatchat-space/Langchain-Chatchat|38109|llm-framework,local-inference|Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), lo
+wshobson/agents|36167|mcp,agent-workflow|Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+reworkd/AgentGPT|36153|llm-framework,agent-workflow|🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+bytedance/UI-TARS-desktop|35773|mcp,agent-workflow,browser-automation|The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+patchy631/ai-engineering-hub|35416|mcp,agent-workflow|In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+ItzCrazyKns/Vane|35018|llm-framework,agent-workflow|Vane is an AI-powered answering engine.
+AstrBotDevs/AstrBot|33496|mcp,llm-framework,agent-workflow|AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+langchain-ai/langgraph|33418|llm-framework,agent-workflow|Build resilient agents.
+microsoft/playwright-mcp|33246|mcp,browser-automation|Playwright MCP server
+VectifyAI/PageIndex|32352|llm-framework,agent-workflow|📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+CopilotKit/CopilotKit|31856|ai-coding-agent,llm-framework,agent-workflow|The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
+ComposioHQ/composio|28537|mcp,llm-framework,agent-workflow|Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn inten
+langfuse/langfuse|28240|llm-framework,evaluation|🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, La
+labring/FastGPT|28203|mcp,llm-framework,agent-workflow|FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retr
+assafelovic/gpt-researcher|27404|mcp,agent-workflow|An autonomous agent that conducts deep research on any data using any LLM providers
+iOfficeAI/AionUi|27258|ai-coding-agent,llm-framework|Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assist
+googleworkspace/cli|26697|ai-coding-agent,agent-workflow|Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery 
+BloopAI/vibe-kanban|26674|ai-coding-agent,agent-workflow|Get 10X more out of Claude Code, Codex or any coding agent
+mlflow/mlflow|26207|llm-framework,agent-workflow,evaluation|The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize p
+agentscope-ai/agentscope|25884|mcp,llm-framework,agent-workflow|Build and run agents you can see, understand and trust.
+yamadashy/repomix|25778|mcp,llm-framework|📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to La
+PrefectHQ/fastmcp|25406|mcp,agent-workflow|🚀 The fast, Pythonic way to build MCP servers and clients.
+rohitg00/ai-engineering-from-scratch|25291|mcp,llm-framework,agent-workflow|Learn it. Build it. Ship it for others.
+volcengine/OpenViking|24935|llm-framework,agent-workflow|OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (mem
+oraios/serena|24774|ai-coding-agent,mcp|A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
+mastra-ai/mastra|24571|mcp,llm-framework,agent-workflow|From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
+apify/crawlee|23575|agent-workflow,browser-automation|Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs,
+jackwener/OpenCLI|23117|ai-coding-agent,agent-workflow|Make Any Website into CLI & Use your logged-in browser by AI agent. 
+letta-ai/letta|23051|llm-framework,agent-workflow|Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+browserbase/stagehand|22862|agent-workflow,browser-automation|The SDK For Browser Agents
+CloakHQ/CloakBrowser|22689|agent-workflow,browser-automation|Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+heygen-com/hyperframes|22627|mcp,browser-automation|Write HTML. Render video. Built for agents.
+nocobase/nocobase|22589|ai-coding-agent,agent-workflow|NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of
+activepieces/activepieces|22483|ai-coding-agent,mcp,agent-workflow|AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs fo
+NirDiamant/GenAI_Agents|22277|mcp,llm-framework,agent-workflow|50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
+Skyvern-AI/skyvern|21779|llm-framework,agent-workflow,browser-automation|Automate browser based workflows with AI
+promptfoo/promptfoo|21734|llm-framework,evaluation|Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and m
+AutomaApp/automa|21366|agent-workflow,browser-automation|A browser extension for automating your browser by connecting blocks
+1Panel-dev/MaxKB|21101|mcp,llm-framework,local-inference|🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+Panniantong/Agent-Reach|20634|ai-coding-agent,mcp,agent-workflow|Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+qax-os/excelize|20621|mcp,code-visualization|Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+NirDiamant/agents-towards-production|20553|mcp,llm-framework,agent-workflow|End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
+dyad-sh/dyad|20487|llm-framework,local-inference|Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
+google/adk-python|19930|llm-framework,agent-workflow|An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+kortix-ai/suna|19807|llm-framework,agent-workflow|The Company AI Command Center
+comet-ml/opik|19407|llm-framework,evaluation|Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and producti
+alibaba/page-agent|18190|mcp,agent-workflow,browser-automation|JavaScript in-page GUI agent. Control web interfaces with natural language.
+emcie-co/parlant|18092|llm-framework,agent-workflow|Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM intera
+RightNow-AI/openfang|17688|mcp,llm-framework,agent-workflow|Open-source Agent Operating System
+pydantic/pydantic-ai|17406|llm-framework,agent-workflow|AI Agent Framework, the Pydantic way
+trycua/cua|17358|ai-coding-agent,agent-workflow|Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (ma
+leon-ai/leon|17281|ai-coding-agent,agent-workflow|🧠 Leon is your open-source personal assistant.
+AsyncFuncAI/deepwiki-open|16636|ai-gateway,local-inference|Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+langbot-app/LangBot|16153|llm-framework,local-inference|Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业
+mksglu/context-mode|16052|ai-coding-agent,mcp|Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+browser-use/web-ui|16014|ai-coding-agent,agent-workflow,browser-automation|🖥️ Run AI Agent in your browser.
+cft0808/edict|15915|llm-framework,agent-workflow|🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
+Tencent/WeKnora|15822|llm-framework,local-inference|Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+JCodesMore/ai-website-cloner-template|15734|ai-coding-agent,agent-workflow|Clone any website with one command using AI coding agents
+getmaxun/maxun|15687|agent-workflow,browser-automation|🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥 
+plandex-ai/plandex|15425|ai-coding-agent,llm-framework,agent-workflow|Open source AI coding agent. Designed for large projects and real world tasks.
+googleapis/mcp-toolbox|15396|mcp,llm-framework,agent-workflow|MCP Toolbox for Databases is an open source MCP server for databases.
+datawhalechina/easy-vibe|15344|mcp,llm-framework,agent-workflow|💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
+decolua/9router|15287|ai-coding-agent,llm-framework,ai-gateway,agent-workflow|Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, 
+triggerdotdev/trigger.dev|15160|mcp,agent-workflow|Trigger.dev – build and deploy fully‑managed AI agents and workflows
+GLips/Figma-Context-MCP|14925|ai-coding-agent,mcp|MCP server to provide Figma layout information to AI coding agents like Cursor
+n8n-io/self-hosted-ai-starter-kit|14907|agent-workflow,local-inference|The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for
+liyupi/ai-guide|14888|mcp,llm-framework|程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / 
+esengine/DeepSeek-Reasonix|14783|ai-coding-agent,llm-framework,agent-workflow|DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+rowboatlabs/rowboat|14772|llm-framework,agent-workflow|Open-source AI coworker, with memory
+MODSetter/SurfSense|14367|llm-framework,agent-workflow,local-inference|An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
+browser-use/browser-harness|14087|ai-coding-agent,llm-framework,browser-automation|Browser Harness | Self-healing harness that enables LLMs to complete any task.
+yusufkaraaslan/Skill_Seekers|13845|mcp,code-analysis,agent-workflow|Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+casdoor/casdoor|13691|mcp,llm-framework,ai-gateway|An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, 
+jnMetaCode/agency-agents-zh|13390|llm-framework,agent-workflow|🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
+nanobrowser/nanobrowser|13060|agent-workflow,browser-automation|Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+mukul975/Anthropic-Cybersecurity-Skills|12664|mcp,llm-framework,agent-workflow|754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskill
+neuml/txtai|12619|llm-framework,agent-workflow|💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
+Arindam200/awesome-ai-apps|12546|mcp,llm-framework,agent-workflow|A collection of projects showcasing RAG, agents, workflows, and other AI use cases
+waooAI/waoowaoo|12481|ai-coding-agent,agent-workflow|首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-s
+Zackriya-Solutions/meetily|12425|llm-framework,local-inference|Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 1
+e2b-dev/E2B|12414|ai-coding-agent,llm-framework,agent-workflow|Open-source, secure environment with real-world tools for enterprise-grade agents.
+lsdefine/GenericAgent|12324|ai-coding-agent,agent-workflow,browser-automation|Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+Usagi-org/ai-goofish-monitor|12249|agent-workflow,browser-automation|基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+langchain4j/langchain4j|12155|llm-framework,local-inference|LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM provi
+TheR1D/shell_gpt|12094|llm-framework,local-inference|A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
+codexu/note-gen|11995|mcp,llm-framework|A cross-platform Markdown AI note-taking software.
+Portkey-AI/gateway|11912|mcp,llm-framework,ai-gateway|A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+kubeshark/kubeshark|11912|mcp,agent-workflow|eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via 
+tadata-org/fastapi_mcp|11884|mcp,llm-framework|Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+StarTrail-org/LEANN|11829|llm-framework,local-inference|[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal
+zilliztech/claude-context|11648|ai-coding-agent,mcp|Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+millionco/react-doctor|11630|code-analysis,agent-workflow|Your agent writes bad React. This catches it
+superset-sh/superset|11453|mcp,llm-framework,agent-workflow|Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+The-PR-Agent/pr-agent|11414|ai-coding-agent,code-analysis|🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+browseros-ai/BrowserOS|11167|llm-framework,local-inference|🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+wanshuiyin/Auto-claude-code-research-in-sleep|11057|mcp,llm-framework|ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experime
+bytebot-ai/bytebot|11037|mcp,llm-framework,agent-workflow,local-inference|Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desk
+alibaba/OpenSandbox|10893|ai-coding-agent,agent-workflow|Secure, Fast, and Extensible Sandbox runtime for AI agents.
+InsForge/InsForge|10784|ai-coding-agent,ai-gateway,agent-workflow|The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI ga
+squizlabs/PHP_CodeSniffer|10779|code-analysis,agent-workflow|PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
+ValueCell-ai/valuecell|10749|mcp,agent-workflow|ValueCell is a community-driven, multi-agent platform for financial applications.
+The-Pocket/PocketFlow|10688|llm-framework,agent-workflow|Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+RunanywhereAI/runanywhere-sdks|10352|llm-framework,local-inference|Production ready toolkit to run AI locally
+CoplayDev/unity-mcp|10162|mcp,llm-framework|Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automa
+cocoindex-io/cocoindex|10120|llm-framework,agent-workflow|Incremental engine for long horizon agents 🌟 Star if you like it!
+sigoden/aichat|10072|llm-framework,agent-workflow,local-inference|All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+mcp-use/mcp-use|10013|mcp,agent-workflow|The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
+Arize-ai/phoenix|9927|llm-framework,agent-workflow,evaluation|AI Observability & Evaluation
+microsoft/magentic-ui|9874|agent-workflow,browser-automation|An experimental agent that works across the browser and local file system
+ntegrals/openbrowser|9464|agent-workflow,browser-automation|Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
+MemTensor/MemOS|9461|mcp,llm-framework,agent-workflow|Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
+VoltAgent/voltagent|9260|mcp,llm-framework,agent-workflow,evaluation|AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+frankbria/ralph-claude-code|9237|ai-coding-agent,agent-workflow|Autonomous AI development loop for Claude Code with intelligent exit detection
+apify/crawlee-python|9126|agent-workflow,browser-automation|Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, P
+HKUDS/Vibe-Trading|9070|ai-coding-agent,mcp,llm-framework,agent-workflow|"Vibe-Trading: Your Personal Trading Agent"
+0x4m4/hexstrike-ai|9014|mcp,llm-framework,agent-workflow|HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for autom
+mrexodia/ida-pro-mcp|9003|mcp,llm-framework|AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+artilleryio/artillery|8990|agent-workflow,browser-automation|The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load tes
+can1357/oh-my-pi|8844|ai-coding-agent,mcp,llm-framework|⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+iflytek/astron-agent|8531|mcp,llm-framework,agent-workflow|Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
+lastmile-ai/mcp-agent|8347|mcp,llm-framework,agent-workflow|Build effective agents using Model Context Protocol and simple workflow patterns
+idosal/git-mcp|8117|mcp,llm-framework,agent-workflow|Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+Open-LLM-VTuber/Open-LLM-VTuber|7906|llm-framework,local-inference|Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+EvoMap/evolver|7602|ai-coding-agent,mcp,agent-workflow|The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
+walkinglabs/learn-harness-engineering|7281|ai-coding-agent,llm-framework|Harness engineering official style beginner tutorial, from 0 to 1
+steel-dev/steel-browser|7091|llm-framework,agent-workflow,browser-automation|🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying
+autoscrape-labs/pydoll|6877|agent-workflow,browser-automation|Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. 
+GetBindu/Bindu|6785|ai-coding-agent,agent-workflow|Bindu: The identity, communication, and payments layer for AI agents.
+1jehuang/jcode|6767|ai-coding-agent,mcp,llm-framework|Coding Agent Harness
+Narcooo/inkos|6763|ai-coding-agent,agent-workflow|Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates
+mishushakov/llm-scraper|6761|llm-framework,browser-automation|Turn any webpage into structured data using LLMs
+sverweij/dependency-cruiser|6711|code-analysis,code-visualization|Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
+EKKOLearnAI/hermes-web-ui|6703|ai-coding-agent,llm-framework|Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
+mnfst/manifest|6698|llm-framework,ai-gateway,evaluation|Smart Model Routing for Agents. Cut Costs up to 70% 🦚
+olimorris/codecompanion.nvim|6629|ai-coding-agent,llm-framework,local-inference|✨ AI Coding, Vim Style
+BrowserMCP/mcp|6586|mcp,browser-automation|Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
+OpenCoworkAI/open-codesign|6555|ai-gateway,local-inference|Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT,
+ChatLab/ChatLab|6548|ai-coding-agent,agent-workflow|Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
+crestalnetwork/intentkit|6497|ai-coding-agent,agent-workflow,local-inference|IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.
+ondrajz/go-callvis|6485|code-analysis,code-visualization|Visualize call graph of a Go program using Graphviz
+open-multi-agent/open-multi-agent|6292|mcp,llm-framework,agent-workflow,local-inference|From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.
+lintsinghua/DeepAudit|6250|code-analysis,llm-framework|DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
+wonderwhy-er/DesktopCommanderMCP|6090|mcp,code-analysis|This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+JerryZLiu/Dayflow|6054|llm-framework,local-inference|The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
+UfoMiao/zcf|6020|ai-coding-agent,llm-framework,agent-workflow|Zero-Config Code Flow for Claude code & Codex
+vas3k/TaxHacker|6013|llm-framework,local-inference|Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+jo-inc/camofox-browser|6006|ai-coding-agent,agent-workflow,browser-automation|Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
+strands-agents/sdk-python|5980|mcp,llm-framework,agent-workflow,local-inference|A model-driven approach to building AI agents in just a few lines of code.
+gluonfield/enchanted|5953|llm-framework,local-inference|Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+ThinkInAIXYZ/deepchat|5854|mcp,llm-framework|🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+Helicone/helicone|5758|llm-framework,evaluation|🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
+PySpur-Dev/pyspur|5735|llm-framework,agent-workflow,local-inference|A visual playground for agentic workflows: Iterate over your agents 10x faster
+backnotprop/plannotator|5732|ai-coding-agent,code-analysis,agent-workflow|Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+clusterzx/paperless-ai|5699|agent-workflow,local-inference|An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically 
+danger/danger|5670|code-analysis,agent-workflow|🚫 Stop saying "you forgot to …" in code review (in Ruby)
+antiwork/shortest|5605|agent-workflow,browser-automation|QA via natural language AI tests
+AgentOps-AI/agentops|5584|llm-framework,agent-workflow,local-inference|Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, 
+rllm-org/rllm|5580|ai-coding-agent,agent-workflow|Democratizing Reinforcement Learning for LLMs
+diegosouzapw/OmniRoute|5567|mcp,ai-gateway,agent-workflow|Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Ge
+coze-dev/coze-loop|5475|llm-framework,agent-workflow,evaluation|Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilit
+holaboss-ai/holaOS|5454|ai-coding-agent,mcp,llm-framework,agent-workflow|Your super agent for work: local-first, learn your working context in mins and never forget it.
+Giskard-AI/giskard-oss|5409|llm-framework,evaluation|🐢 Open-Source Evaluation & Testing library for LLM Agents
+adongwanai/AgentGuide|5379|ai-coding-agent,llm-framework,agent-workflow|https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
+maximhq/bifrost|5361|mcp,llm-framework,ai-gateway,evaluation|Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead
+mahseema/awesome-ai-tools|5355|ai-coding-agent,agent-workflow|A curated list of Artificial Intelligence Top Tools
+PacktPublishing/LLM-Engineers-Handbook|5073|llm-framework,evaluation|The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices

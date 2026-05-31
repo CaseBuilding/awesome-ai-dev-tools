@@ -7,6 +7,7 @@
       "reason": "为什么这样调整"
     }
   },
+  "_上次更新": "2026-05-31，对 203 个待确认项目完成人工分类",
   "add_missing": {
     "_说明": "在此收录没有 topic 标签但你想加入的项目。脚本会通过 GitHub API 查找并加入集合。",
     "Lum1104/Understand-Anything": {
@@ -24,14 +25,6 @@
       "category": null,
       "hidden": true,
       "reason": "前端开发清单，不是 AI Coding Agent"
-    },
-    "netdata/netdata": {
-      "category": "evaluation",
-      "reason": "基础设施监控平台，归入 评估/可观测"
-    },
-    "Kong/kong": {
-      "category": "ai-gateway",
-      "reason": "API & AI 网关，归入 AI 网关"
     },
     "microsoft/markitdown": {
       "category": null,
@@ -90,6 +83,838 @@
     "tirth8205/code-review-graph": {
       "category": "code-analysis",
       "reason": "代码审查图谱工具，17.7K Stars"
+    },
+    "ollama/ollama": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "open-webui/open-webui": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "mudler/LocalAI": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "chatchat-space/Langchain-Chatchat": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "dyad-sh/dyad": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "RunanywhereAI/runanywhere-sdks": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "sigoden/aichat": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "Open-LLM-VTuber/Open-LLM-VTuber": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "Zackriya-Solutions/meetily": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "TheR1D/shell_gpt": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "browseros-ai/BrowserOS": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "OpenCoworkAI/open-codesign": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "MODSetter/SurfSense": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "n8n-io/self-hosted-ai-starter-kit": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "Mintplex-Labs/anything-llm": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "StarTrail-org/LEANN": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "gluonfield/enchanted": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "JerryZLiu/Dayflow": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "vas3k/TaxHacker": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "clusterzx/paperless-ai": {
+      "category": "local-inference",
+      "reason": "人工分类：local-inference"
+    },
+    "microsoft/playwright": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "browser-use/browser-use": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "D4Vinci/Scrapling": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "ChromeDevTools/chrome-devtools-mcp": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "microsoft/playwright-mcp": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "apify/crawlee": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "browserbase/stagehand": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "CloakHQ/CloakBrowser": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "AutomaApp/automa": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "Skyvern-AI/skyvern": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "alibaba/page-agent": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "getmaxun/maxun": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "nanobrowser/nanobrowser": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "apify/crawlee-python": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "ntegrals/openbrowser": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "artilleryio/artillery": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "steel-dev/steel-browser": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "autoscrape-labs/pydoll": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "BrowserMCP/mcp": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "microsoft/magentic-ui": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "mishushakov/llm-scraper": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "browser-use/web-ui": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "Usagi-org/ai-goofish-monitor": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "browser-use/browser-harness": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "heygen-com/hyperframes": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "jo-inc/camofox-browser": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "antiwork/shortest": {
+      "category": "browser-automation",
+      "reason": "人工分类：browser-automation"
+    },
+    "langfuse/langfuse": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "promptfoo/promptfoo": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "comet-ml/opik": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "Arize-ai/phoenix": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "Giskard-AI/giskard-oss": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "PacktPublishing/LLM-Engineers-Handbook": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "mlflow/mlflow": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "Helicone/helicone": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "AgentOps-AI/agentops": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "coze-dev/coze-loop": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "netdata/netdata": {
+      "category": "evaluation",
+      "reason": "人工分类：evaluation"
+    },
+    "BerriAI/litellm": {
+      "category": "ai-gateway",
+      "reason": "人工分类：ai-gateway"
+    },
+    "Portkey-AI/gateway": {
+      "category": "ai-gateway",
+      "reason": "人工分类：ai-gateway"
+    },
+    "maximhq/bifrost": {
+      "category": "ai-gateway",
+      "reason": "人工分类：ai-gateway"
+    },
+    "mnfst/manifest": {
+      "category": "ai-gateway",
+      "reason": "人工分类：ai-gateway"
+    },
+    "decolua/9router": {
+      "category": "ai-gateway",
+      "reason": "人工分类：ai-gateway"
+    },
+    "casdoor/casdoor": {
+      "category": "ai-gateway",
+      "reason": "人工分类：ai-gateway"
+    },
+    "diegosouzapw/OmniRoute": {
+      "category": "ai-gateway",
+      "reason": "人工分类：ai-gateway"
+    },
+    "Kong/kong": {
+      "category": "ai-gateway",
+      "reason": "人工分类：ai-gateway"
+    },
+    "The-PR-Agent/pr-agent": {
+      "category": "code-analysis",
+      "reason": "人工分类：code-analysis"
+    },
+    "squizlabs/PHP_CodeSniffer": {
+      "category": "code-analysis",
+      "reason": "人工分类：code-analysis"
+    },
+    "sverweij/dependency-cruiser": {
+      "category": "code-analysis",
+      "reason": "人工分类：code-analysis"
+    },
+    "ondrajz/go-callvis": {
+      "category": "code-analysis",
+      "reason": "人工分类：code-analysis"
+    },
+    "lintsinghua/DeepAudit": {
+      "category": "code-analysis",
+      "reason": "人工分类：code-analysis"
+    },
+    "millionco/react-doctor": {
+      "category": "code-analysis",
+      "reason": "人工分类：code-analysis"
+    },
+    "backnotprop/plannotator": {
+      "category": "code-analysis",
+      "reason": "人工分类：code-analysis"
+    },
+    "danger/danger": {
+      "category": "code-analysis",
+      "reason": "人工分类：code-analysis"
+    },
+    "qax-os/excelize": {
+      "category": "code-visualization",
+      "reason": "人工分类：code-visualization"
+    },
+    "affaan-m/ECC": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "google-gemini/gemini-cli": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "shareAI-lab/learn-claude-code": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "santifer/career-ops": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "hesreallyhim/awesome-claude-code": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "sickn33/antigravity-awesome-skills": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "iOfficeAI/AionUi": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "googleworkspace/cli": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "BloopAI/vibe-kanban": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "oraios/serena": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "jackwener/OpenCLI": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "Panniantong/Agent-Reach": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "mksglu/context-mode": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "JCodesMore/ai-website-cloner-template": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "plandex-ai/plandex": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "GLips/Figma-Context-MCP": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "esengine/DeepSeek-Reasonix": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "zilliztech/claude-context": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "wanshuiyin/Auto-claude-code-research-in-sleep": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "InsForge/InsForge": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "frankbria/ralph-claude-code": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "can1357/oh-my-pi": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "walkinglabs/learn-harness-engineering": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "1jehuang/jcode": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "EKKOLearnAI/hermes-web-ui": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "olimorris/codecompanion.nvim": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "ChatLab/ChatLab": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "namuan/llm-commander": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "Plenjus/learn-with-claude": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "UfoMiao/zcf": {
+      "category": "ai-coding-agent",
+      "reason": "人工分类：ai-coding-agent"
+    },
+    "ComposioHQ/awesome-claude-skills": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "upstash/context7": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "jeecgboot/JeecgBoot": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "wshobson/agents": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "ComposioHQ/composio": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "yamadashy/repomix": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "PrefectHQ/fastmcp": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "googleapis/mcp-toolbox": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "tadata-org/fastapi_mcp": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "codexu/note-gen": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "CoplayDev/unity-mcp": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "mcp-use/mcp-use": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "0x4m4/hexstrike-ai": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "mrexodia/ida-pro-mcp": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "lastmile-ai/mcp-agent": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "idosal/git-mcp": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "wonderwhy-er/DesktopCommanderMCP": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "mukul975/Anthropic-Cybersecurity-Skills": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "yusufkaraaslan/Skill_Seekers": {
+      "category": "mcp",
+      "reason": "人工分类：mcp"
+    },
+    "langchain-ai/langchain": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "mem0ai/mem0": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "MemPalace/mempalace": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "langchain-ai/langgraph": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "VectifyAI/PageIndex": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "CopilotKit/CopilotKit": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "volcengine/OpenViking": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "mastra-ai/mastra": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "pydantic/pydantic-ai": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "Tencent/WeKnora": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "neuml/txtai": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "The-Pocket/PocketFlow": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "langchain4j/langchain4j": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "MemTensor/MemOS": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "rllm-org/rllm": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "datawhalechina/easy-vibe": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "liyupi/ai-guide": {
+      "category": "llm-framework",
+      "reason": "人工分类：llm-framework"
+    },
+    "n8n-io/n8n": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "NousResearch/hermes-agent": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "langgenius/dify": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "firecrawl/firecrawl": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "bytedance/deer-flow": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "FoundationAgents/MetaGPT": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "microsoft/ai-agents-for-beginners": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "microsoft/autogen": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "ruvnet/ruflo": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "aaif-goose/goose": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "zhayujie/CowAgent": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "HKUDS/nanobot": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "mindsdb/minds-platform": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "reworkd/AgentGPT": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "bytedance/UI-TARS-desktop": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "patchy631/ai-engineering-hub": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "ItzCrazyKns/Vane": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "AstrBotDevs/AstrBot": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "labring/FastGPT": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "assafelovic/gpt-researcher": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "agentscope-ai/agentscope": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "rohitg00/ai-engineering-from-scratch": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "letta-ai/letta": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "activepieces/activepieces": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "NirDiamant/GenAI_Agents": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "1Panel-dev/MaxKB": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "NirDiamant/agents-towards-production": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "google/adk-python": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "kortix-ai/suna": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "emcie-co/parlant": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "RightNow-AI/openfang": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "trycua/cua": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "leon-ai/leon": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "langbot-app/LangBot": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "cft0808/edict": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "triggerdotdev/trigger.dev": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "rowboatlabs/rowboat": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "jnMetaCode/agency-agents-zh": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "Arindam200/awesome-ai-apps": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "waooAI/waoowaoo": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "e2b-dev/E2B": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "lsdefine/GenericAgent": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "kubeshark/kubeshark": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "superset-sh/superset": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "bytebot-ai/bytebot": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "alibaba/OpenSandbox": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "ValueCell-ai/valuecell": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "cocoindex-io/cocoindex": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "VoltAgent/voltagent": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "HKUDS/Vibe-Trading": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "iflytek/astron-agent": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "EvoMap/evolver": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "GetBindu/Bindu": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "Narcooo/inkos": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "crestalnetwork/intentkit": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "open-multi-agent/open-multi-agent": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "holaboss-ai/holaOS": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "strands-agents/sdk-python": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "ThinkInAIXYZ/deepchat": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "PySpur-Dev/pyspur": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "adongwanai/AgentGuide": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "mahseema/awesome-ai-tools": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "sheepgreen/ink-research-assistant": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    },
+    "nocobase/nocobase": {
+      "category": "agent-workflow",
+      "reason": "人工分类：agent-workflow"
+    }
+  },
+  "needs_review": {
+    "_说明": "真正无法确定分类的项目（非 AI 开发工具），需人工审查",
+    "sansan0/TrendRadar": {
+      "reason": "AI 舆情监控应用，不匹配任何预设开发工具分类"
+    },
+    "ZhuLinsen/daily_stock_analysis": {
+      "reason": "AI 股票分析系统，金融分析应用非开发工具"
+    },
+    "AsyncFuncAI/deepwiki-open": {
+      "reason": "AI Wiki 生成器，偏向文档生成不属于预设分类"
     }
   }
 }

@@ -50,7 +50,7 @@ function autoClassify(repo) {
     );
 
     if (topicMatch) {
-      matched.push(cat.id);
+      matched.push({ id: cat.id, priority: cat.priority || 0 });
       confidence = "high";
       continue;
     }
@@ -60,11 +60,17 @@ function autoClassify(repo) {
     );
 
     if (descMatch) {
-      matched.push(cat.id);
+      matched.push({ id: cat.id, priority: cat.priority || 0 });
     }
   }
 
-  return { matched, confidence };
+  // 优先级去重：匹配多个分类时，只保留优先级最高的那个
+  if (matched.length > 1) {
+    matched.sort((a, b) => b.priority - a.priority);
+    return { matched: [matched[0].id], confidence };
+  }
+
+  return { matched: matched.map((m) => m.id), confidence };
 }
 
 function applyOverrides(repo, autoResult) {
