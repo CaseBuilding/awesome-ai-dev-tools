@@ -86,7 +86,7 @@
 <br>
 ### hesreallyhim/awesome-claude-code ⭐45.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **精选的 Claude Code 技能、钩子、斜杠命令、代理编排器、应用和插件列表。**
 
 📝 A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 
@@ -95,7 +95,7 @@
 ---
 ### sickn33/antigravity-awesome-skills ⭐39.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **可安装的 GitHub 技能库，包含 1400+ 代理技能，适用于 Claude Code、Cursor、Codex CLI、Gemini CLI 等。**
 
 📝 Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 
@@ -104,7 +104,7 @@
 ---
 ### Gitlawb/openclaude ⭐28.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **开源的 Claude Code 替代方案，支持本地运行、多模型和自定义工具集成。**
 
 📝 runs anywhere. uses anything
 
@@ -113,7 +113,7 @@
 ---
 ### iOfficeAI/AionUi ⭐27.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **免费、本地、开源的全天候协同办公应用，支持 OpenClaw、Hermes Agent、Claude Code 等 20+ 命令行工具。**
 
 📝 Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 
@@ -122,7 +122,7 @@
 ---
 ### googleworkspace/cli ⭐26.7K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **Google Workspace 命令行工具，统一管理 Drive、Gmail、Calendar、Sheets、Docs 等，动态生成命令，支持 AI 代理技能。**
 
 📝 Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
@@ -131,7 +131,7 @@
 ---
 ### BloopAI/vibe-kanban ⭐26.7K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **让 Claude Code、Codex 或任意编码代理发挥 10 倍效率。**
 
 📝 Get 10X more out of Claude Code, Codex or any coding agent
 
@@ -140,7 +140,7 @@
 ---
 ### oraios/serena ⭐24.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **强大的 MCP 编码工具包，提供语义检索和编辑能力——你的代理 IDE。**
 
 📝 A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
@@ -149,7 +149,7 @@
 ---
 ### jackwener/OpenCLI ⭐23.1K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **将任何网站转化为命令行界面，让 AI 代理使用你已登录的浏览器。**
 
 📝 Make Any Website into CLI & Use your logged-in browser by AI agent. 
 
@@ -158,7 +158,7 @@
 ---
 ### hugohe3/ppt-master ⭐22.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AI 从任何文档生成真正的可编辑 PowerPoint——原生形状和动画、演讲者笔记配音，支持自定义模板。**
 
 📝 AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · b
 
@@ -167,7 +167,7 @@
 ---
 ### Panniantong/Agent-Reach ⭐20.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **让你的 AI 代理拥有浏览整个互联网的能力——读推、搜 Reddit、YouTube、GitHub、B站、小红书，一个命令行，零 API 费用。**
 
 📝 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
@@ -176,7 +176,7 @@
 ---
 ### mksglu/context-mode ⭐16.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **AI 编码代理的上下文窗口优化工具。对工具输出进行沙箱处理，减少 98% 上下文消耗，支持 15 个平台。**
 
 📝 Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 
@@ -185,7 +185,7 @@
 ---
 ### JCodesMore/ai-website-cloner-template ⭐15.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **用 AI 编码代理一键克隆任何网站。**
 
 📝 Clone any website with one command using AI coding agents
 
@@ -194,7 +194,7 @@
 ---
 ### plandex-ai/plandex ⭐15.4K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **开源 AI 编码代理，专为大型项目和真实世界任务设计。**
 
 📝 Open source AI coding agent. Designed for large projects and real world tasks.
 
@@ -203,7 +203,7 @@
 ---
 ### GLips/Figma-Context-MCP ⭐14.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **向 Cursor 等 AI 编码代理提供 Figma 布局信息的 MCP 服务器。**
 
 📝 MCP server to provide Figma layout information to AI coding agents like Cursor
 
@@ -212,7 +212,7 @@
 ---
 ### esengine/DeepSeek-Reasonix ⭐14.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **DeepSeek 原生的终端 AI 编程代理。围绕前缀缓存稳定性设计——可保持长期运行。**
 
 📝 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 
@@ -221,7 +221,7 @@
 ---
 ### op7418/guizang-ppt-skill ⭐13.6K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **AI 代理技能，用于生成精美的 HTML 幻灯片：编辑杂志和瑞士布局、图像提示、社交媒体封面。**
 
 📝 AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
@@ -230,7 +230,7 @@
 ---
 ### zilliztech/claude-context ⭐11.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向 Claude Code 的代码搜索 MCP，让整个代码库成为编码代理的上下文。**
 
 📝 Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
@@ -239,7 +239,7 @@
 ---
 ### wanshuiyin/Auto-claude-code-research-in-sleep ⭐11.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **ARIS ⚔️ 轻量级仅 Markdown 技能，用于自主 ML 研究：跨模型审查循环、创意发现和实验自动化。**
 
 📝 ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 
@@ -248,7 +248,7 @@
 ---
 ### InsForge/InsForge ⭐10.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **全合一开源后端平台，为编码代理提供数据库、认证、存储、计算、托管和 AI 网关。**
 
 📝 The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 
@@ -257,7 +257,7 @@
 ---
 ### frankbria/ralph-claude-code ⭐9.2K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **Claude Code 的自主 AI 开发循环，带智能退出检测。**
 
 📝 Autonomous AI development loop for Claude Code with intelligent exit detection
 
@@ -266,7 +266,7 @@
 ---
 ### can1357/oh-my-pi ⭐8.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **⌥ 终端 AI 编码代理——哈希锚定编辑、优化工具链、LSP、Python、浏览器、子代理等。**
 
 📝 ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 
@@ -275,7 +275,7 @@
 ---
 ### sweepai/sweep ⭐7.7K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **Sweep：面向 JetBrains 的 AI 编码助手。**
 
 📝 Sweep: AI coding assistant for JetBrains
 
@@ -284,7 +284,7 @@
 ---
 ### presenton/presenton ⭐7.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **开源 AI 演示文稿生成器和 API（Gamma、Beautiful AI、Decktopus 替代方案）。**
 
 📝 Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
@@ -293,7 +293,7 @@
 ---
 ### walkinglabs/learn-harness-engineering ⭐7.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **工具链工程官方风格初学者教程，从 0 到 1。**
 
 📝 Harness engineering official style beginner tutorial, from 0 to 1
 
@@ -302,7 +302,7 @@
 ---
 ### 1jehuang/jcode ⭐6.8K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **编码代理工具链。**
 
 📝 Coding Agent Harness
 
@@ -311,7 +311,7 @@
 ---
 ### EKKOLearnAI/hermes-web-ui ⭐6.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Hermes Agent 的 Web 仪表盘——多平台 AI 聊天、会话管理、定时任务、使用分析。**
 
 📝 Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
 
@@ -320,7 +320,7 @@
 ---
 ### olimorris/codecompanion.nvim ⭐6.6K · 🔤Lua
 
-🌏 *中文描述待补充*
+🌏 **✨ AI 编码，Vim 风格。**
 
 📝 ✨ AI Coding, Vim Style
 
@@ -329,7 +329,7 @@
 ---
 ### ChatLab/ChatLab ⭐6.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **本地优先的 AI 聊天记录分析工具。**
 
 📝 Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
 
@@ -338,7 +338,7 @@
 ---
 ### algorithmicsuperintelligence/openevolve ⭐6.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AlphaEvolve 的开源实现。**
 
 📝 Open-source implementation of AlphaEvolve
 
@@ -347,7 +347,7 @@
 ---
 ### UfoMiao/zcf ⭐6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向 Claude Code 和 Codex 的零配置代码流。**
 
 📝 Zero-Config Code Flow for Claude code & Codex
 
@@ -356,7 +356,7 @@
 ---
 ### cloudflare/vibesdk ⭐5.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **开源 vibe coding 平台，帮助你构建自己的 vibe coding 平台，基于 Cloudflare 技术栈。**
 
 📝 An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
 
@@ -373,7 +373,7 @@
 <br>
 ### ZhuLinsen/daily_stock_analysis ⭐39.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **LLM 驱动的 A/H/美股智能分析系统，支持多数据源行情、实时新闻、LLM 决策仪表盘和多渠道推送。**
 
 📝 LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 
@@ -444,7 +444,7 @@
 <br>
 ### jeecgboot/JeecgBoot ⭐46.5K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **AI 低代码平台，低代码+零代码双驱动，可一键生成前后端代码，5 分钟搭建系统。**
 
 📝 AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 
@@ -453,7 +453,7 @@
 ---
 ### danny-avila/LibreChat ⭐37.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **增强版 ChatGPT 克隆，支持代理、MCP、DeepSeek、Anthropic、OpenAI 等多种模型，含代码解释器和多用户认证。**
 
 📝 Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 
@@ -462,7 +462,7 @@
 ---
 ### wshobson/agents ⭐36.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **多工具链代理插件市场，支持 Claude Code、Codex CLI、Cursor、OpenCode 和 Gemini CLI。**
 
 📝 Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
 
@@ -471,7 +471,7 @@
 ---
 ### PDFMathTranslate/PDFMathTranslate ⭐34.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **[EMNLP 2025 Demo] 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务。**
 
 📝 [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
@@ -480,7 +480,7 @@
 ---
 ### github/github-mcp-server ⭐30.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **GitHub 官方的 MCP 服务器。**
 
 📝 GitHub's official MCP Server
 
@@ -489,7 +489,7 @@
 ---
 ### anthropics/claude-plugins-official ⭐28.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Anthropic 官方维护的优质 Claude Code 插件目录。**
 
 📝 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
@@ -498,7 +498,7 @@
 ---
 ### ComposioHQ/composio ⭐28.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Composio 提供 1000+ 工具包、工具搜索、上下文管理、认证和沙箱工作台，助你构建将意图转化为行动的 AI 代理。**
 
 📝 Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 
@@ -507,7 +507,7 @@
 ---
 ### 78/xiaozhi-esp32 ⭐26.9K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **基于 MCP 的聊天机器人。**
 
 📝 An MCP-based chatbot | 一个基于MCP的聊天机器人
 
@@ -516,7 +516,7 @@
 ---
 ### yamadashy/repomix ⭐25.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **📦 将整个仓库打包成单个 AI 友好文件的工具，便于喂给 LLM 或 AI 工具。**
 
 📝 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 
@@ -525,7 +525,7 @@
 ---
 ### PrefectHQ/fastmcp ⭐25.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🚀 快速、Pythonic 的 MCP 服务器和客户端构建工具。**
 
 📝 🚀 The fast, Pythonic way to build MCP servers and clients.
 
@@ -534,7 +534,7 @@
 ---
 ### czlonkowski/n8n-mcp ⭐21.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **用于 Claude Desktop / Claude Code 等的 MCP，可为你构建 n8n 工作流。**
 
 📝 A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 
@@ -543,7 +543,7 @@
 ---
 ### nukeop/nuclear ⭐17.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **为你寻找免费音乐的流媒体音乐播放器。**
 
 📝 Streaming music player that finds free music for you
 
@@ -552,7 +552,7 @@
 ---
 ### modelscope/FunASR ⭐16.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **工业级语音识别工具包：170 倍实时、50+ 语言、说话人分离、情感检测、流式识别，兼容 OpenAI API。**
 
 📝 Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
 
@@ -561,7 +561,7 @@
 ---
 ### udecode/plate ⭐16.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **带 AI 和 shadcn/ui 的富文本编辑器。**
 
 📝 Rich-text editor with AI and shadcn/ui
 
@@ -570,7 +570,7 @@
 ---
 ### microsoft/mcp-for-beginners ⭐16.2K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **开源 MCP 入门课程，通过 .NET、Java、TypeScript、JavaScript、Rust 和 Python 的实际示例，介绍模型上下文协议的基础知识。**
 
 📝 This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 
@@ -579,7 +579,7 @@
 ---
 ### googleapis/mcp-toolbox ⭐15.4K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **数据库 MCP 工具箱，一个开源的数据库 MCP 服务器。**
 
 📝 MCP Toolbox for Databases is an open source MCP server for databases.
 
@@ -588,7 +588,7 @@
 ---
 ### electerm/electerm ⭐14.2K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **📻 终端/SSH/SFTP/FTP/Telnet/串口/RDP/VNC/Spice 客户端（Linux、Mac、Win）。**
 
 📝 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
 
@@ -597,7 +597,7 @@
 ---
 ### open-metadata/OpenMetadata ⭐14.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **统一元数据平台，用于数据发现、可观测性和数据治理。**
 
 📝 OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 
@@ -606,7 +606,7 @@
 ---
 ### xpzouying/xiaohongshu-mcp ⭐13.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **小红书 MCP 服务。**
 
 📝 MCP for xiaohongshu.com
 
@@ -615,7 +615,7 @@
 ---
 ### yusufkaraaslan/Skill_Seekers ⭐13.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **将文档网站、GitHub 仓库和 PDF 转换为 Claude AI 技能，带自动冲突检测。**
 
 📝 Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -624,7 +624,7 @@
 ---
 ### NevaMind-AI/memU ⭐13.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **为 OpenClaw 等全天候主动代理提供的记忆模块。**
 
 📝 Memory for 24/7 proactive agents like OpenClaw.
 
@@ -633,7 +633,7 @@
 ---
 ### mukul975/Anthropic-Cybersecurity-Skills ⭐12.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **754 个结构化网络安全 AI 技能，映射到 MITRE ATT&CK、NIST CSF 2.0 等 5 个框架。**
 
 📝 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
 
@@ -642,7 +642,7 @@
 ---
 ### codexu/note-gen ⭐12K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **跨平台 Markdown AI 笔记软件。**
 
 📝 A cross-platform Markdown AI note-taking software.
 
@@ -651,7 +651,7 @@
 ---
 ### tadata-org/fastapi_mcp ⭐11.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **将 FastAPI 端点暴露为 MCP 工具，支持认证！**
 
 📝 Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
@@ -660,7 +660,7 @@
 ---
 ### JoeanAmier/XHS-Downloader ⭐11.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **小红书链接提取与作品采集工具，支持账号作品提取、搜索、下载。**
 
 📝 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
 
@@ -669,7 +669,7 @@
 ---
 ### 0xJacky/nginx-ui ⭐11.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **另一个 Nginx WebUI。**
 
 📝 Yet another WebUI for Nginx
 
@@ -678,7 +678,7 @@
 ---
 ### CoplayDev/unity-mcp ⭐10.2K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **Unity MCP 充当 AI 助手和 Unity 编辑器之间的桥梁，管理资源、控制场景、编辑脚本。**
 
 📝 Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 
@@ -687,7 +687,7 @@
 ---
 ### mcp-use/mcp-use ⭐10K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **全栈 MCP 框架，用于为 ChatGPT/Claude 开发 MCP 应用和为 AI 代理开发 MCP 服务器。**
 
 📝 The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
@@ -696,7 +696,7 @@
 ---
 ### xinnan-tech/xiaozhi-esp32-server ⭐9.7K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **为 xiaozhi-esp32 提供后端服务，快速搭建 ESP32 设备控制服务器。**
 
 📝 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
@@ -705,7 +705,7 @@
 ---
 ### awslabs/mcp ⭐9.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AWS 开源 MCP 服务器。**
 
 📝 Open source MCP Servers for AWS
 
@@ -714,7 +714,7 @@
 ---
 ### 0x4m4/hexstrike-ai ⭐9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **HexStrike AI MCP 代理，让 AI 代理自主运行 150+ 网络安全工具进行自动化渗透测试和漏洞发现。**
 
 📝 HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 
@@ -723,7 +723,7 @@
 ---
 ### mrexodia/ida-pro-mcp ⭐9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AI 驱动的逆向工程助手，通过 MCP 桥接 IDA Pro 与语言模型。**
 
 📝 AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
@@ -732,7 +732,7 @@
 ---
 ### lastmile-ai/mcp-agent ⭐8.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **使用模型上下文协议和简单工作流模式构建有效的代理。**
 
 📝 Build effective agents using Model Context Protocol and simple workflow patterns
 
@@ -741,7 +741,7 @@
 ---
 ### idosal/git-mcp ⭐8.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **终结代码幻觉！GitMCP 是面向任意 GitHub 项目的免费开源远程 MCP 服务器。**
 
 📝 Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
@@ -750,7 +750,7 @@
 ---
 ### wonderwhy-er/DesktopCommanderMCP ⭐6.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **为 Claude 提供终端控制、文件系统搜索和差异文件编辑能力的 MCP 服务器。**
 
 📝 This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
@@ -767,7 +767,7 @@
 <br>
 ### sansan0/TrendRadar ⭐58.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AI 驱动的舆情监测工具，聚合多平台热点、RSS 订阅与智能告警，支持 MCP 架构。告别信息过载。**
 
 📝 ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构
 
@@ -838,7 +838,7 @@
 <br>
 ### MobSF/Mobile-Security-Framework-MobSF ⭐21.1K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **移动安全框架（MobSF），全自动的 Android/iOS/Windows 应用渗透测试、恶意软件分析和安全评估框架。**
 
 📝 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 
@@ -847,7 +847,7 @@
 ---
 ### realm/SwiftLint ⭐19.6K · 🔤Swift
 
-🌏 *中文描述待补充*
+🌏 **强制执行 Swift 风格和约定的工具。**
 
 📝 A tool to enforce Swift style and conventions.
 
@@ -856,7 +856,7 @@
 ---
 ### tirth8205/code-review-graph ⭐17.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **本地优先的代码智能图谱，用于 MCP 和 CLI。构建代码库的持久化地图，让 AI 编码工具只读真正重要的部分。**
 
 📝 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 
@@ -865,7 +865,7 @@
 ---
 ### nikic/PHP-Parser ⭐17.4K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **用 PHP 编写的 PHP 解析器。**
 
 📝 A PHP parser written in PHP
 
@@ -874,7 +874,7 @@
 ---
 ### facebook/infer ⭐15.6K · 🔤OCaml
 
-🌏 *中文描述待补充*
+🌏 **Java、C、C++ 和 Objective-C 的静态分析器。**
 
 📝 A static analyzer for Java, C, C++, and Objective-C
 
@@ -883,7 +883,7 @@
 ---
 ### Konloch/bytecode-viewer ⭐15.5K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **Java 8+ Jar 和 Android APK 逆向工程套件（反编译器、编辑器、调试器等）。**
 
 📝 A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 
@@ -892,7 +892,7 @@
 ---
 ### semgrep/semgrep ⭐15.3K · 🔤OCaml
 
-🌏 *中文描述待补充*
+🌏 **多语言轻量级静态分析。用类似源码的模式发现 Bug 变种。**
 
 📝 Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
@@ -901,7 +901,7 @@
 ---
 ### analysis-tools-dev/static-analysis ⭐14.6K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **⚙️ 精选的静态分析工具和 linter 列表，涵盖所有编程语言、配置文件等。**
 
 📝 ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
@@ -910,7 +910,7 @@
 ---
 ### ast-grep/ast-grep ⭐14.2K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **⚡ 代码结构性搜索、lint 和重写的 CLI 工具，用 Rust 编写。**
 
 📝 ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
@@ -919,7 +919,7 @@
 ---
 ### phpstan/phpstan ⭐14K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **PHP 静态分析工具——不运行代码就能发现 Bug！**
 
 📝 PHP Static Analysis Tool - discover bugs in your code without running it!
 
@@ -928,7 +928,7 @@
 ---
 ### rshipp/awesome-malware-analysis ⭐13.8K
 
-🌏 *中文描述待补充*
+🌏 **恶意软件分析工具精选列表。**
 
 📝 Defund the Police.
 
@@ -937,7 +937,7 @@
 ---
 ### gitpod-io/gitpod ⭐13.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **按需云开发环境平台，更快速、更安全地创建软件。**
 
 📝 The developer platform for on-demand cloud development environments to create software faster and more securely.
 
@@ -946,7 +946,7 @@
 ---
 ### PHP-CS-Fixer/PHP-CS-Fixer ⭐13.5K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **自动修复 PHP 编码标准问题的工具。**
 
 📝 A tool to automatically fix PHP Coding Standards issues
 
@@ -955,7 +955,7 @@
 ---
 ### ttroy50/cmake-examples ⭐13.1K · 🔤CMake
 
-🌏 *中文描述待补充*
+🌏 **实用的 CMake 示例合集。**
 
 📝 Useful CMake Examples
 
@@ -964,7 +964,7 @@
 ---
 ### OWASP/mastg ⭐12.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **OWASP 移动应用安全测试指南，全面的移动应用安全测试和逆向工程手册。**
 
 📝 The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 
@@ -973,7 +973,7 @@
 ---
 ### anchore/grype ⭐12.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **容器镜像和文件系统的漏洞扫描器。**
 
 📝 A vulnerability scanner for container images and filesystems
 
@@ -982,7 +982,7 @@
 ---
 ### hadolint/hadolint ⭐12.2K · 🔤Haskell
 
-🌏 *中文描述待补充*
+🌏 **Dockerfile linter，验证内联 bash，用 Haskell 编写。**
 
 📝 Dockerfile linter, validate inline bash, written in Haskell
 
@@ -991,7 +991,7 @@
 ---
 ### millionco/react-doctor ⭐11.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **你的代理写烂 React 代码？它来抓。**
 
 📝 Your agent writes bad React. This catches it
 
@@ -1000,7 +1000,7 @@
 ---
 ### The-PR-Agent/pr-agent ⭐11.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🚀 PR Agent：原版开源 PR 审查工具。**
 
 📝 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
 
@@ -1009,7 +1009,7 @@
 ---
 ### quay/clair ⭐11K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **容器漏洞静态分析工具。**
 
 📝 Vulnerability Static Analysis for Containers
 
@@ -1018,7 +1018,7 @@
 ---
 ### horsicq/Detect-It-Easy ⭐10.9K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **Windows、Linux 和 MacOS 文件类型检测工具。**
 
 📝 Program for determining types of files for Windows, Linux and MacOS.
 
@@ -1027,7 +1027,7 @@
 ---
 ### squizlabs/PHP_CodeSniffer ⭐10.8K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **PHP_CodeSniffer 对 PHP 文件进行分词，检测编码标准违规。**
 
 📝 PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 
@@ -1036,7 +1036,7 @@
 ---
 ### SonarSource/sonarqube ⭐10.6K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **持续代码质量检查。**
 
 📝 Continuous Inspection
 
@@ -1045,7 +1045,7 @@
 ---
 ### sourcegraph/sourcegraph-public-snapshot ⭐10.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **带 Code Search 和 Cody 的代码 AI 平台。**
 
 📝 Code AI platform with Code Search & Cody
 
@@ -1054,7 +1054,7 @@
 ---
 ### reviewdog/reviewdog ⭐9.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **🐶 自动代码审查工具，可与任意代码分析工具集成，不限编程语言。**
 
 📝 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 
@@ -1063,7 +1063,7 @@
 ---
 ### anchore/syft ⭐9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **用于从容器镜像和文件系统生成软件物料清单（SBOM）的 CLI 工具和库。**
 
 📝 CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
@@ -1072,7 +1072,7 @@
 ---
 ### checkstyle/checkstyle ⭐8.9K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **帮助程序员编写符合编码规范的 Java 代码的开发工具，支持 Google Java 风格和 Sun 代码约定。**
 
 📝 Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly confi
 
@@ -1081,7 +1081,7 @@
 ---
 ### We5ter/Scanners-Box ⭐8.9K
 
-🌏 *中文描述待补充*
+🌏 **安全行业从业者自研开源扫描器合辑。**
 
 📝 A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
 
@@ -1090,7 +1090,7 @@
 ---
 ### securego/gosec ⭐8.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Go 安全检查器。**
 
 📝 Go security checker
 
@@ -1099,7 +1099,7 @@
 ---
 ### bridgecrewio/checkov ⭐8.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **在构建时预防云配置错误和基础设施即代码中的漏洞。**
 
 📝 Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 
@@ -1108,7 +1108,7 @@
 ---
 ### presidentbeef/brakeman ⭐7.2K · 🔤Ruby
 
-🌏 *中文描述待补充*
+🌏 **Ruby on Rails 应用的静态分析安全漏洞扫描器。**
 
 📝 A static analysis security vulnerability scanner for Ruby on Rails applications
 
@@ -1117,7 +1117,7 @@
 ---
 ### Col-E/Recaf ⭐7.2K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **现代 Java 字节码编辑器。**
 
 📝 The modern Java bytecode editor
 
@@ -1126,7 +1126,7 @@
 ---
 ### universal-ctags/ctags ⭐7.2K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **维护中的 ctags 实现。**
 
 📝 A maintained ctags implementation
 
@@ -1135,7 +1135,7 @@
 ---
 ### google/error-prone ⭐7.2K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **在编译时捕获常见 Java 错误。**
 
 📝 Catch common Java mistakes as compile-time errors
 
@@ -1144,7 +1144,7 @@
 ---
 ### facebook/pyre-check ⭐7.2K · 🔤OCaml
 
-🌏 *中文描述待补充*
+🌏 **高性能 Python 类型检查。**
 
 📝 Performant type-checking for python.
 
@@ -1153,7 +1153,7 @@
 ---
 ### aquasecurity/tfsec ⭐7K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Tfsec 现已合并到 Trivy。**
 
 📝 Tfsec is now part of Trivy
 
@@ -1162,7 +1162,7 @@
 ---
 ### detekt/detekt ⭐7K · 🔤Kotlin
 
-🌏 *中文描述待补充*
+🌏 **Kotlin 静态代码分析。**
 
 📝 Static code analysis for Kotlin
 
@@ -1171,7 +1171,7 @@
 ---
 ### dominikh/go-tools ⭐6.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Staticcheck——高级 Go linter。**
 
 📝 Staticcheck - The advanced Go linter
 
@@ -1180,7 +1180,7 @@
 ---
 ### sverweij/dependency-cruiser ⭐6.7K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **验证和可视化依赖关系。你的规则。支持 JavaScript、TypeScript、CoffeeScript 等。**
 
 📝 Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 
@@ -1189,7 +1189,7 @@
 ---
 ### cppcheck-opensource/cppcheck ⭐6.6K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **C/C++ 代码静态分析。**
 
 📝 static analysis of C/C++ code
 
@@ -1198,7 +1198,7 @@
 ---
 ### ondrajz/go-callvis ⭐6.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **使用 Graphviz 可视化 Go 程序的调用图。**
 
 📝 Visualize call graph of a Go program using Graphviz
 
@@ -1207,7 +1207,7 @@
 ---
 ### larastan/larastan ⭐6.4K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **⚗️ 为 Laravel 添加代码分析，提升开发效率和代码质量。**
 
 📝 ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 
@@ -1216,7 +1216,7 @@
 ---
 ### crytic/slither ⭐6.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Solidity 和 Vyper 的静态分析器。**
 
 📝 Static Analyzer for Solidity and Vyper
 
@@ -1225,7 +1225,7 @@
 ---
 ### lintsinghua/DeepAudit ⭐6.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **DeepAudit：人人拥有的 AI 黑客战队。国内首个开源的代码漏洞挖掘多智能体系统。**
 
 📝 DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
 
@@ -1234,7 +1234,7 @@
 ---
 ### davidhalter/jedi ⭐6.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Python 的自动补全、静态分析和重构库。**
 
 📝 Awesome autocompletion, static analysis and refactoring library for python
 
@@ -1243,7 +1243,7 @@
 ---
 ### javaparser/javaparser ⭐6.1K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **支持 Java 1-25 的解析器和抽象语法树，带高级分析功能。**
 
 📝 Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 
@@ -1252,7 +1252,7 @@
 ---
 ### dwisiswant0/apkleaks ⭐6.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **扫描 APK 文件中的 URI、端点和密钥。**
 
 📝 Scanning APK file for URIs, endpoints & secrets.
 
@@ -1261,7 +1261,7 @@
 ---
 ### dsherret/ts-morph ⭐6.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **TypeScript 编译器 API 封装，用于静态分析和程序化代码修改。**
 
 📝 TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 
@@ -1270,7 +1270,7 @@
 ---
 ### palantir/tslint ⭐5.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🚦 可扩展的 TypeScript linter。**
 
 📝 :vertical_traffic_light: An extensible linter for the TypeScript language
 
@@ -1279,7 +1279,7 @@
 ---
 ### vimeo/psalm ⭐5.8K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **用于查找 PHP 应用错误和安全漏洞的 PHP 静态分析工具。**
 
 📝 A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 
@@ -1288,7 +1288,7 @@
 ---
 ### backnotprop/plannotator ⭐5.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **可视化注释和审查编码代理计划及代码差异，与团队分享，一键向代理发送反馈。**
 
 📝 Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 
@@ -1297,7 +1297,7 @@
 ---
 ### pylint-dev/pylint ⭐5.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **这不只是一个惹你烦的 linter！**
 
 📝 It's not just a linter that annoys you!
 
@@ -1306,7 +1306,7 @@
 ---
 ### danger/danger ⭐5.7K · 🔤Ruby
 
-🌏 *中文描述待补充*
+🌏 **🚫 别再在代码审查中说『你忘了……』（Ruby 版）。**
 
 📝 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 
@@ -1315,7 +1315,7 @@
 ---
 ### phan/phan ⭐5.6K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **Phan 是 PHP 静态分析器，偏好避免误报，尝试证明不正确性而非正确性。**
 
 📝 Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 
@@ -1324,7 +1324,7 @@
 ---
 ### mgechev/revive ⭐5.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **🔥 比 golint 快约 6 倍，更严格、可配置、可扩展的替代品。**
 
 📝 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 
@@ -1333,7 +1333,7 @@
 ---
 ### danger/danger-js ⭐5.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **⚠️ 别再在代码审查中说『你忘了……』（JS/TS 版）。**
 
 📝 ⚠️ Stop saying "you forgot to …" in code review
 
@@ -1342,7 +1342,7 @@
 ---
 ### zizmorcore/zizmor ⭐5.4K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **GitHub Actions 静态分析。**
 
 📝 Static analysis for GitHub Actions
 
@@ -1351,7 +1351,7 @@
 ---
 ### pmd/pmd ⭐5.4K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **可扩展的多语言静态代码分析器。**
 
 📝 An extensible multilanguage static code analyzer.
 
@@ -1360,7 +1360,7 @@
 ---
 ### tanprathan/MobileApp-Pentest-Cheatsheet ⭐5.2K
 
-🌏 *中文描述待补充*
+🌏 **移动应用渗透测试速查表。**
 
 📝 The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 
@@ -1369,7 +1369,7 @@
 ---
 ### rrrene/credo ⭐5.2K · 🔤Elixir
 
-🌏 *中文描述待补充*
+🌏 **Elixir 语言的静态代码分析工具，注重代码一致性和教学。**
 
 📝 A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
 
@@ -1378,7 +1378,7 @@
 ---
 ### didi/booster ⭐5.1K · 🔤Kotlin
 
-🌏 *中文描述待补充*
+🌏 **🚀 移动应用优化工具。**
 
 📝 🚀Optimizer for mobile applications
 
@@ -1387,7 +1387,7 @@
 ---
 ### joho/awesome-code-review ⭐5K
 
-🌏 *中文描述待补充*
+🌏 **代码审查资源精选列表——文章、论文、工具等。**
 
 📝 An "Awesome" list of code review resources - articles, papers, tools, etc
 
@@ -1396,7 +1396,7 @@
 ---
 ### google/pytype ⭐5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Python 代码的静态类型分析器。**
 
 📝 A static type analyzer for Python code
 
@@ -1496,7 +1496,7 @@
 <br>
 ### volcengine/OpenViking ⭐24.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **专为 AI 代理设计的开源上下文数据库，通过文件系统范式统一管理代理所需的记忆、资源和技能。**
 
 📝 OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 
@@ -1505,7 +1505,7 @@
 ---
 ### mastra-ai/mastra ⭐24.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **来自 Gatsby 团队，Mastra 是一个用现代 TypeScript 栈构建 AI 应用和代理的框架。**
 
 📝 From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
@@ -1514,7 +1514,7 @@
 ---
 ### pydantic/pydantic-ai ⭐17.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AI 代理框架，Pydantic 风格。**
 
 📝 AI Agent Framework, the Pydantic way
 
@@ -1523,7 +1523,7 @@
 ---
 ### steven-tey/novel ⭐16.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Notion 风格所见即所得编辑器，带 AI 自动补全。**
 
 📝 Notion-style WYSIWYG editor with AI-powered autocompletion.
 
@@ -1532,7 +1532,7 @@
 ---
 ### Tencent/WeKnora ⭐15.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **开源 LLM 知识平台：将原始文档转化为可查询的 RAG 系统、自主推理代理和自维护 Wiki。**
 
 📝 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 
@@ -1541,7 +1541,7 @@
 ---
 ### datawhalechina/easy-vibe ⭐15.3K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **💻 2026 年 Vibe Coding 入门课程，面向初学者的现代化编程课程。**
 
 📝 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
 
@@ -1550,7 +1550,7 @@
 ---
 ### liyupi/ai-guide ⭐14.9K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **程序员鱼皮的 AI 资源大全，含 Vibe Coding 教程、OpenClaw 教程、大模型玩法、Prompt 提示词大全、AI 编程教程和 AI 产品变现指南。**
 
 📝 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor /
 
@@ -1559,7 +1559,7 @@
 ---
 ### neuml/txtai ⭐12.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **💡 一体化 AI 框架，用于语义搜索、LLM 编排和语言模型工作流。**
 
 📝 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 
@@ -1568,7 +1568,7 @@
 ---
 ### The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge ⭐12.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Pocket Flow：从代码库到教程。**
 
 📝 Pocket Flow: Codebase to Tutorial
 
@@ -1577,7 +1577,7 @@
 ---
 ### langchain4j/langchain4j ⭐12.2K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **用于在 JVM 上构建 LLM 应用的 Java 库，统一 API 支持主流 LLM 提供商和向量存储。**
 
 📝 LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing too
 
@@ -1586,7 +1586,7 @@
 ---
 ### The-Pocket/PocketFlow ⭐10.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Pocket Flow：100 行代码的 LLM 框架，让代理构建代理！**
 
 📝 Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 
@@ -1595,7 +1595,7 @@
 ---
 ### MemTensor/MemOS ⭐9.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自进化记忆操作系统，为 LLM 和 AI 代理提供超持久记忆、混合检索和跨任务技能复用，节省 35.24% token。**
 
 📝 Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 
@@ -1604,7 +1604,7 @@
 ---
 ### rllm-org/rllm ⭐5.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **让强化学习为 LLM 所用。**
 
 📝 Democratizing Reinforcement Learning for LLMs
 
@@ -1621,7 +1621,7 @@
 <br>
 ### sansan0/TrendRadar ⭐58.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AI 驱动的舆情监测工具，聚合多平台热点、RSS 订阅与智能告警，支持 MCP 架构。告别信息过载。**
 
 📝 ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构
 
@@ -1630,7 +1630,7 @@
 ---
 ### ZhuLinsen/daily_stock_analysis ⭐39.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **LLM 驱动的 A/H/美股智能分析系统，支持多数据源行情、实时新闻、LLM 决策仪表盘和多渠道推送。**
 
 📝 LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 
@@ -1701,7 +1701,7 @@
 <br>
 ### casdoor/casdoor ⭐13.7K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **以代理为先的开源身份和访问管理（IAM）/ LLM MCP 与代理网关认证服务器。**
 
 📝 An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 
@@ -1710,7 +1710,7 @@
 ---
 ### Portkey-AI/gateway ⭐11.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **极速 AI 网关，集成护栏，通过单一 API 路由到 1600+ LLM 和 50+ AI 护栏。**
 
 📝 A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 
@@ -1719,7 +1719,7 @@
 ---
 ### coaidev/coai ⭐9.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🚀 下一代多租户 AI 一站式解决方案，内置管理和计费系统，支持 200+ 模型和 35+ 提供商。**
 
 📝 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, C
 
@@ -1728,7 +1728,7 @@
 ---
 ### higress-group/higress ⭐8.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **🤖 AI 网关 | AI 原生 API 网关。**
 
 📝 🤖 AI Gateway | AI Native API Gateway
 
@@ -1737,7 +1737,7 @@
 ---
 ### mnfst/manifest ⭐6.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向代理的智能模型路由，最高节省 70% 成本。**
 
 📝 Smart Model Routing for Agents. Cut Costs up to 70% 🦚
 
@@ -1746,7 +1746,7 @@
 ---
 ### katanemo/plano ⭐6.6K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **面向代理应用的 AI 原生代理和数据平面，内置编排、安全、可观测性和智能 LLM 路由。**
 
 📝 Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic. 
 
@@ -1755,7 +1755,7 @@
 ---
 ### diegosouzapw/OmniRoute ⭐5.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **永不停机。免费 AI 网关：一个端点，160+ 提供商，连接 Claude Code、Codex、Cursor、Cline 等。**
 
 📝 Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 
@@ -1764,7 +1764,7 @@
 ---
 ### maximhq/bifrost ⭐5.4K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **最快的企业级 AI 网关（比 LiteLLM 快 50 倍），支持自适应负载均衡、集群模式、护栏和 1000+ 模型。**
 
 📝 Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
 
@@ -1781,7 +1781,7 @@
 <br>
 ### AsyncFuncAI/deepwiki-open ⭐16.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **开源 DeepWiki：面向 GitHub/Gitlab/Bitbucket 仓库的 AI 驱动 Wiki 生成器。**
 
 📝 Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
@@ -1852,7 +1852,7 @@
 <br>
 ### thedotmack/claude-mem ⭐79.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **跨会话持久化上下文——记录代理在会话中的所有操作，用 AI 压缩后注入未来会话的上下文。支持 Claude Code、OpenClaw、Codex 等多种工具。**
 
 📝 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 
@@ -1861,7 +1861,7 @@
 ---
 ### daytonaio/daytona ⭐72.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Daytona 是一个安全且弹性的基础设施，用于运行 AI 生成的代码。**
 
 📝 Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 
@@ -1870,7 +1870,7 @@
 ---
 ### bytedance/deer-flow ⭐70K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **开源长周期超级代理框架，可研究、编码和创作。借助沙箱、记忆、工具、技能、子代理和消息网关，处理从分钟到小时级别的不同任务。**
 
 📝 An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 
@@ -1879,7 +1879,7 @@
 ---
 ### FoundationAgents/MetaGPT ⭐68.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🌟 多代理框架：首个 AI 软件公司，迈向自然语言编程。**
 
 📝 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
@@ -1888,7 +1888,7 @@
 ---
 ### microsoft/ai-agents-for-beginners ⭐66K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **12 节课程，带你入门构建 AI 代理。**
 
 📝 12 Lessons to Get Started Building AI Agents
 
@@ -1897,7 +1897,7 @@
 ---
 ### code-yeongyu/oh-my-openagent ⭐60.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **omo——最好的代理工具链（原名 oh-my-opencode）。**
 
 📝 omo; the best agent harness - previously oh-my-opencode
 
@@ -1906,7 +1906,7 @@
 ---
 ### microsoft/autogen ⭐58.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **面向代理式 AI 的编程框架。**
 
 📝 A programming framework for agentic AI
 
@@ -1915,7 +1915,7 @@
 ---
 ### ruvnet/ruflo ⭐56.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🌊 领先的 Claude 代理编排平台，部署智能多代理集群、协调自主工作流、构建对话式 AI 系统。**
 
 📝 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit
 
@@ -1924,7 +1924,7 @@
 ---
 ### nexu-io/open-design ⭐56.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🎨 本地优先、开源的设计工具替代方案，原生桌面应用，内置 259+ 技能和 142+ 设计系统。**
 
 📝 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 S
 
@@ -1933,7 +1933,7 @@
 ---
 ### shanraisshan/claude-code-best-practice ⭐55.6K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **从 vibe coding 到代理工程——实践让 Claude 更完美。**
 
 📝 from vibe coding to agentic engineering - practice makes claude perfect
 
@@ -1942,7 +1942,7 @@
 ---
 ### crewAIInc/crewAI ⭐52.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用于编排角色扮演自主 AI 代理的框架。通过促进协作智能，使代理无缝协作处理复杂任务。**
 
 📝 Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
@@ -1951,7 +1951,7 @@
 ---
 ### aaif-goose/goose ⭐46.1K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **开源可扩展的 AI 代理，超越代码建议——可安装、执行、编辑和测试，支持任意 LLM。**
 
 📝 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
@@ -1960,7 +1960,7 @@
 ---
 ### zhayujie/CowAgent ⭐45K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **开源超级 AI 助手与代理工具链，可规划任务、运行工具和技能，具备记忆和知识自主成长能力。**
 
 📝 Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install 
 
@@ -1969,7 +1969,7 @@
 ---
 ### HKUDS/nanobot ⭐43.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **轻量级开源 AI 代理，服务于你的工具、聊天和工作流。**
 
 📝 Lightweight, open-source AI agent for your tools, chats, and workflows.
 
@@ -1978,7 +1978,7 @@
 ---
 ### 666ghj/BettaFish ⭐41.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **微舆：人人可用的多代理舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向。**
 
 📝 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
@@ -1987,7 +1987,7 @@
 ---
 ### agno-agi/agno ⭐40.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **构建、运行和管理代理平台。**
 
 📝 Build, run, and manage agent platforms.
 
@@ -1996,7 +1996,7 @@
 ---
 ### mindsdb/minds-platform ⭐39.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **致力于为 AI 应用构建开放基础的平台，面向追求可掌控、可扩展、可随处部署的生产级 AI 系统。**
 
 📝 Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 
@@ -2005,7 +2005,7 @@
 ---
 ### reworkd/AgentGPT ⭐36.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🤖 在浏览器中组装、配置和部署自主 AI 代理。**
 
 📝 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
@@ -2014,7 +2014,7 @@
 ---
 ### bytedance/UI-TARS-desktop ⭐35.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **开源多模态 AI 代理栈：连接前沿 AI 模型与代理基础设施。**
 
 📝 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
@@ -2023,7 +2023,7 @@
 ---
 ### patchy631/ai-engineering-hub ⭐35.4K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **关于 LLM、RAG 和真实 AI 代理应用的深度教程。**
 
 📝 In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
@@ -2032,7 +2032,7 @@
 ---
 ### Yeachan-Heo/oh-my-claudecode ⭐35.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向团队的 Claude Code 多代理编排工具。**
 
 📝 Teams-first Multi-agent orchestration for Claude Code
 
@@ -2041,7 +2041,7 @@
 ---
 ### ItzCrazyKns/Vane ⭐35K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Vane 是一个 AI 驱动的问答引擎。**
 
 📝 Vane is an AI-powered answering engine.
 
@@ -2050,7 +2050,7 @@
 ---
 ### AstrBotDevs/AstrBot ⭐33.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AI 代理助手及开发框架，集成多 IM 平台、LLM、插件和 AI 功能，可作为 OpenClaw 的替代方案。**
 
 📝 AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
@@ -2059,7 +2059,7 @@
 ---
 ### CopilotKit/CopilotKit ⭐31.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向代理和生成式 UI 的前端技术栈，支持 React + Angular，AG-UI 协议创建者。**
 
 📝 The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 
@@ -2068,7 +2068,7 @@
 ---
 ### ashishpatel26/500-AI-Agents-Projects ⭐31.4K
 
-🌏 *中文描述待补充*
+🌏 **500 个 AI 代理项目的精选合集，涵盖医疗、金融、教育、零售等多个行业的实际应用案例。**
 
 📝 The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 
@@ -2077,7 +2077,7 @@
 ---
 ### nanocoai/nanoclaw ⭐29.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **OpenClaw 的轻量级替代方案，容器化运行更安全，支持 WhatsApp、Telegram、Slack 等多消息平台。**
 
 📝 A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 
@@ -2086,7 +2086,7 @@
 ---
 ### labring/FastGPT ⭐28.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **基于 LLM 的知识库平台，提供数据处理、RAG 检索和可视化 AI 工作流编排等开箱即用能力。**
 
 📝 FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 
@@ -2095,7 +2095,7 @@
 ---
 ### chroma-core/chroma ⭐28.1K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **AI 搜索基础设施。**
 
 📝 Search infrastructure for AI
 
@@ -2104,7 +2104,7 @@
 ---
 ### assafelovic/gpt-researcher ⭐27.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **自主代理，可使用任意 LLM 提供商对任何数据进行深度研究。**
 
 📝 An autonomous agent that conducts deep research on any data using any LLM providers
 
@@ -2113,7 +2113,7 @@
 ---
 ### agentscope-ai/agentscope ⭐25.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **构建和运行可视化、可理解、可信任的代理。**
 
 📝 Build and run agents you can see, understand and trust.
 
@@ -2122,7 +2122,7 @@
 ---
 ### rohitg00/ai-engineering-from-scratch ⭐25.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **学习它、构建它、交付它。**
 
 📝 Learn it. Build it. Ship it for others.
 
@@ -2131,7 +2131,7 @@
 ---
 ### Fincept-Corporation/FinceptTerminal ⭐24.7K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **现代金融应用，提供高级市场分析、投资研究和经济数据工具，支持交互式探索和数据驱动决策。**
 
 📝 FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 
@@ -2140,7 +2140,7 @@
 ---
 ### HKUDS/DeepTutor ⭐24.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **DeepTutor：以代理为中心的开源个性化辅导系统。**
 
 📝 DeepTutor: Agent-native, Open-sourced Personalized Tutoring. https://deeptutor.info/.
 
@@ -2149,7 +2149,7 @@
 ---
 ### VoltAgent/awesome-agent-skills ⭐23.7K
 
-🌏 *中文描述待补充*
+🌏 **1000+ 代理技能的精选合集，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。**
 
 📝 A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 
@@ -2158,7 +2158,7 @@
 ---
 ### letta-ai/letta ⭐23.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Letta 是构建有状态代理的平台——具备高级记忆能力的 AI，可随时间学习和自我改进。**
 
 📝 Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 
@@ -2167,7 +2167,7 @@
 ---
 ### dolthub/dolt ⭐22.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Dolt——数据的 Git。**
 
 📝 Dolt – Git for Data
 
@@ -2176,7 +2176,7 @@
 ---
 ### enescingoz/awesome-n8n-templates ⭐22.6K
 
-🌏 *中文描述待补充*
+🌏 **280+ 免费 n8n 自动化模板，涵盖 Gmail、Telegram、Slack、Discord、WhatsApp 等的即用工作流。**
 
 📝 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
 
@@ -2185,7 +2185,7 @@
 ---
 ### nocobase/nocobase ⭐22.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **开源的 AI+无代码平台，用于快速构建业务系统。AI 在生产级基础设施和所见即所得界面上工作。**
 
 📝 NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 
@@ -2194,7 +2194,7 @@
 ---
 ### activepieces/activepieces ⭐22.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **AI 代理与 MCP 工作流自动化平台，含约 400 个 MCP 服务器。**
 
 📝 AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
@@ -2203,7 +2203,7 @@
 ---
 ### NirDiamant/GenAI_Agents ⭐22.3K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **50+ 生成式 AI 代理技术的教程和实现，从基础对话机器人到复杂多代理系统。**
 
 📝 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 
@@ -2212,7 +2212,7 @@
 ---
 ### 1Panel-dev/MaxKB ⭐21.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🔥 强大易用的开源企业级智能体平台。**
 
 📝 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 
@@ -2221,7 +2221,7 @@
 ---
 ### VoltAgent/awesome-claude-code-subagents ⭐20.9K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **100+ 专业化 Claude Code 子代理的合集，覆盖广泛的开发用例。**
 
 📝 A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 
@@ -2230,7 +2230,7 @@
 ---
 ### NirDiamant/agents-towards-production ⭐20.6K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **端到端、代码优先的教程，从原型到企业级部署，构建生产级 GenAI 代理。**
 
 📝 End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 
@@ -2239,7 +2239,7 @@
 ---
 ### Donchitos/Claude-Code-Game-Studios ⭐20.4K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **将 Claude Code 变成完整的游戏开发工作室——49 个 AI 代理、72 个工作流技能，镜像真实工作室层级。**
 
 📝 Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
@@ -2248,7 +2248,7 @@
 ---
 ### google/adk-python ⭐19.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **开源的、代码优先的 Python 工具包，用于灵活构建、评估和部署复杂的 AI 代理。**
 
 📝 An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
@@ -2257,7 +2257,7 @@
 ---
 ### kortix-ai/suna ⭐19.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **企业 AI 指挥中心。**
 
 📝 The Company AI Command Center
 
@@ -2266,7 +2266,7 @@
 ---
 ### emcie-co/parlant ⭐18.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用 Parlant 构建可靠的面向客户的 AI 代理：一个专注于受控、一致和可预测的 LLM 交互控制框架。**
 
 📝 Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 
@@ -2275,7 +2275,7 @@
 ---
 ### RightNow-AI/openfang ⭐17.7K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **开源代理操作系统。**
 
 📝 Open-source Agent Operating System
 
@@ -2284,7 +2284,7 @@
 ---
 ### topoteretes/cognee ⭐17.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用 6 行代码为 AI 代理提供的记忆控制平面。**
 
 📝 Memory control plane for AI Agents in 6 lines of code
 
@@ -2293,7 +2293,7 @@
 ---
 ### trycua/cua ⭐17.4K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **面向计算机使用代理的开源基础设施：沙箱、SDK 和基准测试。**
 
 📝 Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
@@ -2302,7 +2302,7 @@
 ---
 ### vxcontrol/pentagi ⭐17.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **能够执行复杂渗透测试任务的完全自主 AI 代理系统。**
 
 📝 Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
@@ -2311,7 +2311,7 @@
 ---
 ### leon-ai/leon ⭐17.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🧠 Leon 是你的开源个人助手。**
 
 📝 🧠 Leon is your open-source personal assistant.
 
@@ -2320,7 +2320,7 @@
 ---
 ### langbot-app/LangBot ⭐16.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **生产级多平台智能机器人开发平台，提供 Agent、知识库编排和插件系统，支持 Discord / Slack / LINE / Telegram / 微信 / 飞书 / 钉钉 / QQ 等。**
 
 📝 Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 
@@ -2329,7 +2329,7 @@
 ---
 ### cft0808/edict ⭐15.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🏛️ OpenClaw 多代理编排系统——9 个专业化 AI 代理，实时仪表盘、模型配置和完整审计追踪。**
 
 📝 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 
@@ -2338,7 +2338,7 @@
 ---
 ### triggerdotdev/trigger.dev ⭐15.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Trigger.dev——构建和部署完全托管的 AI 代理和工作流。**
 
 📝 Trigger.dev – build and deploy fully‑managed AI agents and workflows
 
@@ -2347,7 +2347,7 @@
 ---
 ### rowboatlabs/rowboat ⭐14.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **带记忆的开源 AI 同事。**
 
 📝 Open-source AI coworker, with memory
 
@@ -2356,7 +2356,7 @@
 ---
 ### eigent-ai/eigent ⭐14.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Eigent：开源 AI 协同桌面，释放超常生产力。Claude Cowork 的本地免费替代。**
 
 📝 Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.
 
@@ -2365,7 +2365,7 @@
 ---
 ### ag-ui-protocol/ag-ui ⭐13.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **AG-UI：代理-用户交互协议。将代理带入前端应用。**
 
 📝 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
@@ -2374,7 +2374,7 @@
 ---
 ### jnMetaCode/agency-agents-zh ⭐13.4K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **🎭 211 个即插即用的 AI 专家角色，支持 16 种工具，覆盖工程、设计、营销、金融等 18 个部门。**
 
 📝 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 
@@ -2383,7 +2383,7 @@
 ---
 ### Arindam200/awesome-ai-apps ⭐12.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **展示 RAG、代理、工作流和其他 AI 用例的项目合集。**
 
 📝 A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 
@@ -2392,7 +2392,7 @@
 ---
 ### waooAI/waoowaoo ⭐12.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **首家工业级全流程 AI 影视生产平台，从短视频到实拍电影，好莱坞标准工作流。**
 
 📝 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
@@ -2401,7 +2401,7 @@
 ---
 ### e2b-dev/E2B ⭐12.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **开源安全的执行环境，配备真实世界工具，面向企业级代理。**
 
 📝 Open-source, secure environment with real-world tools for enterprise-grade agents.
 
@@ -2410,7 +2410,7 @@
 ---
 ### lsdefine/GenericAgent ⭐12.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **自进化代理：从 3.3K 行种子代码生长技能树，6 倍更少 token 消耗实现全系统控制。**
 
 📝 Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 
@@ -2419,7 +2419,7 @@
 ---
 ### kubeshark/kubeshark ⭐11.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **基于 eBPF 的 Kubernetes 网络可观测性工具，AI 代理可通过 MCP 查询。**
 
 📝 eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 
@@ -2428,7 +2428,7 @@
 ---
 ### simular-ai/Agent-S ⭐11.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Agent S：像人类一样使用计算机的开源代理框架。**
 
 📝 Agent S: an open agentic framework that uses computers like a human
 
@@ -2437,7 +2437,7 @@
 ---
 ### superset-sh/superset ⭐11.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **AI 代理时代的代码编辑器——在你的机器上运行一群 Claude Code、Codex 等代理。**
 
 📝 Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 
@@ -2446,7 +2446,7 @@
 ---
 ### bytebot-ai/bytebot ⭐11K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Bytebot 是自托管的 AI 桌面代理，通过自然语言命令在容器化 Linux 桌面环境中自动化计算机任务。**
 
 📝 Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 
@@ -2455,7 +2455,7 @@
 ---
 ### microsoft/agent-framework ⭐10.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用于构建、编排和部署 AI 代理及多代理工作流的框架，支持 Python 和 .NET。**
 
 📝 A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 
@@ -2464,7 +2464,7 @@
 ---
 ### alibaba/OpenSandbox ⭐10.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **面向 AI 代理的安全、快速、可扩展的沙箱运行时。**
 
 📝 Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
@@ -2473,7 +2473,7 @@
 ---
 ### ValueCell-ai/valuecell ⭐10.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **ValueCell 是社区驱动的多代理金融应用平台。**
 
 📝 ValueCell is a community-driven, multi-agent platform for financial applications.
 
@@ -2482,7 +2482,7 @@
 ---
 ### aden-hive/hive ⭐10.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **面向生产级 AI 的多代理工具链。**
 
 📝 Multi-Agent Harness for Production AI
 
@@ -2491,7 +2491,7 @@
 ---
 ### cocoindex-io/cocoindex ⭐10.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **面向长周期代理的增量引擎。**
 
 📝 Incremental engine for long horizon agents 🌟 Star if you like it!
 
@@ -2500,7 +2500,7 @@
 ---
 ### cloudflare/moltworker ⭐9.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **在 Cloudflare Workers 上运行 OpenClaw。**
 
 📝 Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
@@ -2509,7 +2509,7 @@
 ---
 ### alibaba/spring-ai-alibaba ⭐9.8K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **面向 Java 开发者的代理式 AI 框架。**
 
 📝 Agentic AI Framework for Java Developers
 
@@ -2518,7 +2518,7 @@
 ---
 ### Jeffallan/claude-skills ⭐9.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **面向全栈开发者的 66 个专业化技能，将 Claude Code 转化为你的专家结对编程伙伴。**
 
 📝 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 
@@ -2527,7 +2527,7 @@
 ---
 ### nesquena/hermes-webui ⭐9.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Hermes WebUI：在网页或手机上使用 Hermes Agent 的最佳方式！**
 
 📝 Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
@@ -2536,7 +2536,7 @@
 ---
 ### VoltAgent/voltagent ⭐9.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **基于开源 TypeScript AI 代理框架构建的 AI 代理工程平台。**
 
 📝 AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 
@@ -2545,7 +2545,7 @@
 ---
 ### HKUDS/Vibe-Trading ⭐9.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **你的个人交易代理。**
 
 📝 "Vibe-Trading: Your Personal Trading Agent"
 
@@ -2554,7 +2554,7 @@
 ---
 ### iflytek/astron-agent ⭐8.5K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **企业级、商业友好的代理工作流平台，用于构建下一代超级代理。**
 
 📝 Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 
@@ -2563,7 +2563,7 @@
 ---
 ### droidrun/mobilerun ⭐8.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用自然语言命令自动化你的移动设备——与 LLM 无关的移动端代理。**
 
 📝 Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 
@@ -2572,7 +2572,7 @@
 ---
 ### EvoMap/evolver ⭐7.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **基于 GEP 的 AI 代理自进化引擎。**
 
 📝 The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 
@@ -2581,7 +2581,7 @@
 ---
 ### GetBindu/Bindu ⭐6.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Bindu：AI 代理的身份、通信和支付层。**
 
 📝 Bindu: The identity, communication, and payments layer for AI agents.
 
@@ -2590,7 +2590,7 @@
 ---
 ### Narcooo/inkos ⭐6.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自主小说写作 AI 代理——代理编写、审核和修订小说，带人工审查关卡。**
 
 📝 Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates
 
@@ -2599,7 +2599,7 @@
 ---
 ### crestalnetwork/intentkit ⭐6.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **开源自托管的云端代理集群，管理 AI 代理协作团队。**
 
 📝 IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.
 
@@ -2608,7 +2608,7 @@
 ---
 ### open-multi-agent/open-multi-agent ⭐6.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **从目标自动生成任务 DAG。TypeScript 原生的多代理编排。**
 
 📝 From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.
 
@@ -2617,7 +2617,7 @@
 ---
 ### strands-agents/sdk-python ⭐6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用几行代码构建 AI 代理的模型驱动方法。**
 
 📝 A model-driven approach to building AI agents in just a few lines of code.
 
@@ -2626,7 +2626,7 @@
 ---
 ### ThinkInAIXYZ/deepchat ⭐5.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🐬 DeepChat——将强大 AI 连接到个人世界的智能助手。**
 
 📝 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 
@@ -2635,7 +2635,7 @@
 ---
 ### PySpur-Dev/pyspur ⭐5.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **代理工作流的可视化 playground：迭代速度提升 10 倍。**
 
 📝 A visual playground for agentic workflows: Iterate over your agents 10x faster
 
@@ -2644,7 +2644,7 @@
 ---
 ### holaboss-ai/holaOS ⭐5.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **你的工作超级代理：本地优先，几分钟内学习你的工作上下文，永不遗忘。**
 
 📝 Your super agent for work: local-first, learn your working context in mins and never forget it.
 
@@ -2653,7 +2653,7 @@
 ---
 ### adongwanai/AgentGuide ⭐5.4K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **AI Agent 开发指南，含 LangGraph 实战、高级 RAG、面试题库和强化学习。**
 
 📝 https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
 
@@ -2662,7 +2662,7 @@
 ---
 ### mahseema/awesome-ai-tools ⭐5.4K
 
-🌏 *中文描述待补充*
+🌏 **人工智能顶级工具精选列表。**
 
 📝 A curated list of Artificial Intelligence Top Tools
 
@@ -2733,7 +2733,7 @@
 <br>
 ### chatchat-space/Langchain-Chatchat ⭐38.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **基于 Langchain 与 ChatGLM、Qwen、Llama 等语言模型的 RAG 与 Agent 应用。**
 
 📝 Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 
@@ -2742,7 +2742,7 @@
 ---
 ### mozilla-ai/llamafile ⭐24.6K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **用一个文件分发和运行 LLM。**
 
 📝 Distribute and run LLMs with a single file.
 
@@ -2751,7 +2751,7 @@
 ---
 ### dyad-sh/dyad ⭐20.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向高级用户的本地开源 AI 应用构建器，v0 / Lovable / Replit / Bolt 的替代方案。**
 
 📝 Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 
@@ -2760,7 +2760,7 @@
 ---
 ### lss233/kirara-ai ⭐18.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🤖 可 DIY 的多模态 AI 聊天机器人，快速接入微信、QQ、Telegram 等聊天平台。**
 
 📝 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | 
 
@@ -2769,7 +2769,7 @@
 ---
 ### GaiZhenbiao/ChuanhuChatGPT ⭐15.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **ChatGPT API 和多 LLM 的图形界面，支持代理、文件问答、GPT 微调和联网搜索。**
 
 📝 GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 
@@ -2778,7 +2778,7 @@
 ---
 ### n8n-io/self-hosted-ai-starter-kit ⭐14.9K
 
-🌏 *中文描述待补充*
+🌏 **自托管 AI 入门套件，开源模板，快速搭建本地 AI 环境，由 n8n 策划。**
 
 📝 The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 
@@ -2787,7 +2787,7 @@
 ---
 ### MODSetter/SurfSense ⭐14.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **开源的、注重隐私的 NotebookLM 替代方案，面向团队，无数据限制。**
 
 📝 An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 
@@ -2796,7 +2796,7 @@
 ---
 ### Zackriya-Solutions/meetily ⭐12.4K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **隐私优先的 AI 会议助手，支持实时转录、说话人分离和 Ollama 摘要，100% 本地处理。**
 
 📝 Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 
@@ -2805,7 +2805,7 @@
 ---
 ### TheR1D/shell_gpt ⭐12.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **由 GPT-5 等大语言模型驱动的命令行生产力工具。**
 
 📝 A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 
@@ -2814,7 +2814,7 @@
 ---
 ### StarTrail-org/LEANN ⭐11.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **[MLsys2026] 在个人设备上享受 97% 存储节省的同时运行快速、准确、100% 私密的 RAG 应用。**
 
 📝 [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
@@ -2823,7 +2823,7 @@
 ---
 ### browseros-ai/BrowserOS ⭐11.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🌐 开源的代理浏览器，ChatGPT Atlas、Perplexity Comet、Dia 的替代方案。**
 
 📝 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 
@@ -2832,7 +2832,7 @@
 ---
 ### RunanywhereAI/runanywhere-sdks ⭐10.4K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **生产级工具包，在本地运行 AI。**
 
 📝 Production ready toolkit to run AI locally
 
@@ -2841,7 +2841,7 @@
 ---
 ### ollama/ollama-python ⭐10.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Ollama Python 库。**
 
 📝 Ollama Python library
 
@@ -2850,7 +2850,7 @@
 ---
 ### sigoden/aichat ⭐10.1K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **全合一 LLM CLI 工具，支持 Shell 助手、Chat-REPL、RAG、AI 工具与代理，接入 OpenAI、Claude、Gemini、Ollama 等。**
 
 📝 All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 
@@ -2859,7 +2859,7 @@
 ---
 ### miurla/morphic ⭐8.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **具有生成式 UI 的 AI 驱动搜索引擎。**
 
 📝 An AI-powered search engine with a generative UI
 
@@ -2868,7 +2868,7 @@
 ---
 ### reorproject/reor ⭐8.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **面向高熵人群的私密本地 AI 个人知识管理应用。**
 
 📝 Private & local AI personal knowledge management app for high entropy people.
 
@@ -2877,7 +2877,7 @@
 ---
 ### LearningCircuit/local-deep-research ⭐8.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **在 3090 上实现约 95% SimpleQA 准确率，支持本地和云端 LLM，10+ 搜索引擎，完全本地加密。**
 
 📝  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encry
 
@@ -2886,7 +2886,7 @@
 ---
 ### n4ze3m/page-assist ⭐8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **使用本地运行的 AI 模型辅助你的网页浏览。**
 
 📝 Use your locally running AI models to assist you in your web browsing
 
@@ -2895,7 +2895,7 @@
 ---
 ### Open-LLM-VTuber/Open-LLM-VTuber ⭐7.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **跨平台与任意 LLM 进行免提语音交互，支持语音打断和 Live2D 面部动画。**
 
 📝 Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 
@@ -2904,7 +2904,7 @@
 ---
 ### OpenCoworkAI/open-codesign ⭐6.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **开源 Claude Design 替代方案。一键导入 API 密钥，从提示词到原型/幻灯片/PDF，支持多模型。**
 
 📝 Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 
@@ -2913,7 +2913,7 @@
 ---
 ### JerryZLiu/Dayflow ⭐6.1K · 🔤Swift
 
-🌏 *中文描述待补充*
+🌏 **自动工作日志。将你的屏幕私密转化为时间线，记录实际完成的工作。开源且本地优先。**
 
 📝 The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 
@@ -2922,7 +2922,7 @@
 ---
 ### vas3k/TaxHacker ⭐6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自托管 AI 记账应用。对收据、发票和交易进行 LLM 分析，支持自定义提示词和分类。**
 
 📝 Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 
@@ -2931,7 +2931,7 @@
 ---
 ### gluonfield/enchanted ⭐6K · 🔤Swift
 
-🌏 *中文描述待补充*
+🌏 **Enchanted 是 iOS 和 macOS 应用，用于通过 Ollama 与本地私有大语言模型聊天。**
 
 📝 Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 
@@ -2940,7 +2940,7 @@
 ---
 ### ArvinLovegood/go-stock ⭐5.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **🦄 AI 赋能股票分析工具，支持 A 股、港股、美股行情获取、AI 热点分析和资金分析。**
 
 📝 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 
@@ -2949,7 +2949,7 @@
 ---
 ### clusterzx/paperless-ai ⭐5.7K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **Paperless-ngx 的自动化文档分析器，使用 OpenAI、Ollama、DeepSeek 等自动分析标记文档。**
 
 📝 An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 
@@ -2966,7 +2966,7 @@
 <br>
 ### AsyncFuncAI/deepwiki-open ⭐16.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **开源 DeepWiki：面向 GitHub/Gitlab/Bitbucket 仓库的 AI 驱动 Wiki 生成器。**
 
 📝 Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
@@ -3037,7 +3037,7 @@
 <br>
 ### confident-ai/deepeval ⭐15.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **LLM 评估框架。**
 
 📝 The LLM Evaluation Framework
 
@@ -3046,7 +3046,7 @@
 ---
 ### Arize-ai/phoenix ⭐9.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AI 可观测性与评估平台。**
 
 📝 AI Observability & Evaluation
 
@@ -3055,7 +3055,7 @@
 ---
 ### NVIDIA/garak ⭐8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **LLM 漏洞扫描器。**
 
 📝 the LLM vulnerability scanner
 
@@ -3064,7 +3064,7 @@
 ---
 ### jeinlee1991/chinese-llm-benchmark ⭐6.1K
 
-🌏 *中文描述待补充*
+🌏 **中文 AI 大模型能力评测，持续更新，涵盖 374 个大模型及超过 200 万的大模型缺陷库。**
 
 📝 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.
 
@@ -3073,7 +3073,7 @@
 ---
 ### Helicone/helicone ⭐5.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🧊 开源 LLM 可观测性平台。一行代码实现监控、评估和实验。**
 
 📝 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 
@@ -3082,7 +3082,7 @@
 ---
 ### AgentOps-AI/agentops ⭐5.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **AI 代理监控、LLM 成本追踪和基准测试的 Python SDK，集成主流 LLM 和代理框架。**
 
 📝 Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca
 
@@ -3091,7 +3091,7 @@
 ---
 ### coze-dev/coze-loop ⭐5.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **下一代 AI 代理优化平台，提供从开发、调试、评估到监控的全生命周期管理。**
 
 📝 Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
 
@@ -3100,7 +3100,7 @@
 ---
 ### Giskard-AI/giskard-oss ⭐5.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🐢 面向 LLM 代理的开源评估与测试库。**
 
 📝 🐢 Open-Source Evaluation & Testing library for LLM Agents
 
@@ -3109,7 +3109,7 @@
 ---
 ### PacktPublishing/LLM-Engineers-Handbook ⭐5.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **LLM 工程师实用指南：从基础到在 AWS 上部署高级 LLM 和 RAG 应用。**
 
 📝 The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
 
@@ -3180,7 +3180,7 @@
 <br>
 ### lightpanda-io/browser ⭐30.7K · 🔤Zig
 
-🌏 *中文描述待补充*
+🌏 **Lightpanda：专为 AI 和自动化设计的无头浏览器。**
 
 📝 Lightpanda: the headless browser designed for AI and automation
 
@@ -3189,7 +3189,7 @@
 ---
 ### apify/crawlee ⭐23.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Node.js 网页抓取和浏览器自动化库，用于构建可靠的爬虫，支持 JavaScript 和 TypeScript，可与 Puppeteer、Playwright 等配合使用。**
 
 📝 Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 
@@ -3198,7 +3198,7 @@
 ---
 ### browserbase/stagehand ⭐22.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **浏览器代理的 SDK。**
 
 📝 The SDK For Browser Agents
 
@@ -3207,7 +3207,7 @@
 ---
 ### CloakHQ/CloakBrowser ⭐22.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **隐身 Chromium，通过所有机器人检测。可直接替代 Playwright，通过源码级指纹补丁通过 30/30 测试。**
 
 📝 Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 
@@ -3216,7 +3216,7 @@
 ---
 ### heygen-com/hyperframes ⭐22.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **写 HTML，渲染视频。为代理而生。**
 
 📝 Write HTML. Render video. Built for agents.
 
@@ -3225,7 +3225,7 @@
 ---
 ### Skyvern-AI/skyvern ⭐21.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用 AI 自动化基于浏览器的工作流。**
 
 📝 Automate browser based workflows with AI
 
@@ -3234,7 +3234,7 @@
 ---
 ### AutomaApp/automa ⭐21.4K · 🔤Vue
 
-🌏 *中文描述待补充*
+🌏 **通过连接模块来自动化浏览器的浏览器扩展。**
 
 📝 A browser extension for automating your browser by connecting blocks
 
@@ -3243,7 +3243,7 @@
 ---
 ### alibaba/page-agent ⭐18.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **JavaScript 页面内 GUI 代理。用自然语言控制网页界面。**
 
 📝 JavaScript in-page GUI agent. Control web interfaces with natural language.
 
@@ -3252,7 +3252,7 @@
 ---
 ### browser-use/web-ui ⭐16K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🖥️ 在浏览器中运行 AI 代理。**
 
 📝 🖥️ Run AI Agent in your browser.
 
@@ -3261,7 +3261,7 @@
 ---
 ### getmaxun/maxun ⭐15.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🔥 开源无代码网页抓取平台，将网站转化为结构化 API，支持爬取、搜索和 AI 数据提取。**
 
 📝 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥 
 
@@ -3270,7 +3270,7 @@
 ---
 ### checkly/headless-recorder ⭐15.3K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **Chrome 扩展，记录浏览器交互并生成 Playwright 或 Puppeteer 脚本。**
 
 📝 Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script. 
 
@@ -3279,7 +3279,7 @@
 ---
 ### microsoft/playwright-python ⭐14.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Playwright 测试和自动化库的 Python 版本。**
 
 📝 Python version of the Playwright testing and automation library.
 
@@ -3288,7 +3288,7 @@
 ---
 ### browser-use/browser-harness ⭐14.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **浏览器工具链——自愈式工具链，使 LLM 能够完成任意任务。**
 
 📝 Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
@@ -3297,7 +3297,7 @@
 ---
 ### web-infra-dev/midscene ⭐13.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **AI 驱动的视觉化 UI 自动化，适用于每个平台。**
 
 📝 AI-powered, vision-driven UI automation for every platform.
 
@@ -3306,7 +3306,7 @@
 ---
 ### browserless/browserless ⭐13.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **在 Docker 中部署无头浏览器。可在云上运行或自托管。**
 
 📝 Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 
@@ -3315,7 +3315,7 @@
 ---
 ### nanobrowser/nanobrowser ⭐13.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **开源 Chrome 扩展，用于 AI 驱动的网页自动化。使用你自己的 LLM API 密钥运行多代理工作流。**
 
 📝 Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
@@ -3324,7 +3324,7 @@
 ---
 ### seleniumbase/SeleniumBase ⭐12.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用于网页自动化和 E2E 测试的 Python API，支持绕过机器人检测。**
 
 📝 Python APIs for web automation, E2E testing, and bypassing bot-detection.
 
@@ -3333,7 +3333,7 @@
 ---
 ### Usagi-org/ai-goofish-monitor ⭐12.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **基于 Playwright 和 AI 的闲鱼多任务实时监控与智能分析系统，配备后台管理 UI。**
 
 📝 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
@@ -3342,7 +3342,7 @@
 ---
 ### g1879/DrissionPage ⭐12K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **基于 Python 的网页自动化工具，强大而优雅。**
 
 📝 Python based web automation tool. Powerful and elegant.
 
@@ -3351,7 +3351,7 @@
 ---
 ### microsoft/playwright-cli ⭐10.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Playwright 常见操作的 CLI，可录制和生成 Playwright 代码、检查选择器和截图。**
 
 📝 CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 
@@ -3360,7 +3360,7 @@
 ---
 ### microsoft/magentic-ui ⭐9.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **跨浏览器和本地文件系统运行的实验性代理。**
 
 📝 An experimental agent that works across the browser and local file system
 
@@ -3369,7 +3369,7 @@
 ---
 ### ntegrals/openbrowser ⭐9.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **让 AI 代理浏览网页。面向浏览器 AI 代理的自主工具包。**
 
 📝 Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 
@@ -3378,7 +3378,7 @@
 ---
 ### pinchtab/pinchtab ⭐9.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **高性能浏览器自动化桥接和多实例编排器，具有高级隐身注入和实时仪表盘。**
 
 📝 High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 
@@ -3387,7 +3387,7 @@
 ---
 ### apify/crawlee-python ⭐9.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Python 网页抓取和浏览器自动化库，用于构建可靠的爬虫，提取 AI 和 LLM 所需数据。**
 
 📝 Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 
@@ -3396,7 +3396,7 @@
 ---
 ### artilleryio/artillery ⭐9K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **完整的负载测试平台，支持 Playwright 负载测试、HTTP API、GraphQL、WebSocket 等。**
 
 📝 The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 
@@ -3405,7 +3405,7 @@
 ---
 ### daijro/camoufox ⭐8.8K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **🦊 反检测浏览器。**
 
 📝 🦊 Anti-detect browser
 
@@ -3414,7 +3414,7 @@
 ---
 ### mherrmann/helium ⭐8.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用 Python 实现更轻量的网页自动化。**
 
 📝 Lighter web automation with Python
 
@@ -3423,7 +3423,7 @@
 ---
 ### steel-dev/steel-browser ⭐7.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🔥 面向 AI 代理和应用的开源浏览器 API。功能完备的浏览器沙箱。**
 
 📝 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 
@@ -3432,7 +3432,7 @@
 ---
 ### autoscrape-labs/pydoll ⭐6.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **无需 WebDriver 的 Chromium 浏览器自动化库，提供真实的交互体验。**
 
 📝 Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. 
 
@@ -3441,7 +3441,7 @@
 ---
 ### mishushakov/llm-scraper ⭐6.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **使用 LLM 将任意网页转化为结构化数据。**
 
 📝 Turn any webpage into structured data using LLMs
 
@@ -3450,7 +3450,7 @@
 ---
 ### BrowserMCP/mcp ⭐6.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Browser MCP 是一个 MCP 服务器，让 AI 应用能够控制你的浏览器。**
 
 📝 Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 
@@ -3459,7 +3459,7 @@
 ---
 ### SawyerHood/dev-browser ⭐6.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **赋予你的代理使用浏览器的能力——Claude Skill。**
 
 📝 A Claude Skill to give your agent the ability to use a web browser
 
@@ -3468,7 +3468,7 @@
 ---
 ### jo-inc/camofox-browser ⭐6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **面向 AI 代理的隐身无头浏览器——绕过 Cloudflare、机器人检测和反爬。可直接替代 Puppeteer/Playwright。**
 
 📝 Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 
@@ -3477,7 +3477,7 @@
 ---
 ### antiwork/shortest ⭐5.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **通过自然语言 AI 测试进行 QA。**
 
 📝 QA via natural language AI tests
 
@@ -3486,7 +3486,7 @@
 ---
 ### microsoft/fara ⭐5.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Fara-7B：面向计算机使用的高效代理模型。**
 
 📝 Fara-7B: An Efficient Agentic Model for Computer Use
 
