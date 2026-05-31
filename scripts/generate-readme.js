@@ -173,12 +173,14 @@ async function main() {
   lines.push(`## 📑 导航`);
   lines.push(``);
 
-  // 分类分组规则
-  const navGroups = {
-    "AI 工具方向": ["ai-coding-agent", "mcp", "agent-workflow", "browser-automation"],
-    "代码方向":     ["code-analysis", "code-visualization", "evaluation"],
-    "平台方向":     ["llm-framework", "ai-gateway", "local-inference"],
-  };
+  // 从配置读取导航分组规则
+  const navGroupsConfig = JSON.parse(
+    fs.readFileSync(path.join(ROOT, "config", "nav-groups.json"), "utf-8")
+  );
+  const navGroups = {};
+  for (const group of navGroupsConfig.groups) {
+    navGroups[group.name] = group.categories;
+  }
 
   // 构建每组的链接数组
   const groupLinks = {};

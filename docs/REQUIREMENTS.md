@@ -266,6 +266,7 @@ Reasonix 可读取项目的 README，判断其实际用途后更新 `manual_over
 |------|--------|------|
 | `config/categories.json` | 你编辑 | 分类名称 + 关键词规则 |
 | `config/search-queries.json` | 你编辑 | 搜索查询语句 |
+| `config/nav-groups.json` | 你编辑 | 导航分组规则 |
 | `data/repos.json` | 自动生成 | 原始项目数据缓存 |
 | `data/classified.json` | 自动生成 | 分类结果 |
 | `data/chinese_descriptions.json` | 自动生成 | 中文描述缓存 |
@@ -458,6 +459,7 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 |------|------|
 | **位置** | 统计表下方，紧接分隔线 |
 | **格式** | 4 列分组表格（概览 / AI 工具方向 / 代码方向 / 平台方向） |
+| **分组配置** | `config/nav-groups.json` |
 | **锚点名称** | 英文小写 + 连字符，如 `#mcp-工具生态` |
 | **锚点生成规则** | 分类名转小写 → 非字母/中文转 `-` → 去掉首尾 `-` |
 | **包含** | 所有有项目存在的分类 + 我的关注（如有） |

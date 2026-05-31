@@ -1,0 +1,17 @@
+{
+  "_说明": "导航分组规则。categories.json 中新增分类时，需在此文件对应组中添加映射，否则不会出现在导航表中。",
+  "groups": [
+    {
+      "name": "AI 工具方向",
+      "categories": ["ai-coding-agent", "mcp", "agent-workflow", "browser-automation"]
+    },
+    {
+      "name": "代码方向",
+      "categories": ["code-analysis", "code-visualization", "evaluation"]
+    },
+    {
+      "name": "平台方向",
+      "categories": ["llm-framework", "ai-gateway", "local-inference"]
+    }
+  ]
+}

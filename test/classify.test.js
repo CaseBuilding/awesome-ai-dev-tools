@@ -160,18 +160,17 @@ describe("导航分组一致性", () => {
     );
     const allIds = realCats.categories.map((c) => c.id);
 
-    // 从 generate-readme.js 提取 navGroups
-    const gr = fs.readFileSync(
-      path.join(ROOT, "scripts", "generate-readme.js"),
-      "utf-8"
+    // 从 nav-groups.json 读取导航分组
+    const navGroupsConfig = JSON.parse(
+      fs.readFileSync(path.join(ROOT, "config", "nav-groups.json"), "utf-8")
     );
-    const navMatch = gr.match(/navGroups\s*=\s*\{([^}]+)\}/s);
-    assert.ok(navMatch, "navGroups 定义未找到");
 
     // 提取所有引用的分类 ID
     const referenced = new Set();
-    for (const id of allIds) {
-      if (gr.includes(`"${id}"`)) referenced.add(id);
+    for (const group of navGroupsConfig.groups) {
+      for (const id of group.categories) {
+        referenced.add(id);
+      }
     }
 
     const missing = allIds.filter((id) => !referenced.has(id));
