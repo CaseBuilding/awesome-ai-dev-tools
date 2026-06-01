@@ -25,6 +25,33 @@ const reposData = JSON.parse(
 const watchedData = JSON.parse(
   fs.readFileSync(path.join(ROOT, "data", "watched.json"), "utf-8")
 );
+let firstSeenData = {};
+try {
+  firstSeenData = JSON.parse(
+    fs.readFileSync(path.join(ROOT, "data", "first_seen.json"), "utf-8")
+  );
+} catch {
+  console.warn("⚠️ first_seen.json 不存在，所有项目不标 🆕");
+  firstSeenData = {};
+}
+
+// ── 7 天新增判断 ──
+const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000;
+const repoLastUpdated = reposData.last_updated?.slice(0, 10) || "";
+export function isNewRepo(fullName, firstSeen, lastUpdated) {
+  const data = firstSeen || firstSeenData;
+  const lu = lastUpdated || repoLastUpdated;
+  const seen = data[fullName];
+  const baseline = data._baseline;
+  // 没有记录、或是基线日期的存量数据 → 不算新
+  if (!seen || !baseline || seen === baseline) return false;
+  // 在 last_updated 前 7 天内入库的才算新
+  if (!lu) return false;
+  const diff = new Date(lu) - new Date(seen);
+  // diff < 0 说明数据异常（last_updated 早于 first_seen），不标 🆕
+  if (diff < 0) return false;
+  return diff <= SEVEN_DAYS_MS;
+}
 
 const categories = categoriesConfig.categories;
 
@@ -110,8 +137,9 @@ function renderRepoLine(repo, descCn, number, rankEmoji) {
   const lang = repo.language || "";
   const desc = repo.description || "";
   const prefix = number ? (rankEmoji ? `${rankEmoji} #${number} — ` : `#${number} — `) : "";
+  const newBadge = isNewRepo(repo.full_name) ? "🆕 " : "";
 
-  let lines = `### ${prefix}${repo.full_name} ⭐${stars}`;
+  let lines = `### ${newBadge}${prefix}${repo.full_name} ⭐${stars}`;
   if (lang) lines += ` · 🔤${lang}`;
 
   // 🌏 中文描述：有则显示，无则显示占位（由用户手动触发 AI 翻译填充）
@@ -227,6 +255,29 @@ async function main() {
     lines.push(`| ${cells.join(" | ")} |`);
   }
   lines.push(``);
+
+  // ════════ 本周新增 ════════
+  const newRepos = [];
+  for (const [catId, catRepos] of Object.entries(classifiedData.classified)) {
+    for (const repo of catRepos) {
+      if (isNewRepo(repo.full_name)) {
+        const cat = categories.find((c) => c.id === catId);
+        newRepos.push({ repo, catName: cat?.name || "" });
+      }
+    }
+  }
+  if (newRepos.length > 0) {
+    lines.push(`---`);
+    lines.push(``);
+    lines.push(`## 📬 本周新增（${newRepos.length} 个项目）`);
+    lines.push(``);
+    lines.push(`| 项目 | Stars | 分类 |`);
+    lines.push(`| --- | --- | --- |`);
+    for (const { repo, catName } of newRepos) {
+      lines.push(`| 🆕 [${repo.full_name}](${repo.html_url}) | ${formatStars(repo.stars)} | ${catName} |`);
+    }
+    lines.push(``);
+  }
 
   // ════════ 我的关注 ════════
   if (watchedKeys.length > 0) {

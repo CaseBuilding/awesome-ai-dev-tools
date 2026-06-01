@@ -155,6 +155,34 @@ async function main() {
 
   const added = finalRepos.length - existingRepos.length;
 
+  // ── 第 3.5 步：记录新项目的首次入库日期 ──
+  const firstSeenPath = path.join(ROOT, "data", "first_seen.json");
+  let firstSeen = {};
+  try {
+    firstSeen = JSON.parse(fs.readFileSync(firstSeenPath, "utf-8"));
+  } catch {
+    console.warn("⚠️ first_seen.json 不存在或已损坏，将新建");
+  }
+  const today = new Date().toISOString().slice(0, 10);
+  let firstSeenChanged = false;
+  // 确保基线日期存在（首次运行或重建时自动初始化）
+  if (!firstSeen._baseline) {
+    firstSeen._baseline = today;
+    firstSeenChanged = true;
+  }
+  const existingNames = new Set(existingRepos.map((r) => r.full_name));
+  for (const repo of newRepos) {
+    // 注意：如果 repo 被删除后重新创建（同名），旧 firstSeen 会残留导致漏标。
+    // 这种情况极少见（同名+同 owner 的 repo 删了重建），当前不做特殊处理。
+    if (!existingNames.has(repo.full_name) && !firstSeen[repo.full_name]) {
+      firstSeen[repo.full_name] = today;
+      firstSeenChanged = true;
+    }
+  }
+  if (firstSeenChanged) {
+    fs.writeFileSync(firstSeenPath, JSON.stringify(firstSeen, null, 2));
+  }
+
   // ── 第 4 步：写入 ──
   const output = {
     _说明: "此文件由 scripts/fetch-repos.js 自动生成。已有项目持续保留，新的追加。",
