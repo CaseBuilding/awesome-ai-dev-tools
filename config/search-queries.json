@@ -50,6 +50,15 @@
       "name": "🌐 浏览器自动化",
       "search": ["topic:browser-automation,web-automation,browser-use,playwright stars:>=5000"],
       "max_results": 100
+    },
+    "video-processing": {
+      "name": "🎬 视频处理 / 生成",
+      "search": [
+        "topic:video-editing,video-processing,video-generation,video-enhancement,video-tools stars:>=5000",
+        "\"video editing\" in:description,readme stars:>=5000",
+        "\"video generation\" in:description,readme stars:>=5000"
+      ],
+      "max_results": 100
     }
   }
 }

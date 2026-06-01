@@ -3,7 +3,7 @@
   "groups": [
     {
       "name": "AI 工具方向",
-      "categories": ["ai-coding-agent", "mcp", "agent-workflow", "browser-automation"]
+      "categories": ["ai-coding-agent", "mcp", "agent-workflow", "browser-automation", "video-processing"]
     },
     {
       "name": "代码方向",

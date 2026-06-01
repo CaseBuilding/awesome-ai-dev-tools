@@ -236,6 +236,30 @@
           "playwright"
         ]
       }
+    },
+    {
+      "id": "video-processing",
+      "name": "🎬 视频处理 / 生成",
+      "order": 11,
+      "priority": 6,
+      "match": {
+        "topics": [
+          "video-editing",
+          "video-processing",
+          "video-generation",
+          "video-tools",
+          "video-enhancement"
+        ],
+        "desc_keywords": [
+          "video editing",
+          "video generation",
+          "video processing",
+          "video clip",
+          "auto editor",
+          "video enhance",
+          "video upscale"
+        ]
+      }
     }
   ],
   "unclassified_category": {
