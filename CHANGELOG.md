@@ -158,5 +158,20 @@
       "docs/REQUIREMENTS.md": "更新分类表、导航模板、导航分组说明",
       "docs/specs/video-processing-category.md": "新增实施规范文档"
     }
+  },
+  {
+    "date": "2026-06-01",
+    "type": "feature",
+    "reason": "新增入库标记 🆕 与本周新增区块：first_seen.json 追踪首次入库日期，7 天窗口期自动标记/过期，存量数据不误标",
+    "changed_by": "CaseBuilding 提出需求 → 经 spec → doubt-driven review 后实施",
+    "changes": {
+      "scripts/fetch-repos.js": "新增 first_seen 写入逻辑 + _baseline 自动初始化",
+      "scripts/generate-readme.js": "新增 isNewRepo 函数、📬 本周新增区块、行首 🆕 标记",
+      "test/classify.test.js": "新增 8 个 isNewRepo 测试 + 2 个搜索配置完整性测试",
+      "data/first_seen.json": "新建首次入库日期数据文件",
+      "data/chinese_descriptions.json": "补充 125 条中文描述",
+      "docs/specs/new-repo-badge.md": "新增实施规范文档",
+      "docs/decisions/ADR-002.md": "新增架构决策记录"
+    }
   }
 ]
