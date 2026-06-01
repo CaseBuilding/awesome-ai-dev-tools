@@ -16,7 +16,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 
 import { autoClassify, applyOverrides } from "../scripts/classify.js";
-import { formatStars, anchorName } from "../scripts/generate-readme.js";
+import { formatStars, anchorName, isNewRepo } from "../scripts/generate-readme.js";
 
 // ── 加载 fixture ──
 const categories = JSON.parse(
@@ -275,7 +275,47 @@ describe("数据完整性", () => {
 });
 
 // ─────────────────────────────────────────────
-//  8. 导航表格格式验证
+//  8. 搜索配置完整性 — 每个分类都有搜索配置
+// ─────────────────────────────────────────────
+
+describe("搜索配置完整性", () => {
+  test("所有分类都在 search-queries 中有搜索配置", () => {
+    const realCats = JSON.parse(
+      fs.readFileSync(path.join(ROOT, "config", "categories.json"), "utf-8")
+    );
+    const allIds = realCats.categories.map((c) => c.id);
+
+    const searchQueries = JSON.parse(
+      fs.readFileSync(path.join(ROOT, "config", "search-queries.json"), "utf-8")
+    );
+    const configuredIds = new Set(Object.keys(searchQueries.queries));
+
+    const missing = allIds.filter((id) => !configuredIds.has(id));
+    assert.equal(
+      missing.length, 0,
+      `以下分类缺少搜索配置: ${missing.join(", ")}`
+    );
+  });
+
+  test("每个搜索配置都引用了已定义的分类", () => {
+    const realCats = JSON.parse(
+      fs.readFileSync(path.join(ROOT, "config", "categories.json"), "utf-8")
+    );
+    const validIds = new Set(realCats.categories.map((c) => c.id));
+
+    const searchQueries = JSON.parse(
+      fs.readFileSync(path.join(ROOT, "config", "search-queries.json"), "utf-8")
+    );
+    const unknown = Object.keys(searchQueries.queries).filter((id) => !validIds.has(id));
+    assert.equal(
+      unknown.length, 0,
+      `搜索配置引用了不存在的分类: ${unknown.join(", ")}`
+    );
+  });
+});
+
+// ─────────────────────────────────────────────
+//  9. 导航表格格式验证
 // ─────────────────────────────────────────────
 
 describe("导航表格", () => {
@@ -292,5 +332,56 @@ describe("导航表格", () => {
     // 验证第一行有 5 个竖线（4 列）
     const colCount = (tableLines[0].match(/\|/g) || []).length;
     assert.equal(colCount, 5, `导航表格列数不对。期望 4 列(5竖线)，实际 ${colCount - 1} 列`);
+  });
+});
+
+// ─────────────────────────────────────────────
+//  10. isNewRepo — 7 天新增判断
+// ─────────────────────────────────────────────
+
+describe("isNewRepo", () => {
+  const lastUpdated = "2026-06-08";
+  const baseline = { _baseline: "2026-06-01" };
+
+  test("基线日期的存量项目 → 不算新", () => {
+    const data = { ...baseline, "owner/repo": "2026-06-01" };
+    assert.equal(isNewRepo("owner/repo", data, lastUpdated), false);
+  });
+
+  test("7 天内新增的项目 → 算新", () => {
+    const data = { ...baseline, "owner/repo": "2026-06-05" };
+    assert.equal(isNewRepo("owner/repo", data, lastUpdated), true);
+  });
+
+  test("恰好 7 天前新增的项目 → 算新（含边界）", () => {
+    const data = { ...baseline, "owner/repo": "2026-06-01" };
+    assert.equal(isNewRepo("owner/repo", data, lastUpdated), false);
+  });
+
+  test("超过 7 天的新增 → 不算新", () => {
+    const data = { ...baseline, "owner/repo": "2026-05-25" };
+    assert.equal(isNewRepo("owner/repo", data, lastUpdated), false);
+  });
+
+  test("没有 firstSeen 记录 → 不算新", () => {
+    const data = { ...baseline };
+    assert.equal(isNewRepo("unknown/repo", data, lastUpdated), false);
+  });
+
+  test("没有 baseline → 不算新", () => {
+    const data = { "owner/repo": "2026-06-05" };
+    assert.equal(isNewRepo("owner/repo", data, lastUpdated), false);
+  });
+
+  test("lastUpdated 早于 firstSeen（异常数据）→ 不算新", () => {
+    const data = { ...baseline, "owner/repo": "2026-06-10" };
+    assert.equal(isNewRepo("owner/repo", data, "2026-06-08"), false);
+  });
+
+  test("同一 repo 在不同数据中结果不同", () => {
+    const old = { ...baseline, "repo/a": "2026-06-01" };
+    const fresh = { ...baseline, "repo/a": "2026-06-07" };
+    assert.equal(isNewRepo("repo/a", old, lastUpdated), false);
+    assert.equal(isNewRepo("repo/a", fresh, lastUpdated), true);
   });
 });
