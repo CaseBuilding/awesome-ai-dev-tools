@@ -145,5 +145,18 @@
     "changes": {
       "docs/decisions/ADR-001.md": "新建架构决策记录"
     }
+  },
+  {
+    "date": "2026-06-01",
+    "type": "feature",
+    "reason": "新增 🎬 视频处理/生成 分类（第11类），topic: video-editing/processing/generation/enhancement/tools, stars:>=5000",
+    "changed_by": "CaseBuilding 提出 + Reasonix 实施",
+    "changes": {
+      "config/categories.json": "新增 video-processing 分类定义",
+      "config/search-queries.json": "新增 video-processing 搜索配置",
+      "config/nav-groups.json": "video-processing 加入 AI 工具方向导航组",
+      "docs/REQUIREMENTS.md": "更新分类表、导航模板、导航分组说明",
+      "docs/specs/video-processing-category.md": "新增实施规范文档"
+    }
   }
 ]

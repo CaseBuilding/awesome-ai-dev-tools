@@ -37,3 +37,6 @@
 - **`scripts/classify.js` reads global `categories` from module scope** — `autoClassify(repo, cats)` accepts it as a param for testing, but `main()` uses the module-level variable
 - **`navGroups` mapping in `config/nav-groups.json`** — adding a new category to `categories.json` requires adding it here too, or it won't appear in the navigation table (test `导航分组一致性` catches this)
 - **`config/search-queries.json` uses comma-OR syntax** — `topic:ai-agent,coding-agent` not `topic:ai-agent OR topic:coding-agent` (GitHub Search API syntax constraint)
+
+## User preferences
+- **Confirm before acting** — Every request must be clarified via `interview-me` before execution. Write hypothesis + confidence, ask one question with a guess attached, wait for explicit confirmation. Exception: pure info queries, mechanical operations, or explicit "just do it."
