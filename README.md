@@ -2,6 +2,8 @@
 
 > 热门 AI 开发者工具合集 · **498** 个项目 · 每周日自动更新
 
+👉 **[在线浏览](https://casebuilding.github.io/awesome-ai-dev-tools/)** — 搜索、筛选、按分类浏览（Web UI）
+
 ## 📊 统计
 
 | 分类 | 数量 | | 分类 | 数量 |
