@@ -325,6 +325,8 @@ topic:ai-agent,coding-agent,code-assistant stars:>=5000
 | `data/chinese_descriptions.json` | 自动生成 | 中文描述缓存 |
 | `data/manual_overrides.json` | 你编辑 | 手动修正分类 + add_missing |
 | `data/watched.json` | 你编辑 | 我的关注列表 |
+| `data/pending_ai_review.json` | 自动生成 | AI 待分类队列 |
+| `docs/index.html` | 自动生成 | Web UI 页面（GitHub Pages）|
 
 ---
 
@@ -398,9 +400,11 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 - **脚本语言:** Node.js (ES Modules)
 - **运行环境:** GitHub Actions (Ubuntu)
 - **GitHub SDK:** `@octokit/rest`
-- **搜索方式:** `GET /search/repositories` (topic 标签)
+- **搜索方式:** `GET /search/repositories` (topic 标签 + description 搜索 + 通配扫描)
+- **Web 框架:** 无（纯 HTML + CSS + JS 内联，单文件）
+- **部署方式:** GitHub Pages（`docs/` 目录）
 - **数据格式:** JSON
-- **输出产物:** `README.md`
+- **输出产物:** `README.md` + `docs/index.html` (Web UI)
 
 ---
 
@@ -514,6 +518,20 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 | F53 | **增量数据记录** | 记录新项目的 `first_seen` 日期（同 fetch-repos.js） |
 | F54 | **触发方式** | 月度 CI（`update-monthly.yml`，每月 1 日 UTC 0:00），支持 `workflow_dispatch` |
 | F55 | **不生成 README** | 通配扫描仅更新 `data/repos.json` 和 `data/classified.json`，不运行 `generate-readme.js`（由每周 CI 处理） |
+
+### 14.7 generate-site.js — Web UI 生成
+
+| # | 需求 | 详细说明 |
+|---|------|---------|
+| F56 | **读取数据** | 读取 `data/classified.json`、`data/repos.json`、`data/chinese_descriptions.json`、`data/first_seen.json`、`config/categories.json` |
+| F57 | **生成独立页面** | 输出自包含 `docs/index.html`，所有 CSS/JS 内联，单文件无外部依赖 |
+| F58 | **搜索功能** | 实时搜索项目名、英文描述、中文描述 |
+| F59 | **筛选功能** | 按分类（药丸按钮）、按编程语言过滤 |
+| F60 | **排序** | 支持按 Stars 降序和名称 A-Z 排序 |
+| F61 | **本周新增** | 标记 7 天内首次入库的项目（`first_seen.json`），首页顶部展示新增专区，点药丸可只看新项目 |
+| F62 | **深色模式** | 自动跟随系统主题，支持手动切换（保存到 localStorage） |
+| F63 | **分类折叠** | 每个分类可点击折叠/展开 |
+| F64 | **部署方式** | GitHub Pages 从 `docs/` 目录发布，CI 自动生成 |
 
 ---
 

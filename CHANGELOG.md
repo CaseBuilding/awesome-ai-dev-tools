@@ -204,5 +204,19 @@
       ".github/workflows/update.yml": "新增 generate-site.js 步骤，web-ui/index.html 加入 git 追踪",
       "CLAUDE.md": "更新数据管道图（新增 generate-site.js → web-ui/index.html），新增命令和关键文件说明"
     }
+  },
+  {
+    "date": "2026-06-02",
+    "type": "fix",
+    "reason": "Web UI 输出目录改为 docs/ 以兼容 GitHub Pages、修复统计数量不对和日期不显示、修复 JS 引号冲突导致页面空白",
+    "changed_by": "CaseBuilding 提出 + Reasonix 修复",
+    "changes": {
+      "scripts/generate-site.js": "输出目录 web-ui/ → docs/；header 显示 last_updated 日期；修复 JS 单/双引号混用导致语法错误；inline onclick 改为事件委托",
+      "scripts/generate-readme.js": "合计行从 stats.classified(396) 改为 stats.total(498)",
+      "test/classify.test.js": "更新合计行断言从 classified → total",
+      ".github/workflows/update.yml": "git add web-ui/ → docs/",
+      ".gitignore": "新增 web-ui-demo/、遗留数据文件（all_repos.txt、uncertain*.json）",
+      "CLAUDE.md": "更新 pipeline 图从 web-ui 到 docs，新增 generate-site 命令说明"
+    }
   }
 ]
