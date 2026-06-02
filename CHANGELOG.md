@@ -192,5 +192,17 @@
       "test/fetch.test.js": "新建：desc 搜索查询生成测试（6 个）",
       "docs/REQUIREMENTS.md": "更新 §6 三通道搜索、§7.5 AI 辅助分类、§14 功能需求（新增 F21/F43-F55）、§21/§24"
     }
+  },
+  {
+    "date": "2026-06-02",
+    "type": "feature",
+    "reason": "新增 Web UI（web-ui/index.html），支持搜索/筛选/分类浏览/深色模式；CI 自动生成",
+    "changed_by": "CaseBuilding 提出 + Reasonix 实现",
+    "changes": {
+      "scripts/generate-site.js": "新建：读取 classified.json 生成完整 Web UI 页面，数据嵌入 HTML，单文件无依赖",
+      "web-ui/index.html": "新建：自动生成的 Web UI 页面（搜索、语言/分类筛选、排序、本周新增、深色模式）",
+      ".github/workflows/update.yml": "新增 generate-site.js 步骤，web-ui/index.html 加入 git 追踪",
+      "CLAUDE.md": "更新数据管道图（新增 generate-site.js → web-ui/index.html），新增命令和关键文件说明"
+    }
   }
 ]
