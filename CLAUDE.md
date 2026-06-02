@@ -21,6 +21,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ESM-only Node.js project (`"type": "module"`, Node 20+). Single dependency: `@octokit/rest` for GitHub API. Tests use built-in `node:test` + `node:assert` — no test framework.
 
+### Environment
+
+- **`GITHUB_TOKEN`** — 已设置环境变量，用于 GitHub API 搜索和 git push 认证。
+  - API 搜索：`fetch-repos.js` 和 `fetch-wildcard.js` 自动使用
+  - git push：需要用 `git remote set-url origin https://CaseBuilding:${GITHUB_TOKEN}@github.com/CaseBuilding/awesome-ai-dev-tools.git` 临时注入 token，推送完立即 `git remote set-url origin https://github.com/CaseBuilding/awesome-ai-dev-tools.git` 移除（不要将 token 值写入任何文件）
+
 ### Data Pipeline
 
 ```
