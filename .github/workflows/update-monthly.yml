@@ -1,8 +1,8 @@
-name: Update README
+name: Monthly Wildcard Update
 
 on:
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 
 permissions:
@@ -26,21 +26,18 @@ jobs:
       - name: Run tests
         run: npm test
 
-      - name: Fetch repos from GitHub API
-        run: node scripts/fetch-repos.js
+      - name: Wildcard sweep (Channel 3)
+        run: node scripts/fetch-wildcard.js
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
       - name: Classify repos
         run: node scripts/classify.js
 
-      - name: Generate README
-        run: node scripts/generate-readme.js
-
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md data/repos.json data/classified.json data/pending_ai_review.json data/first_seen.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update README $(date +'%Y-%m-%d')"
+          git add data/repos.json data/classified.json data/pending_ai_review.json data/first_seen.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: monthly wildcard update $(date +'%Y-%m-%d')"
           git push

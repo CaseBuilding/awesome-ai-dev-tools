@@ -17,6 +17,7 @@ const ROOT = path.resolve(__dirname, "..");
 
 import { autoClassify, applyOverrides } from "../scripts/classify.js";
 import { formatStars, anchorName, isNewRepo } from "../scripts/generate-readme.js";
+import { mergeSources, sourcePriorityOf } from "../scripts/source-priority.js";
 
 // ── 加载 fixture ──
 const categories = JSON.parse(
@@ -149,7 +150,86 @@ describe("anchorName", () => {
 });
 
 // ─────────────────────────────────────────────
-//  5. 导航分组一致性 — 与真实配置对比
+//  5. Source priority merge — _source 优先级合并
+// ─────────────────────────────────────────────
+
+describe("sourcePriorityOf", () => {
+  test("add_missing → 10", () => {
+    assert.equal(sourcePriorityOf("add_missing"), 10);
+  });
+  test("topic_search → 8", () => {
+    assert.equal(sourcePriorityOf("topic_search"), 8);
+  });
+  test("desc_search → 5", () => {
+    assert.equal(sourcePriorityOf("desc_search"), 5);
+  });
+  test("wildcard → 2", () => {
+    assert.equal(sourcePriorityOf("wildcard"), 2);
+  });
+  test("undefined → 8（遗留数据降级为 topic 级别）", () => {
+    assert.equal(sourcePriorityOf(undefined), 8);
+  });
+  test("unknown source → 8", () => {
+    assert.equal(sourcePriorityOf("unknown"), 8);
+  });
+});
+
+describe("mergeSources", () => {
+  test("高优先级覆盖低优先级", () => {
+    const existing = [{ full_name: "a/b", stars: 100, _source: "topic_search" }];
+    const newData = [{ full_name: "a/b", stars: 200, _source: "wildcard" }];
+    const result = mergeSources(existing, newData);
+    // wildcard(2) < topic_search(8), 保留原有的
+    assert.equal(result.length, 1);
+    assert.equal(result[0].stars, 100);
+  });
+
+  test("低优先级不覆盖高优先级", () => {
+    const existing = [{ full_name: "a/b", stars: 100, _source: "wildcard" }];
+    const newData = [{ full_name: "a/b", stars: 200, _source: "topic_search" }];
+    const result = mergeSources(existing, newData);
+    // topic_search(8) > wildcard(2), 新数据覆盖
+    assert.equal(result.length, 1);
+    assert.equal(result[0].stars, 200);
+  });
+
+  test("同优先级新胜旧", () => {
+    const existing = [{ full_name: "a/b", stars: 100, _source: "topic_search" }];
+    const newData = [{ full_name: "a/b", stars: 200, _source: "topic_search" }];
+    const result = mergeSources(existing, newData);
+    assert.equal(result.length, 1);
+    assert.equal(result[0].stars, 200);
+  });
+
+  test("遗留数据（无 _source）视为 topic_search 级别", () => {
+    const existing = [{ full_name: "a/b", stars: 100 }];
+    const newData = [{ full_name: "a/b", stars: 200, _source: "wildcard" }];
+    const result = mergeSources(existing, newData);
+    // legacy(8) > wildcard(2), 保留原有的
+    assert.equal(result.length, 1);
+    assert.equal(result[0].stars, 100);
+  });
+
+  test("合并不同项目", () => {
+    const existing = [{ full_name: "a/b", stars: 100 }];
+    const newData = [{ full_name: "c/d", stars: 200, _source: "wildcard" }];
+    const result = mergeSources(existing, newData);
+    assert.equal(result.length, 2);
+  });
+
+  test("按 stars 降序排列", () => {
+    const existing = [
+      { full_name: "a/a", stars: 100 },
+      { full_name: "b/b", stars: 300 },
+    ];
+    const result = mergeSources(existing, []);
+    assert.equal(result[0].full_name, "b/b");
+    assert.equal(result[1].full_name, "a/a");
+  });
+});
+
+// ─────────────────────────────────────────────
+//  6. 导航分组一致性 — 与真实配置对比
 // ─────────────────────────────────────────────
 
 describe("导航分组一致性", () => {

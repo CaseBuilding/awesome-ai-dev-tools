@@ -1,0 +1,58 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+**awesome-ai-dev-tools** — Automated curated list of popular AI developer tools on GitHub. Scrapes GitHub API weekly via GitHub Actions (three-channel search: topic + description + wildcard), classifies repos by topic/description keywords, and generates a categorized README.
+
+## Commands
+
+- `npm run fetch` — Search GitHub API (Ch1 topic + Ch2 desc), write `data/repos.json`
+- `npm run classify` — Auto-classify repos by topic/description keywords, write `data/classified.json`
+- `npm run generate` — Generate `README.md` from classified data
+- `npm run build` — Full weekly pipeline: fetch → classify → generate
+- `npm test` — Run all tests (uses `node:test`, zero external deps)
+- `node scripts/translate-desc.js` — CLI helper for AI-generated Chinese descriptions
+- `node scripts/fetch-wildcard.js` — Channel 3 wildcard sweep (top 200 by stars, monthly)
+- `node scripts/ai-classify.js` — CLI helper for AI-assisted classification (--pending/--list/--classify/--apply)
+
+## Architecture
+
+ESM-only Node.js project (`"type": "module"`, Node 20+). Single dependency: `@octokit/rest` for GitHub API. Tests use built-in `node:test` + `node:assert` — no test framework.
+
+### Data Pipeline
+
+```
+config/search-queries.json ──→ scripts/fetch-repos.js ──→ data/repos.json  (Ch1 topic + Ch2 desc, weekly)
+config/categories.json     ──→ scripts/classify.js     ──→ data/classified.json
+data/manual_overrides.json ──→ scripts/classify.js (applies overrides + add_missing)
+scripts/fetch-wildcard.js  ──→ data/repos.json (Ch3 wildcard, monthly)
+data/classified.js         ──→ scripts/generate-readme.js ──→ README.md
+data/classified.js         ──→ data/pending_ai_review.json (unclassified Ch2/Ch3 repos)
+scripts/ai-classify.js     ──→ data/manual_overrides.json (--apply)
+scripts/source-priority.js — shared merge logic for all fetch scripts
+```
+
+Pipeline runs weekly via GitHub Actions (`.github/workflows/update.yml`, cron `0 0 * * 0`) and monthly via `.github/workflows/update-monthly.yml` (cron `0 0 1 * *`). Both support `workflow_dispatch` for manual trigger.
+
+### Key Files
+
+- **`config/categories.json`** — 11 category definitions with `match.topics` and `match.desc_keywords` arrays, plus `priority` (1-10) for disambiguation
+- **`config/search-queries.json`** — GitHub Search API queries per category, using comma-OR syntax (`topic:ai-agent,coding-agent` not `topic:ai-agent OR topic:coding-agent`)
+- **`config/nav-groups.json`** — Navigation table groupings; adding a category requires an entry here or test catches it
+- **`data/manual_overrides.json`** — Hand-edited overrides and `add_missing`. Do NOT edit `data/repos.json` or `data/classified.json` (regenerated every run)
+- **`data/watched.json`** — Projects flagged for README "My Watchlist" section
+- **`data/pending_ai_review.json`** — Auto-generated queue for AI-assisted classification (Ch2/Ch3 unclassified repos)
+- **`scripts/source-priority.js`** — Shared merge logic: source priority ordering and `mergeSources()`
+
+### Conventions
+
+- **Test exports** — Pure functions (`autoClassify`, `applyOverrides`, `formatStars`, `anchorName`, `isNewRepo`) are exported from scripts and tested. Export any new pure function you want tested.
+- **`isMain` guard** — Scripts that run `main()` use `process.argv[1] === fileURLToPath(import.meta.url)` so tests can import without side effects
+- **CHANGELOG.md** — JSON array, append-only. Every config/script/doc change gets a record
+- **Classifier priority** — When a repo matches multiple categories, the one with highest `priority` wins. Topic matches (confidence: "high") beat description-only matches (confidence: "low")
+- **Source priority** — When a repo appears from multiple search channels, `source-priority.js` decides: add_missing(10) > topic_search(8) > desc_search(5) > wildcard(2). Legacy repos without `_source` default to 8.
+- **"🆕" badge** — Projects first seen within the last 7 days get a badge in the README. Tracked via `data/repos.json` per-repo `firstSeen` field
+- **Config-driven** — Change classification rules in JSON, not in scripts
+- **Pending AI review** — Unclassified repos from desc_search/wildcard go to `data/pending_ai_review.json`. Process them with `node scripts/ai-classify.js --apply <file>` after AI review.

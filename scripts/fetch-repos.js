@@ -11,6 +11,7 @@ import { Octokit } from "@octokit/rest";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { mergeSources } from "./source-priority.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -83,6 +84,7 @@ async function main() {
       console.log(`    → ${query}`);
       const repos = await searchRepos(query, config.max_results);
       for (const repo of repos) {
+        repo._source = "topic_search";
         if (seen.has(repo.full_name)) continue;
         seen.add(repo.full_name);
         newRepos.push(repo);
@@ -91,7 +93,28 @@ async function main() {
     }
   }
 
-  // ── 第 2 步：手动补充项目（没有 topic 标签的） ──
+  // ── 第 2 步：Channel 2 — description 关键词搜索 ──
+  console.log("\n  [Description Search]");
+  for (const [categoryId, config] of Object.entries(searchQueries.queries)) {
+    const catDef = categories.find((c) => c.id === categoryId);
+    const keywords = catDef?.match?.desc_keywords;
+    if (!keywords || keywords.length === 0) continue;
+
+    const quoted = keywords.map((kw) => `"${kw}"`);
+    const queryStr = `${quoted.join(" OR ")} in:description,readme stars:>=5000`;
+    console.log(`    [${catDef.name}] → description search`);
+
+    const repos = await searchRepos(queryStr, config.max_results);
+    for (const repo of repos) {
+      repo._source = "desc_search";
+      if (seen.has(repo.full_name)) continue;
+      seen.add(repo.full_name);
+      newRepos.push(repo);
+    }
+    await new Promise((r) => setTimeout(r, 2500));
+  }
+
+  // ── 第 3 步（A）：手动补充项目（没有 topic 标签的） ──
   const overrides = JSON.parse(
     fs.readFileSync(path.join(ROOT, "data", "manual_overrides.json"), "utf-8")
   );
@@ -114,6 +137,7 @@ async function main() {
           stars: data.stargazers_count,
           language: data.language || "",
           html_url: data.html_url,
+          _source: "add_missing",
         };
         newRepos.push(repo);
         seen.add(fullName);
@@ -125,7 +149,7 @@ async function main() {
     }
   }
 
-  // ── 第 3 步：合并已有缓存（增量更新，保留历史） ──
+  // ── 第 4 步：合并已有缓存（按来源优先级合并） ──
   let existingRepos = [];
   try {
     const existing = JSON.parse(
@@ -141,21 +165,12 @@ async function main() {
   console.log(`\n📊 已有缓存: ${existingRepos.length} 个项目`);
   console.log(`   新搜索到: ${newRepos.length} 个项目`);
 
-  // 合并：新搜索的覆盖旧数据，旧数据中没有被覆盖的保留
-  const merged = new Map();
-  for (const repo of existingRepos) {
-    merged.set(repo.full_name, repo);
-  }
-  for (const repo of newRepos) {
-    merged.set(repo.full_name, repo);
-  }
-
-  const finalRepos = Array.from(merged.values());
-  finalRepos.sort((a, b) => b.stars - a.stars);
+  // 按来源优先级合并（add_missing > topic_search > desc_search > wildcard）
+  const finalRepos = mergeSources(existingRepos, newRepos);
 
   const added = finalRepos.length - existingRepos.length;
 
-  // ── 第 3.5 步：记录新项目的首次入库日期 ──
+  // ── 第 5 步：记录新项目的首次入库日期 ──
   const firstSeenPath = path.join(ROOT, "data", "first_seen.json");
   let firstSeen = {};
   try {
@@ -183,7 +198,7 @@ async function main() {
     fs.writeFileSync(firstSeenPath, JSON.stringify(firstSeen, null, 2));
   }
 
-  // ── 第 4 步：写入 ──
+  // ── 第 6 步：写入 ──
   const output = {
     _说明: "此文件由 scripts/fetch-repos.js 自动生成。已有项目持续保留，新的追加。",
     last_updated: new Date().toISOString(),

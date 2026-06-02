@@ -173,5 +173,24 @@
       "docs/specs/new-repo-badge.md": "新增实施规范文档",
       "docs/decisions/ADR-002.md": "新增架构决策记录"
     }
+  },
+  {
+    "date": "2026-06-02",
+    "type": "feature",
+    "reason": "实现三通道搜索策略（Ch1 topic + Ch2 desc + Ch3 wildcard）和 AI 辅助分类流程，提升搜索覆盖率",
+    "changed_by": "CaseBuilding 提出 + Reasonix 设计实施",
+    "changes": {
+      "scripts/source-priority.js": "新建：来源优先级排序与合并逻辑（add_missing > topic > desc > wildcard）",
+      "scripts/fetch-repos.js": "新增 Channel 2 desc 搜索（从 desc_keywords 自动生成查询），_source 标记，mergeSources 合并",
+      "scripts/fetch-wildcard.js": "新建：Channel 3 通配扫描（stars:>=5000 Top 200），月度运行",
+      "scripts/classify.js": "保留 _source 标记；desc_search/wildcard 未分类写入 pending_ai_review.json",
+      "scripts/ai-classify.js": "新建：AI 辅助分类 CLI（--pending/--list/--classify/--apply）",
+      "data/pending_ai_review.json": "新建：AI 待分类队列",
+      ".github/workflows/update-monthly.yml": "新建：月度通配搜索工作流",
+      ".github/workflows/update.yml": "添加 npm test 步骤；跟踪 classified.json 和 pending_ai_review.json",
+      "test/classify.test.js": "新增 sourcePriorityOf、mergeSources 测试（12 个）",
+      "test/fetch.test.js": "新建：desc 搜索查询生成测试（6 个）",
+      "docs/REQUIREMENTS.md": "更新 §6 三通道搜索、§7.5 AI 辅助分类、§14 功能需求（新增 F21/F43-F55）、§21/§24"
+    }
   }
 ]

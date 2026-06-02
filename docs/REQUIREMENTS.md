@@ -167,7 +167,17 @@
 
 ## 6. 搜索策略
 
-### 6.1 自动搜索
+采用三通道搜索策略，互为补充覆盖不同来源：
+
+| 通道 | 频率 | 行为 | 优先级 |
+|:----:|:----:|------|:------:|
+| **Ch1: Topic 搜索** | 每周 | `topic:xxx,yyy stars:>=5000` | `topic_search` (8) |
+| **Ch2: 描述搜索** | 每周 | `"keyword" in:description,readme stars:>=5000` | `desc_search` (5) |
+| **Ch3: 通配扫描** | 每月 | `stars:>=5000` Top 200，无关键词筛选 | `wildcard` (2) |
+
+三条通道的搜索结果按来源优先级合并：高优先级来源覆盖低优先级来源的同名项目。
+
+### 6.1 Channel 1 — Topic 搜索（每周）
 
 使用 GitHub Search API 的 **topic 标签搜索**，每个分类一个查询，用逗号语法表示 OR：
 
@@ -175,11 +185,41 @@
 topic:ai-agent,coding-agent,code-assistant stars:>=5000
 ```
 
-每个分类 1-4 个 topic 查询（用逗号 OR 语法），总约 10 个 API 调用，控制限速。
+每个分类 1-4 个 topic 查询（用逗号 OR 语法），总约 10 个 API 调用。结果标记 `_source: "topic_search"`。
 
-### 6.2 手动补充（add_missing）
+### 6.2 Channel 2 — 描述搜索（每周）
 
-通过 `manual_overrides.json` 的 `add_missing` 字段收录没有 topic 标签的项目。详见 [7.4 额外收录](#74-额外收录add_missing)。
+从 `config/categories.json` 的 `desc_keywords` 字段自动生成 GitHub 搜索语句：
+
+```
+"coding agent" OR "code assistant" in:description,readme stars:>=5000
+```
+
+每个分类独立搜索，关键词和分类规则共用 —— 一次维护，双向复用。结果标记 `_source: "desc_search"`。
+
+### 6.3 Channel 3 — 通配扫描（每月）
+
+无关键词筛选，直接搜索 `stars:>=5000`，按 stars 降序取 Top 200。由独立脚本 `scripts/fetch-wildcard.js` 执行，通过 `update-monthly.yml` 触发。
+
+目的：发现当前分类关键词未覆盖到的新兴项目。结果标记 `_source: "wildcard"`。
+
+### 6.4 来源优先级
+
+当一个项目同时从多个通道获取时，按来源可靠性决定保留哪个版本：
+
+| 来源 | 优先级 | 说明 |
+|:----:|:------:|------|
+| `add_missing` | 10（最高） | 手动确认收录，最可靠 |
+| 无 `_source`（遗留数据） | 8 | 视为 topic_search 级别 |
+| `topic_search` | 8 | topic 标签匹配，较可靠 |
+| `desc_search` | 5 | 描述关键词匹配，中等置信度 |
+| `wildcard` | 2 | 通配扫描，低置信度 |
+
+同优先级时新胜旧（因为新数据可能更新了 stars/description）。
+
+### 6.5 手动补充（add_missing）
+
+通过 `manual_overrides.json` 的 `add_missing` 字段收录没有 topic 标签的项目。详见 [7.4 额外收录](#74-额外收录add_missing)。结果标记 `_source: "add_missing"`，具有最高优先级。
 
 ---
 
@@ -227,18 +267,28 @@ topic:ai-agent,coding-agent,code-assistant stars:>=5000
 
 对于没有 topic 标签但有价值的项目，在 `manual_overrides.json` 的 `add_missing` 字段中列出。脚本通过 `octokit.repos.get()` 单独获取并加入合集。
 
-### 7.5 AI 辅助审查
+### 7.5 AI 辅助分类
 
-Reasonix 可读取项目的 README，判断其实际用途后更新 `manual_overrides.json`。完全无法判断的（极少）标记为 `needs_review` 展示给用户。
+对于 Channel 2 和 Channel 3 捕获但分类器无法自动匹配的项目，通过 `data/pending_ai_review.json` 队列暂存，由维护者手动触发 AI 分类。
 
 流程：
 
 ```
-1. 读取 repos.json
-2. 对不确定的项目，查看 README 和描述
-3. 确定分类 → 写入 manual_overrides.json
-4. 真正不确定的 → 展示给用户决定
+1. classify.js 自动将 desc_search/wildcard 未分类项目写入 pending_ai_review.json
+   （topic_search 和 add_missing 未分类项目仍保留在 __unclassified__）
+
+2. 维护者执行:
+     node scripts/ai-classify.js --pending
+     查看待分类项目列表
+
+3. 维护者让 Reasonix 读取 pending 列表，判断每个项目的分类
+
+4. 维护者执行:
+     node scripts/ai-classify.js --apply batch.json
+     将 AI 分类结果写入 manual_overrides.json，同时从 pending 队列移除
 ```
+
+相关脚本 `scripts/ai-classify.js` 支持 `--pending` / `--list` / `--classify` / `--apply` 四种命令模式，遵循 `translate-desc.js` 的人机协作模式。
 
 ---
 
@@ -361,16 +411,17 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 | # | 需求 | 详细说明 |
 |---|------|---------|
 | F1 | **读取搜索配置** | 从 `config/search-queries.json` 读取每个分类的查询语句和 `max_results` |
-| F2 | **执行搜索** | 调用 `octokit.search.repos()`，按 stars 降序排列 |
-| F3 | **分页控制** | 每页 100 条，最多 2 页（200 条/查询），超过停止 |
-| F4 | **Star 过滤** | 硬门槛 5,000 Stars，API 返回结果中再次验证 |
-| F5 | **去重** | 同一次运行中按 `full_name` 去重，后出现的覆盖先出现的 |
-| F6 | **跨查询去重** | 不同分类的搜索如果返回相同项目，只保留首次出现的分类标记 |
+| F2 | **Channel 1 — topic 搜索** | 执行 `config/search-queries.json` 中定义的 `topic:xxx,yyy` 查询（每周 CI） |
+| F3 | **Channel 2 — desc 搜索** | 从 `config/categories.json` 的 `desc_keywords` 自动生成 `"kw" in:description,readme` 查询并执行（每周 CI） |
+| F4 | **分页控制** | 每页 100 条，最多 2 页（200 条/查询），超过停止 |
+| F5 | **Star 过滤** | 硬门槛 5,000 Stars，API 返回结果中再次验证 |
+| F6 | **去重** | 同一次运行中按 `full_name` 去重，后出现的覆盖先出现的 |
 | F7 | **限速控制** | Search API 调用后等待 2.5 秒，add_missing 的 `repos.get()` 后等待 1 秒（Core API 额度 5,000 次/小时，1 秒足够）|
 | F8 | **手动补充** | 读取 `manual_overrides.json` 的 `add_missing` 字段，对每个项目调用 `octokit.repos.get()` 单独获取 |
-| F9 | **增量合并** | 读取已有的 `data/repos.json` 缓存，新搜索结果的同名项目覆盖旧数据，未匹配到的旧项目保留 |
-| F10 | **字段提取** | 每个项目提取 7 个字段：`full_name`, `name`, `description`, `topics`, `stars`, `language`, `html_url` |
-| F11 | **写入缓存** | 合并后的数据写入 `data/repos.json`，含 `last_updated` 时间戳 |
+| F9 | **`_source` 标记** | 每个项目按来源标记 `_source`：`topic_search` / `desc_search` / `add_missing` / `wildcard` |
+| F10 | **来源优先合并** | 使用 `scripts/source-priority.js` 的 `mergeSources`，按来源优先级合并新旧数据（高优覆盖低优，同优新胜旧） |
+| F11 | **字段提取** | 每个项目提取 8 个字段：`full_name`, `name`, `description`, `topics`, `stars`, `language`, `html_url`, `_source` |
+| F12 | **写入缓存** | 合并后的数据写入 `data/repos.json`，含 `last_updated` 时间戳 |
 
 **错误处理：**
 
@@ -386,14 +437,15 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 
 | # | 需求 | 详细说明 |
 |---|------|---------|
-| F12 | **读取数据** | 从 `data/repos.json`、`config/categories.json`、`data/manual_overrides.json` 读取 |
-| F13 | **关键词匹配** | 将项目的 `topics` 数组与每个分类的 `match.topics` 列表逐项匹配（不区分大小写，完全匹配） |
-| F14 | **降级匹配** | 如果 topics 未命中，将项目 `description` 转为小写，与 `match.desc_keywords` 列表做子串匹配 |
-| F15 | **优先级裁决** | 如果命中多个分类，按 `priority` 从高到低排序，只保留最高优先级的分类 |
-| F16 | **手动覆盖** | 如果项目在 `manual_overrides.json` 的 `overrides` 中，忽略自动分类结果 |
-| F17 | **应用覆盖** | `category: "xxx"` → 强制归入指定分类；`hidden: true` → 不归入任何分类 |
-| F18 | **标注来源** | 每个分类结果附带 `_confidence`（high/low）、`_overridden`（true/false）标记 |
-| F19 | **输出分类结果** | 写入 `data/classified.json`，包含每个分类的项目列表、未分类列表、统计数据 |
+| F13 | **读取数据** | 从 `data/repos.json`、`config/categories.json`、`data/manual_overrides.json` 读取 |
+| F14 | **关键词匹配** | 将项目的 `topics` 数组与每个分类的 `match.topics` 列表逐项匹配（不区分大小写，完全匹配） |
+| F15 | **降级匹配** | 如果 topics 未命中，将项目 `description` 转为小写，与 `match.desc_keywords` 列表做子串匹配 |
+| F16 | **优先级裁决** | 如果命中多个分类，按 `priority` 从高到低排序，只保留最高优先级的分类 |
+| F17 | **手动覆盖** | 如果项目在 `manual_overrides.json` 的 `overrides` 中，忽略自动分类结果 |
+| F18 | **应用覆盖** | `category: "xxx"` → 强制归入指定分类；`hidden: true` → 不归入任何分类 |
+| F19 | **标注来源** | 每个分类结果附带 `_confidence`（high/low）、`_overridden`（true/false）、`_source`（搜索来源）标记 |
+| F20 | **输出分类结果** | 写入 `data/classified.json`，包含每个分类的项目列表、未分类列表、统计数据 |
+| F21 | **待分类队列** | desc_search 和 wildcard 来源的未分类项目写入 `data/pending_ai_review.json`；topic_search 和 add_missing 的未分类项目保留在 `__unclassified__` |
 
 **分类优先级匹配规则示例：**
 
@@ -427,18 +479,41 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 | F33 | **分隔线** | 每个项目之间用 `---` 分隔 |
 | F34 | **写入 README** | 输出到 `README.md` |
 
-### 14.4 GitHub Actions 工作流
+### 14.4 GitHub Actions 工作流（每周）
 
 | # | 需求 | 详细说明 |
 |---|------|---------|
 | F35 | **触发方式** | `schedule`（每周日 UTC 0:00）+ `workflow_dispatch`（手动触发） |
 | F36 | **运行环境** | `ubuntu-latest`，Node.js 20 |
-| F37 | **依赖安装** | `npm ci` |
-| F38 | **执行顺序** | `fetch-repos.js` → `classify.js` → `generate-readme.js` |
-| F39 | **自动提交** | 检测 `README.md` 或 `data/repos.json` 是否有变更，有则 commit + push |
+| F37 | **依赖安装** | `npm ci`，然后执行 `npm test` 确保质量 |
+| F38 | **执行顺序** | `fetch-repos.js`（Ch1 + Ch2）→ `classify.js` → `generate-readme.js` |
+| F39 | **自动提交** | 检测 `README.md`、`data/repos.json`、`data/classified.json`、`data/pending_ai_review.json`、`data/first_seen.json` 是否有变更，有则 commit + push |
 | F40 | **提交信息** | `chore: auto-update README YYYY-MM-DD` |
 | F41 | **Git 配置** | 使用 `github-actions[bot]` 身份提交 |
 | F42 | **Token 权限** | `contents: write`，搜索使用的 Token 通过 `secrets.TOKEN` 传入（需要用户在 GitHub Secrets 中配置） |
+
+### 14.5 ai-classify.js — AI 辅助分类
+
+| # | 需求 | 详细说明 |
+|---|------|---------|
+| F43 | **CLI 接口** | 支持四种命令模式：`--pending` / `--list` / `--classify` / `--apply` |
+| F44 | **查看待分类** | `--pending` 列出 `data/pending_ai_review.json` 中所有待分类项目及其描述、stars、来源 |
+| F45 | **批量输出** | `--list` 以 JSON 数组格式输出待分类列表（含完整描述和 topics），供 AI 批量判断 |
+| F46 | **单条查看** | `--classify <repo>` 输出单个项目的完整信息，附带可用分类列表，供 AI 逐条判断 |
+| F47 | **批量导入** | `--apply <file>` 从 JSON 文件读取 AI 分类结果，写入 `data/manual_overrides.json` 的 overrides，同时从 pending 队列移除 |
+| F48 | **分类验证** | `--apply` 时验证分类 ID 是否在 `config/categories.json` 中存在；无效分类跳过并警告 |
+| F49 | **数据流向** | 读取 `data/pending_ai_review.json`，写入 `data/manual_overrides.json`（overrides）和 `data/pending_ai_review.json`（清空已处理项目） |
+
+### 14.6 fetch-wildcard.js — Channel 3 通配扫描
+
+| # | 需求 | 详细说明 |
+|---|------|---------|
+| F50 | **搜索执行** | 执行单条查询 `stars:>=5000`，按 stars 降序取 Top 200 |
+| F51 | **来源标记** | 所有结果标记 `_source: "wildcard"` |
+| F52 | **来源优先合并** | 读取 `data/repos.json` 现有缓存，使用 `mergeSources` 按来源优先级合并（wildcard 优先级最低，不会覆盖 topic/desc 来源的已有数据）|
+| F53 | **增量数据记录** | 记录新项目的 `first_seen` 日期（同 fetch-repos.js） |
+| F54 | **触发方式** | 月度 CI（`update-monthly.yml`，每月 1 日 UTC 0:00），支持 `workflow_dispatch` |
+| F55 | **不生成 README** | 通配扫描仅更新 `data/repos.json` 和 `data/classified.json`，不运行 `generate-readme.js`（由每周 CI 处理） |
 
 ---
 
@@ -763,13 +838,15 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 
 ### 21.1 在范围内（In Scope）
 
-- 基于 GitHub topic 搜索的自动化项目收集
-- 关键词 + 优先级自动分类（10 个类别）
+- 基于三通道搜索（topic + description + wildcard）的自动化项目收集
+- 关键词 + 优先级自动分类（11 个类别）
 - 手动分类修正和隐藏（`manual_overrides.json`）
+- 按来源优先级合并（`source-priority.js`）
 - 按 Star 排序 + 精选/全部两级 README 展示
 - 中文描述自动抓取（精选项目）
 - 增量更新（已有项目持续保留）
-- GitHub Actions 每周自动运行
+- GitHub Actions 每周自动运行 + 月度通配扫描
+- AI 辅助分类队列（`pending_ai_review.json` + `ai-classify.js`）
 - 我的关注（`watched.json` 独立展示）
 - CHANGELOG 审计追踪
 
@@ -778,7 +855,7 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 - 不是 AI 工具搜索引擎（仅做合集展示，不做搜索功能）
 - 不是 SaaS 平台（无后端服务、无数据库、无用户系统）
 - 不是社区驱动的合集（不接受 PR 提交项目，仅维护者管理）
-- 不做 AI 分类（使用关键词匹配，不使用 LLM 做分类决策）
+- 自动分类使用关键词匹配，AI 辅助分类用于人工确认阶段（不在 CI 中自动运行）
 - 不做代码分析（只读 GitHub metadata，不 clone 仓库分析代码）
 - 不保证中文描述的完整性和准确性（自动抓取，不人工翻译）
 - 不是实时更新（每周一次快照）
@@ -811,7 +888,7 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 | Q3 | 当前 10 个分类是否够用？ | ✅ **已扩展至 11 个分类** | 新工具类别出现时再评估 |
 | Q4 | 是否要支持社区提交项目？ | ✅ **暂不支持**，不开放 PR 提交 | 可考虑 issue 模板接收建议 |
 | Q5 | README 是否要中英双语？ | ✅ **改为中英双语**（若原项目有英文描述则直接使用，若缺少则由 AI 后续补充） | 需在 generate-readme.js 中增加英文描述兜底逻辑，并将此作为 v1.2 或 v2.0 任务 |
-| Q6 | 是否需要测试脚本？ | ✅ **已有 31 个自动化测试确保质量** | 持续补充 |
+| Q6 | 是否需要测试脚本？ | ✅ **已有 57 个自动化测试确保质量** | 持续补充 |
 
 ---
 
@@ -820,9 +897,10 @@ AI 翻译**不进 GitHub Actions**，由维护者手动触发 Reasonix 执行：
 | 阶段 | 目标 | 状态 | 时间 |
 |------|------|------|------|
 | **v1.0** | 基础功能：搜索→分类→生成 README 全链路跑通，11 个分类，370 项目 | ✅ 已完成 | 2026-05 |
-| **v1.1** | Bug 修复：精选去重、死代码清理、文档编号修正 | 🔄 当前迭代 | 2026-06 |
-| **v1.2** | 中英双语 README + 质量提升：AI 补充缺失中文描述、分类稳定性检查、误报率评估、搜索查询优化 | 📋 计划中 | 2026-06 |
-| **v1.3** | 中英双语完善：README 展示结构调整为双语对照，导航/统计/页脚同步中英 | 📋 候选 | 2026-07 |
+| **v1.1** | Bug 修复：精选去重、死代码清理、文档编号修正 | ✅ 已完成 | 2026-06 |
+| **v1.2** | 中英双语 README + 质量提升：AI 补充缺失中文描述、测试体系建立（39 个测试）、新项目 🆕 标记 | ✅ 已完成 | 2026-06 |
+| **v1.3** | **三通道搜索 + AI 辅助分类**：Channel 2 描述搜索、Channel 3 通配扫描、来源优先级合并、AI 待分类队列 | 🔄 当前迭代 | 2026-06 |
+| **v1.4** | 中英双语完善：README 展示结构调整为双语对照，导航/统计/页脚同步中英 | 📋 候选 | 2026-07 |
 
 ---
 

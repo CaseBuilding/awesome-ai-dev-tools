@@ -32,6 +32,8 @@ const overrides = JSON.parse(
 const categories = categoriesConfig.categories;
 const unclassifiedCategory = categoriesConfig.unclassified_category;
 
+const PENDING_AI_REVIEW_PATH = path.join(ROOT, "data", "pending_ai_review.json");
+
 /**
  * 对单个项目执行自动分类
  * 返回 { matched: [分类ID], confidence: "high"|"low" }
@@ -115,7 +117,13 @@ function main() {
         hidden.push(repo.full_name);
       } else {
         unclassified.push(repo);
-        classified["__unclassified__"].push(repo);
+        // desc_search 和 wildcard 未分类项目 → 走 AI 辅助分类，不进展示区
+        if (repo._source === "desc_search" || repo._source === "wildcard") {
+          // 不加入 __unclassified__（由 pending_ai_review.json 处理）
+        } else {
+          // topic_search / add_missing / legacy（无 _source）→ 常规未分类
+          classified["__unclassified__"].push(repo);
+        }
       }
       continue;
     }
@@ -146,6 +154,48 @@ function main() {
   console.log(`  📂 未分类: ${unclassified.length} 个项目`);
   if (hidden.length > 0) console.log(`  🙈 已隐藏: ${hidden.length} 个项目`);
   console.log(`\n✅ 分类完成！共处理 ${repos.length} 个项目`);
+
+  // ── 写入 pending_ai_review.json（desc_search/wildcard 未分类项目） ──
+  const pendingForReview = unclassified.filter(
+    (r) => r._source === "desc_search" || r._source === "wildcard"
+  );
+  if (pendingForReview.length > 0) {
+    let existingPending = [];
+    try {
+      existingPending = JSON.parse(
+        fs.readFileSync(PENDING_AI_REVIEW_PATH, "utf-8")
+      ).pending || [];
+    } catch {
+      // 首次运行，无缓存
+    }
+
+    const existingNames = new Set(existingPending.map((r) => r.full_name));
+    for (const repo of pendingForReview) {
+      if (!existingNames.has(repo.full_name)) {
+        existingPending.push({
+          full_name: repo.full_name,
+          _source: repo._source,
+          description: repo.description || "",
+          topics: repo.topics || [],
+          stars: repo.stars,
+          language: repo.language || "",
+        });
+        existingNames.add(repo.full_name);
+      }
+    }
+
+    fs.writeFileSync(
+      PENDING_AI_REVIEW_PATH,
+      JSON.stringify({
+        _说明: "需要 AI 辅助分类的项目。由 classify.js 自动生成，通过 scripts/ai-classify.js 处理。",
+        last_updated: new Date().toISOString(),
+        pending_count: existingPending.length,
+        pending: existingPending,
+      }, null, 2),
+      "utf-8"
+    );
+    console.log(`   已写入 pending_ai_review.json (${existingPending.length} 个待确认)`);
+  }
 
   // 写入
   const output = {
