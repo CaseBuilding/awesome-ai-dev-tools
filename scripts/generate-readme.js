@@ -194,7 +194,7 @@ async function main() {
     }
   }
 
-  lines.push(`| **合计** | **${classifiedData.stats.classified}** | | 最后更新 | ${lastUpdated} |`);
+  lines.push(`| **合计** | **${classifiedData.stats.total}** | | 最后更新 | ${lastUpdated} |`);
   lines.push(``);
 
   // ════════ 导航栏（分组表格） ════════

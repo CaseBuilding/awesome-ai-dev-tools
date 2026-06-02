@@ -1,4 +1,8 @@
 node_modules/
 .env
 .reasonix/
+web-ui-demo/
+data/all_repos.txt
+data/uncertain_full.json
+data/uncertain_repos.txt
 

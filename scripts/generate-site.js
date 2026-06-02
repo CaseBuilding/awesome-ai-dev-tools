@@ -170,7 +170,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans S
 <div class="container" id="app">
 <button class="theme-toggle" id="themeToggle" title="切换主题">🌙</button>
 <div class="header">
-<div><h1><span>✦</span> Awesome AI Dev Tools</h1><div class="sub">热门 AI 开发者工具合集 · <span id="totalLabel">0</span> 个项目 · 每周自动更新</div></div>
+<div><h1><span>✦</span> Awesome AI Dev Tools</h1><div class="sub">热门 AI 开发者工具合集 · <span id="totalLabel">0</span> 个项目 · 最后更新 <span id="updateDate">—</span></div></div>
 <div class="stats">
 <div class="stat"><div class="num" id="totalCount">0</div><div class="label">项目</div></div>
 <div class="stat"><div class="num" id="catCount">0</div><div class="label">分类</div></div>
@@ -200,6 +200,7 @@ function init(){
   document.getElementById("catCount").textContent=DATA.categories.length;
   document.getElementById("newCount").textContent=DATA.stats.newCount;
   if(DATA.stats.newCount<1)document.getElementById("newStat").style.display="none";
+  document.getElementById("updateDate").textContent=DATA.lastUpdated||"—";
   const langSel=document.getElementById("langFilter");
   allLang.forEach(l=>{const o=document.createElement("option");o.value=l;o.textContent=l;langSel.appendChild(o)});
   const pills=document.getElementById("pills");
@@ -308,4 +309,4 @@ init();
 const outputDir = path.join(ROOT, "docs");
 fs.mkdirSync(outputDir, { recursive: true });
 fs.writeFileSync(path.join(outputDir, "index.html"), buildHtml(), "utf-8");
-console.log(`✅ web-ui/index.html 已生成 (${siteData.length} 个分类, ${allRepos.length} 个项目)`);
+console.log(`✅ docs/index.html 已生成 (${siteData.length} 个分类, ${totalCount} 个项目)`);

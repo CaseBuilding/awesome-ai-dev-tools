@@ -348,8 +348,8 @@ describe("数据完整性", () => {
     assert.ok(totalMatch, "合计行未找到数字");
     assert.equal(
       Number(totalMatch[1]),
-      classified.stats.classified,
-      `README 合计(${totalMatch[1]}) 与 classified(${classified.stats.classified}) 不一致`
+      classified.stats.total,
+      `README 合计(${totalMatch[1]}) 与 classified(${classified.stats.total}) 不一致`
     );
   });
 });
