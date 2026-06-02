@@ -224,6 +224,11 @@ function init(){
     document.documentElement.setAttribute("data-theme",next);localStorage.setItem("theme",next);
     document.getElementById("themeToggle").textContent=next==="dark"?"☀️":"🌙"
   };
+  // Toggle category expand/collapse via event delegation
+  document.getElementById("results").addEventListener("click",function(e){
+    const header=e.target.closest("[data-toggle=cat]");
+    if(header){header.nextElementSibling.classList.toggle("open");header.querySelector(".arrow")?.classList.toggle("open")}
+  });
   filter()
 }
 function card(r,catName){
@@ -256,7 +261,7 @@ function filter(){
     const feats=repos.filter(r=>r.f),rest=repos.filter(r=>!r.f);
     if(sort==="name"){feats.sort((a,b)=>a.n.localeCompare(b.n));rest.sort((a,b)=>a.n.localeCompare(b.n))}
     else{feats.sort((a,b)=>b.s-a.s);rest.sort((a,b)=>b.s-a.s)}
-    html+='<div class="category"><div class="category-header" onclick="this.nextElementSibling.classList.toggle(\'open\');this.querySelector(\'.arrow\').classList.toggle(\'open\')">'+
+    html+='<div class="category"><div class="category-header" data-toggle="cat">'+
       '<div class="left"><span class="name">'+cat.name+'</span><span class="badge">'+repos.length+"</span></div>"+
       '<span class="arrow open">▾</span></div><div class="category-body open">';
     if(feats.length)html+='<div class="section-title">⭐ 精选推荐</div>'+feats.map(r=>card(r)).join("");
@@ -275,7 +280,7 @@ function filter(){
     const keys=DATA.categories.map(c=>c.id).filter(id=>byCat[id]);
     total=keys.reduce((s,id)=>s+byCat[id].repos.length,0);
     if(total){html='<div class="category"><div class="category-header" style="cursor:default;pointer-events:none">'+
-      '<div class="left"><span class="name">🆕 本周新增</span><span class="badge">'+total+"</span></div></div><div class=\"category-body open\">";
+      '<div class="left"><span class="name">🆕 本周新增</span><span class="badge">'+total+'</span></div></div><div class="category-body open">';
       keys.forEach(id=>{
         const g=byCat[id];let items=[...g.repos];
         if(sort==="name")items.sort((a,b)=>a.n.localeCompare(b.n));else items.sort((a,b)=>b.s-a.s);
@@ -292,7 +297,7 @@ function filter(){
       nh+=card(r,r.catName)
     });
     if(newProjects.length>8)nh+='<div style="text-align:center;font-size:13px;color:var(--text-muted);margin-top:4px">⋯ 还有 '+(newProjects.length-8)+' 个，点击上方「🆕 本周新增」查看全部</div>';
-    html='<div class="category new-section"><div class="category-header" onclick="this.nextElementSibling.classList.toggle(\'open\');this.querySelector(\'.arrow\').classList.toggle(\'open\')">'+
+    html='<div class="category new-section"><div class="category-header" data-toggle="cat">'+
       '<div class="left"><span class="name">🆕 本周新增</span><span class="badge">'+newProjects.length+"</span></div>"+
       '<span class="arrow open">▾</span></div><div class="category-body open">'+nh+"</div></div>"+html
   }
