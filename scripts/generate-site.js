@@ -305,7 +305,7 @@ init();
 }
 
 // ── 写入 ──
-const outputDir = path.join(ROOT, "web-ui");
+const outputDir = path.join(ROOT, "docs");
 fs.mkdirSync(outputDir, { recursive: true });
 fs.writeFileSync(path.join(outputDir, "index.html"), buildHtml(), "utf-8");
 console.log(`✅ web-ui/index.html 已生成 (${siteData.length} 个分类, ${allRepos.length} 个项目)`);

@@ -16,7 +16,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `node scripts/translate-desc.js` — CLI helper for AI-generated Chinese descriptions
 - `node scripts/fetch-wildcard.js` — Channel 3 wildcard sweep (top 200 by stars, monthly)
 - `node scripts/ai-classify.js` — CLI helper for AI-assisted classification (--pending/--list/--classify/--apply)
-- `node scripts/generate-site.js` — Generate `web-ui/index.html` (Web UI with search/filter)
+- `node scripts/generate-site.js` — Generate `docs/index.html` (Web UI with search/filter)
 
 ## Architecture
 
@@ -36,7 +36,7 @@ config/categories.json     ──→ scripts/classify.js     ──→ data/clas
 data/manual_overrides.json ──→ scripts/classify.js (applies overrides + add_missing)
 scripts/fetch-wildcard.js  ──→ data/repos.json (Ch3 wildcard, monthly)
 data/classified.js         ──→ scripts/generate-readme.js ──→ README.md
-data/classified.js         ──→ scripts/generate-site.js   ──→ web-ui/index.html
+data/classified.js         ──→ scripts/generate-site.js   ──→ docs/index.html
 data/classified.js         ──→ data/pending_ai_review.json (unclassified Ch2/Ch3 repos)
 scripts/ai-classify.js     ──→ data/manual_overrides.json (--apply)
 scripts/source-priority.js — shared merge logic for all fetch scripts
@@ -53,8 +53,8 @@ Pipeline runs weekly via GitHub Actions (`.github/workflows/update.yml`, cron `0
 - **`data/watched.json`** — Projects flagged for README "My Watchlist" section
 - **`data/pending_ai_review.json`** — Auto-generated queue for AI-assisted classification (Ch2/Ch3 unclassified repos)
 - **`scripts/source-priority.js`** — Shared merge logic: source priority ordering and `mergeSources()`
-- **`scripts/generate-site.js`** — Generate `web-ui/index.html` (Web UI with search, filter, dark mode)
-- **`web-ui/index.html`** — Auto-generated Web UI, served via GitHub Pages
+- **`scripts/generate-site.js`** — Generate `docs/index.html` (Web UI with search, filter, dark mode)
+- **`docs/index.html`** — Auto-generated Web UI, served via GitHub Pages
 
 ### Conventions
 
