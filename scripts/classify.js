@@ -3,11 +3,15 @@
  *
  * 读取 repos.json，按 categories.json 的关键词规则自动分类，
  * 再应用 manual_overrides.json 的手动修正。
+ * 同时根据分类内的 tags 规则分配标签。
  *
  * 分类匹配规则：
  *   1. topics 标签匹配 → high confidence
  *   2. description 关键词匹配 → low confidence
  *   3. 命中多分类 → 按 priority 取最高
+ *
+ * 标签分配规则：
+ *   每个分类的 tags 独立匹配，tags 之间不互斥（一个项目可以多个标签）
  *
  * 输出: data/classified.json
  */
@@ -77,6 +81,32 @@ export function autoClassify(repo, cats) {
   return { matched: matched.map((m) => m.id), confidence };
 }
 
+/**
+ * 根据项目所属分类的 tags 规则，分配标签
+ * tags 基于 description 关键词匹配，不互斥
+ */
+export function assignTags(repo, categoryId, cats) {
+  const catList = cats || categories;
+  const cat = catList.find((c) => c.id === categoryId);
+  if (!cat || !cat.tags) return [];
+
+  const desc = (repo.description || "").toLowerCase();
+  const topics = repo.topics || [];
+  const tags = [];
+
+  for (const [tagId, tagDef] of Object.entries(cat.tags)) {
+    const tagKeywords = tagDef.desc_keywords || [];
+    const match = tagKeywords.some((kw) =>
+      desc.includes(kw.toLowerCase())
+    );
+    if (match) {
+      tags.push(tagId);
+    }
+  }
+
+  return tags;
+}
+
 export function applyOverrides(repo, autoResult, ovr) {
   const ov = ovr || overrides;
   const override = ov.overrides?.[repo.full_name];
@@ -117,24 +147,24 @@ function main() {
         hidden.push(repo.full_name);
       } else {
         unclassified.push(repo);
-        // desc_search 和 wildcard 未分类项目 → 走 AI 辅助分类，不进展示区
         if (repo._source === "desc_search" || repo._source === "wildcard") {
-          // 不加入 __unclassified__（由 pending_ai_review.json 处理）
+          // 由 pending_ai_review.json 处理
         } else {
-          // topic_search / add_missing / legacy（无 _source）→ 常规未分类
           classified["__unclassified__"].push(repo);
         }
       }
       continue;
     }
 
-    // 放入匹配的分类中展示
     for (const catId of final.matched) {
       if (!classified[catId]) classified[catId] = [];
+      // 分配标签
+      const tags = assignTags(repo, catId);
       classified[catId].push({
         ...repo,
         _confidence: final.confidence,
         _overridden: final.overridden,
+        _tags: tags,
       });
     }
   }
@@ -155,7 +185,7 @@ function main() {
   if (hidden.length > 0) console.log(`  🙈 已隐藏: ${hidden.length} 个项目`);
   console.log(`\n✅ 分类完成！共处理 ${repos.length} 个项目`);
 
-  // ── 写入 pending_ai_review.json（desc_search/wildcard 未分类项目） ──
+  // 写入 pending_ai_review.json（desc_search/wildcard 未分类项目）
   const pendingForReview = unclassified.filter(
     (r) => r._source === "desc_search" || r._source === "wildcard"
   );

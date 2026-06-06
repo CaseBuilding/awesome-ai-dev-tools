@@ -100,11 +100,23 @@ async function main() {
     const keywords = catDef?.match?.desc_keywords;
     if (!keywords || keywords.length === 0) continue;
 
-    const quoted = keywords.map((kw) => `"${kw}"`);
-    const queryStr = `${quoted.join(" OR ")} in:description,readme stars:>=5000`;
-    console.log(`    [${catDef.name}] → description search`);
+    // GitHub Search API 限制最多 5 个 AND/OR/NOT 运算符（即最多 6 个关键词）
+    const CHUNK_SIZE = 6;
+    const chunks = [];
+    for (let i = 0; i < keywords.length; i += CHUNK_SIZE) {
+      chunks.push(keywords.slice(i, i + CHUNK_SIZE));
+    }
 
-    const repos = await searchRepos(queryStr, config.max_results);
+    const repos = [];
+    for (const chunk of chunks) {
+      const quoted = chunk.map((kw) => `"${kw}"`);
+      const queryStr = `${quoted.join(" OR ")} in:description,readme stars:>=5000`;
+      console.log(`    [${catDef.name}] → description search (${chunk.length} keywords)`);
+
+      const chunkRepos = await searchRepos(queryStr, config.max_results);
+      repos.push(...chunkRepos);
+      await new Promise((r) => setTimeout(r, 2500));
+    }
     for (const repo of repos) {
       repo._source = "desc_search";
       if (seen.has(repo.full_name)) continue;

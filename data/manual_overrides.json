@@ -381,7 +381,7 @@
       "reason": "人工分类：code-analysis"
     },
     "qax-os/excelize": {
-      "category": "code-visualization",
+      "category": "code-analysis",
       "reason": "人工分类：code-visualization"
     },
     "affaan-m/ECC": {
@@ -581,328 +581,328 @@
       "reason": "人工分类：mcp"
     },
     "langchain-ai/langchain": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "mem0ai/mem0": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "MemPalace/mempalace": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "langchain-ai/langgraph": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "VectifyAI/PageIndex": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "CopilotKit/CopilotKit": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "agent-framework",
+      "reason": "前端Agent UI框架"
     },
     "volcengine/OpenViking": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "mastra-ai/mastra": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "pydantic/pydantic-ai": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "Tencent/WeKnora": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "neuml/txtai": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "The-Pocket/PocketFlow": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "langchain4j/langchain4j": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "MemTensor/MemOS": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "rllm-org/rllm": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "datawhalechina/easy-vibe": {
-      "category": "llm-framework",
+      "category": "llm-sdk",
       "reason": "人工分类：llm-framework"
     },
     "liyupi/ai-guide": {
-      "category": "llm-framework",
-      "reason": "人工分类：llm-framework"
+      "category": "learning",
+      "reason": "AI学习指南"
     },
     "n8n-io/n8n": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "workflow-automation",
+      "reason": "可视化工作流引擎，不是Agent框架"
     },
     "NousResearch/hermes-agent": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "langgenius/dify": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "firecrawl/firecrawl": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "browser-automation",
+      "reason": "网页抓取API，不是Agent框架"
     },
     "bytedance/deer-flow": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "FoundationAgents/MetaGPT": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "microsoft/ai-agents-for-beginners": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "learning",
+      "reason": "AI Agent课程，不是Agent框架"
     },
     "microsoft/autogen": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "ruvnet/ruflo": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "aaif-goose/goose": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "zhayujie/CowAgent": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "HKUDS/nanobot": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "mindsdb/minds-platform": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "reworkd/AgentGPT": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "bytedance/UI-TARS-desktop": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "browser-automation",
+      "reason": "浏览器Agent，不是Agent框架"
     },
     "patchy631/ai-engineering-hub": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "learning",
+      "reason": "AI教程资源，不是Agent框架"
     },
     "ItzCrazyKns/Vane": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "AstrBotDevs/AstrBot": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "labring/FastGPT": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "doc-knowledge",
+      "reason": "知识库平台，基于LLM"
     },
     "assafelovic/gpt-researcher": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "agentscope-ai/agentscope": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "rohitg00/ai-engineering-from-scratch": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "learning",
+      "reason": "AI工程教程"
     },
     "letta-ai/letta": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "activepieces/activepieces": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "workflow-automation",
+      "reason": "可视化工作流平台"
     },
     "NirDiamant/GenAI_Agents": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "learning",
+      "reason": "AI Agent教程集合"
     },
     "1Panel-dev/MaxKB": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "doc-knowledge",
+      "reason": "知识库问答系统"
     },
     "NirDiamant/agents-towards-production": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "learning",
+      "reason": "Agent生产化教程"
     },
     "google/adk-python": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "kortix-ai/suna": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "emcie-co/parlant": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "RightNow-AI/openfang": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "trycua/cua": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "leon-ai/leon": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "langbot-app/LangBot": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "cft0808/edict": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "triggerdotdev/trigger.dev": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "workflow-automation",
+      "reason": "事件驱动工作流平台"
     },
     "rowboatlabs/rowboat": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "jnMetaCode/agency-agents-zh": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "Arindam200/awesome-ai-apps": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "learning",
+      "reason": "AI应用资源列表"
     },
     "waooAI/waoowaoo": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "e2b-dev/E2B": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "lsdefine/GenericAgent": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "kubeshark/kubeshark": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "superset-sh/superset": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "bytebot-ai/bytebot": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "alibaba/OpenSandbox": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "ValueCell-ai/valuecell": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "cocoindex-io/cocoindex": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "VoltAgent/voltagent": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "HKUDS/Vibe-Trading": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "iflytek/astron-agent": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "EvoMap/evolver": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "GetBindu/Bindu": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "Narcooo/inkos": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "crestalnetwork/intentkit": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "open-multi-agent/open-multi-agent": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "holaboss-ai/holaOS": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "strands-agents/sdk-python": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "ThinkInAIXYZ/deepchat": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "PySpur-Dev/pyspur": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "adongwanai/AgentGuide": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "mahseema/awesome-ai-tools": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "learning",
+      "reason": "AI工具资源列表"
     },
     "sheepgreen/ink-research-assistant": {
-      "category": "agent-workflow",
+      "category": "agent-framework",
       "reason": "人工分类：agent-workflow"
     },
     "nocobase/nocobase": {
-      "category": "agent-workflow",
-      "reason": "人工分类：agent-workflow"
+      "category": "self-hosted",
+      "reason": "开源无代码平台，可自托管"
     },
     "sansan0/TrendRadar": {
       "category": null,
@@ -918,6 +918,22 @@
       "category": null,
       "hidden": true,
       "reason": "原 needs_review：AI Wiki 生成器，偏向文档生成不属于预设分类"
+    },
+    "fighting41love/funNLP": {
+      "category": "learning",
+      "reason": "中文NLP语料资源合集，不是工作流"
+    },
+    "bregman-arie/devops-exercises": {
+      "category": "learning",
+      "reason": "DevOps面试题，不是数据库"
+    },
+    "appwrite/appwrite": {
+      "category": "self-hosted",
+      "reason": "后端云平台，可自托管"
+    },
+    "huggingface/transformers": {
+      "category": "local-inference",
+      "reason": "模型Hub，不是媒体处理"
     }
   }
 }

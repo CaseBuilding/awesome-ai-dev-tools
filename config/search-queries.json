@@ -1,63 +1,68 @@
 {
-  "_说明": "仅使用 topic 搜索（最稳定），配合手动覆盖补充。",
+  "_说明": "topic 搜索最稳定，description 搜索补充，配合手动覆盖。非AI分类主要靠 wildcard + description 获取。",
   "queries": {
     "ai-coding-agent": {
-      "name": "🤖 AI Coding Agent",
+      "name": "🤖 AI 编码助手",
       "search": ["topic:ai-agent,coding-agent,code-assistant stars:>=5000"],
       "max_results": 100
     },
+    "agent-framework": {
+      "name": "🔧 Agent 开发框架",
+      "search": ["topic:ai-agents,agent-framework,multi-agent stars:>=5000"],
+      "max_results": 150
+    },
+    "workflow-automation": {
+      "name": "⚡ 工作流自动化",
+      "search": ["topic:workflow,automation,dag,pipeline stars:>=5000"],
+      "max_results": 50
+    },
     "mcp": {
-      "name": "🔌 MCP / 工具生态",
+      "name": "⛓️ MCP 生态",
       "search": ["topic:mcp,mcp-server,mcp-client stars:>=5000"],
       "max_results": 100
     },
-    "code-analysis": {
-      "name": "🔍 代码分析 / 理解",
-      "search": ["topic:code-analysis,static-analysis,code-review,code-intelligence stars:>=5000"],
+    "local-inference": {
+      "name": "🧠 本地推理与部署",
+      "search": ["topic:ollama,local-llm,llama.cpp,inference stars:>=5000"],
       "max_results": 100
     },
-    "code-visualization": {
-      "name": "🗺️ 代码导图 / 可视化",
-      "search": ["topic:dependency-graph,code-visualization,code-map,call-graph stars:>=5000"],
-      "max_results": 100
-    },
-    "llm-framework": {
-      "name": "🧠 LLM 框架 / SDK",
-      "search": ["topic:llm-framework,ai-sdk stars:>=5000"],
+    "llm-sdk": {
+      "name": "📚 LLM 开发 SDK",
+      "search": ["topic:llm-framework,ai-sdk,langchain,llamaindex stars:>=5000"],
       "max_results": 100
     },
     "ai-gateway": {
-      "name": "🚪 AI 网关 / API 管理",
+      "name": "🚪 AI API 管理",
       "search": ["topic:ai-gateway,llm-gateway,model-router stars:>=5000"],
-      "max_results": 100
-    },
-    "agent-workflow": {
-      "name": "🔄 Agent / 工作流",
-      "search": ["topic:ai-agents,agent-framework,multi-agent stars:>=5000"],
-      "max_results": 100
-    },
-    "local-inference": {
-      "name": "⚡ 本地推理",
-      "search": ["topic:ollama,local-llm,llama.cpp stars:>=5000"],
-      "max_results": 100
+      "max_results": 50
     },
     "evaluation": {
-      "name": "📏 评估 / 可观测",
+      "name": "📏 AI 评估与监控",
       "search": ["topic:llm-evaluation,ai-eval,llm-observability stars:>=5000"],
-      "max_results": 100
+      "max_results": 50
     },
     "browser-automation": {
       "name": "🌐 浏览器自动化",
       "search": ["topic:browser-automation,web-automation,browser-use,playwright stars:>=5000"],
       "max_results": 100
     },
-    "video-processing": {
-      "name": "🎬 视频处理 / 生成",
+    "doc-knowledge": {
+      "name": "📄 文档与知识管理",
+      "search": ["topic:rag,knowledge-base,document-processing stars:>=5000"],
+      "max_results": 100
+    },
+    "media-processing": {
+      "name": "🎬 音视频与多媒体",
       "search": [
         "topic:video-editing,video-processing,video-generation,video-enhancement,video-tools stars:>=5000",
-        "\"video editing\" in:description,readme stars:>=5000",
-        "\"video generation\" in:description,readme stars:>=5000"
+        "\"video generation\" in:description,readme stars:>=5000",
+        "topic:text-to-speech,speech-recognition,audio-processing stars:>=5000"
       ],
+      "max_results": 100
+    },
+    "code-analysis": {
+      "name": "🔍 代码分析与质量",
+      "search": ["topic:code-analysis,static-analysis,linter,codeql stars:>=5000"],
       "max_results": 100
     }
   }

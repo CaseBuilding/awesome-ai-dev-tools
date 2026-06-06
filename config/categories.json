@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": "ai-coding-agent",
-      "name": "🤖 AI Coding Agent",
+      "name": "🤖 AI 编码助手",
       "order": 1,
       "priority": 9,
       "match": {
@@ -23,12 +23,187 @@
           "code generation agent",
           "autonomous coding"
         ]
+      },
+      "tags": {
+        "cli-agent": {
+          "name": "命令行工具",
+          "desc_keywords": [
+            "terminal",
+            "cli",
+            "command line"
+          ]
+        },
+        "ide-integration": {
+          "name": "编辑器插件",
+          "desc_keywords": [
+            "ide",
+            "extension",
+            "plugin",
+            "vscode"
+          ]
+        },
+        "code-gen": {
+          "name": "代码生成",
+          "desc_keywords": [
+            "code generation",
+            "generate code",
+            "screenshot to code"
+          ]
+        },
+        "code-understand": {
+          "name": "代码理解",
+          "desc_keywords": [
+            "code knowledge graph",
+            "code intelligence",
+            "understand code",
+            "codebase analysis"
+          ]
+        },
+        "skills": {
+          "name": "技能集",
+          "desc_keywords": [
+            "skill",
+            "agent skill",
+            "claude code skill"
+          ]
+        },
+        "spec-driven": {
+          "name": "规范驱动",
+          "desc_keywords": [
+            "spec driven",
+            "sdd",
+            "specification"
+          ]
+        }
+      }
+    },
+    {
+      "id": "agent-framework",
+      "name": "🔧 Agent 开发框架",
+      "order": 2,
+      "priority": 8,
+      "match": {
+        "topics": [
+          "ai-agents",
+          "agent-framework",
+          "multi-agent",
+          "agent-orchestration",
+          "agents",
+          "agentic-framework"
+        ],
+        "desc_keywords": [
+          "agent framework",
+          "multi-agent",
+          "agent orchestration",
+          "ai agent",
+          "agent platform"
+        ]
+      },
+      "tags": {
+        "multi-agent": {
+          "name": "多智能体",
+          "desc_keywords": [
+            "multi-agent",
+            "multi agent",
+            "multiagent"
+          ]
+        },
+        "single-agent": {
+          "name": "单智能体",
+          "desc_keywords": [
+            "single agent",
+            "autonomous agent"
+          ]
+        },
+        "python": {
+          "name": "Python",
+          "desc_keywords": [
+            "python"
+          ]
+        },
+        "typescript": {
+          "name": "TypeScript",
+          "desc_keywords": [
+            "typescript"
+          ]
+        },
+        "low-code": {
+          "name": "低代码",
+          "desc_keywords": [
+            "visual",
+            "low-code",
+            "low code",
+            "drag and drop"
+          ]
+        },
+        "agent-platform": {
+          "name": "智能体平台",
+          "desc_keywords": [
+            "platform",
+            "marketplace",
+            "store"
+          ]
+        }
+      }
+    },
+    {
+      "id": "workflow-automation",
+      "name": "⚡ 工作流自动化",
+      "order": 3,
+      "priority": 7,
+      "match": {
+        "topics": [
+          "workflow",
+          "automation",
+          "dag",
+          "pipeline"
+        ],
+        "desc_keywords": [
+          "workflow automation",
+          "workflow engine",
+          "dag",
+          "pipeline",
+          "orchestration"
+        ]
+      },
+      "tags": {
+        "visual-flow": {
+          "name": "可视化编排",
+          "desc_keywords": [
+            "visual",
+            "drag",
+            "flow"
+          ]
+        },
+        "code-flow": {
+          "name": "代码编排",
+          "desc_keywords": [
+            "code",
+            "dag",
+            "pipeline"
+          ]
+        },
+        "event-driven": {
+          "name": "事件驱动",
+          "desc_keywords": [
+            "event",
+            "trigger"
+          ]
+        },
+        "ai-integrated": {
+          "name": "智能集成",
+          "desc_keywords": [
+            "ai",
+            "llm",
+            "agent"
+          ]
+        }
       }
     },
     {
       "id": "mcp",
-      "name": "🔌 MCP / 工具生态",
-      "order": 2,
+      "name": "⛓️ MCP 生态",
+      "order": 4,
       "priority": 10,
       "match": {
         "topics": [
@@ -44,62 +219,148 @@
           "model context protocol",
           "mcp protocol"
         ]
+      },
+      "tags": {
+        "mcp-browser": {
+          "name": "浏览器操控",
+          "desc_keywords": [
+            "browser",
+            "chrome",
+            "web"
+          ]
+        },
+        "mcp-filesystem": {
+          "name": "文件系统",
+          "desc_keywords": [
+            "file",
+            "filesystem"
+          ]
+        },
+        "mcp-database": {
+          "name": "数据库",
+          "desc_keywords": [
+            "database",
+            "sql",
+            "db"
+          ]
+        },
+        "mcp-dev-tools": {
+          "name": "开发工具",
+          "desc_keywords": [
+            "git",
+            "github",
+            "developer",
+            "code"
+          ]
+        },
+        "mcp-docs": {
+          "name": "文档处理",
+          "desc_keywords": [
+            "document",
+            "pdf",
+            "doc"
+          ]
+        },
+        "mcp-communication": {
+          "name": "通信",
+          "desc_keywords": [
+            "slack",
+            "email",
+            "communication",
+            "message"
+          ]
+        },
+        "mcp-search": {
+          "name": "搜索",
+          "desc_keywords": [
+            "search",
+            "web scraping",
+            "crawl"
+          ]
+        },
+        "mcp-platform": {
+          "name": "聚合平台",
+          "desc_keywords": [
+            "marketplace",
+            "directory",
+            "collection"
+          ]
+        }
       }
     },
     {
-      "id": "code-analysis",
-      "name": "🔍 代码分析 / 理解",
-      "order": 3,
-      "priority": 8,
-      "match": {
-        "topics": [
-          "code-analysis",
-          "static-analysis",
-          "code-review",
-          "code-intelligence",
-          "code-quality",
-          "dependency-analysis",
-          "codeql"
-        ],
-        "desc_keywords": [
-          "code analysis",
-          "static analysis",
-          "code review",
-          "code intelligence",
-          "dependency analysis",
-          "code quality"
-        ]
-      }
-    },
-    {
-      "id": "code-visualization",
-      "name": "🗺️ 代码导图 / 可视化",
-      "order": 4,
-      "priority": 7,
-      "match": {
-        "topics": [
-          "code-visualization",
-          "dependency-graph",
-          "architecture-diagram",
-          "code-map",
-          "uml",
-          "visualization",
-          "call-graph"
-        ],
-        "desc_keywords": [
-          "dependency graph",
-          "code map",
-          "architecture diagram",
-          "call graph",
-          "code visualization",
-          "uml diagram"
-        ]
-      }
-    },
-    {
-      "id": "llm-framework",
-      "name": "🧠 LLM 框架 / SDK",
+      "id": "local-inference",
+      "name": "🧠 本地推理与部署",
       "order": 5,
+      "priority": 3,
+      "match": {
+        "topics": [
+          "ollama",
+          "llama.cpp",
+          "local-llm",
+          "inference",
+          "self-hosted-llm",
+          "onnx",
+          "local-inference",
+          "llm-inference"
+        ],
+        "desc_keywords": [
+          "local inference",
+          "run llm locally",
+          "self-hosted",
+          "local language model",
+          "llama.cpp",
+          "inference engine",
+          "model serving",
+          "llm serving"
+        ]
+      },
+      "tags": {
+        "inference-engine": {
+          "name": "推理引擎",
+          "desc_keywords": [
+            "inference engine",
+            "serving",
+            "high-throughput"
+          ]
+        },
+        "local-runner": {
+          "name": "本地运行",
+          "desc_keywords": [
+            "run locally",
+            "local"
+          ]
+        },
+        "fine-tune": {
+          "name": "模型微调",
+          "desc_keywords": [
+            "fine-tuning",
+            "fine tuning",
+            "finetune",
+            "training"
+          ]
+        },
+        "quantization": {
+          "name": "模型量化",
+          "desc_keywords": [
+            "quantization",
+            "quantized"
+          ]
+        },
+        "model-release": {
+          "name": "模型发布",
+          "desc_keywords": [
+            "large language model",
+            "llm",
+            "model"
+          ]
+        }
+      }
+    },
+    {
+      "id": "llm-sdk",
+      "name": "📚 LLM 开发 SDK",
+      "order": 6,
       "priority": 2,
       "match": {
         "topics": [
@@ -118,17 +379,54 @@
           "llm sdk",
           "language model"
         ]
+      },
+      "tags": {
+        "rag": {
+          "name": "检索增强框架",
+          "desc_keywords": [
+            "rag",
+            "retrieval augmented",
+            "retrieval-augmented"
+          ]
+        },
+        "agent-sdk": {
+          "name": "智能体开发包",
+          "desc_keywords": [
+            "agent sdk",
+            "agent"
+          ]
+        },
+        "prompt-eng": {
+          "name": "提示工程",
+          "desc_keywords": [
+            "prompt",
+            "prompt engineering"
+          ]
+        },
+        "memory": {
+          "name": "记忆管理",
+          "desc_keywords": [
+            "memory",
+            "context"
+          ]
+        },
+        "multi-model": {
+          "name": "多模型",
+          "desc_keywords": [
+            "multi-model",
+            "multi model"
+          ]
+        }
       }
     },
     {
       "id": "ai-gateway",
-      "name": "🚪 AI 网关 / API 管理",
-      "order": 6,
+      "name": "🚪 AI API 管理",
+      "order": 7,
       "priority": 4,
       "match": {
         "topics": [
           "ai-gateway",
-          "api-gateway",
           "llm-gateway",
           "model-router",
           "openrouter"
@@ -136,72 +434,54 @@
         "desc_keywords": [
           "ai gateway",
           "llm gateway",
-          "api gateway",
           "model routing",
           "multi-model",
           "cost management"
         ]
-      }
-    },
-    {
-      "id": "agent-workflow",
-      "name": "🔄 Agent / 工作流",
-      "order": 7,
-      "priority": 1,
-      "match": {
-        "topics": [
-          "ai-agents",
-          "agent-framework",
-          "workflow",
-          "automation",
-          "multi-agent",
-          "agent-orchestration",
-          "agents"
-        ],
-        "desc_keywords": [
-          "agent framework",
-          "multi-agent",
-          "agent orchestration",
-          "workflow automation",
-          "ai agent"
-        ]
-      }
-    },
-    {
-      "id": "local-inference",
-      "name": "⚡ 本地推理",
-      "order": 8,
-      "priority": 3,
-      "match": {
-        "topics": [
-          "ollama",
-          "llama.cpp",
-          "local-llm",
-          "inference",
-          "self-hosted-llm",
-          "onnx",
-          "local-inference"
-        ],
-        "desc_keywords": [
-          "local inference",
-          "run llm locally",
-          "self-hosted",
-          "local language model",
-          "llama.cpp"
-        ]
+      },
+      "tags": {
+        "api-gateway": {
+          "name": "接口网关",
+          "desc_keywords": [
+            "gateway",
+            "proxy"
+          ]
+        },
+        "cost-control": {
+          "name": "成本控制",
+          "desc_keywords": [
+            "cost",
+            "billing",
+            "token"
+          ]
+        },
+        "model-routing": {
+          "name": "多模型路由",
+          "desc_keywords": [
+            "routing",
+            "route"
+          ]
+        },
+        "unified-api": {
+          "name": "统一接口",
+          "desc_keywords": [
+            "unified",
+            "compatible",
+            "one api"
+          ]
+        }
       }
     },
     {
       "id": "evaluation",
-      "name": "📏 评估 / 可观测",
-      "order": 9,
+      "name": "📏 AI 评估与监控",
+      "order": 8,
       "priority": 5,
       "match": {
         "topics": [
           "llm-evaluation",
           "llm-observability",
           "eval",
-          "monitoring",
           "ai-eval",
           "llm-monitoring"
         ],
@@ -212,12 +492,38 @@
           "model evaluation",
           "eval framework"
         ]
+      },
+      "tags": {
+        "llm-eval": {
+          "name": "大模型评估",
+          "desc_keywords": [
+            "evaluation",
+            "eval",
+            "benchmark"
+          ]
+        },
+        "prompt-test": {
+          "name": "提示测试",
+          "desc_keywords": [
+            "test",
+            "red team",
+            "prompt"
+          ]
+        },
+        "app-monitor": {
+          "name": "应用监控",
+          "desc_keywords": [
+            "monitoring",
+            "observability",
+            "apm"
+          ]
+        }
       }
     },
     {
       "id": "browser-automation",
       "name": "🌐 浏览器自动化",
-      "order": 10,
+      "order": 9,
       "priority": 6,
       "match": {
         "topics": [
@@ -235,11 +541,103 @@
           "headless browser",
           "playwright"
         ]
+      },
+      "tags": {
+        "headless": {
+          "name": "无头浏览器",
+          "desc_keywords": [
+            "headless",
+            "browser"
+          ]
+        },
+        "web-scraping": {
+          "name": "网页爬虫",
+          "desc_keywords": [
+            "scraping",
+            "crawl",
+            "scraper"
+          ]
+        },
+        "browser-test": {
+          "name": "浏览器测试",
+          "desc_keywords": [
+            "testing",
+            "test"
+          ]
+        },
+        "ai-browser": {
+          "name": "智能浏览器代理",
+          "desc_keywords": [
+            "ai",
+            "agent",
+            "automate"
+          ]
+        }
       }
     },
     {
-      "id": "video-processing",
-      "name": "🎬 视频处理 / 生成",
+      "id": "doc-knowledge",
+      "name": "📄 文档与知识管理",
+      "order": 10,
+      "priority": 6,
+      "match": {
+        "topics": [
+          "rag",
+          "knowledge-base",
+          "document-processing"
+        ],
+        "desc_keywords": [
+          "rag",
+          "retrieval augmented",
+          "knowledge base",
+          "knowledge management",
+          "document processing",
+          "document understanding"
+        ]
+      },
+      "tags": {
+        "rag-engine": {
+          "name": "检索增强引擎",
+          "desc_keywords": [
+            "rag",
+            "retrieval"
+          ]
+        },
+        "doc-parse": {
+          "name": "文档解析",
+          "desc_keywords": [
+            "document",
+            "pdf",
+            "ocr",
+            "parse"
+          ]
+        },
+        "knowledge-base": {
+          "name": "知识库",
+          "desc_keywords": [
+            "knowledge",
+            "wiki"
+          ]
+        },
+        "vector-db": {
+          "name": "向量数据库",
+          "desc_keywords": [
+            "vector",
+            "embedding"
+          ]
+        },
+        "search": {
+          "name": "搜索",
+          "desc_keywords": [
+            "search",
+            "search engine"
+          ]
+        }
+      }
+    },
+    {
+      "id": "media-processing",
+      "name": "🎬 音视频与多媒体",
       "order": 11,
       "priority": 6,
       "match": {
@@ -248,7 +646,10 @@
           "video-processing",
           "video-generation",
           "video-tools",
-          "video-enhancement"
+          "video-enhancement",
+          "audio-processing",
+          "text-to-speech",
+          "speech-recognition"
         ],
         "desc_keywords": [
           "video editing",
@@ -257,8 +658,525 @@
           "video clip",
           "auto editor",
           "video enhance",
-          "video upscale"
+          "video upscale",
+          "text to speech",
+          "speech",
+          "audio"
         ]
+      },
+      "tags": {
+        "video-gen": {
+          "name": "视频生成",
+          "desc_keywords": [
+            "video generation",
+            "text-to-video",
+            "text to video"
+          ]
+        },
+        "video-edit": {
+          "name": "视频编辑",
+          "desc_keywords": [
+            "video editing",
+            "edit"
+          ]
+        },
+        "image": {
+          "name": "图像处理",
+          "desc_keywords": [
+            "image",
+            "ocr",
+            "upscale"
+          ]
+        },
+        "audio": {
+          "name": "音频/语音",
+          "desc_keywords": [
+            "speech",
+            "audio",
+            "tts",
+            "asr",
+            "voice"
+          ]
+        },
+        "ai-enhance": {
+          "name": "智能增强",
+          "desc_keywords": [
+            "enhance",
+            "upscale",
+            "super resolution"
+          ]
+        }
+      }
+    },
+    {
+      "id": "code-analysis",
+      "name": "🔍 代码分析与质量",
+      "order": 12,
+      "priority": 8,
+      "match": {
+        "topics": [
+          "code-analysis",
+          "static-analysis",
+          "code-review",
+          "code-intelligence",
+          "code-quality",
+          "dependency-analysis",
+          "codeql",
+          "linter"
+        ],
+        "desc_keywords": [
+          "code analysis",
+          "static analysis",
+          "code review",
+          "code intelligence",
+          "dependency analysis",
+          "code quality",
+          "linter"
+        ]
+      },
+      "tags": {
+        "static-analysis": {
+          "name": "静态分析",
+          "desc_keywords": [
+            "static analysis",
+            "sast"
+          ]
+        },
+        "linter": {
+          "name": "代码检查",
+          "desc_keywords": [
+            "linter",
+            "lint"
+          ]
+        },
+        "formatter": {
+          "name": "代码格式化",
+          "desc_keywords": [
+            "formatter",
+            "format"
+          ]
+        },
+        "code-review": {
+          "name": "代码审查",
+          "desc_keywords": [
+            "code review"
+          ]
+        },
+        "code-understand": {
+          "name": "代码理解",
+          "desc_keywords": [
+            "code understanding",
+            "code visualization",
+            "knowledge graph"
+          ]
+        }
+      }
+    },
+    {
+      "id": "web-framework",
+      "name": "🌐 Web 框架与服务器",
+      "order": 13,
+      "priority": 1,
+      "match": {
+        "topics": [
+          "web-framework",
+          "http-server"
+        ],
+        "desc_keywords": [
+          "web framework",
+          "http server",
+          "web server"
+        ]
+      },
+      "tags": {
+        "go": {
+          "name": "Go",
+          "desc_keywords": [
+            "go"
+          ]
+        },
+        "python": {
+          "name": "Python",
+          "desc_keywords": [
+            "python"
+          ]
+        },
+        "js-ts": {
+          "name": "JS/TS",
+          "desc_keywords": [
+            "javascript",
+            "typescript",
+            "node.js",
+            "node"
+          ]
+        },
+        "php": {
+          "name": "PHP",
+          "desc_keywords": [
+            "php"
+          ]
+        },
+        "fullstack": {
+          "name": "全栈",
+          "desc_keywords": [
+            "full stack",
+            "fullstack"
+          ]
+        },
+        "cms": {
+          "name": "内容管理",
+          "desc_keywords": [
+            "cms",
+            "content management"
+          ]
+        }
+      }
+    },
+    {
+      "id": "database-storage",
+      "name": "🗄️ 数据库与存储",
+      "order": 14,
+      "priority": 1,
+      "match": {
+        "topics": [
+          "database",
+          "sql",
+          "nosql",
+          "vector-database"
+        ],
+        "desc_keywords": [
+          "database",
+          "sql",
+          "nosql",
+          "search engine"
+        ]
+      },
+      "tags": {
+        "relational": {
+          "name": "关系型",
+          "desc_keywords": [
+            "sql",
+            "postgres",
+            "mysql",
+            "relational"
+          ]
+        },
+        "document": {
+          "name": "文档型",
+          "desc_keywords": [
+            "document"
+          ]
+        },
+        "vector": {
+          "name": "向量",
+          "desc_keywords": [
+            "vector",
+            "embedding"
+          ]
+        },
+        "cache": {
+          "name": "缓存",
+          "desc_keywords": [
+            "cache",
+            "redis"
+          ]
+        },
+        "search": {
+          "name": "搜索",
+          "desc_keywords": [
+            "search engine",
+            "full-text"
+          ]
+        },
+        "data-pipeline": {
+          "name": "数据管道",
+          "desc_keywords": [
+            "etl",
+            "pipeline",
+            "stream"
+          ]
+        }
+      }
+    },
+    {
+      "id": "devops",
+      "name": "☁️ DevOps 与部署",
+      "order": 15,
+      "priority": 1,
+      "match": {
+        "topics": [
+          "devops",
+          "ci-cd",
+          "docker",
+          "kubernetes",
+          "infrastructure"
+        ],
+        "desc_keywords": [
+          "devops",
+          "deploy",
+          "ci/cd",
+          "infrastructure",
+          "docker"
+        ]
+      },
+      "tags": {
+        "deploy-platform": {
+          "name": "部署平台",
+          "desc_keywords": [
+            "deploy",
+            "paas",
+            "hosting"
+          ]
+        },
+        "reverse-proxy": {
+          "name": "反向代理",
+          "desc_keywords": [
+            "proxy",
+            "reverse proxy",
+            "tunnel"
+          ]
+        },
+        "config-mgmt": {
+          "name": "配置管理",
+          "desc_keywords": [
+            "config",
+            "configuration"
+          ]
+        }
+      }
+    },
+    {
+      "id": "security",
+      "name": "🔐 安全与渗透",
+      "order": 16,
+      "priority": 1,
+      "match": {
+        "topics": [
+          "security",
+          "penetration-testing",
+          "vulnerability",
+          "malware"
+        ],
+        "desc_keywords": [
+          "security",
+          "penetration",
+          "vulnerability",
+          "exploit"
+        ]
+      },
+      "tags": {
+        "pentest": {
+          "name": "渗透测试",
+          "desc_keywords": [
+            "penetration",
+            "pentest",
+            "exploit",
+            "payload"
+          ]
+        },
+        "vuln-scan": {
+          "name": "漏洞扫描",
+          "desc_keywords": [
+            "vulnerability",
+            "scanner"
+          ]
+        },
+        "osint": {
+          "name": "开源情报",
+          "desc_keywords": [
+            "osint",
+            "intelligence"
+          ]
+        },
+        "reverse-eng": {
+          "name": "逆向工程",
+          "desc_keywords": [
+            "reverse",
+            "decompile",
+            "debugger"
+          ]
+        }
+      }
+    },
+    {
+      "id": "self-hosted",
+      "name": "🏠 自托管服务",
+      "order": 17,
+      "priority": 1,
+      "match": {
+        "topics": [
+          "self-hosted"
+        ],
+        "desc_keywords": [
+          "self-hosted",
+          "self hosted",
+          "alternative to"
+        ]
+      },
+      "tags": {
+        "password": {
+          "name": "密码管理",
+          "desc_keywords": [
+            "password",
+            "vault"
+          ]
+        },
+        "notes": {
+          "name": "笔记/维基",
+          "desc_keywords": [
+            "note",
+            "wiki",
+            "knowledge"
+          ]
+        },
+        "communication": {
+          "name": "沟通",
+          "desc_keywords": [
+            "chat",
+            "communication",
+            "messaging"
+          ]
+        },
+        "file-mgmt": {
+          "name": "文件管理",
+          "desc_keywords": [
+            "file",
+            "storage"
+          ]
+        },
+        "media-mgmt": {
+          "name": "媒体管理",
+          "desc_keywords": [
+            "photo",
+            "video",
+            "media"
+          ]
+        },
+        "finance": {
+          "name": "财务管理",
+          "desc_keywords": [
+            "finance",
+            "financial",
+            "money"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dev-tools",
+      "name": "🛠️ 通用开发者工具",
+      "order": 18,
+      "priority": 1,
+      "match": {
+        "topics": [
+          "developer-tools",
+          "cli"
+        ],
+        "desc_keywords": [
+          "developer tool",
+          "command line"
+        ]
+      },
+      "tags": {
+        "terminal": {
+          "name": "终端",
+          "desc_keywords": [
+            "terminal",
+            "terminal emulator"
+          ]
+        },
+        "build-tool": {
+          "name": "构建工具",
+          "desc_keywords": [
+            "bundler",
+            "build",
+            "compiler"
+          ]
+        },
+        "api-tool": {
+          "name": "接口工具",
+          "desc_keywords": [
+            "api",
+            "rest",
+            "http client"
+          ]
+        },
+        "git-tool": {
+          "name": "版本控制",
+          "desc_keywords": [
+            "git"
+          ]
+        },
+        "doc-tool": {
+          "name": "文档工具",
+          "desc_keywords": [
+            "document",
+            "markdown",
+            "pdf"
+          ]
+        }
+      }
+    },
+    {
+      "id": "learning",
+      "name": "📖 学习资料",
+      "order": 19,
+      "priority": 1,
+      "match": {
+        "topics": [
+          "awesome-list",
+          "awesome",
+          "tutorial"
+        ],
+        "desc_keywords": [
+          "tutorial",
+          "course",
+          "learn",
+          "guide",
+          "curriculum",
+          "awesome list",
+          "roadmap"
+        ]
+      },
+      "tags": {
+        "ai-agent-course": {
+          "name": "人工智能/智能体",
+          "desc_keywords": [
+            "ai",
+            "llm",
+            "agent",
+            "machine learning",
+            "deep learning"
+          ]
+        },
+        "programming": {
+          "name": "编程",
+          "desc_keywords": [
+            "programming",
+            "coding"
+          ]
+        },
+        "algorithm": {
+          "name": "算法/数据结构",
+          "desc_keywords": [
+            "algorithm",
+            "data structure"
+          ]
+        },
+        "system-design": {
+          "name": "系统设计",
+          "desc_keywords": [
+            "system design",
+            "architecture"
+          ]
+        },
+        "interview": {
+          "name": "面试",
+          "desc_keywords": [
+            "interview",
+            "interview questions"
+          ]
+        }
       }
     }
   ],

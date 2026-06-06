@@ -64,6 +64,9 @@ const siteData = categories.map((cat) => {
   const items = repos.map((r) => {
     const cn = cnCache[r.full_name] || "";
     if (r.language) langs.add(r.language);
+    const catConfig = categoriesConfig.categories.find(c => c.id === cat.id);
+    const tagDefs = catConfig?.tags || {};
+    const tagNames = (r._tags || []).map(t => tagDefs[t]?.name || t).filter(Boolean);
     return {
       n: r.full_name,
       s: r.stars,
@@ -73,6 +76,7 @@ const siteData = categories.map((cat) => {
       u: r.html_url,
       f: r._confidence === "high",
       _new: isNewRepo(r.full_name),
+      t: tagNames,
     };
   });
   return {
@@ -163,6 +167,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans S
 .new-badge{display:inline-block;background:var(--new);color:#fff;font-size:9px;font-weight:700;text-transform:uppercase;padding:1px 6px;border-radius:3px;margin-left:4px;letter-spacing:.3px;vertical-align:middle}
 .empty-state{text-align:center;padding:60px 20px;color:var(--text-muted)}.empty-state .icon{font-size:48px;margin-bottom:8px}.empty-state p{font-size:14px}
 .new-section{border-left:3px solid var(--new)}
+.tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:4px}
+.tag{font-size:10px;font-weight:600;background:var(--primary-bg);color:var(--primary);padding:1px 7px;border-radius:4px;white-space:nowrap}
 @media(max-width:640px){.container{padding:12px 8px}.header{padding:20px 16px;flex-direction:column;text-align:center}.header .stats{gap:20px}.controls{padding:12px 14px}.search-box{min-width:120px}.result-meta{width:100%;text-align:right;margin-top:4px}.category-body{padding:0 14px 12px}.project{padding:10px 12px}.project .top{flex-direction:column;align-items:flex-start;gap:4px}}
 </style>
 </head>
@@ -240,7 +246,8 @@ function card(r,catName){
     (r.l?'<span class="lang">· '+r.l+"</span>":"")+"</div></div>"+
     '<div class="stars"><svg viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>'+stars+"</div></div>"+
     (r.c?'<div class="desc cn">🌏 '+r.c+"</div>":"")+
-    (r.d?'<div class="desc">📝 '+r.d.slice(0,120)+"</div>":"")+"</div>"
+    (r.d?'<div class="desc">📝 '+r.d.slice(0,120)+"</div>":"")+
+    (r.t&&r.t.length?'<div class="tags">'+r.t.map(t=>'<span class="tag">'+t+'</span>').join('')+"</div>":"")+"</div>"
 }
 function filter(){
   const q=document.getElementById("search").value.toLowerCase().trim(),lang=document.getElementById("langFilter").value,
@@ -275,28 +282,44 @@ function filter(){
     let byCat={};
     DATA.categories.forEach(cat=>{
       const items=filteredRepos.filter(r=>r.catId===cat.id);
-      if(items.length)byCat[cat.id]={name:cat.name,repos:items}
+      if(items.length)byCat[cat.id]={name:cat.name,repos:items,order:cat.order}
     });
     const keys=DATA.categories.map(c=>c.id).filter(id=>byCat[id]);
     total=keys.reduce((s,id)=>s+byCat[id].repos.length,0);
-    if(total){html='<div class="category"><div class="category-header" style="cursor:default;pointer-events:none">'+
-      '<div class="left"><span class="name">🆕 本周新增</span><span class="badge">'+total+'</span></div></div><div class="category-body open">';
+    if(total){
       keys.forEach(id=>{
         const g=byCat[id];let items=[...g.repos];
         if(sort==="name")items.sort((a,b)=>a.n.localeCompare(b.n));else items.sort((a,b)=>b.s-a.s);
-        html+='<div class="section-title">'+g.name+"</div>"+items.map(r=>card(r,g.name)).join("")
+        const feats=items.filter(r=>r.f),rest=items.filter(r=>!r.f);
+        html+='<div class="category"><div class="category-header" data-toggle="cat">'+
+          '<div class="left"><span class="name">'+g.name+'</span><span class="badge">'+items.length+"</span></div>"+
+          '<span class="arrow open">▾</span></div><div class="category-body open">';
+        if(feats.length)html+='<div class="section-title">⭐ 精选推荐</div>'+feats.map(r=>card(r)).join("");
+        if(rest.length){
+          if(feats.length)html+='<div class="section-title" style="margin-top:14px">📋 全部（'+rest.length+"）</div>";
+          html+=rest.map(r=>card(r)).join("")
+        }
+        html+="</div></div>"
       });
-      html+="</div></div>"
     }
   }
   if(!active&&!q&&!lang&&newProjects.length){
-    const topNew=newProjects.sort((a,b)=>b.s-a.s).slice(0,8);
-    let nh="",last="";
-    topNew.forEach(r=>{
-      if(r.catName!==last){nh+='<div style="font-size:12px;font-weight:600;color:var(--text-secondary);margin:6px 0 4px 2px">'+r.catName+"</div>";last=r.catName}
-      nh+=card(r,r.catName)
+    // 每个分类展示自己的所有新增项目（按 star 排序），每个分类可折叠
+    let nh="";
+    DATA.categories.forEach(cat=>{
+      const catNew = newProjects.filter(r=>r.catId===cat.id).sort((a,b)=>b.s-a.s);
+      if(!catNew.length)return;
+      nh+='<div class="category"><div class="category-header" data-toggle="cat">'+
+        '<div class="left"><span class="name">'+cat.name+'</span><span class="badge">'+catNew.length+"</span></div>"+
+        '<span class="arrow open">▾</span></div><div class="category-body open">';
+      const feats=catNew.filter(r=>r.f),rest=catNew.filter(r=>!r.f);
+      if(feats.length)nh+='<div class="section-title">⭐ 精选推荐</div>'+feats.map(r=>card(r)).join("");
+      if(rest.length){
+        if(feats.length)nh+='<div class="section-title" style="margin-top:14px">📋 全部（'+rest.length+"）</div>";
+        nh+=rest.map(r=>card(r)).join("")
+      }
+      nh+="</div></div>"
     });
-    if(newProjects.length>8)nh+='<div style="text-align:center;font-size:13px;color:var(--text-muted);margin-top:4px">⋯ 还有 '+(newProjects.length-8)+' 个，点击上方「🆕 本周新增」查看全部</div>';
     html='<div class="category new-section"><div class="category-header" data-toggle="cat">'+
       '<div class="left"><span class="name">🆕 本周新增</span><span class="badge">'+newProjects.length+"</span></div>"+
       '<span class="arrow open">▾</span></div><div class="category-body open">'+nh+"</div></div>"+html
