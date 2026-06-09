@@ -1,0 +1,599 @@
+{
+  "_说明": "每个分类的标杆项目库。AI 分类时参考这些示例来校准判断标准。",
+  "_说明2": "positive = 正确归类的示例；negative = 容易误判的反例。",
+  "_说明3": "编辑此文件后，需更新 docs/AI-CLASSIFY-WORKFLOW.md 中的锚定表。",
+  "version": "1.0",
+  "last_updated": "2026-06-08",
+  "anchors": {
+    "ai-coding-agent": {
+      "name": "🤖 AI 编码助手",
+      "description": "AI 编程助手、编码代理、代码自动生成工具。主业是帮开发者写代码。",
+      "positive": [
+        {
+          "full_name": "anomalyco/opencode",
+          "reason": "主业就是开源编码代理，CLI 界面。README 第一句定义自己为 coding agent",
+          "key_signals": ["coding agent", "code assistant", "ai coding"],
+          "false_signals": []
+        },
+        {
+          "full_name": "TabbyML/tabby",
+          "reason": "自托管 AI 编码助手。主业明确是 coding assistant",
+          "key_signals": ["coding assistant", "code completion", "code generation"],
+          "false_signals": ["ai", "llm"]
+        },
+        {
+          "full_name": "google-gemini/gemini-cli",
+          "reason": "Google Gemini 的 CLI 编码代理。已在 manual_overrides 中确认",
+          "key_signals": ["coding agent", "cli", "code generation"],
+          "false_signals": ["ai-agent", "mcp"]
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "hugohe3/ppt-master",
+          "reason": "主业是 AI PPT 生成。虽有 ai-agent topic，但主业与编码无关",
+          "false_signal": "ai-agent"
+        },
+        {
+          "full_name": "opensandbox-group/OpenSandbox",
+          "reason": "主业是 Agent 沙箱/运行时，不是编码辅助",
+          "false_signal": "ai-agent"
+        }
+      ]
+    },
+    "agent-framework": {
+      "name": "🔧 Agent 开发框架",
+      "description": "用于构建、编排和部署 AI Agent 的框架和平台。",
+      "positive": [
+        {
+          "full_name": "Significant-Gravitas/AutoGPT",
+          "reason": "最知名的自主 AI Agent 框架。主业是 agent 编排",
+          "key_signals": ["agent", "autonomous agent", "multi-agent"],
+          "false_signals": []
+        },
+        {
+          "full_name": "langflow-ai/langflow",
+          "reason": "可视化 AI Agent 和 Workflow 构建平台。有 agent 概念",
+          "key_signals": ["agents", "multi-agent", "workflow"],
+          "false_signals": ["workflow automation"]
+        },
+        {
+          "full_name": "langgenius/dify",
+          "reason": "AI 应用开发平台，支持 Agent 编排。已在 manual_overrides 确认",
+          "key_signals": ["agent", "llm application", "workflow"],
+          "false_signals": []
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "n8n-io/n8n",
+          "reason": "主业是工作流自动化（workflow automation），有 AI 能力但不是 Agent 框架",
+          "false_signal": "workflow, automation, agent"
+        },
+        {
+          "full_name": "langchain-ai/langchain",
+          "reason": "LLM 开发框架（SDK），不是 Agent 框架。虽然有 agent 概念但主业是 LLM 应用构建",
+          "false_signal": "agent, ai-agents"
+        }
+      ]
+    },
+    "workflow-automation": {
+      "name": "⚡ 工作流自动化",
+      "description": "工作流引擎、DAG 编排、自动化管道、无代码自动化平台。",
+      "positive": [
+        {
+          "full_name": "n8n-io/n8n",
+          "reason": "可视化工作流自动化平台。已在 manual_overrides 确认",
+          "key_signals": ["workflow", "automation", "pipeline"],
+          "false_signals": ["agent"]
+        },
+        {
+          "full_name": "apache/airflow",
+          "reason": "最流行的 DAG 工作流引擎。主业是 pipeline 编排",
+          "key_signals": ["workflow", "dag", "pipeline", "orchestration"],
+          "false_signals": []
+        },
+        {
+          "full_name": "activepieces/activepieces",
+          "reason": "可视化工作流平台。已在 manual_overrides 中确认",
+          "key_signals": ["workflow", "automation"],
+          "false_signals": ["ai"]
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "langflow-ai/langflow",
+          "reason": "有 workflow 能力但主业是 Agent 构建框架，归 agent-framework",
+          "false_signal": "workflow"
+        }
+      ]
+    },
+    "mcp": {
+      "name": "⛓️ MCP 生态",
+      "description": "Model Context Protocol 相关的 Server、Client、工具和资源。",
+      "positive": [
+        {
+          "full_name": "modelcontextprotocol/servers",
+          "reason": "MCP 官方 Servers 合集。主业就是 MCP",
+          "key_signals": ["mcp", "model context protocol", "mcp server"],
+          "false_signals": []
+        },
+        {
+          "full_name": "punkpeye/awesome-mcp-servers",
+          "reason": "MCP Servers 资源合集。主业就是 MCP",
+          "key_signals": ["mcp", "mcp servers"],
+          "false_signals": ["ai"]
+        },
+        {
+          "full_name": "upstash/context7",
+          "reason": "Upstash 的 MCP 工具。已在 manual_overrides 中确认",
+          "key_signals": ["mcp", "mcp server"],
+          "false_signals": []
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "browser-use/browser-use",
+          "reason": "主业是浏览器自动化，虽有 MCP 支持但不是主业。归 browser-automation",
+          "false_signal": "mcp"
+        },
+        {
+          "full_name": "D4Vinci/Scrapling",
+          "reason": "主业是网页抓取框架，有 MCP 集成但不是主业。归 browser-automation",
+          "false_signal": "mcp, mcp-server"
+        }
+      ]
+    },
+    "local-inference": {
+      "name": "🧠 本地推理与部署",
+      "description": "本地运行/部署 LLM 的推理引擎、模型服务和推理工具。",
+      "positive": [
+        {
+          "full_name": "ollama/ollama",
+          "reason": "最流行的本地 LLM 推理工具。已在 manual_overrides 中确认",
+          "key_signals": ["local llm", "inference", "ollama", "model serving"],
+          "false_signals": ["ai-agent", "llm"]
+        },
+        {
+          "full_name": "open-webui/open-webui",
+          "reason": "本地 LLM 的 Web UI 界面。已在 manual_overrides 中确认",
+          "key_signals": ["ollama", "local", "webui", "self-hosted"],
+          "false_signals": ["ai", "llm"]
+        },
+        {
+          "full_name": "vllm-project/vllm",
+          "reason": "高性能 LLM 推理引擎。主业就是推理 serving",
+          "key_signals": ["inference", "llm serving", "high-throughput"],
+          "false_signals": ["llm"]
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "gcanti/io-ts",
+          "reason": "TypeScript 类型推理库（type inference），与 LLM 推理毫无关系",
+          "false_signal": "inference"
+        },
+        {
+          "full_name": "gvergnaud/ts-pattern",
+          "reason": "TypeScript 模式匹配库（type inference），与 LLM 推理毫无关系",
+          "false_signal": "inference"
+        },
+        {
+          "full_name": "chatboxai/chatbox",
+          "reason": "AI 聊天客户端，支持 API 调用但主业不是本地推理。归 dev-tools",
+          "false_signal": "ollama"
+        }
+      ]
+    },
+    "llm-sdk": {
+      "name": "📚 LLM 开发 SDK",
+      "description": "构建 LLM 应用的框架、SDK、工具库。",
+      "positive": [
+        {
+          "full_name": "langchain-ai/langchain",
+          "reason": "最流行的 LLM 应用开发框架。已在 manual_overrides 中确认",
+          "key_signals": ["llm framework", "agent", "rag", "ai sdk"],
+          "false_signals": ["agent-framework"]
+        },
+        {
+          "full_name": "run-llama/llama_index",
+          "reason": "数据框架，专精 RAG。主业是 LLM 数据集成",
+          "key_signals": ["llm", "rag", "data framework", "indexing"],
+          "false_signals": ["agent"]
+        },
+        {
+          "full_name": "pydantic/pydantic-ai",
+          "reason": "Pydantic 出品的 AI Agent SDK。已在 manual_overrides 中确认",
+          "key_signals": ["agent sdk", "llm", "ai framework"],
+          "false_signals": ["agent"]
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "Significant-Gravitas/AutoGPT",
+          "reason": "不是 SDK，是一个完整的 Agent 应用框架。归 agent-framework",
+          "false_signal": "agent, llm"
+        }
+      ]
+    },
+    "ai-gateway": {
+      "name": "🚪 AI API 管理",
+      "description": "多模型路由、API 代理、成本管理、统一接口的 AI 网关。",
+      "positive": [
+        {
+          "full_name": "BerriAI/litellm",
+          "reason": "AI Gateway（代理 + SDK），100+ LLM 统一接口。已在 manual_overrides 确认",
+          "key_signals": ["ai gateway", "llm gateway", "model routing", "proxy"],
+          "false_signals": ["llm", "openai"]
+        },
+        {
+          "full_name": "Kong/kong",
+          "reason": "API + AI Gateway。已在 manual_overrides 中确认",
+          "key_signals": ["ai gateway", "api gateway", "llm gateway"],
+          "false_signals": ["api"]
+        },
+        {
+          "full_name": "QuantumNous/new-api",
+          "reason": "统一 AI 模型聚合分发平台。主业是多模型路由",
+          "key_signals": ["ai gateway", "model hub", "aggregation"],
+          "false_signals": []
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "ollama/ollama",
+          "reason": "本地推理引擎，有 API 但不是网关。归 local-inference",
+          "false_signal": "api, model serving"
+        }
+      ]
+    },
+    "evaluation": {
+      "name": "📏 AI 评估与监控",
+      "description": "LLM 评估、可观测性、Prompt 测试、模型监控工具。",
+      "positive": [
+        {
+          "full_name": "langfuse/langfuse",
+          "reason": "LLM 可观测性平台。已在 manual_overrides 中确认",
+          "key_signals": ["llm observability", "evaluation", "monitoring"],
+          "false_signals": []
+        },
+        {
+          "full_name": "promptfoo/promptfoo",
+          "reason": "Prompt 测试和评估框架。已在 manual_overrides 中确认",
+          "key_signals": ["prompt testing", "evaluation", "red teaming"],
+          "false_signals": ["prompt engineering"]
+        },
+        {
+          "full_name": "confident-ai/deepeval",
+          "reason": "LLM 评估框架。主业就是 eval",
+          "key_signals": ["llm evaluation", "eval framework", "testing"],
+          "false_signals": []
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "netdata/netdata",
+          "reason": "通用基础设施监控工具，不是专门 LLM 评估工具。归 devops",
+          "false_signal": "monitoring, observability"
+        }
+      ]
+    },
+    "browser-automation": {
+      "name": "🌐 浏览器自动化",
+      "description": "AI 驱动的浏览器操控、网页抓取、无头浏览器工具。",
+      "positive": [
+        {
+          "full_name": "browser-use/browser-use",
+          "reason": "AI Agent 浏览器自动化工具。已在 manual_overrides 确认",
+          "key_signals": ["browser automation", "browser use", "playwright"],
+          "false_signals": ["mcp", "ai-agent"]
+        },
+        {
+          "full_name": "microsoft/playwright",
+          "reason": "微软出品的浏览器测试和自动化框架。已在 manual_overrides 确认",
+          "key_signals": ["browser automation", "web testing", "e2e testing"],
+          "false_signals": ["automation"]
+        },
+        {
+          "full_name": "firecrawl/firecrawl",
+          "reason": "AI 网页抓取 API。已在 manual_overrides 确认",
+          "key_signals": ["web scraping", "crawler", "data extraction"],
+          "false_signals": ["ai-agent", "search"]
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "modelcontextprotocol/servers",
+          "reason": "MCP 协议工具，有 browser 能力但不是主业。归 mcp",
+          "false_signal": "browser"
+        }
+      ]
+    },
+    "doc-knowledge": {
+      "name": "📄 文档与知识管理",
+      "description": "文档解析、OCR、知识库、RAG 应用、笔记知识管理。",
+      "positive": [
+        {
+          "full_name": "PaddlePaddle/PaddleOCR",
+          "reason": "OCR 文档解析工具。主业就是从文档中提取结构化数据",
+          "key_signals": ["ocr", "document parsing", "pdf extraction"],
+          "false_signals": []
+        },
+        {
+          "full_name": "toeverything/AFFiNE",
+          "reason": "知识库和笔记应用，支持白板和文档管理",
+          "key_signals": ["knowledge base", "notes", "wiki"],
+          "false_signals": []
+        },
+        {
+          "full_name": "labring/FastGPT",
+          "reason": "基于 LLM 的知识库问答平台。已在 manual_overrides 确认",
+          "key_signals": ["knowledge base", "qa", "rag", "document"],
+          "false_signals": ["ai", "llm"]
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "siyuan-note/siyuan",
+          "reason": "笔记应用，属于消费型工具不是开发者工具，已隐藏",
+          "false_signal": "note, knowledge"
+        }
+      ]
+    },
+    "media-processing": {
+      "name": "🎬 音视频与多媒体",
+      "description": "音视频处理、语音识别/合成、图像处理、多媒体工具。",
+      "positive": [
+        {
+          "full_name": "yt-dlp/yt-dlp",
+          "reason": "音视频下载工具。主业就是媒体下载和处理",
+          "key_signals": ["video downloader", "audio", "youtube"],
+          "false_signals": ["cli"]
+        },
+        {
+          "full_name": "openai/whisper",
+          "reason": "语音识别模型。主业就是 audio/speech processing",
+          "key_signals": ["speech recognition", "audio", "asr"],
+          "false_signals": ["ai"]
+        },
+        {
+          "full_name": "FunAudioLLM/CosyVoice",
+          "reason": "多语言语音生成模型。主业就是 TTS/audio",
+          "key_signals": ["text to speech", "voice", "audio generation"],
+          "false_signals": ["llm", "fine-tuning"]
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "unslothai/unsloth",
+          "reason": "主业是 LLM 微调训练，有 TTS topic 但非主业。归 local-inference",
+          "false_signal": "text-to-speech, tts"
+        }
+      ]
+    },
+    "code-analysis": {
+      "name": "🔍 代码分析与质量",
+      "description": "静态分析、Linter、代码审查、代码质量、代码理解工具。",
+      "positive": [
+        {
+          "full_name": "astral-sh/ruff",
+          "reason": "极速 Python linter 和格式化工具。主业就是代码分析",
+          "key_signals": ["linter", "static analysis", "code quality"],
+          "false_signals": []
+        },
+        {
+          "full_name": "python/mypy",
+          "reason": "Python 静态类型检查器。主业就是代码分析",
+          "key_signals": ["static typing", "linter", "type checker"],
+          "false_signals": []
+        },
+        {
+          "full_name": "Lum1104/Understand-Anything",
+          "reason": "代码知识图谱工具。已在 manual_overrides 中确认",
+          "key_signals": ["code analysis", "knowledge graph", "code visualization"],
+          "false_signals": []
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "gitpod-io/gitpod",
+          "reason": "云 IDE 平台，不是代码分析工具。有 code-review topic 但非主业。归 dev-tools",
+          "false_signal": "code-review"
+        }
+      ]
+    },
+    "web-framework": {
+      "name": "🌐 Web 框架与服务器",
+      "description": "HTTP 服务器、Web 框架、反向代理等纯 Web 基础设施。",
+      "positive": [
+        {
+          "full_name": "gin-gonic/gin",
+          "reason": "高性能 Go Web 框架。主业就是 HTTP 框架",
+          "key_signals": ["web framework", "http server", "router"],
+          "false_signals": []
+        },
+        {
+          "full_name": "caddyserver/caddy",
+          "reason": "HTTP/1-2-3 Web 服务器+反向代理。主业明确",
+          "key_signals": ["http server", "web server", "reverse proxy"],
+          "false_signals": []
+        },
+        {
+          "full_name": "fastapi/fastapi",
+          "reason": "Python Web 框架。已在 manual_overrides 中确认",
+          "key_signals": ["web framework", "api", "http server"],
+          "false_signals": ["learn"]
+        }
+      ],
+      "negative": []
+    },
+    "database-storage": {
+      "name": "🗄️ 数据库与存储",
+      "description": "关系型/文档/向量/缓存数据库、搜索引擎、数据管道。",
+      "positive": [
+        {
+          "full_name": "supabase/supabase",
+          "reason": "Postgres 开发平台。主业就是数据库",
+          "key_signals": ["database", "postgres", "sql"],
+          "false_signals": ["ai"]
+        },
+        {
+          "full_name": "redis/redis",
+          "reason": "内存数据库+缓存。主业明确",
+          "key_signals": ["database", "cache", "key-value", "nosql"],
+          "false_signals": []
+        },
+        {
+          "full_name": "elastic/elasticsearch",
+          "reason": "分布式搜索和分析引擎。主业是搜索引擎",
+          "key_signals": ["search engine", "database", "full-text"],
+          "false_signals": []
+        }
+      ],
+      "negative": []
+    },
+    "devops": {
+      "name": "☁️ DevOps 与部署",
+      "description": "CI/CD、容器化、部署平台、配置管理、运维工具。",
+      "positive": [
+        {
+          "full_name": "ohmyzsh/ohmyzsh",
+          "reason": "Shell 配置管理框架。开发者必备",
+          "key_signals": ["shell", "terminal", "configuration", "cli"],
+          "false_signals": []
+        },
+        {
+          "full_name": "trimstray/the-book-of-secret-knowledge",
+          "reason": "DevOps 工程师的资源合集。主业是运维/DevOps",
+          "key_signals": ["devops", "linux", "sysops", "security"],
+          "false_signals": []
+        },
+        {
+          "full_name": "ripienaar/free-for-dev",
+          "reason": "SaaS/PaaS 免费层级列表，DevOps 常用参考",
+          "key_signals": ["devops", "paas", "saas", "deploy"],
+          "false_signals": []
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "netdata/netdata",
+          "reason": "虽然归 evaluation，但有争议。基础设施监控为主",
+          "false_signal": "monitoring"
+        }
+      ]
+    },
+    "security": {
+      "name": "🔐 安全与渗透",
+      "description": "安全工具、渗透测试、漏洞扫描、恶意软件分析。",
+      "positive": [
+        {
+          "full_name": "Hack-with-Github/Awesome-Hacking",
+          "reason": "渗透测试和安全资源合集。主业明确",
+          "key_signals": ["security", "penetration testing", "hacking"],
+          "false_signals": []
+        },
+        {
+          "full_name": "swisskyrepo/PayloadsAllTheThings",
+          "reason": "渗透测试 Payload 合集。主业是安全/渗透",
+          "key_signals": ["security", "pentest", "payload", "exploit"],
+          "false_signals": []
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "Developer-Y/cs-video-courses",
+          "reason": "CS 视频课程合集，不是安全工具。应归 learning",
+          "false_signal": "security"
+        }
+      ]
+    },
+    "self-hosted": {
+      "name": "🏠 自托管服务",
+      "description": "可自托管的开源服务：密码管理、文件管理、媒体管理等。",
+      "positive": [
+        {
+          "full_name": "awesome-selfhosted/awesome-selfhosted",
+          "reason": "自托管软件合集。主业就是 self-hosted",
+          "key_signals": ["self-hosted", "self hosting"],
+          "false_signals": []
+        },
+        {
+          "full_name": "appwrite/appwrite",
+          "reason": "后端云平台，可自托管。已在 manual_overrides 中确认",
+          "key_signals": ["self-hosted", "backend", "cloud"],
+          "false_signals": []
+        },
+        {
+          "full_name": "nocobase/nocobase",
+          "reason": "开源无代码平台，可自托管。已在 manual_overrides 中确认",
+          "key_signals": ["self-hosted", "no-code"],
+          "false_signals": []
+        }
+      ],
+      "negative": []
+    },
+    "dev-tools": {
+      "name": "🛠️ 通用开发者工具",
+      "description": "不属于 AI 专用分类的通用开发者工具，兜底分类。",
+      "positive": [
+        {
+          "full_name": "gcanti/io-ts",
+          "reason": "TypeScript 类型库，属于开发者工具但非 AI。已在 manual_overrides 确认",
+          "key_signals": ["developer tool", "typescript", "runtime type"],
+          "false_signals": ["inference"]
+        },
+        {
+          "full_name": "CherryHQ/cherry-studio",
+          "reason": "AI 生产力工作室，有编码辅助但主业是通用 AI 工具。已在 manual_overrides 确认",
+          "key_signals": ["developer tool", "productivity"],
+          "false_signals": ["ai-agent", "coding"]
+        },
+        {
+          "full_name": "tldr-pages/tldr",
+          "reason": "命令行帮助工具，纯开发者工具",
+          "key_signals": ["cli", "command line", "developer tool"],
+          "false_signals": []
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "anomalyco/opencode",
+          "reason": "虽然是 CLI 工具，但主业是 AI 编码代理，应归 ai-coding-agent",
+          "false_signal": "cli"
+        }
+      ]
+    },
+    "learning": {
+      "name": "📖 学习资料",
+      "description": "教程、课程、awesome 列表、学习路线图、面试准备。",
+      "positive": [
+        {
+          "full_name": "codecrafters-io/build-your-own-x",
+          "reason": "编程教程合集。主业就是学习资源",
+          "key_signals": ["tutorial", "learn", "guide", "curriculum"],
+          "false_signals": []
+        },
+        {
+          "full_name": "sindresorhus/awesome",
+          "reason": "Awesome 列表合集。主业就是资源索引",
+          "key_signals": ["awesome list", "resources"],
+          "false_signals": []
+        },
+        {
+          "full_name": "donnemartin/system-design-primer",
+          "reason": "系统设计学习资源。主业就是教育",
+          "key_signals": ["learn", "tutorial", "interview", "guide"],
+          "false_signals": []
+        }
+      ],
+      "negative": [
+        {
+          "full_name": "fastapi/fastapi",
+          "reason": "描述含 learning/learn 关键词但不是学习资源，是 Web 框架",
+          "false_signal": "learn"
+        }
+      ]
+    }
+  }
+}

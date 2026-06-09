@@ -37,6 +37,31 @@ const categories = categoriesConfig.categories;
 const unclassifiedCategory = categoriesConfig.unclassified_category;
 
 const PENDING_AI_REVIEW_PATH = path.join(ROOT, "data", "pending_ai_review.json");
+const LOCKS_PATH = path.join(ROOT, "data", "classification-locks.json");
+
+/**
+ * 加载或创建 classification-locks.json
+ * 确定性缓存：一次锁定，除非 --relock 否则永不重新匹配。
+ */
+function loadLocks() {
+  try {
+    return JSON.parse(fs.readFileSync(LOCKS_PATH, "utf-8"));
+  } catch {
+    return {
+      _说明: "确定性分类缓存。优先级: manual_overrides.json > classification-locks.json > autoClassify()",
+      version: "1.0",
+      generated_at: new Date().toISOString(),
+      locks: {},
+    };
+  }
+}
+
+function saveLocks(locksData) {
+  locksData.generated_at = new Date().toISOString();
+  locksData.lock_count = Object.keys(locksData.locks).length;
+  fs.writeFileSync(LOCKS_PATH, JSON.stringify(locksData, null, 2), "utf-8");
+  console.log(`   已写入 classification-locks.json (${locksData.lock_count} 条锁定)`);
+}
 
 /**
  * 对单个项目执行自动分类
@@ -125,7 +150,14 @@ export function applyOverrides(repo, autoResult, ovr) {
 
 function main() {
   const repos = reposData.repos || [];
+  const relockMode = process.argv.includes("--relock");
+  if (relockMode) console.log("🔓 --relock 模式：忽略已有锁定，重新分类所有项目\n");
+
   console.log(`📦 共 ${repos.length} 个项目，开始分类...\n`);
+
+  // 加载确定性锁定缓存
+  const locksData = loadLocks();
+  const locks = locksData.locks;
 
   // 分类结果: { categoryId: [repo, ...] }
   const classified = {};
@@ -138,11 +170,62 @@ function main() {
   classified["__unclassified__"] = [];
 
   for (const repo of repos) {
+    // ── 优先级 ① manual_overrides.json — 手工修正最优先 ──
+    const override = overrides.overrides?.[repo.full_name];
+    if (override) {
+      if (override.hidden === true) {
+        hidden.push(repo.full_name);
+        // 同步更新 lock
+        delete locks[repo.full_name];
+        continue;
+      }
+      if (override.category) {
+        const catId = override.category;
+        const tags = assignTags(repo, catId);
+        classified[catId].push({
+          ...repo,
+          _confidence: "high",
+          _overridden: true,
+          _tags: tags,
+        });
+        // 同步更新 lock
+        locks[repo.full_name] = {
+          category: catId,
+          _overridden: true,
+          _matched_by: "override",
+          _confidence: "high",
+          _audit: {
+            classified_by: "manual_override",
+            timestamp: new Date().toISOString(),
+            source: repo._source || "unknown",
+          },
+        };
+        continue;
+      }
+    }
+
+    // ── 优先级 ② classification-locks.json — 确定性锁定缓存 ──
+    const lock = locks[repo.full_name];
+    if (lock && !relockMode) {
+      const catId = lock.category;
+      const tags = assignTags(repo, catId);
+      if (classified[catId]) {
+        classified[catId].push({
+          ...repo,
+          _confidence: lock._confidence || "high",
+          _overridden: false,
+          _tags: tags,
+          _locked: true,
+        });
+      }
+      continue;
+    }
+
+    // ── 优先级 ③ autoClassify — 自动关键词匹配 ──
     const autoResult = autoClassify(repo);
     const final = applyOverrides(repo, autoResult);
 
     if (final.matched.length === 0) {
-      const override = overrides.overrides?.[repo.full_name];
       if (override?.hidden) {
         hidden.push(repo.full_name);
       } else {
@@ -158,7 +241,6 @@ function main() {
 
     for (const catId of final.matched) {
       if (!classified[catId]) classified[catId] = [];
-      // 分配标签
       const tags = assignTags(repo, catId);
       classified[catId].push({
         ...repo,
@@ -166,6 +248,21 @@ function main() {
         _overridden: final.overridden,
         _tags: tags,
       });
+
+      // 自动分类结果写入 lock（首次分类即锁定）
+      if (!locks[repo.full_name]) {
+        locks[repo.full_name] = {
+          category: catId,
+          _overridden: final.overridden,
+          _matched_by: final.confidence === "high" ? "topic" : "description",
+          _confidence: final.confidence,
+          _audit: {
+            classified_by: "autoClassify",
+            timestamp: new Date().toISOString(),
+            source: repo._source || "unknown",
+          },
+        };
+      }
     }
   }
 
@@ -183,6 +280,7 @@ function main() {
   }
   console.log(`  📂 未分类: ${unclassified.length} 个项目`);
   if (hidden.length > 0) console.log(`  🙈 已隐藏: ${hidden.length} 个项目`);
+  if (!relockMode) console.log(`  🔒 已锁定: ${Object.keys(locks).length} 个项目`);
   console.log(`\n✅ 分类完成！共处理 ${repos.length} 个项目`);
 
   // 写入 pending_ai_review.json（desc_search/wildcard 未分类项目）
@@ -227,7 +325,10 @@ function main() {
     console.log(`   已写入 pending_ai_review.json (${existingPending.length} 个待确认)`);
   }
 
-  // 写入
+  // 写入 classification-locks.json
+  saveLocks(locksData);
+
+  // 写入 classified.json
   const output = {
     last_updated: reposData.last_updated,
     classified,

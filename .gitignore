@@ -5,4 +5,12 @@ web-ui-demo/
 data/all_repos.txt
 data/uncertain_full.json
 data/uncertain_repos.txt
+pipeline/
+ai-dev-tools-report.csv
+ai-dev-tools-report.json
+nul
+=
+其它测试/
+scripts/generate-report.js
+scripts/process-github-data.js
 

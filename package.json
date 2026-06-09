@@ -12,6 +12,7 @@
     "test": "node --test test/*.test.js"
   },
   "dependencies": {
-    "@octokit/rest": "^21.0.0"
+    "@octokit/rest": "^21.0.0",
+    "playwright": "^1.60.0"
   }
 }

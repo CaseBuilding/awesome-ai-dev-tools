@@ -934,6 +934,75 @@
     "huggingface/transformers": {
       "category": "local-inference",
       "reason": "模型Hub，不是媒体处理"
+    },
+    "automazeio/ccpm": {
+      "category": null,
+      "hidden": true,
+      "reason": "AI项目管理工具，不是编码代理"
+    },
+    "chatboxai/chatbox": {
+      "category": "dev-tools",
+      "reason": "通用AI聊天客户端，不是本地推理引擎"
+    },
+    "CherryHQ/cherry-studio": {
+      "category": "dev-tools",
+      "reason": "AI生产力工作室，不是编码代理"
+    },
+    "fastapi/fastapi": {
+      "category": "web-framework",
+      "reason": "Web框架，因描述中'learn'误归学习资料"
+    },
+    "gcanti/io-ts": {
+      "category": "dev-tools",
+      "reason": "TypeScript类型推理库，不是LLM推理引擎"
+    },
+    "gitpod-io/gitpod": {
+      "category": "dev-tools",
+      "reason": "云IDE平台，不是代码分析工具"
+    },
+    "gvergnaud/ts-pattern": {
+      "category": "dev-tools",
+      "reason": "TypeScript模式匹配库，不是LLM推理引擎"
+    },
+    "hugohe3/ppt-master": {
+      "category": "doc-knowledge",
+      "reason": "AI PPT生成器，24.7K⭐，属于文档生成工具"
+    },
+    "metalbear-co/mirrord": {
+      "category": "devops",
+      "reason": "K8s流量调试工具，不是编码代理"
+    },
+    "miurla/morphic": {
+      "category": "dev-tools",
+      "reason": "AI搜索引擎，不是本地推理引擎"
+    },
+    "op7418/guizang-ppt-skill": {
+      "category": "doc-knowledge",
+      "reason": "AI HTML幻灯片生成Skill，15.3K⭐，属于文档生成工具"
+    },
+    "opensandbox-group/OpenSandbox": {
+      "category": "agent-framework",
+      "reason": "AI智能体沙箱，不是编码代理"
+    },
+    "presenton/presenton": {
+      "category": "doc-knowledge",
+      "reason": "AI演示文稿生成器和API，7.9K⭐，属于文档生成工具"
+    },
+    "rtk-ai/rtk": {
+      "category": "ai-gateway",
+      "reason": "LLM Token优化代理，不是编码代理"
+    },
+    "stas00/ml-engineering": {
+      "category": "learning",
+      "reason": "ML工程学习资料，不是推理引擎"
+    },
+    "TencentCloud/TencentDB-Agent-Memory": {
+      "category": "agent-framework",
+      "reason": "AI Agent记忆系统，不是编码代理"
+    },
+    "unslothai/unsloth": {
+      "category": "local-inference",
+      "reason": "LLM微调训练工具，不是媒体处理"
     }
   }
 }

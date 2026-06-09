@@ -16,6 +16,7 @@
     ├── 想加测试 ──────────────→ test-driven-development
     ├── 想提交 ────────────────→ git-workflow-and-versioning
     ├── 想记录决策原因 ────────→ documentation-and-adrs
+    ├── 审查项目分类是否正确 ──→ ai-classify-reviewer
     ├── 出了 Bug ──────────────→ debugging-and-error-recovery
     ├── 浏览代码库找线索 ──────→ explore（内置）
     └── 需要查资料+看代码 ────→ research（内置）
@@ -46,6 +47,7 @@
 
 ⑥ npm test
       红绿灯测试，确认没崩
+      （当前 57 个测试）
 
 ⑦ code-review-and-quality
       提交前五维审查（正确性/可读性/架构/安全/性能）
@@ -59,15 +61,20 @@
 
 | 项目 | 说明 |
 |------|------|
-| `npm test` | 29 个红绿灯测试，零依赖 |
+| `npm test` | 57 个红绿灯测试，零依赖 |
 | `npm run generate` | 生成本地 README |
 | `data/chinese_descriptions.json` | 中文描述缓存 |
+| `data/classification-locks.json` | 确定性分类锁定缓存（1024 条锁定） |
+| `data/classification-anchors.json` | AI 分类锚定样本库（19 类各 3-5 个样本） |
 | `test/fixtures/` | 测试 mock 数据，不碰真实数据 |
 | `docs/REQUIREMENTS.md` | 完整需求文档（§1-25） |
+| `docs/AI-CLASSIFY-WORKFLOW.md` | AI 分类工作流设计文档 |
 | `CHANGELOG.md` | 变更审计日志 |
+| `ai-classify-reviewer` skill | 可复用的 AI 分类审查 skill（`run_skill({name:"ai-classify-reviewer", arguments:"review <category>"})`）|
 
 ## 提醒
 
 - 别跳步。跳过 `interview-me` 直接实现，大概率返工
 - 单文件简单改动不需要走完整流程，`incremental-implementation` 就够了
 - `explore` 适合查"这个字段在哪里被消费"这类跨文件追踪
+- 分类审查请用 `ai-classify-reviewer` skill，它内置 5 条判定标准和锚定样本参考

@@ -64,6 +64,41 @@
       "name": "🔍 代码分析与质量",
       "search": ["topic:code-analysis,static-analysis,linter,codeql stars:>=5000"],
       "max_results": 100
+    },
+    "web-framework": {
+      "name": "🌐 Web 框架与服务器",
+      "search": ["topic:web-framework,http-server stars:>=5000"],
+      "max_results": 30
+    },
+    "database-storage": {
+      "name": "🗄️ 数据库与存储",
+      "search": ["topic:database,vector-database,nosql stars:>=5000"],
+      "max_results": 30
+    },
+    "devops": {
+      "name": "☁️ DevOps 与部署",
+      "search": ["topic:devops,ci-cd,kubernetes,docker stars:>=5000"],
+      "max_results": 50
+    },
+    "security": {
+      "name": "🔐 安全与渗透",
+      "search": ["topic:security,penetration-testing,vulnerability stars:>=5000"],
+      "max_results": 30
+    },
+    "self-hosted": {
+      "name": "🏠 自托管服务",
+      "search": ["topic:self-hosted stars:>=5000"],
+      "max_results": 30
+    },
+    "dev-tools": {
+      "name": "🛠️ 通用开发者工具",
+      "search": ["topic:developer-tools,cli stars:>=5000"],
+      "max_results": 30
+    },
+    "learning": {
+      "name": "📖 学习资料",
+      "search": ["topic:awesome,tutorial,learning stars:>=5000"],
+      "max_results": 100
     }
   }
 }

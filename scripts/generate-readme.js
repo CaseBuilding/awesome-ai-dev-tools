@@ -152,6 +152,8 @@ function renderRepoLine(repo, descCn, number, rankEmoji) {
   // 📝 英文描述：始终显示（截断 200 字）
   if (desc) {
     lines += `\n\n📝 ${desc.slice(0, 200)}`;
+  } else {
+    lines += `\n\n📝 *无英文描述*`;
   }
 
   lines += `\n\n🔗 [GitHub](${repo.html_url})\n`;
@@ -267,13 +269,16 @@ async function main() {
     }
   }
   if (newRepos.length > 0) {
+    // 按 Stars 降序排列，只取 Top 10
+    newRepos.sort((a, b) => b.repo.stars - a.repo.stars);
+    const topNew = newRepos.slice(0, 10);
     lines.push(`---`);
     lines.push(``);
-    lines.push(`## 📬 本周新增（${newRepos.length} 个项目）`);
+    lines.push(`## 📬 本周新增 Top 10（共 ${newRepos.length} 个）`);
     lines.push(``);
     lines.push(`| 项目 | Stars | 分类 |`);
     lines.push(`| --- | --- | --- |`);
-    for (const { repo, catName } of newRepos) {
+    for (const { repo, catName } of topNew) {
       lines.push(`| 🆕 [${repo.full_name}](${repo.html_url}) | ${formatStars(repo.stars)} | ${catName} |`);
     }
     lines.push(``);
@@ -404,6 +409,7 @@ async function main() {
   lines.push(`- 关注项目 → \`data/watched.json\``);
   lines.push(`- 调整搜索 → \`config/search-queries.json\``);
   lines.push(`- 调整规则 → \`config/categories.json\``);
+  lines.push(`- 浏览 Web UI → [docs/index.html](docs/index.html)`);
   lines.push(``);
   lines.push(`更多说明见 [docs/REQUIREMENTS.md](docs/REQUIREMENTS.md)`);
 

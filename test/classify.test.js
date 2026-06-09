@@ -291,8 +291,9 @@ describe("renderRepoLine 格式", () => {
       path.join(ROOT, "README.md"),
       "utf-8"
     );
-    const cnCount = (readme.match(/🌏 \*\*/g) || []).length;
-    const enCount = (readme.match(/📝 /g) || []).length;
+    // 匹配 \n\n🌏  与 \n\n📝  确保只数渲染行而非 description 中的内嵌 emoji
+    const cnCount = (readme.match(/\n\n🌏 /g) || []).length;
+    const enCount = (readme.match(/\n\n📝 /g) || []).length;
     assert.equal(cnCount, enCount, `🌏(${cnCount}) 与 📝(${enCount}) 数量不匹配`);
   });
 
@@ -399,7 +400,7 @@ describe("搜索配置完整性", () => {
 // ─────────────────────────────────────────────
 
 describe("导航表格", () => {
-  test("README 导航使用 4 列表格", () => {
+  test("README 导航使用 6 列表格", () => {
     const readme = fs.readFileSync(
       path.join(ROOT, "README.md"),
       "utf-8"
@@ -409,9 +410,9 @@ describe("导航表格", () => {
     // 找到第一个表格行（非分隔行）
     const tableLines = navSection.split("\n").filter((l) => l.startsWith("|") && !l.includes("---"));
     assert.ok(tableLines.length >= 2, "导航表格行数不足");
-    // 验证第一行有 5 个竖线（4 列）
+    // 验证第一行有 7 个竖线（6 列）
     const colCount = (tableLines[0].match(/\|/g) || []).length;
-    assert.equal(colCount, 5, `导航表格列数不对。期望 4 列(5竖线)，实际 ${colCount - 1} 列`);
+    assert.equal(colCount, 7, `导航表格列数不对。期望 6 列(7竖线)，实际 ${colCount - 1} 列`);
   });
 });
 

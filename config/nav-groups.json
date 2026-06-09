@@ -3,15 +3,23 @@
   "groups": [
     {
       "name": "AI 工具方向",
-      "categories": ["ai-coding-agent", "mcp", "agent-workflow", "browser-automation", "video-processing"]
+      "categories": ["ai-coding-agent", "mcp", "agent-framework", "browser-automation", "media-processing"]
     },
     {
       "name": "代码方向",
-      "categories": ["code-analysis", "code-visualization", "evaluation"]
+      "categories": ["code-analysis", "evaluation", "dev-tools"]
     },
     {
       "name": "平台方向",
-      "categories": ["llm-framework", "ai-gateway", "local-inference"]
+      "categories": ["llm-sdk", "ai-gateway", "local-inference", "workflow-automation"]
+    },
+    {
+      "name": "基础设施",
+      "categories": ["web-framework", "database-storage", "devops", "security", "self-hosted"]
+    },
+    {
+      "name": "知识与资源",
+      "categories": ["doc-knowledge", "learning"]
     }
   ]
 }

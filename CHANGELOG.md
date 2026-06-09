@@ -218,5 +218,86 @@
       ".gitignore": "新增 web-ui-demo/、遗留数据文件（all_repos.txt、uncertain*.json）",
       "CLAUDE.md": "更新 pipeline 图从 web-ui 到 docs，新增 generate-site 命令说明"
     }
+  },
+  {
+    "date": "2026-06-08",
+    "type": "fix",
+    "reason": "修复 nav-groups.json：过期分类 ID agent-workflow→agent-framework、video-processing→media-processing、llm-framework→llm-sdk，移除废弃 code-visualization；导航分组从 3 组扩展至 5 组覆盖全部 19 个分类",
+    "changed_by": "CaseBuilding + Reasonix 确认",
+    "changes": {
+      "config/nav-groups.json": "修正过期分类 ID，新增基础设施和知识与资源两个导航组"
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "type": "fix",
+    "reason": "README 本周新增过多（591 个），限制为 Top 10；修复 🌏/📝 数量不匹配；添加 Web UI 链接",
+    "changed_by": "CaseBuilding 提出 + Reasonix 实现",
+    "changes": {
+      "scripts/generate-readme.js": "新增 newRepos 排序+slice(0,10) 截断；空 description 输出 📝 占位符；页脚添加 Web UI 链接",
+      "test/classify.test.js": "导航表格测试 4 列→6 列；🌏📝 测试正则从全局匹配改为 \\n\\n 前缀"
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "type": "fix",
+    "reason": "大量分类错误修正（17 个 repo）：local-inference 中类型推理库归 dev-tools、ai-coding-agent 中非编码项目归入正确分类或隐藏",
+    "changed_by": "CaseBuilding + Reasonix 确认",
+    "changes": {
+      "data/manual_overrides.json": "新增 17 条 override（io-ts→dev-tools, ts-pattern→dev-tools, chatbox→dev-tools, miurla/morphic→dev-tools, stas00/ml-engineering→learning, unsloth→local-inference, fastapi→web-framework, gitpod→dev-tools, OpenSandbox→agent-framework, TencentDB-Agent-Memory→agent-framework, mirrord→devops, Cherry Studio→dev-tools, rtk→ai-gateway, ppt-master→doc-knowledge, guizang-ppt-skill→doc-knowledge, presenton→doc-knowledge, ccpm→hidden）"
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "type": "feature",
+    "reason": "为 7 个 catch-all 分类补充搜索配置（web-framework、database-storage、devops、security、self-hosted、dev-tools、learning）",
+    "changed_by": "CaseBuilding 确认",
+    "changes": {
+      "config/search-queries.json": "新增 7 个分类的 topic 搜索查询"
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "type": "feature",
+    "reason": "修复 pre-existing 测试失败：search-queries 完整性测试和 🌏/📝 计数测试",
+    "changed_by": "Reasonix 修复",
+    "changes": {
+      "test/classify.test.js": "🌏📝 测试正则修正；4 列→6 列表格测试",
+      "config/search-queries.json": "补充 7 个分类搜索配置"
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "type": "feature",
+    "reason": "确定性分类锁定机制：新增 classification-locks.json，优先级链 override > lock > autoClassify，防止每次 rebuild 分类结果不一致",
+    "changed_by": "CaseBuilding + Reasonix 设计确认",
+    "changes": {
+      "scripts/classify.js": "新增 loadLocks/saveLocks 函数，实现 override>lock>autoClassify 优先级链，支持 --relock 参数",
+      "data/classification-locks.json": "新建（首次运行生成 1024 条锁定）",
+      "docs/AI-CLASSIFY-WORKFLOW.md": "新建完整 AI 分类工作流设计文档"
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "type": "feature",
+    "reason": "创建 ai-classify-reviewer skill 和 data/classification-anchors.json 锚定样本库：AI 分类时参照 5 条标准和样本判断，稳定结果",
+    "changed_by": "CaseBuilding + Reasonix 设计确认",
+    "changes": {
+      ".reasonix/skills/ai-classify-reviewer/SKILL.md": "新建 AI 分类审查 skill（5 条标准、锚定注入、审计输出）",
+      "data/classification-anchors.json": "新建锚定样本库（19 个分类各 3 正例+1-2 反例）"
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "type": "docs",
+    "reason": "全面修复文档与代码脱钩：发现 24 处脱钩并全部修复",
+    "changed_by": "CaseBuilding 要求 + Reasonix 审查修复",
+    "changes": {
+      "docs/REQUIREMENTS.md": "§4 分类表 11→19，§5.1 项目数 370→1364，导航 4 列→6 列，§7.1 优先级表更新，§9 文件清单补充，§23/§24 更新",
+      "docs/ARCHITECTURE.md": "全篇重写：项目结构图、数据流图（新增 locks/优先级链）、脚本职责（补充 4 个缺失脚本）、配置示例全部更新",
+      "CLAUDE.md": "分类数 11→19，新增 5 个文件引用和锁定约定",
+      "REASONIX.md": "测试数 29→57，新增 5 个命令和 4 个文件引用",
+      "docs/SKILL-GUIDE.md": "测试数 29→57，新增 locks/anchors/skill 基础设施"
+    }
   }
 ]
