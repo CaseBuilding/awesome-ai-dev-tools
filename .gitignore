@@ -14,3 +14,26 @@ nul
 scripts/generate-report.js
 scripts/process-github-data.js
 
+# AI 工具配置（不纳入版本控制）
+.code-review-graph/
+.codegraph/
+.claude/
+.gemini/
+.kiro/
+.qoder/
+.cursorrules
+.windsurfrules
+.mcp.json
+.opencode.json
+AGENTS.md
+GEMINI.md
+QODER.md
+.vscode/
+.github/code-review-graph.instruction.md
+graphify-out/
+data/prompt_batch_*.md
+data/cls_chunk_*.json
+data/cls_result_*.json
+data/ai_batch_classify.json
+data/remaining_batch.json
+data/pending_chunks.json

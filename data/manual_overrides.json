@@ -921,15 +921,15 @@
     },
     "fighting41love/funNLP": {
       "category": "learning",
-      "reason": "中文NLP语料资源合集，不是工作流"
+      "reason": "AI 辅助分类"
     },
     "bregman-arie/devops-exercises": {
       "category": "learning",
-      "reason": "DevOps面试题，不是数据库"
+      "reason": "AI 辅助分类"
     },
     "appwrite/appwrite": {
-      "category": "self-hosted",
-      "reason": "后端云平台，可自托管"
+      "category": "devops",
+      "reason": "AI 辅助分类"
     },
     "huggingface/transformers": {
       "category": "local-inference",
@@ -1003,6 +1003,1978 @@
     "unslothai/unsloth": {
       "category": "local-inference",
       "reason": "LLM微调训练工具，不是媒体处理"
+    },
+    "codecrafters-io/build-your-own-x": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "sindresorhus/awesome": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "public-apis/public-apis": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "nilbuild/developer-roadmap": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "jwasham/coding-interview-university": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "vinta/awesome-python": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "awesome-selfhosted/awesome-selfhosted": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "trimstray/the-book-of-secret-knowledge": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "obra/superpowers": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "trekhleb/javascript-algorithms": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "avelino/awesome-go": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "multica-ai/andrej-karpathy-skills": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "yt-dlp/yt-dlp": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "jlevy/the-art-of-command-line": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "anthropics/skills": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "ytdl-org/youtube-dl": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "x1xhlol/system-prompts-and-models-of-ai-tools": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "krahets/hello-algo": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "mattpocock/skills": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "rustdesk/rustdesk": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "ggml-org/llama.cpp": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "Hack-with-Github/Awesome-Hacking": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/generative-ai-for-beginners": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "github/spec-kit": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "axios/axios": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "garrytan/gstack": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "fatedier/frp": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "goldbergyoni/nodebestpractices": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "supabase/supabase": {
+      "category": "database-storage",
+      "reason": "AI 辅助分类"
+    },
+    "ryanmcdermott/clean-code-javascript": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "gin-gonic/gin": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "MunGell/awesome-for-beginners": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "laravel/laravel": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "ByteByteGoHq/system-design-101": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "Developer-Y/cs-video-courses": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "PaddlePaddle/PaddleOCR": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "Stirling-Tools/Stirling-PDF": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "anuraghazra/github-readme-stats": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "hoppscotch/hoppscotch": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "swisskyrepo/PayloadsAllTheThings": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "nomic-ai/gpt4all": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "sdmg15/Best-websites-a-programmer-should-visit": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "ocornut/imgui": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "vuejs/awesome-vue": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "enaqx/awesome-react": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "caddyserver/caddy": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "abi/screenshot-to-code": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "strapi/strapi": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "Eugeny/tabby": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "AppFlowy-IO/AppFlowy": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "fffaraz/awesome-cpp": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "binhnguyennus/awesome-scalability": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "paperclipai/paperclip": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "toeverything/AFFiNE": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "prakhar1989/awesome-courses": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "unclecode/crawl4ai": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "labmlai/annotated_deep_learning_paper_implementations": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "opendatalab/MinerU": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "bradtraversy/design-resources-for-developers": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "webpack/webpack": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "openinterpreter/open-interpreter": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "nocodb/nocodb": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "pathwaycom/pathway": {
+      "category": "workflow-automation",
+      "reason": "AI 辅助分类"
+    },
+    "dani-garcia/vaultwarden": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "warpdotdev/warp": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "docling-project/docling": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "xingshaocheng/architect-awesome": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "meta-llama/llama": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "karpathy/nanoGPT": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "meilisearch/meilisearch": {
+      "category": "database-storage",
+      "reason": "AI 辅助分类"
+    },
+    "rust-unofficial/awesome-rust": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "zylon-ai/private-gpt": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "coollabsio/coolify": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "FoundationAgents/OpenManus": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "termux/termux-app": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Zie619/n8n-workflows": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "karpathy/nanochat": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "mozilla/pdf.js": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "vsouza/awesome-ios": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "prettier/prettier": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "DefinitelyTyped/DefinitelyTyped": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "jingyaogong/minimind": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "charlax/professional-programming": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "NanmiCoder/MediaCrawler": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "dkhamsing/open-source-ios-apps": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "makeplane/plane": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "nlohmann/json": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "lllyasviel/Fooocus": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "penpot/penpot": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "twentyhq/twenty": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "1c7/chinese-independent-developer": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "x64dbg/x64dbg": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/VibeVoice": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "akullpp/awesome-java": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/AI-For-Beginners": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "brillout/awesome-react-components": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "DovAmir/awesome-design-patterns": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "tldraw/tldraw": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "gogs/gogs": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "oobabooga/textgen": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "discourse/discourse": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "serverless/serverless": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "dypsilon/frontend-dev-bookmarks": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "GitHubDaily/GitHubDaily": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "prisma/prisma": {
+      "category": "database-storage",
+      "reason": "AI 辅助分类"
+    },
+    "lukasz-madon/awesome-remote-job": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "Aider-AI/aider": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "coqui-ai/TTS": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "RocketChat/Rocket.Chat": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "calcom/cal.diy": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "GitSquared/edex-ui": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "SimplifyJobs/Summer2026-Internships": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "sudheerj/reactjs-interview-questions": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "KeygraphHQ/shannon": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "karanpratapsingh/system-design": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "fastapi/full-stack-fastapi-template": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "alex/what-happens-when": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "colbymchenry/codegraph": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "gradio-app/gradio": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "k88hudson/git-flight-rules": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "mingrammer/diagrams": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "apachecn/ailearning": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "danielmiessler/Fabric": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "psf/black": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "chubin/cheat.sh": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "vuetifyjs/vuetify": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "trpc/trpc": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "PatrickJS/awesome-cursorrules": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "gofiber/fiber": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "phaserjs/phaser": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "floodsung/Deep-Learning-Papers-Reading-Roadmap": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/BitNet": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "vadimdemedes/ink": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "ashishps1/awesome-system-design-resources": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "gto76/python-cheatsheet": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "naptha/tesseract.js": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "deepseek-ai/awesome-deepseek-integration": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "karpathy/LLM101n": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "alebcay/awesome-shell": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "open-guides/og-aws": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "router-for-me/CLIProxyAPI": {
+      "category": "ai-gateway",
+      "reason": "AI 辅助分类"
+    },
+    "veggiemonk/awesome-docker": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "sahat/hackathon-starter": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "luongnv89/claude-howto": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "sorrycc/awesome-javascript": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "Leonxlnx/taste-skill": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "musistudio/claude-code-router": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "jaredpalmer/formik": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "casey/just": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "awesome-foss/awesome-sysadmin": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "explosion/spaCy": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "bayandin/awesome-awesomeness": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "zeromicro/go-zero": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "remix-run/remix": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "floating-ui/floating-ui": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "ziadoz/awesome-php": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "yunjey/pytorch-tutorial": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "surrealdb/surrealdb": {
+      "category": "database-storage",
+      "reason": "AI 辅助分类"
+    },
+    "qdrant/qdrant": {
+      "category": "database-storage",
+      "reason": "AI 辅助分类"
+    },
+    "zeroclaw-labs/zeroclaw": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "refined-github/refined-github": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "DayuanJiang/next-ai-draw-io": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "kingToolbox/WindTerm": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "openai/openai-python": {
+      "category": "llm-sdk",
+      "reason": "AI 辅助分类"
+    },
+    "alibaba/p3c": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "fishaudio/fish-speech": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "nginx/nginx": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "jobbole/awesome-python-cn": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "trailofbits/algo": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "google-research/tuning_playbook": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "eugeneyan/applied-ml": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "aosabook/500lines": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "heroui-inc/heroui": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "react-boilerplate/react-boilerplate": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "jj-vcs/jj": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "jamiepine/voicebox": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "standard/standard": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "IanLunn/Hover": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "academic/awesome-datascience": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "projectdiscovery/nuclei": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "deepinsight/insightface": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "ZuzooVn/machine-learning-for-software-engineers": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "ChristosChristofidis/awesome-deep-learning": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "stanford-oval/storm": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "e2b-dev/awesome-ai-agents": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "Imbad0202/academic-research-skills": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Leey21/awesome-ai-research-writing": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "sudheerj/javascript-interview-questions": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "sindresorhus/awesome-electron": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "aishwaryanr/awesome-generative-ai-guide": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "jivoi/awesome-osint": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "matteocrippa/awesome-swift": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "OtterMind/Chat2DB": {
+      "category": "database-storage",
+      "reason": "AI 辅助分类"
+    },
+    "akveo/ngx-admin": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Wei-Shaw/sub2api": {
+      "category": "ai-gateway",
+      "reason": "AI 辅助分类"
+    },
+    "systemdesign42/system-design-academy": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "pypa/pipenv": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "charmbracelet/crush": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "inconshreveable/ngrok": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "terrastruct/d2": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "shieldfy/API-Security-Checklist": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "SuperClaude-Org/SuperClaude_Framework": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "markerikson/react-redux-links": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "quozd/awesome-dotnet": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "samber/lo": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "thangchung/awesome-dotnet-core": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "anderspitman/awesome-tunneling": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "matiassingers/awesome-readme": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "index-tts/index-tts": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "rockerBOO/awesome-neovim": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "JimLiu/baoyu-skills": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "EthicalML/awesome-production-machine-learning": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "motdotla/dotenv": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "vercel/chatbot": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "mikeroyal/Self-Hosting-Guide": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "grpc-ecosystem/grpc-gateway": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "MoienTajik/AspNetCore-Developer-Roadmap": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "milanm/DevOps-Roadmap": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "RunaCapital/awesome-oss-alternatives": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "livekit/livekit": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "spotify/luigi": {
+      "category": "workflow-automation",
+      "reason": "AI 辅助分类"
+    },
+    "keon/awesome-nlp": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "InterviewReady/system-design-resources": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "unixorn/awesome-zsh-plugins": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "rasbt/deeplearning-models": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "dair-ai/ML-YouTube-Courses": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "cjbarber/ToolsOfTheTrade": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "vitalysim/Awesome-Hacking-Resources": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "rubocop/ruby-style-guide": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "leandromoreira/digital_video_introduction": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "architecture-decision-record/architecture-decision-record": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "chiphuyen/aie-book": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "HKUDS/DeepCode": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "ahmedkhaleel2004/gitdiagram": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "lra/mackup": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "supertokens/supertokens-core": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "browserify/browserify": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Sairyss/domain-driven-hexagon": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "oxnr/awesome-bigdata": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "jindongwang/transferlearning": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "neutraltone/awesome-stock-resources": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "idank/explainshell": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "netease-youdao/QAnything": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "kgrzybek/modular-monolith-with-ddd": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "mytechnotalent/Reverse-Engineering": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "rigtorp/awesome-modern-cpp": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "kmario23/deep-learning-drizzle": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "rasbt/python-machine-learning-book": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "JStumpp/awesome-android": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "meolu/walle-web": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "encoredev/encore": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "taskflow/taskflow": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "trimstray/test-your-sysadmin-skills": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "EvanLi/Github-Ranking": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "mehdihadeli/awesome-software-architecture": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "ryanburgess/engineer-manager": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "kanaka/mal": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "huggingface/skills": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "yandexdataschool/nlp_course": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "autogluon/autogluon": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "google/osv-scanner": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "KalyanKS-NLP/llm-engineer-toolkit": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "infosecn1nja/Red-Teaming-Toolkit": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "gibbok/typescript-book": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "calesthio/Crucix": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "Acly/krita-ai-diffusion": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "mozilla/TTS": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "pahen/madge": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "HangfireIO/Hangfire": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "moby/buildkit": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "InsertKoinIO/koin": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "vercel/ncc": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "swyxio/spark-joy": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "roboticcam/machine-learning-notes": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "greatfrontend/top-javascript-interview-questions": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "swagger-api/swagger-editor": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Orchestra-Research/AI-Research-SKILLs": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "davidsonfellipe/awesome-wpo": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "spring-projects/spring-ai": {
+      "category": "llm-sdk",
+      "reason": "AI 辅助分类"
+    },
+    "tsparticles/tsparticles": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "dair-ai/ML-Papers-Explained": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "avast/retdec": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "boyter/scc": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "AgriciDaniel/claude-seo": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "HKUDS/ClawWork": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "golang/tools": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "stanfordnlp/stanza": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "nomi-sec/PoC-in-GitHub": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "weaviate/Verba": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "vercel/nextjs-subscription-payments": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Blazity/next-enterprise": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "yizhiyanhua-ai/fireworks-tech-graph": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "alibaba/fish-redux": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "rasbt/python-machine-learning-book-2nd-edition": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "bkrem/awesome-solidity": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "deeppavlov/DeepPavlov": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "vespa-engine/vespa": {
+      "category": "database-storage",
+      "reason": "AI 辅助分类"
+    },
+    "amitness/learning": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "shuaibiyy/awesome-tf": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "doxygen/doxygen": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Tracer-Cloud/opensre": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "Genymobile/scrcpy": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Comfy-Org/ComfyUI": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "react/create-react-app": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/Web-Dev-For-Beginners": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "hacksider/Deep-Live-Cam": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "PanJiaChen/vue-element-admin": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "storybookjs/storybook": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "gohugoio/hugo": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "awesomedata/awesome-public-datasets": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "FFmpeg/FFmpeg": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "angular/angular.js": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "soimort/you-get": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "golang-standards/project-layout": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "jellyfin/jellyfin": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "jgthms/bulma": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "cypress-io/cypress": {
+      "category": "browser-automation",
+      "reason": "AI 辅助分类"
+    },
+    "nilbuild/design-patterns-for-humans": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "ColorlibHQ/AdminLTE": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "9001/copyparty": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "anthropics/claude-cookbooks": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "AykutSarac/jsoncrack.com": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "streamich/react-use": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "babel/babel": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "NaiboWang/EasySpider": {
+      "category": "browser-automation",
+      "reason": "AI 辅助分类"
+    },
+    "faif/python-patterns": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "dylanaraps/pure-bash-bible": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "Lordog/dive-into-llms": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "ant-design/ant-design-pro": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "datalab-to/marker": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "python-poetry/poetry": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "tinygrad/tinygrad": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "nicolargo/glances": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Trinea/android-open-project": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "amix/vimrc": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "fabricjs/fabric.js": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Lightning-AI/pytorch-lightning": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "binwiederhier/ntfy": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Yeachan-Heo/oh-my-codex": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "spf13/viper": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "elsewhencode/project-guidelines": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "jdx/mise": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "postcss/postcss": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "micro-editor/micro": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "NvChad/NvChad": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "pydantic/pydantic": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "davila7/claude-code-templates": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "huggingface/smolagents": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "vercel-labs/agent-skills": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "NickeManarin/ScreenToGif": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "modular/modular": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "PromtEngineer/localGPT": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "nhn/tui.editor": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "pinpoint-apm/pinpoint": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "plantuml/plantuml": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "BeehiveInnovations/pal-mcp-server": {
+      "category": "mcp",
+      "reason": "AI 辅助分类"
+    },
+    "priyankavergadia/google-cloud-4-words": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "crazyguitar/pysheeet": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "plantuml-stdlib/C4-PlantUML": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "jamwithai/production-agentic-rag-course": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "EbookFoundation/free-programming-books": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "react/react": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "vuejs/vue": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/vscode": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "CyC2018/CS-Notes": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "getify/You-Dont-Know-JS": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "jackfrued/Python-100-Days": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "github/gitignore": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "twbs/bootstrap": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "AUTOMATIC1111/stable-diffusion-webui": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "yangshun/tech-interview-handbook": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "vercel/next.js": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/PowerToys": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "anthropics/claude-code": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "react/react-native": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "excalidraw/excalidraw": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "electron/electron": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "nodejs/node": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "justjavac/free-programming-books-zh_CN": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "shadcn-ui/ui": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/TypeScript": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "tauri-apps/tauri": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "denoland/deno": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/terminal": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "pytorch/pytorch": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "neovim/neovim": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "mtdvio/every-programmer-should-know": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "mui/material-ui": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "ant-design/ant-design": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "nvbn/thefuck": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "florinpop17/app-ideas": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "nvm-sh/nvm": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "nextlevelbuilder/ui-ux-pro-max-skill": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "oven-sh/bun": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "mermaid-js/mermaid": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "3b1b/manim": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "sveltejs/svelte": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "astral-sh/uv": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "tonsky/FiraCode": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "spring-projects/spring-boot": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "coder/code-server": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Z4nzu/hackingtool": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "tesseract-ocr/tesseract": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "apache/superset": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "NationalSecurityAgency/ghidra": {
+      "category": "code-analysis",
+      "reason": "AI 辅助分类"
+    },
+    "ryanoasis/nerd-fonts": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "PlexPt/awesome-chatgpt-prompts-zh": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "nuxt/nuxt": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "jquery/jquery": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "shadowsocks/shadowsocks-windows": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "pocketbase/pocketbase": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "FiloSottile/mkcert": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "rails/rails": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "marktext/marktext": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "h5bp/html5-boilerplate": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "ghostty-org/ghostty": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Textualize/rich": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "tw93/Mole": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "romkatv/powerlevel10k": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "PowerShell/PowerShell": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "JetBrains/kotlin": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "ionic-team/ionic-framework": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "jekyll/jekyll": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "bmad-code-org/BMAD-METHOD": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "bigskysoftware/htmx": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "karan/Projects": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "acmesh-official/acme.sh": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "coreybutler/nvm-windows": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/monaco-editor": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "upscayl/upscayl": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "payloadcms/payload": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "aria2/aria2": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "tabler/tabler": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "apple/container": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "dotnet/aspnetcore": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "vlang/v": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "DioxusLabs/dioxus": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "nextcloud/server": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "koajs/koa": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/Data-Science-For-Beginners": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "gchq/CyberChef": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "wailsapp/wails": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "certbot/certbot": {
+      "category": "security",
+      "reason": "AI 辅助分类"
+    },
+    "tokio-rs/tokio": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "docsifyjs/docsify": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "supermemoryai/supermemory": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "emmabostian/developer-portfolios": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "rust-lang/rust": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "spacedriveapp/spacedrive": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "syncthing/syncthing": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "ventoy/Ventoy": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "pi-hole/pi-hole": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "apache/kafka": {
+      "category": "database-storage",
+      "reason": "AI 辅助分类"
+    },
+    "mqyqingfeng/Blog": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "srbhr/Resume-Matcher": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "lfnovo/open-notebook": {
+      "category": "doc-knowledge",
+      "reason": "AI 辅助分类"
+    },
+    "MaartenGr/BERTopic": {
+      "category": "llm-sdk",
+      "reason": "AI 辅助分类"
+    },
+    "THUDM/slime": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "sipeed/picoclaw": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "lbjlaq/Antigravity-Manager": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Alishahryar1/free-claude-code": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "pbakaus/impeccable": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "tinyhumansai/openhuman": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "webtorrent/webtorrent": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "Chanzhaoyu/chatgpt-web": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "garrytan/gbrain": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "ccxt/ccxt": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "massgravel/Microsoft-Activation-Scripts": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "twitter/the-algorithm": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "facebookresearch/fairseq": {
+      "category": "llm-sdk",
+      "reason": "AI 辅助分类"
+    },
+    "EleutherAI/gpt-neox": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "EleutherAI/gpt-neo": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "CompVis/stable-diffusion": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "facebookresearch/segment-anything": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "NVlabs/stylegan": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "NVlabs/stylegan2": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "facebookresearch/pifuhd": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "facebookresearch/mae": {
+      "category": "llm-sdk",
+      "reason": "AI 辅助分类"
+    },
+    "tatsu-lab/stanford_alpaca": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "meta-llama/llama3": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "deepseek-ai/DeepSeek-V3": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "deepseek-ai/DeepSeek-R1": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "deepseek-ai/DeepSeek-LLM": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "state-spaces/mamba": {
+      "category": "llm-sdk",
+      "reason": "AI 辅助分类"
+    },
+    "sczhou/CodeFormer": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "microsoft/CNTK": {
+      "category": "llm-sdk",
+      "reason": "AI 辅助分类"
+    },
+    "artidoro/qlora": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "QwenLM/Qwen-Image": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "LAION-AI/Open-Assistant": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "facebookresearch/sam2": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
     }
   }
 }

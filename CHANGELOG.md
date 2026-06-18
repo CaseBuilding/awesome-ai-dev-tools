@@ -299,5 +299,24 @@
       "REASONIX.md": "测试数 29→57，新增 5 个命令和 4 个文件引用",
       "docs/SKILL-GUIDE.md": "测试数 29→57，新增 locks/anchors/skill 基础设施"
     }
+  },
+  {
+    "date": "2026-06-18",
+    "type": "update",
+    "reason": "数据刷新 + AI 辅助分类 496 条：repo 数从 1364→1898，分类覆盖率从 1075→1846，待审查从 433→39",
+    "changed_by": "CaseBuilding + Claude Code",
+    "changes": {
+      "data/repos.json": "GitHub API 重新抓取，新增 534 个项目，合并为 1898 个",
+      "data/classified.json": "分类结果更新（1846 已分类，89 未分类）",
+      "data/manual_overrides.json": "新增 496 条 AI 辅助分类判定",
+      "data/classification-locks.json": "锁定条目从 1453→1793",
+      "data/pending_ai_review.json": "待分类从 535→39",
+      "data/first_seen.json": "新项目首次入库时间同步",
+      "data/chinese_descriptions.json": "中文描述缓存同步",
+      "README.md": "Web UI 链接改为 GitHub Pages 在线链接",
+      "docs/index.html": "Web UI 重新生成",
+      "scripts/generate-readme.js": "Web UI 链接改为 GitHub Pages URL",
+      ".gitignore": "排除 AI 工具配置目录（.codegraph/.gemini/.kiro 等）"
+    }
   }
 ]

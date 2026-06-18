@@ -409,7 +409,7 @@ async function main() {
   lines.push(`- 关注项目 → \`data/watched.json\``);
   lines.push(`- 调整搜索 → \`config/search-queries.json\``);
   lines.push(`- 调整规则 → \`config/categories.json\``);
-  lines.push(`- 浏览 Web UI → [docs/index.html](docs/index.html)`);
+  lines.push(`- 浏览 Web UI → [GitHub Pages](https://casebuilding.github.io/awesome-ai-dev-tools/)`);
   lines.push(``);
   lines.push(`更多说明见 [docs/REQUIREMENTS.md](docs/REQUIREMENTS.md)`);
 
