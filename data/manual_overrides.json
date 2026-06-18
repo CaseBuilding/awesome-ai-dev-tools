@@ -2975,6 +2975,122 @@
     "facebookresearch/sam2": {
       "category": "media-processing",
       "reason": "AI 辅助分类"
+    },
+    "openclaw/openclaw": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "666ghj/MiroFish": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "deepfakes/faceswap": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "OpenCut-app/OpenCut": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "mpv-player/mpv": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "captbaritone/webamp": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "AdguardTeam/AdGuardHome": {
+      "category": "self-hosted",
+      "reason": "AI 辅助分类"
+    },
+    "systemd/systemd": {
+      "category": "devops",
+      "reason": "AI 辅助分类"
+    },
+    "godotengine/godot": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "juspay/hyperswitch": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "poteto/hiring-without-whiteboards": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "wilsonfreitas/awesome-quant": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "inkonchain/docs": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "virattt/ai-hedge-fund": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "commaai/openpilot": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "NoFxAiOS/nofx": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "agalwood/Motrix": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "maybe-finance/maybe": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "moeru-ai/airi": {
+      "category": "agent-framework",
+      "reason": "AI 辅助分类"
+    },
+    "elder-plinius/G0DM0D3": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "KRTirtho/spotube": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "qier222/YesPlayMusic": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "pear-devs/pear-desktop": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "maxrave-dev/SimpMusic": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "iina/iina": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "ethereum/go-ethereum": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "linera-io/linera-protocol": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "996icu/996.ICU": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "slymnoyann/hey-1": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
     }
   }
 }

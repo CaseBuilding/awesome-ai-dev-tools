@@ -1937,6 +1937,29 @@
     ],
     "agent-framework": [
       {
+        "full_name": "openclaw/openclaw",
+        "name": "openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+        "topics": [
+          "ai",
+          "assistant",
+          "crustacean",
+          "molty",
+          "openclaw",
+          "own-your-data",
+          "personal"
+        ],
+        "stars": 379345,
+        "language": "TypeScript",
+        "html_url": "https://github.com/openclaw/openclaw",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": [
+          "agent-platform"
+        ]
+      },
+      {
         "full_name": "obra/superpowers",
         "name": "superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
@@ -2332,6 +2355,30 @@
         "_locked": true
       },
       {
+        "full_name": "666ghj/MiroFish",
+        "name": "MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "topics": [
+          "agent-memory",
+          "financial-forecasting",
+          "future-prediction",
+          "knowledge-graph",
+          "llms",
+          "multi-agent-simulation",
+          "public-opinion-analysis",
+          "python3",
+          "social-prediction",
+          "swarm-intelligence"
+        ],
+        "stars": 66741,
+        "language": "Python",
+        "html_url": "https://github.com/666ghj/MiroFish",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "code-yeongyu/oh-my-openagent",
         "name": "oh-my-openagent",
         "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
@@ -2684,6 +2731,31 @@
         "_overridden": false,
         "_tags": [],
         "_locked": true
+      },
+      {
+        "full_name": "moeru-ai/airi",
+        "name": "airi",
+        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "topics": [
+          "ai-companion",
+          "ai-vtuber",
+          "airi",
+          "digital-life",
+          "grok-companion",
+          "live2d",
+          "neuro-sama",
+          "neurosama",
+          "openclaw",
+          "vrm",
+          "vtuber"
+        ],
+        "stars": 41089,
+        "language": "TypeScript",
+        "html_url": "https://github.com/moeru-ai/airi",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
       },
       {
         "full_name": "agno-agi/agno",
@@ -19771,6 +19843,23 @@
         "_locked": true
       },
       {
+        "full_name": "OpenCut-app/OpenCut",
+        "name": "OpenCut",
+        "description": "The open-source CapCut alternative",
+        "topics": [
+          "editor",
+          "oss",
+          "videoeditor"
+        ],
+        "stars": 56940,
+        "language": "TypeScript",
+        "html_url": "https://github.com/OpenCut-app/OpenCut",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "soimort/you-get",
         "name": "you-get",
         "description": ":arrow_double_down: Dumb downloader that scrapes the web",
@@ -19778,6 +19867,34 @@
         "stars": 56841,
         "language": "Python",
         "html_url": "https://github.com/soimort/you-get",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "deepfakes/faceswap",
+        "name": "faceswap",
+        "description": "Deepfakes Software For All",
+        "topics": [
+          "deep-face-swap",
+          "deep-learning",
+          "deep-neural-networks",
+          "deepface",
+          "deepfakes",
+          "deeplearning",
+          "face-swap",
+          "faceswap",
+          "fakeapp",
+          "machine-learning",
+          "myfakeapp",
+          "neural-nets",
+          "neural-networks",
+          "openfaceswap"
+        ],
+        "stars": 55296,
+        "language": "Python",
+        "html_url": "https://github.com/deepfakes/faceswap",
         "_source": "desc_search",
         "_confidence": "high",
         "_overridden": true,
@@ -19907,6 +20024,26 @@
         "_tags": [
           "audio"
         ]
+      },
+      {
+        "full_name": "iina/iina",
+        "name": "iina",
+        "description": "The modern video player for macOS.",
+        "topics": [
+          "hacktoberfest",
+          "macos",
+          "mpv",
+          "swift",
+          "video",
+          "video-player"
+        ],
+        "stars": 45255,
+        "language": "Swift",
+        "html_url": "https://github.com/iina/iina",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
       },
       {
         "full_name": "roboflow/supervision",
@@ -20122,6 +20259,27 @@
         "_overridden": false,
         "_tags": [],
         "_locked": true
+      },
+      {
+        "full_name": "mpv-player/mpv",
+        "name": "mpv",
+        "description": "🎥 Command line media player",
+        "topics": [
+          "audio",
+          "c",
+          "ffmpeg",
+          "mplayer",
+          "mpv",
+          "multimedia",
+          "video"
+        ],
+        "stars": 35634,
+        "language": "C",
+        "html_url": "https://github.com/mpv-player/mpv",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
       },
       {
         "full_name": "huggingface/diffusers",
@@ -21175,6 +21333,26 @@
           "audio"
         ],
         "_locked": true
+      },
+      {
+        "full_name": "captbaritone/webamp",
+        "name": "webamp",
+        "description": "Winamp 2 reimplemented for the browser",
+        "topics": [
+          "html5",
+          "javascript",
+          "port",
+          "reimplementation",
+          "webaudio-api",
+          "winamp"
+        ],
+        "stars": 11114,
+        "language": "TypeScript",
+        "html_url": "https://github.com/captbaritone/webamp",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
       },
       {
         "full_name": "leandromoreira/ffmpeg-libav-tutorial",
@@ -31493,6 +31671,26 @@
         "_locked": true
       },
       {
+        "full_name": "systemd/systemd",
+        "name": "systemd",
+        "description": "The systemd System and Service Manager ",
+        "topics": [
+          "c",
+          "init",
+          "linux",
+          "services",
+          "system",
+          "systemd"
+        ],
+        "stars": 16361,
+        "language": "C",
+        "html_url": "https://github.com/systemd/systemd",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "danielmiessler/Personal_AI_Infrastructure",
         "name": "Personal_AI_Infrastructure",
         "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
@@ -34618,34 +34816,6 @@
         "_locked": true
       },
       {
-        "full_name": "moeru-ai/airi",
-        "name": "airi",
-        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "topics": [
-          "ai-companion",
-          "ai-vtuber",
-          "airi",
-          "digital-life",
-          "grok-companion",
-          "live2d",
-          "neuro-sama",
-          "neurosama",
-          "openclaw",
-          "vrm",
-          "vtuber"
-        ],
-        "stars": 41089,
-        "language": "TypeScript",
-        "html_url": "https://github.com/moeru-ai/airi",
-        "_source": "desc_search",
-        "_confidence": "low",
-        "_overridden": false,
-        "_tags": [
-          "communication"
-        ],
-        "_locked": true
-      },
-      {
         "full_name": "photoprism/photoprism",
         "name": "photoprism",
         "description": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
@@ -34774,6 +34944,30 @@
           "file-mgmt"
         ],
         "_locked": true
+      },
+      {
+        "full_name": "AdguardTeam/AdGuardHome",
+        "name": "AdGuardHome",
+        "description": "Network-wide ads & trackers blocking DNS server",
+        "topics": [
+          "adblock",
+          "adguard",
+          "dns",
+          "dns-over-https",
+          "dns-over-quic",
+          "dns-over-tls",
+          "dnscrypt",
+          "golang",
+          "open-source",
+          "privacy"
+        ],
+        "stars": 34924,
+        "language": "Go",
+        "html_url": "https://github.com/AdguardTeam/AdGuardHome",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
       },
       {
         "full_name": "dgtlmoon/changedetection.io",
@@ -35690,6 +35884,27 @@
         "_tags": []
       },
       {
+        "full_name": "godotengine/godot",
+        "name": "godot",
+        "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+        "topics": [
+          "game-development",
+          "game-engine",
+          "gamedev",
+          "godot",
+          "godotengine",
+          "multi-platform",
+          "open-source"
+        ],
+        "stars": 112695,
+        "language": "C++",
+        "html_url": "https://github.com/godotengine/godot",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "axios/axios",
         "name": "axios",
         "description": "Promise based HTTP client for the browser and node.js",
@@ -36547,6 +36762,23 @@
         ]
       },
       {
+        "full_name": "commaai/openpilot",
+        "name": "openpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "topics": [
+          "advanced-driver-assistance-systems",
+          "driver-assistance-systems",
+          "robotics"
+        ],
+        "stars": 61425,
+        "language": "Python",
+        "html_url": "https://github.com/commaai/openpilot",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "sharkdp/bat",
         "name": "bat",
         "description": "A cat(1) clone with wings.",
@@ -36837,6 +37069,28 @@
         "_tags": []
       },
       {
+        "full_name": "maybe-finance/maybe",
+        "name": "maybe",
+        "description": "The personal finance app for everyone",
+        "topics": [
+          "finance",
+          "hotwire",
+          "personal-finance",
+          "postgresql",
+          "ruby",
+          "ruby-on-rails",
+          "stimulusjs",
+          "turbo"
+        ],
+        "stars": 54160,
+        "language": "Ruby",
+        "html_url": "https://github.com/maybe-finance/maybe",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "PowerShell/PowerShell",
         "name": "PowerShell",
         "description": "PowerShell for every system!",
@@ -36882,6 +37136,33 @@
         "_tags": []
       },
       {
+        "full_name": "agalwood/Motrix",
+        "name": "Motrix",
+        "description": "A full-featured download manager.",
+        "topics": [
+          "aria2",
+          "bittorrent",
+          "bt",
+          "download",
+          "download-manager",
+          "electron",
+          "linux",
+          "mac",
+          "macos",
+          "magnet",
+          "motrix",
+          "torrent",
+          "windows"
+        ],
+        "stars": 51999,
+        "language": "JavaScript",
+        "html_url": "https://github.com/agalwood/Motrix",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "DefinitelyTyped/DefinitelyTyped",
         "name": "DefinitelyTyped",
         "description": "The repository for high quality TypeScript type definitions.",
@@ -36897,6 +37178,25 @@
         "stars": 51283,
         "language": "TypeScript",
         "html_url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "ethereum/go-ethereum",
+        "name": "go-ethereum",
+        "description": "Go implementation of the Ethereum protocol",
+        "topics": [
+          "blockchain",
+          "ethereum",
+          "geth",
+          "go",
+          "p2p"
+        ],
+        "stars": 51190,
+        "language": "Go",
+        "html_url": "https://github.com/ethereum/go-ethereum",
         "_source": "desc_search",
         "_confidence": "high",
         "_overridden": true,
@@ -37050,6 +37350,33 @@
         "language": "TypeScript",
         "html_url": "https://github.com/CherryHQ/cherry-studio",
         "_source": "topic_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "KRTirtho/spotube",
+        "name": "spotube",
+        "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+        "topics": [
+          "android",
+          "android-client",
+          "android-music-player",
+          "desktop-client",
+          "fdroid",
+          "flutter",
+          "flutter-desktop",
+          "linux",
+          "macos",
+          "music",
+          "music-player",
+          "windows",
+          "youtube"
+        ],
+        "stars": 47027,
+        "language": "Dart",
+        "html_url": "https://github.com/KRTirtho/spotube",
+        "_source": "desc_search",
         "_confidence": "high",
         "_overridden": true,
         "_tags": []
@@ -37371,6 +37698,40 @@
         "_overridden": false,
         "_tags": [],
         "_locked": true
+      },
+      {
+        "full_name": "juspay/hyperswitch",
+        "name": "hyperswitch",
+        "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+        "topics": [
+          "adyen",
+          "beginner-friendly",
+          "featured",
+          "finance",
+          "fintech",
+          "hacktoberfest",
+          "high-performance",
+          "open-source",
+          "orchestration",
+          "payment",
+          "payment-gateway",
+          "payment-integration",
+          "payment-processing",
+          "payments",
+          "payments-platform",
+          "restful-api",
+          "rust",
+          "sdk",
+          "stripe",
+          "works-with-react"
+        ],
+        "stars": 43018,
+        "language": "Rust",
+        "html_url": "https://github.com/juspay/hyperswitch",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
       },
       {
         "full_name": "ccxt/ccxt",
@@ -37849,28 +38210,6 @@
         "_locked": true
       },
       {
-        "full_name": "mpv-player/mpv",
-        "name": "mpv",
-        "description": "🎥 Command line media player",
-        "topics": [
-          "audio",
-          "c",
-          "ffmpeg",
-          "mplayer",
-          "mpv",
-          "multimedia",
-          "video"
-        ],
-        "stars": 35634,
-        "language": "C",
-        "html_url": "https://github.com/mpv-player/mpv",
-        "_source": "desc_search",
-        "_confidence": "low",
-        "_overridden": false,
-        "_tags": [],
-        "_locked": true
-      },
-      {
         "full_name": "Alishahryar1/free-claude-code",
         "name": "free-claude-code",
         "description": "Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
@@ -38117,6 +38456,38 @@
         "_tags": []
       },
       {
+        "full_name": "qier222/YesPlayMusic",
+        "name": "YesPlayMusic",
+        "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: ",
+        "topics": [
+          "electron",
+          "javascript",
+          "linux",
+          "mac",
+          "macos",
+          "music",
+          "music-player",
+          "netease-music",
+          "player",
+          "progressive-web-app",
+          "pwa",
+          "pwa-apps",
+          "vue",
+          "vue-cli",
+          "vue-router",
+          "vuex",
+          "web-music-player",
+          "windows"
+        ],
+        "stars": 32955,
+        "language": "Vue",
+        "html_url": "https://github.com/qier222/YesPlayMusic",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "ibraheemdev/modern-unix",
         "name": "modern-unix",
         "description": "A collection of modern/faster/saner alternatives to common unix commands.",
@@ -38234,6 +38605,48 @@
         "stars": 32108,
         "language": "TypeScript",
         "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "linera-io/linera-protocol",
+        "name": "linera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "topics": [
+          "blockchain",
+          "rust",
+          "wasm"
+        ],
+        "stars": 32102,
+        "language": "Rust",
+        "html_url": "https://github.com/linera-io/linera-protocol",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "pear-devs/pear-desktop",
+        "name": "pear-desktop",
+        "description": "Pear 🍐 is extension for music player",
+        "topics": [
+          "desktop-app",
+          "electron",
+          "linux",
+          "mac",
+          "macosx",
+          "music",
+          "music-player",
+          "music-player-application",
+          "music-player-extension",
+          "node",
+          "windows"
+        ],
+        "stars": 31949,
+        "language": "TypeScript",
+        "html_url": "https://github.com/pear-devs/pear-desktop",
         "_source": "desc_search",
         "_confidence": "high",
         "_overridden": true,
@@ -38606,6 +39019,35 @@
         "stars": 29395,
         "language": "SCSS",
         "html_url": "https://github.com/IanLunn/Hover",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "slymnoyann/hey-1",
+        "name": "hey-1",
+        "description": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿",
+        "topics": [
+          "blockchain",
+          "crypto",
+          "dapp",
+          "graphql",
+          "hacktoberfest",
+          "lens-protocol",
+          "nextjs",
+          "react",
+          "social-media",
+          "tailwindcss",
+          "turborepo",
+          "typescript",
+          "vitest",
+          "wagmi",
+          "web3"
+        ],
+        "stars": 29393,
+        "language": "TypeScript",
+        "html_url": "https://github.com/slymnoyann/hey-1",
         "_source": "desc_search",
         "_confidence": "high",
         "_overridden": true,
@@ -39743,6 +40185,39 @@
         "_tags": []
       },
       {
+        "full_name": "NoFxAiOS/nofx",
+        "name": "nofx",
+        "description": "Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.",
+        "topics": [
+          "agentictrading",
+          "ai",
+          "ai-trading",
+          "arbitrage",
+          "binance",
+          "bitcoin",
+          "commodities",
+          "exchange",
+          "forex",
+          "hyperliquid",
+          "metals",
+          "perp-dex",
+          "stocks",
+          "trading",
+          "us-stocks",
+          "x402",
+          "x402-agent"
+        ],
+        "stars": 12477,
+        "language": "Go",
+        "html_url": "https://github.com/NoFxAiOS/nofx",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": [
+          "terminal"
+        ]
+      },
+      {
         "full_name": "taskflow/taskflow",
         "name": "taskflow",
         "description": "A General-purpose Task-parallel Programming System in C++",
@@ -39940,6 +40415,38 @@
         "_tags": []
       },
       {
+        "full_name": "maxrave-dev/SimpMusic",
+        "name": "SimpMusic",
+        "description": "A cross-platform music app using YouTube Music for backend",
+        "topics": [
+          "android",
+          "android-16",
+          "android-app",
+          "android-application",
+          "android-auto",
+          "compose-multiplatform",
+          "exoplayer",
+          "kotlin",
+          "linux",
+          "macos",
+          "media3",
+          "mp3",
+          "music",
+          "spotify",
+          "video-streaming",
+          "windows",
+          "youtube",
+          "youtube-music"
+        ],
+        "stars": 9408,
+        "language": "Kotlin",
+        "html_url": "https://github.com/maxrave-dev/SimpMusic",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "miurla/morphic",
         "name": "morphic",
         "description": "An AI-powered search engine with a generative UI",
@@ -39994,6 +40501,19 @@
         "stars": 8869,
         "language": "TypeScript",
         "html_url": "https://github.com/tsparticles/tsparticles",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "elder-plinius/G0DM0D3",
+        "name": "G0DM0D3",
+        "description": "LIBERATED AI CHAT",
+        "topics": [],
+        "stars": 8114,
+        "language": "TypeScript",
+        "html_url": "https://github.com/elder-plinius/G0DM0D3",
         "_source": "desc_search",
         "_confidence": "high",
         "_overridden": true,
@@ -40339,6 +40859,19 @@
         "language": "",
         "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
         "_source": "topic_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "996icu/996.ICU",
+        "name": "996.ICU",
+        "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+        "topics": [],
+        "stars": 276286,
+        "language": "",
+        "html_url": "https://github.com/996icu/996.ICU",
+        "_source": "desc_search",
         "_confidence": "high",
         "_overridden": true,
         "_tags": []
@@ -41590,6 +42123,21 @@
         "_locked": true
       },
       {
+        "full_name": "virattt/ai-hedge-fund",
+        "name": "ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "topics": [],
+        "stars": 60232,
+        "language": "Python",
+        "html_url": "https://github.com/virattt/ai-hedge-fund",
+        "_source": "desc_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": [
+          "ai-agent-course"
+        ]
+      },
+      {
         "full_name": "karpathy/nanoGPT",
         "name": "nanoGPT",
         "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
@@ -41849,6 +42397,27 @@
         "language": "Python",
         "html_url": "https://github.com/charlax/professional-programming",
         "_source": "topic_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "poteto/hiring-without-whiteboards",
+        "name": "hiring-without-whiteboards",
+        "description": "⭐️  Companies that don't have a broken hiring process",
+        "topics": [
+          "airtable",
+          "hiring",
+          "hiring-without-whiteboards",
+          "interview",
+          "jobs",
+          "tech",
+          "whiteboard"
+        ],
+        "stars": 50880,
+        "language": "JavaScript",
+        "html_url": "https://github.com/poteto/hiring-without-whiteboards",
+        "_source": "desc_search",
         "_confidence": "high",
         "_overridden": true,
         "_tags": []
@@ -42599,6 +43168,19 @@
         "language": "",
         "html_url": "https://github.com/alebcay/awesome-shell",
         "_source": "topic_search",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
+        "full_name": "inkonchain/docs",
+        "name": "docs",
+        "description": "Ink Documentation",
+        "topics": [],
+        "stars": 36627,
+        "language": "MDX",
+        "html_url": "https://github.com/inkonchain/docs",
+        "_source": "desc_search",
         "_confidence": "high",
         "_overridden": true,
         "_tags": []
@@ -43601,9 +44183,8 @@
         "html_url": "https://github.com/wilsonfreitas/awesome-quant",
         "_source": "topic_search",
         "_confidence": "high",
-        "_overridden": false,
-        "_tags": [],
-        "_locked": true
+        "_overridden": true,
+        "_tags": []
       },
       {
         "full_name": "matteocrippa/awesome-swift",
@@ -46913,34 +47494,6 @@
   },
   "unclassified": [
     {
-      "full_name": "openclaw/openclaw",
-      "name": "openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "topics": [
-        "ai",
-        "assistant",
-        "crustacean",
-        "molty",
-        "openclaw",
-        "own-your-data",
-        "personal"
-      ],
-      "stars": 379345,
-      "language": "TypeScript",
-      "html_url": "https://github.com/openclaw/openclaw",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "996icu/996.ICU",
-      "name": "996.ICU",
-      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-      "topics": [],
-      "stars": 276286,
-      "language": "",
-      "html_url": "https://github.com/996icu/996.ICU",
-      "_source": "desc_search"
-    },
-    {
       "full_name": "torvalds/linux",
       "name": "linux",
       "description": "Linux kernel source tree",
@@ -46995,24 +47548,6 @@
       "_source": "desc_search"
     },
     {
-      "full_name": "godotengine/godot",
-      "name": "godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "topics": [
-        "game-development",
-        "game-engine",
-        "gamedev",
-        "godot",
-        "godotengine",
-        "multi-platform",
-        "open-source"
-      ],
-      "stars": 112695,
-      "language": "C++",
-      "html_url": "https://github.com/godotengine/godot",
-      "_source": "desc_search"
-    },
-    {
       "full_name": "msitarzewski/agency-agents",
       "name": "agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
@@ -47039,27 +47574,6 @@
       "_source": "desc_search"
     },
     {
-      "full_name": "666ghj/MiroFish",
-      "name": "MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "topics": [
-        "agent-memory",
-        "financial-forecasting",
-        "future-prediction",
-        "knowledge-graph",
-        "llms",
-        "multi-agent-simulation",
-        "public-opinion-analysis",
-        "python3",
-        "social-prediction",
-        "swarm-intelligence"
-      ],
-      "stars": 66741,
-      "language": "Python",
-      "html_url": "https://github.com/666ghj/MiroFish",
-      "_source": "desc_search"
-    },
-    {
       "full_name": "LadybirdBrowser/ladybird",
       "name": "ladybird",
       "description": "Truly independent web browser",
@@ -47070,218 +47584,6 @@
       "stars": 64150,
       "language": "C++",
       "html_url": "https://github.com/LadybirdBrowser/ladybird",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "commaai/openpilot",
-      "name": "openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "topics": [
-        "advanced-driver-assistance-systems",
-        "driver-assistance-systems",
-        "robotics"
-      ],
-      "stars": 61425,
-      "language": "Python",
-      "html_url": "https://github.com/commaai/openpilot",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "virattt/ai-hedge-fund",
-      "name": "ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "topics": [],
-      "stars": 60232,
-      "language": "Python",
-      "html_url": "https://github.com/virattt/ai-hedge-fund",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "OpenCut-app/OpenCut",
-      "name": "OpenCut",
-      "description": "The open-source CapCut alternative",
-      "topics": [
-        "editor",
-        "oss",
-        "videoeditor"
-      ],
-      "stars": 56940,
-      "language": "TypeScript",
-      "html_url": "https://github.com/OpenCut-app/OpenCut",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "deepfakes/faceswap",
-      "name": "faceswap",
-      "description": "Deepfakes Software For All",
-      "topics": [
-        "deep-face-swap",
-        "deep-learning",
-        "deep-neural-networks",
-        "deepface",
-        "deepfakes",
-        "deeplearning",
-        "face-swap",
-        "faceswap",
-        "fakeapp",
-        "machine-learning",
-        "myfakeapp",
-        "neural-nets",
-        "neural-networks",
-        "openfaceswap"
-      ],
-      "stars": 55296,
-      "language": "Python",
-      "html_url": "https://github.com/deepfakes/faceswap",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "maybe-finance/maybe",
-      "name": "maybe",
-      "description": "The personal finance app for everyone",
-      "topics": [
-        "finance",
-        "hotwire",
-        "personal-finance",
-        "postgresql",
-        "ruby",
-        "ruby-on-rails",
-        "stimulusjs",
-        "turbo"
-      ],
-      "stars": 54160,
-      "language": "Ruby",
-      "html_url": "https://github.com/maybe-finance/maybe",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "agalwood/Motrix",
-      "name": "Motrix",
-      "description": "A full-featured download manager.",
-      "topics": [
-        "aria2",
-        "bittorrent",
-        "bt",
-        "download",
-        "download-manager",
-        "electron",
-        "linux",
-        "mac",
-        "macos",
-        "magnet",
-        "motrix",
-        "torrent",
-        "windows"
-      ],
-      "stars": 51999,
-      "language": "JavaScript",
-      "html_url": "https://github.com/agalwood/Motrix",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "ethereum/go-ethereum",
-      "name": "go-ethereum",
-      "description": "Go implementation of the Ethereum protocol",
-      "topics": [
-        "blockchain",
-        "ethereum",
-        "geth",
-        "go",
-        "p2p"
-      ],
-      "stars": 51190,
-      "language": "Go",
-      "html_url": "https://github.com/ethereum/go-ethereum",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "poteto/hiring-without-whiteboards",
-      "name": "hiring-without-whiteboards",
-      "description": "⭐️  Companies that don't have a broken hiring process",
-      "topics": [
-        "airtable",
-        "hiring",
-        "hiring-without-whiteboards",
-        "interview",
-        "jobs",
-        "tech",
-        "whiteboard"
-      ],
-      "stars": 50880,
-      "language": "JavaScript",
-      "html_url": "https://github.com/poteto/hiring-without-whiteboards",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "KRTirtho/spotube",
-      "name": "spotube",
-      "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
-      "topics": [
-        "android",
-        "android-client",
-        "android-music-player",
-        "desktop-client",
-        "fdroid",
-        "flutter",
-        "flutter-desktop",
-        "linux",
-        "macos",
-        "music",
-        "music-player",
-        "windows",
-        "youtube"
-      ],
-      "stars": 47027,
-      "language": "Dart",
-      "html_url": "https://github.com/KRTirtho/spotube",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "iina/iina",
-      "name": "iina",
-      "description": "The modern video player for macOS.",
-      "topics": [
-        "hacktoberfest",
-        "macos",
-        "mpv",
-        "swift",
-        "video",
-        "video-player"
-      ],
-      "stars": 45255,
-      "language": "Swift",
-      "html_url": "https://github.com/iina/iina",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "juspay/hyperswitch",
-      "name": "hyperswitch",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-      "topics": [
-        "adyen",
-        "beginner-friendly",
-        "featured",
-        "finance",
-        "fintech",
-        "hacktoberfest",
-        "high-performance",
-        "open-source",
-        "orchestration",
-        "payment",
-        "payment-gateway",
-        "payment-integration",
-        "payment-processing",
-        "payments",
-        "payments-platform",
-        "restful-api",
-        "rust",
-        "sdk",
-        "stripe",
-        "works-with-react"
-      ],
-      "stars": 43018,
-      "language": "Rust",
-      "html_url": "https://github.com/juspay/hyperswitch",
       "_source": "desc_search"
     },
     {
@@ -47314,16 +47616,6 @@
       "_source": "topic_search"
     },
     {
-      "full_name": "inkonchain/docs",
-      "name": "docs",
-      "description": "Ink Documentation",
-      "topics": [],
-      "stars": 36627,
-      "language": "MDX",
-      "html_url": "https://github.com/inkonchain/docs",
-      "_source": "desc_search"
-    },
-    {
       "full_name": "inkonchain/node",
       "name": "node",
       "description": "How to run an Ink Node",
@@ -47341,56 +47633,6 @@
       "stars": 35752,
       "language": "HTML",
       "html_url": "https://github.com/opentofu/manifesto",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "AdguardTeam/AdGuardHome",
-      "name": "AdGuardHome",
-      "description": "Network-wide ads & trackers blocking DNS server",
-      "topics": [
-        "adblock",
-        "adguard",
-        "dns",
-        "dns-over-https",
-        "dns-over-quic",
-        "dns-over-tls",
-        "dnscrypt",
-        "golang",
-        "open-source",
-        "privacy"
-      ],
-      "stars": 34924,
-      "language": "Go",
-      "html_url": "https://github.com/AdguardTeam/AdGuardHome",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "qier222/YesPlayMusic",
-      "name": "YesPlayMusic",
-      "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: ",
-      "topics": [
-        "electron",
-        "javascript",
-        "linux",
-        "mac",
-        "macos",
-        "music",
-        "music-player",
-        "netease-music",
-        "player",
-        "progressive-web-app",
-        "pwa",
-        "pwa-apps",
-        "vue",
-        "vue-cli",
-        "vue-router",
-        "vuex",
-        "web-music-player",
-        "windows"
-      ],
-      "stars": 32955,
-      "language": "Vue",
-      "html_url": "https://github.com/qier222/YesPlayMusic",
       "_source": "desc_search"
     },
     {
@@ -47423,42 +47665,6 @@
       "language": "Python",
       "html_url": "https://github.com/open-mmlab/mmdetection",
       "_source": "topic_search"
-    },
-    {
-      "full_name": "linera-io/linera-protocol",
-      "name": "linera-protocol",
-      "description": "Main repository for the Linera protocol",
-      "topics": [
-        "blockchain",
-        "rust",
-        "wasm"
-      ],
-      "stars": 32102,
-      "language": "Rust",
-      "html_url": "https://github.com/linera-io/linera-protocol",
-      "_source": "desc_search"
-    },
-    {
-      "full_name": "pear-devs/pear-desktop",
-      "name": "pear-desktop",
-      "description": "Pear 🍐 is extension for music player",
-      "topics": [
-        "desktop-app",
-        "electron",
-        "linux",
-        "mac",
-        "macosx",
-        "music",
-        "music-player",
-        "music-player-application",
-        "music-player-extension",
-        "node",
-        "windows"
-      ],
-      "stars": 31949,
-      "language": "TypeScript",
-      "html_url": "https://github.com/pear-devs/pear-desktop",
-      "_source": "desc_search"
     },
     {
       "full_name": "anthropics/financial-services",
@@ -47507,32 +47713,6 @@
       "language": "Rust",
       "html_url": "https://github.com/sunface/rust-course",
       "_source": "topic_search"
-    },
-    {
-      "full_name": "slymnoyann/hey-1",
-      "name": "hey-1",
-      "description": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿",
-      "topics": [
-        "blockchain",
-        "crypto",
-        "dapp",
-        "graphql",
-        "hacktoberfest",
-        "lens-protocol",
-        "nextjs",
-        "react",
-        "social-media",
-        "tailwindcss",
-        "turborepo",
-        "typescript",
-        "vitest",
-        "wagmi",
-        "web3"
-      ],
-      "stars": 29393,
-      "language": "TypeScript",
-      "html_url": "https://github.com/slymnoyann/hey-1",
-      "_source": "desc_search"
     },
     {
       "full_name": "hpcaitech/Open-Sora",
@@ -47702,23 +47882,6 @@
       "_source": "topic_search"
     },
     {
-      "full_name": "systemd/systemd",
-      "name": "systemd",
-      "description": "The systemd System and Service Manager ",
-      "topics": [
-        "c",
-        "init",
-        "linux",
-        "services",
-        "system",
-        "systemd"
-      ],
-      "stars": 16361,
-      "language": "C",
-      "html_url": "https://github.com/systemd/systemd",
-      "_source": "desc_search"
-    },
-    {
       "full_name": "Wan-Video/Wan2.1",
       "name": "Wan2.1",
       "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
@@ -47800,34 +47963,6 @@
       "_source": "topic_search"
     },
     {
-      "full_name": "NoFxAiOS/nofx",
-      "name": "nofx",
-      "description": "Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.",
-      "topics": [
-        "agentictrading",
-        "ai",
-        "ai-trading",
-        "arbitrage",
-        "binance",
-        "bitcoin",
-        "commodities",
-        "exchange",
-        "forex",
-        "hyperliquid",
-        "metals",
-        "perp-dex",
-        "stocks",
-        "trading",
-        "us-stocks",
-        "x402",
-        "x402-agent"
-      ],
-      "stars": 12477,
-      "language": "Go",
-      "html_url": "https://github.com/NoFxAiOS/nofx",
-      "_source": "desc_search"
-    },
-    {
       "full_name": "elebumm/RedditVideoMakerBot",
       "name": "RedditVideoMakerBot",
       "description": "Create Reddit Videos with just✨ one command ✨",
@@ -47889,23 +48024,6 @@
       "_source": "topic_search"
     },
     {
-      "full_name": "captbaritone/webamp",
-      "name": "webamp",
-      "description": "Winamp 2 reimplemented for the browser",
-      "topics": [
-        "html5",
-        "javascript",
-        "port",
-        "reimplementation",
-        "webaudio-api",
-        "winamp"
-      ],
-      "stars": 11114,
-      "language": "TypeScript",
-      "html_url": "https://github.com/captbaritone/webamp",
-      "_source": "desc_search"
-    },
-    {
       "full_name": "Lightricks/LTX-Video",
       "name": "LTX-Video",
       "description": "Official repository for LTX-Video",
@@ -47931,35 +48049,6 @@
       "language": "",
       "html_url": "https://github.com/BehiSecc/awesome-claude-skills",
       "_source": "topic_search"
-    },
-    {
-      "full_name": "maxrave-dev/SimpMusic",
-      "name": "SimpMusic",
-      "description": "A cross-platform music app using YouTube Music for backend",
-      "topics": [
-        "android",
-        "android-16",
-        "android-app",
-        "android-application",
-        "android-auto",
-        "compose-multiplatform",
-        "exoplayer",
-        "kotlin",
-        "linux",
-        "macos",
-        "media3",
-        "mp3",
-        "music",
-        "spotify",
-        "video-streaming",
-        "windows",
-        "youtube",
-        "youtube-music"
-      ],
-      "stars": 9408,
-      "language": "Kotlin",
-      "html_url": "https://github.com/maxrave-dev/SimpMusic",
-      "_source": "desc_search"
     },
     {
       "full_name": "ml-explore/mlx-examples",
@@ -48034,16 +48123,6 @@
       "language": "Python",
       "html_url": "https://github.com/brycedrennan/imaginAIry",
       "_source": "topic_search"
-    },
-    {
-      "full_name": "elder-plinius/G0DM0D3",
-      "name": "G0DM0D3",
-      "description": "LIBERATED AI CHAT",
-      "topics": [],
-      "stars": 8114,
-      "language": "TypeScript",
-      "html_url": "https://github.com/elder-plinius/G0DM0D3",
-      "_source": "desc_search"
     },
     {
       "full_name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
@@ -48321,8 +48400,8 @@
   ],
   "stats": {
     "total": 1898,
-    "classified": 1793,
-    "unclassified": 89,
+    "classified": 1819,
+    "unclassified": 63,
     "hidden": 16
   }
 }
