@@ -102,7 +102,7 @@
 ---
 ### 🆕 #5 — anthropics/claude-code ⭐133.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Claude Code 是一款驻留在终端中的智能编码工具，能理解你的代码库并帮助你更快地编写代码**
 
 📝 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 
@@ -181,7 +181,7 @@
 ---
 ### 🆕 #13 — openinterpreter/openinterpreter ⭐64K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **为 Deepseek、Kimi、Qwen 等开放模型打造的轻量级编码代理**
 
 📝 A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
@@ -316,7 +316,7 @@
 ---
 ### 🆕 #28 — Pythagora-io/gpt-pilot ⭐33.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **第一个真正的 AI 开发者**
 
 📝 The first real AI developer
 
@@ -424,7 +424,7 @@
 ---
 ### 🆕 #40 — QwenLM/qwen-code ⭐25.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个运行在终端中的开源 AI 编码代理。**
 
 📝 An open-source AI coding agent that lives in your terminal.
 
@@ -442,7 +442,7 @@
 ---
 ### 🆕 #42 — OthmanAdi/planning-with-files ⭐23.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **面向 AI 编码代理和长期代理任务的持久化文件规划方案，崩溃安全的 Markdown 计划。**
 
 📝 Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
 
@@ -505,7 +505,7 @@
 ---
 ### 🆕 #49 — Kilo-Org/kilocode ⭐21.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Kilo 是一站式智能工程平台，使用最受欢迎的开源代码，帮助您更快地构建、发布和迭代。**
 
 📝 Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 
@@ -568,7 +568,7 @@
 ---
 ### 🆕 #56 — fathah/hermes-desktop ⭐12.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Hermes Agent 的桌面伴侣应用。**
 
 📝 Desktop Companion for Hermes Agent
 
@@ -667,7 +667,7 @@
 ---
 ### 🆕 #67 — EKKOLearnAI/hermes-studio ⭐8.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Hermes Agent 的 Web 仪表盘——多平台 AI 聊天、会话管理、定时任务、用量分析。**
 
 📝 Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
 
@@ -685,7 +685,7 @@
 ---
 ### 🆕 #69 — AgentWrapper/agent-orchestrator ⭐7.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **并行编码代理的智能编排器——规划任务、生成代理，并自主处理 CI 修复和合并。**
 
 📝  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 
@@ -757,7 +757,7 @@
 ---
 ### 🆕 #77 — calesthio/OpenMontage ⭐5.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **全球首个开源智能视频制作系统。12 条流水线、52 个工具、500 多个 Agent 技能。**
 
 📝 World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 
@@ -766,7 +766,7 @@
 ---
 ### 🆕 #78 — stablyai/orca ⭐5.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Orca 是用于管理并行 Agent 集群的 ADE。使用自己的订阅即可运行任何 coding agent。**
 
 📝 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 
@@ -775,7 +775,7 @@
 ---
 ### 🆕 #79 — SWE-agent/mini-swe-agent ⭐5.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **仅 100 行代码的 AI agent，能解决 GitHub issue 或在命令行中协助你。极其简洁，无需庞大配置。**
 
 📝 The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
 
@@ -784,7 +784,7 @@
 ---
 ### 🆕 #80 — helloianneo/ian-xiaohei-illustrations ⭐5.2K
 
-🌏 *中文描述待补充*
+🌏 **中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill**
 
 📝 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
@@ -1181,7 +1181,7 @@
 ---
 ### 🆕 #41 — kepano/obsidian-skills ⭐36K
 
-🌏 *中文描述待补充*
+🌏 **Obsidian 的 Agent 技能。让你的智能体使用 Obsidian CLI 和开放格式，包括 Markdown、Bases、JSON Canvas。**
 
 📝 Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
@@ -1226,7 +1226,7 @@
 ---
 ### 🆕 #46 — DietrichGebert/ponytail ⭐34.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **让你的 AI 智能体像团队里最懒的高级开发人员一样思考。最好的代码就是你从未写过的代码。**
 
 📝 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
@@ -1946,7 +1946,7 @@
 ---
 ### 🆕 #126 — XiaomiMiMo/MiMo-Code ⭐9.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **MiMo Code：模型与代理共同进化之地。**
 
 📝 MiMo Code: Where Models and Agents Co-Evolve
 
@@ -2054,7 +2054,7 @@
 ---
 ### 🆕 #138 — freestylefly/awesome-gpt-image-2 ⭐7.7K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出 Skills，持续更新中。**
 
 📝 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
@@ -2216,7 +2216,7 @@
 ---
 ### 🆕 #156 — ogulcancelik/herdr ⭐6.2K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **驻留在终端中的 Agent 多路复用器。**
 
 📝 agent multiplexer that lives in your terminal.
 
@@ -2351,7 +2351,7 @@
 ---
 ### 🆕 #171 — plastic-labs/honcho ⭐5.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用于构建有状态 Agent 的记忆库。**
 
 📝  Memory library for building stateful agents
 
@@ -2360,7 +2360,7 @@
 ---
 ### 🆕 #172 — deanpeters/Product-Manager-Skills ⭐5.2K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **基于经过实战验证的方法构建的产品管理技能框架，适用于 Claude Code、Cowork、Codex 及 AI agents。**
 
 📝 Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
 
@@ -2378,7 +2378,7 @@
 ---
 ### 🆕 #174 — mnfst/awesome-free-llm-apis ⭐5.2K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **永久免费 LLM API（API Key）列表。**
 
 📝 List of Permanent Free LLM API  (API Keys)
 
@@ -2387,7 +2387,7 @@
 ---
 ### 🆕 #175 — steipete/agent-scripts ⭐5K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **供 Agent 使用的脚本，在多个仓库间共享。**
 
 📝 Scripts for agents, shared between my repositories.
 
@@ -2487,7 +2487,7 @@
 ---
 ### 🆕 #9 — DataTalksClub/data-engineering-zoomcamp ⭐42.6K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **一个为期 9 周的免费课程，教你构建生产级数据管道。**
 
 📝 Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
 
@@ -2523,7 +2523,7 @@
 ---
 ### 🆕 #13 — harness/harness ⭐36.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Harness Open Source 是一个端到端的开发者平台，包含源码管理、CI/CD 流水线和托管开发环境。**
 
 📝 Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 
@@ -2586,7 +2586,7 @@
 ---
 ### 🆕 #20 — dapr/dapr ⭐25.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Dapr 是一个可移植的运行时，用于构建跨云和边缘的分布式应用，结合事件驱动架构。**
 
 📝 Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 
@@ -2829,7 +2829,7 @@
 ---
 ### 🆕 #47 — CodisLabs/codis ⭐13.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **基于代理的 Redis 集群解决方案，支持管道和动态扩展。**
 
 📝 Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 
@@ -2901,7 +2901,7 @@
 ---
 ### 🆕 #55 — fivetran/great_expectations ⭐11.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **始终掌握数据的预期质量。**
 
 📝 Always know what to expect from your data.
 
@@ -2991,7 +2991,7 @@
 ---
 ### 🆕 #65 — getlago/lago ⭐10K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **开源计量与基于用量的计费 API，支持消费追踪、订阅管理和定价迭代。**
 
 📝 Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
@@ -3054,7 +3054,7 @@
 ---
 ### 🆕 #72 — microsoft/UFO ⭐9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **UFO³：编织数字代理星系。**
 
 📝 UFO³: Weaving the Digital Agent Galaxy
 
@@ -3117,7 +3117,7 @@
 ---
 ### 🆕 #79 — OpenDCAI/DataFlow ⭐5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **基于最新 LLM 的 Operator 和 Pipeline，轻松完成数据准备。**
 
 📝 Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 
@@ -3217,7 +3217,7 @@
 ---
 ### 🆕 #9 — mindsdb/minds ⭐39.3K · 🔤Makefile
 
-🌏 *中文描述待补充*
+🌏 **专为知识工作者设计的通用 AI**
 
 📝 General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 
@@ -3307,7 +3307,7 @@
 ---
 ### 🆕 #19 — micro/go-micro ⭐22.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **用于构建智能体和服务的 Go 框架。**
 
 📝 A Go framework for agents and services
 
@@ -3325,7 +3325,7 @@
 ---
 ### 🆕 #21 — screenpipe/screenpipe ⭐19.4K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **记录你看过、说过或听过一切的 AI，24/7 本地运行，私密安全。**
 
 📝 YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 
@@ -3604,7 +3604,7 @@
 ---
 ### 🆕 #52 — DeusData/codebase-memory-mcp ⭐6.6K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **高性能代码智能 MCP 服务器。将代码库索引为持久化知识图谱。**
 
 📝 High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 
@@ -3685,7 +3685,7 @@
 ---
 ### 🆕 #61 — ModelEngine-Group/nexent ⭐5.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Nexent 是一个零代码平台，利用 Harness Engineering 原则自动生成生产级 AI Agent。**
 
 📝 Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedbac
 
@@ -3724,7 +3724,7 @@
 ---
 ### 🆕 🥈 #2 — AUTOMATIC1111/stable-diffusion-webui ⭐163.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Stable Diffusion Web 用户界面**
 
 📝 Stable Diffusion web UI
 
@@ -3938,7 +3938,7 @@
 ---
 ### 🆕 #25 — LizardByte/Sunshine ⭐38.4K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **Moonlight 的自托管游戏串流服务端。**
 
 📝 Self-hosted game stream host for Moonlight.
 
@@ -3956,7 +3956,7 @@
 ---
 ### 🆕 #27 — glanceapp/glance ⭐35.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一个将所有信息流汇聚一处的自托管仪表盘**
 
 📝 A self-hosted dashboard that puts all your feeds in one place
 
@@ -3992,7 +3992,7 @@
 ---
 ### 🆕 #31 — gitleaks/gitleaks ⭐27.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **使用 Gitleaks 查找泄露的密钥。**
 
 📝 Find secrets with Gitleaks 🔑
 
@@ -4010,7 +4010,7 @@
 ---
 ### 🆕 #33 — plausible/analytics ⭐27.2K · 🔤Elixir
 
-🌏 *中文描述待补充*
+🌏 **开源、隐私优先的网站分析工具，轻量级、无 Cookie 的 Google Analytics 替代方案，支持自托管或云部署。**
 
 📝 Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
@@ -4028,7 +4028,7 @@
 ---
 ### 🆕 #35 — louislam/dockge ⭐23.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个美观、易用、响应式的自托管 Docker compose.yaml 栈管理器。**
 
 📝 A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 
@@ -4055,7 +4055,7 @@
 ---
 ### 🆕 #38 — knadh/listmonk ⭐21.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **高性能、自托管的新闻通讯和邮件列表管理器，带有现代化仪表盘，单二进制文件即可运行。**
 
 📝 High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 
@@ -4064,7 +4064,7 @@
 ---
 ### 🆕 #39 — chaitin/SafeLine ⭐21.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **SafeLine 是一个自托管的 WAF（Web 应用防火墙）/反向代理，保护您的 Web 应用免受攻击和漏洞利用。**
 
 📝 SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 
@@ -4091,7 +4091,7 @@
 ---
 ### 🆕 #42 — linkwarden/linkwarden ⭐18.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自托管协作书签管理器，用于收集、阅读、注释和完整保存重要内容。**
 
 📝 ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 
@@ -4100,7 +4100,7 @@
 ---
 ### 🆕 #43 — C4illin/ConvertX ⭐17K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自托管在线文件转换器，支持 1000 多种格式。**
 
 📝 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 
@@ -4118,7 +4118,7 @@
 ---
 ### 🆕 #45 — cachethq/cachet ⭐15.1K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **Cachet，开源自托管的状态页面系统。**
 
 📝 🚦 Cachet, the open-source, self-hosted status page system.
 
@@ -4163,7 +4163,7 @@
 ---
 ### 🆕 #50 — alexta69/metube ⭐13.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **自托管的视频下载器，支持 YouTube 等网站（基于 youtube-dl / yt-dlp 的 Web UI）。**
 
 📝 Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 
@@ -4172,7 +4172,7 @@
 ---
 ### 🆕 #51 — Termix-SSH/Termix ⭐13.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自托管的 SSH 和远程桌面管理工具。**
 
 📝 Self-hosted SSH and remote desktop management.
 
@@ -4262,7 +4262,7 @@
 ---
 ### 🆕 #61 — getumbrel/llama-gpt ⭐10.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自托管、离线的类 ChatGPT 聊天机器人，由 Llama 2 驱动，100% 隐私保护，数据不离设备。**
 
 📝 A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 
@@ -4298,7 +4298,7 @@
 ---
 ### 🆕 #65 — sissbruecker/linkding ⭐10.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **自托管的书签管理器，设计简约、快速，可通过 Docker 轻松部署。**
 
 📝 Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 
@@ -4307,7 +4307,7 @@
 ---
 ### 🆕 #66 — blinkospace/blinko ⭐10.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **开源、自托管的个人 AI 笔记工具，优先保护隐私，使用 TypeScript 构建。**
 
 📝 An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 
@@ -4343,7 +4343,7 @@
 ---
 ### 🆕 #70 — iib0011/omni-tools ⭐9.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自托管的日常任务 Web 工具合集，无广告、无追踪，快速易用。**
 
 📝 Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 
@@ -4370,7 +4370,7 @@
 ---
 ### 🆕 #73 — runtipi/runtipi ⭐9.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Runtipi 是人人都能用的家庭服务器！一条命令部署，一键安装你喜爱的自托管应用。**
 
 📝 Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 
@@ -4713,7 +4713,7 @@
 ---
 ### 🆕 #11 — asgeirtj/system_prompts_leaks ⭐43.3K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **从 Anthropic 和 OpenAI 提取的系统提示语集合**
 
 📝 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 
@@ -5163,7 +5163,7 @@
 ---
 ### 🆕 #61 — chaitin/PandaWiki ⭐9.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。**
 
 📝 PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 
@@ -5298,7 +5298,7 @@
 ---
 ### 🆕 #76 — argilla-io/argilla ⭐5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Argilla 是 AI 工程师与领域专家协作构建高质量数据集的工具。**
 
 📝 Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 
@@ -5796,7 +5796,7 @@
 ---
 ### 🆕 #17 — gildas-lormeau/SingleFile ⭐21.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **用于将完整网页保存为单个 HTML 文件的浏览器扩展。**
 
 📝 Web Extension for saving a faithful copy of a complete web page in a single HTML file
 
@@ -6048,7 +6048,7 @@
 ---
 ### 🆕 #45 — MontFerret/ferret ⭐6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **声明式数据自动化语言及 Go 运行时，用于结构化提取工作流。**
 
 📝 Declarative data automation language and Go runtime for structured extraction workflows.
 
@@ -6075,7 +6075,7 @@
 ---
 ### 🆕 #48 — extension-js/extension.js ⭐5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **跨浏览器扩展框架。**
 
 📝 The cross-browser extension framework.
 
@@ -6157,7 +6157,7 @@
 ---
 ### 🆕 #7 — rclone/rclone ⭐57.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **“云存储版 rsync”——支持 Google Drive、S3、Dropbox、Backblaze B2、OneDrive、Swift、Hubic、Wasabi、Google Cloud Storage 等。**
 
 📝 "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
@@ -6274,7 +6274,7 @@
 ---
 ### 🆕 #20 — seaweedfs/seaweedfs ⭐33K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **SeaweedFS 是一个分布式存储系统，支持对象存储（S3）、文件系统和 Iceberg 表，专为处理十亿级文件而设计。**
 
 📝 SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 
@@ -6283,7 +6283,7 @@
 ---
 ### 🆕 #21 — facebook/rocksdb ⭐31.8K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **一个提供嵌入式持久化键值存储的库，专为高速存储设计。**
 
 📝 A library that provides an embeddable, persistent key-value store for fast storage.
 
@@ -6310,7 +6310,7 @@
 ---
 ### 🆕 #24 — docsifyjs/docsify ⭐31.3K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一个神奇的文档站点生成器。**
 
 📝 🃏 A magical documentation site generator.
 
@@ -6409,7 +6409,7 @@
 ---
 ### 🆕 #35 — sinaptik-ai/pandas-ai ⭐23.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **与你的数据库或数据湖（SQL、CSV、Parquet）对话。PandasAI 利用 LLM 让数据分析变得像聊天一样简单。**
 
 📝 Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 
@@ -6418,7 +6418,7 @@
 ---
 ### 🆕 #36 — neondatabase/neon ⭐22.3K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **Neon：无服务器 Postgres，通过分离存储与计算实现自动扩缩容和类代码的数据库分支功能。**
 
 📝 Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 
@@ -6490,7 +6490,7 @@
 ---
 ### 🆕 #44 — cryptomator/cryptomator ⭐15.4K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **为云存储提供安全的客户端加密，确保隐私和合规。**
 
 📝 Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 
@@ -6544,7 +6544,7 @@
 ---
 ### 🆕 #50 — RyanCodrai/turbovec ⭐11.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **基于 TurboQuant 构建的向量索引，使用 Rust 编写并支持 Python 绑定。**
 
 📝 A vector index built on TurboQuant, written in Rust with Python bindings
 
@@ -6760,7 +6760,7 @@
 ---
 ### 🆕 #74 — line/armeria ⭐5.1K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **源自 Netty 等项目的创建者，是适用于任何场景的首选微服务框架。可构建任何类型的微服务。**
 
 📝 Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Ret
 
@@ -6817,7 +6817,7 @@
 ---
 ### 🆕 #5 — tesseract-ocr/tesseract ⭐74.8K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **Tesseract 开源 OCR 引擎（主仓库）**
 
 📝 Tesseract Open Source OCR Engine (main repository)
 
@@ -6842,7 +6842,7 @@
 ---
 ### 🆕 #7 — CompVis/stable-diffusion ⭐73.1K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **一个潜在文本到图像扩散模型**
 
 📝 A latent text-to-image diffusion model
 
@@ -6941,7 +6941,7 @@
 ---
 ### 🆕 #18 — upscayl/upscayl ⭐46.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **🆙 Upscayl — #1 免费开源 AI 图像放大工具，支持 Linux、macOS 和 Windows。**
 
 📝 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 
@@ -6986,7 +6986,7 @@
 ---
 ### 🆕 #23 — aria2/aria2 ⭐41.2K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **一个轻量级的多协议、多源跨平台命令行下载工具**
 
 📝 aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
@@ -7049,7 +7049,7 @@
 ---
 ### 🆕 #30 — huggingface/diffusers ⭐33.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🤗 Diffusers：基于 PyTorch 的图像、视频和音频生成的一流扩散模型。**
 
 📝 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 
@@ -7328,7 +7328,7 @@
 ---
 ### 🆕 #61 — advplyr/audiobookshelf ⭐13.2K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **自托管的有声书和播客服务器。**
 
 📝 Self-hosted audiobook and podcast server
 
@@ -7841,7 +7841,7 @@
 ---
 ### 🆕 #118 — vllm-project/vllm-omni ⭐5.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **一个用于全模态模型高效推理的框架。**
 
 📝 A framework for efficient model inference with omni-modality models
 
@@ -7868,7 +7868,7 @@
 ---
 ### 🆕 #121 — remsky/Kokoro-FastAPI ⭐5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Kokoro-82M 文本转语音模型的 Docker 化 FastAPI 封装，支持多平台 CPU、AMD、NVIDIA GPU PyTorch。**
 
 📝 Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch support, handling, and auto-stitching
 
@@ -7898,7 +7898,7 @@
 
 ### 🆕 🥇 #1 — microsoft/TypeScript ⭐109.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **TypeScript 是 JavaScript 的超集，编译为干净的 JavaScript 代码。**
 
 📝 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
@@ -7907,7 +7907,7 @@
 ---
 ### 🆕 🥈 #2 — NationalSecurityAgency/ghidra ⭐69.9K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **Ghidra 是一个软件逆向工程（SRE）框架**
 
 📝 Ghidra is a software reverse engineering (SRE) framework
 
@@ -8871,7 +8871,7 @@
 
 ### 🆕 🥇 #1 — react/react ⭐245.9K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **用于 Web 和原生用户界面的库。**
 
 📝 The library for web and native user interfaces.
 
@@ -8880,7 +8880,7 @@
 ---
 ### 🆕 🥈 #2 — vuejs/vue ⭐209.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core**
 
 📝 This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
@@ -8889,7 +8889,7 @@
 ---
 ### 🆕 🥉 #3 — flutter/flutter ⭐177K · 🔤Dart
 
-🌏 *中文描述待补充*
+🌏 **Flutter 让构建移动端及其他平台的精美应用变得简单快捷**
 
 📝 Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -8898,7 +8898,7 @@
 ---
 ### 🆕 #4 — twbs/bootstrap ⭐174.3K · 🔤MDX
 
-🌏 *中文描述待补充*
+🌏 **最流行的 HTML、CSS 和 JavaScript 框架，用于开发响应式、移动优先的 Web 项目。**
 
 📝 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -8907,7 +8907,7 @@
 ---
 ### 🆕 #5 — vercel/next.js ⭐140.1K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **React 框架**
 
 📝 The React Framework
 
@@ -8932,7 +8932,7 @@
 ---
 ### 🆕 #7 — angular/angular ⭐100.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自信交付 Web 应用 🚀**
 
 📝 Deliver web apps with confidence 🚀
 
@@ -8977,7 +8977,7 @@
 ---
 ### 🆕 #12 — django/django ⭐87.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **为有截止日期的完美主义者打造的 Web 框架。**
 
 📝 The Web framework for perfectionists with deadlines.
 
@@ -8986,7 +8986,7 @@
 ---
 ### 🆕 #13 — sveltejs/svelte ⭐87.3K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **为我们这些普通人打造的 Web 开发框架**
 
 📝 web development for the rest of us
 
@@ -9004,7 +9004,7 @@
 ---
 ### 🆕 #15 — spring-projects/spring-boot ⭐81K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **Spring Boot 帮你以最少配置创建基于 Spring 的生产级应用和服务。**
 
 📝 Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
@@ -9022,7 +9022,7 @@
 ---
 ### 🆕 #17 — pallets/flask ⭐71.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用于构建 Web 应用的 Python 微框架。**
 
 📝 The Python micro framework for building web applications.
 
@@ -9031,7 +9031,7 @@
 ---
 ### 🆕 #18 — expressjs/express ⭐69.2K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **快速、不固执己见、极简的 Node.js Web 框架。**
 
 📝 Fast, unopinionated, minimalist web framework for node.
 
@@ -9040,7 +9040,7 @@
 ---
 ### 🆕 #19 — nuxt/nuxt ⭐60.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **全栈 Vue 框架**
 
 📝 the full-stack Vue framework
 
@@ -9049,7 +9049,7 @@
 ---
 ### 🆕 #20 — withastro/astro ⭐60.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向内容驱动网站的 Web 框架。⭐️ 给我们点个 Star 吧！**
 
 📝 The web framework for content-driven websites. ⭐️ Star to support our work!
 
@@ -9058,7 +9058,7 @@
 ---
 ### 🆕 #21 — jquery/jquery ⭐59.8K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **jQuery JavaScript 库**
 
 📝 jQuery JavaScript Library
 
@@ -9067,7 +9067,7 @@
 ---
 ### 🆕 #22 — rails/rails ⭐58.7K · 🔤Ruby
 
-🌏 *中文描述待补充*
+🌏 **Ruby on Rails**
 
 📝 Ruby on Rails
 
@@ -9085,7 +9085,7 @@
 ---
 ### 🆕 #24 — ionic-team/ionic-framework ⭐52.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个强大的跨平台 UI 工具包，使用 HTML、CSS 构建原生质量的 iOS、Android 和渐进式 Web 应用**
 
 📝 A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
@@ -9094,7 +9094,7 @@
 ---
 ### 🆕 #25 — jekyll/jekyll ⭐51.5K · 🔤Ruby
 
-🌏 *中文描述待补充*
+🌏 **🌐 Jekyll 是一个用 Ruby 编写的博客感知静态网站生成器**
 
 📝 :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
@@ -9103,7 +9103,7 @@
 ---
 ### 🆕 #26 — expo/expo ⭐50.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个开源框架，用于使用 React 构建通用原生应用，支持 Android、iOS 和 Web。**
 
 📝 An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
@@ -9112,7 +9112,7 @@
 ---
 ### 🆕 #27 — bigskysoftware/htmx ⭐48.2K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **</> htmx — HTML 的高能工具**
 
 📝 </> htmx - high power tools for HTML
 
@@ -9139,7 +9139,7 @@
 ---
 ### 🆕 #30 — payloadcms/payload ⭐43.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Payload 是一个开源的 fullstack Next.js 框架，赋予你即时的后端超能力。**
 
 📝 Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 
@@ -9175,7 +9175,7 @@
 ---
 ### 🆕 #34 — dotnet/aspnetcore ⭐38.1K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **ASP.NET Core 是一个跨平台 .NET 框架，用于在 Windows、Mac 或 Linux 上构建现代化的云端 Web 应用。**
 
 📝 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -9184,7 +9184,7 @@
 ---
 ### 🆕 #35 — fastify/fastify ⭐36.5K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一个快速且低开销的 Node.js Web 框架**
 
 📝 Fast and low overhead web framework, for Node.js
 
@@ -9193,7 +9193,7 @@
 ---
 ### 🆕 #36 — DioxusLabs/dioxus ⭐36.4K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **适用于 Web、桌面和移动端的 fullstack 应用框架。**
 
 📝 Fullstack app framework for web, desktop, and mobile.
 
@@ -9202,7 +9202,7 @@
 ---
 ### 🆕 #37 — koajs/koa ⭐35.7K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **使用 ES2017 async 函数实现的富有表现力的 Node.js 中间件框架**
 
 📝 Expressive middleware for node.js using ES2017 async functions
 
@@ -9229,7 +9229,7 @@
 ---
 ### 🆕 #40 — yewstack/yew ⭐32.7K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **基于 Rust/Wasm 的框架，用于创建可靠高效的 Web 应用**
 
 📝 Rust / Wasm framework for creating reliable and efficient web applications
 
@@ -9238,7 +9238,7 @@
 ---
 ### 🆕 #41 — labstack/echo ⭐32.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **高性能、极简主义的 Go Web 框架**
 
 📝 High performance, minimalist Go web framework
 
@@ -9247,7 +9247,7 @@
 ---
 ### 🆕 #42 — beego/beego ⭐32.4K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **beego 是一个面向 Go 编程语言的开源高性能 Web 框架。**
 
 📝 beego is an open-source, high-performance web framework for the Go programming language.
 
@@ -9256,7 +9256,7 @@
 ---
 ### 🆕 #43 — honojs/hono ⭐31K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **基于 Web 标准构建的 Web 框架。**
 
 📝 Web framework built on Web Standards
 
@@ -9265,7 +9265,7 @@
 ---
 ### 🆕 #44 — vapor/vapor ⭐26.1K · 🔤Swift
 
-🌏 *中文描述待补充*
+🌏 **一个基于 Swift 的服务端 HTTP Web 框架。**
 
 📝 💧 A server-side Swift HTTP web framework.
 
@@ -9274,7 +9274,7 @@
 ---
 ### 🆕 #45 — rwf2/Rocket ⭐25.7K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **一个 Rust Web 框架。**
 
 📝 A web framework for Rust.
 
@@ -9283,7 +9283,7 @@
 ---
 ### 🆕 #46 — kataras/iris ⭐25.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **最快的 HTTP/2 Go Web 框架，新颖、现代且易于学习。**
 
 📝 The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 
@@ -9292,7 +9292,7 @@
 ---
 ### 🆕 #47 — clockworklabs/SpacetimeDB ⭐24.7K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **以光速进行开发。**
 
 📝 Development at the speed of light
 
@@ -9301,7 +9301,7 @@
 ---
 ### 🆕 #48 — phoenixframework/phoenix ⭐23K · 🔤Elixir
 
-🌏 *中文描述待补充*
+🌏 **从原型到生产，全程安心。**
 
 📝 Peace of mind from prototype to production
 
@@ -9310,7 +9310,7 @@
 ---
 ### 🆕 #49 — gofr-dev/gofr ⭐21.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一款有主见的 Go 框架，用于加速微服务开发，内置数据库和可观测性支持。**
 
 📝 An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 
@@ -9319,7 +9319,7 @@
 ---
 ### 🆕 #50 — qinguoyi/TinyWebServer ⭐19.6K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **Linux下C++轻量级WebServer服务器**
 
 📝 :fire: Linux下C++轻量级WebServer服务器
 
@@ -9328,7 +9328,7 @@
 ---
 ### 🆕 #51 — adonisjs/core ⭐19K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **AdonisJS 是一个 TypeScript 优先的 Web 框架，用于构建 Web 应用和 API 服务器，内置测试等支持。**
 
 📝 AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 
@@ -9337,7 +9337,7 @@
 ---
 ### 🆕 #52 — sanic-org/sanic ⭐18.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **加速你的 Web 应用开发，构建快速，运行高效。**
 
 📝  Accelerate your web app development  | Build fast. Run fast.
 
@@ -9346,7 +9346,7 @@
 ---
 ### 🆕 #53 — aio-libs/aiohttp ⭐16.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **基于 asyncio 的异步 HTTP 客户端/服务器框架。**
 
 📝 Asynchronous HTTP client/server framework for asyncio and Python
 
@@ -9355,7 +9355,7 @@
 ---
 ### 🆕 #54 — ktorio/ktor ⭐14.4K · 🔤Kotlin
 
-🌏 *中文描述待补充*
+🌏 **用最少的工作量在 Kotlin 中快速创建互联应用的框架。**
 
 📝 Framework for quickly creating connected applications in Kotlin with minimal effort
 
@@ -9364,7 +9364,7 @@
 ---
 ### 🆕 #55 — http-party/http-server ⭐14.2K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一个简单、零配置的命令行 HTTP 服务器。**
 
 📝 A simple, zero-configuration, command-line http server
 
@@ -9373,7 +9373,7 @@
 ---
 ### 🆕 #56 — drogonframework/drogon ⭐14K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **Drogon：基于 C++14/17/20 的 HTTP Web 应用框架，支持 Linux/macOS/Unix/Windows。**
 
 📝 Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 
@@ -9382,7 +9382,7 @@
 ---
 ### 🆕 #57 — postmanlabs/httpbin ⭐13.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **HTTP 请求与响应服务，基于 Python + Flask 构建。**
 
 📝 HTTP Request & Response Service, written in Python + Flask.
 
@@ -9391,7 +9391,7 @@
 ---
 ### 🆕 #58 — revel/revel ⭐13.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一个高生产力的 Go 语言全栈 Web 框架。**
 
 📝 A high productivity, full-stack web framework for the Go language.
 
@@ -9400,7 +9400,7 @@
 ---
 ### 🆕 #59 — playframework/playframework ⭐12.6K · 🔤Scala
 
-🌏 *中文描述待补充*
+🌏 **社区维护的高性能 Java 和 Scala Web 框架。**
 
 📝 The Community Maintained High Velocity Web Framework For Java and Scala.
 
@@ -9409,7 +9409,7 @@
 ---
 ### 🆕 #60 — sinatra/sinatra ⭐12.4K · 🔤Ruby
 
-🌏 *中文描述待补充*
+🌏 **Sinatra：以 DSL 风格编写的优雅 Web 开发框架（官方仓库）。**
 
 📝 Classy web-development dressed in a DSL (official / canonical repo)
 
@@ -9418,7 +9418,7 @@
 ---
 ### 🆕 #61 — Kludex/uvicorn ⭐10.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **一个 Python 的 ASGI Web 服务器。**
 
 📝 An ASGI web server, for Python. 🦄
 
@@ -9427,7 +9427,7 @@
 ---
 ### 🆕 #62 — benoitc/gunicorn ⭐10.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **gunicorn 'Green Unicorn' 是一个 UNIX 上的 WSGI HTTP 服务器，适合快速客户端和延迟应用。**
 
 📝 gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 
@@ -9436,7 +9436,7 @@
 ---
 ### 🆕 #63 — frappe/frappe ⭐10.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **基于 Python 和 JavaScript 的低代码 Web 框架，适用于实际业务应用。**
 
 📝 Low code web framework for real world applications, in Python and Javascript
 
@@ -9445,7 +9445,7 @@
 ---
 ### 🆕 #64 — pocoproject/poco ⭐9.4K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **POCO C++ 库是强大的跨平台 C++ 库，用于构建网络和互联网应用。**
 
 📝 The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 
@@ -9454,7 +9454,7 @@
 ---
 ### 🆕 #65 — cakephp/cakephp ⭐8.8K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **CakePHP：PHP 快速开发框架——官方仓库。**
 
 📝 CakePHP: The Rapid Development Framework for PHP - Official Repository
 
@@ -9463,7 +9463,7 @@
 ---
 ### 🆕 #66 — bottlepy/bottle ⭐8.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **bottle.py 是一个快速简洁的 Python Web 应用微框架。**
 
 📝 bottle.py is a fast and simple micro-framework for python web-applications.
 
@@ -9472,7 +9472,7 @@
 ---
 ### 🆕 #67 — dropwizard/dropwizard ⭐8.6K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **一个极其简洁的库，用于构建生产级 RESTful Web 服务。**
 
 📝 A damn simple library for building production-ready RESTful web services.
 
@@ -9481,7 +9481,7 @@
 ---
 ### 🆕 #68 — neutralinojs/neutralinojs ⭐8.5K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **便携轻量的跨平台桌面应用开发框架。**
 
 📝 Portable and lightweight cross-platform desktop application development framework
 
@@ -9490,7 +9490,7 @@
 ---
 ### 🆕 #69 — gobuffalo/buffalo ⭐8.4K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **使用 Go 语言快速开发 Web 应用。**
 
 📝 Rapid Web Development w/ Go
 
@@ -9499,7 +9499,7 @@
 ---
 ### 🆕 #70 — javalin/javalin ⭐8.3K · 🔤Kotlin
 
-🌏 *中文描述待补充*
+🌏 **一个简洁现代的 Java 和 Kotlin Web 框架。**
 
 📝 A simple and modern Java and Kotlin web framework
 
@@ -9508,7 +9508,7 @@
 ---
 ### 🆕 #71 — linyacool/WebServer ⭐8.2K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **一个 C++ 高性能 Web 服务器。**
 
 📝 A C++ High Performance Web Server
 
@@ -9517,7 +9517,7 @@
 ---
 ### 🆕 #72 — svenstaro/miniserve ⭐7.7K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **当你只想立即通过 HTTP 提供文件服务时的最佳选择！**
 
 📝 🌟 For when you really just want to serve some files over HTTP right now!
 
@@ -9526,7 +9526,7 @@
 ---
 ### 🆕 #73 — ithewei/libhv ⭐7.5K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **比 libevent/libuv/asio 更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.**
 
 📝 🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
 
@@ -9535,7 +9535,7 @@
 ---
 ### 🆕 #74 — ninenines/cowboy ⭐7.5K · 🔤Erlang
 
-🌏 *中文描述待补充*
+🌏 **适用于 Erlang/OTP 的小型、快速、现代化的 HTTP 服务器。**
 
 📝 Small, fast, modern HTTP server for Erlang/OTP.
 
@@ -9562,7 +9562,7 @@
 ---
 ### 🆕 #77 — sparckles/Robyn ⭐7.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Robyn 是一个基于 Rust 运行时的高性能异步 Python Web 框架。**
 
 📝 Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 
@@ -9571,7 +9571,7 @@
 ---
 ### 🆕 #78 — shuttle-hq/shuttle ⭐6.9K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **无需编写任何基础设施文件即可构建和交付后端服务。**
 
 📝 Build & ship backends without writing any infrastructure files.
 
@@ -9580,7 +9580,7 @@
 ---
 ### 🆕 #79 — hugapi/hug ⭐6.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **拥抱未来的 API。Hug 致力于让 API 开发变得尽可能简单，但不失其本质。**
 
 📝 Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 
@@ -9589,7 +9589,7 @@
 ---
 ### 🆕 #80 — techschool/simplebank ⭐6.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **后端大师课程：用 Go 构建一个简单的银行服务。**
 
 📝 Backend master class: build a simple bank service in Go
 
@@ -9598,7 +9598,7 @@
 ---
 ### 🆕 #81 — vikejs/vike ⭐5.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **（替代 Next.js/Nuxt）🔨 以稳定性和开发自由度构建关键任务应用。**
 
 📝 (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
 
@@ -9607,7 +9607,7 @@
 ---
 ### 🆕 #82 — swoft-cloud/swoft ⭐5.5K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **🚀 PHP 微服务全协程框架。**
 
 📝 🚀 PHP Microservice Full Coroutine Framework
 
@@ -9616,7 +9616,7 @@
 ---
 ### 🆕 #83 — emmett-framework/granian ⭐5.4K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **用于 Python 应用的 Rust HTTP 服务器。**
 
 📝 A Rust HTTP server for Python applications
 
@@ -9625,7 +9625,7 @@
 ---
 ### 🆕 #84 — oakserver/oak ⭐5.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个用于在 Deno、Node、Bun 和 Cloudflare Workers 上处理 HTTP 的中间件框架 🐿️ 🦕。**
 
 📝 A middleware framework for handling HTTP with Deno, Node, Bun and Cloudflare Workers 🐿️ 🦕
 
@@ -9664,7 +9664,7 @@
 ---
 ### 🆕 🥉 #3 — Asabeneh/30-Days-Of-Python ⭐65.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **30 天 Python 编程挑战，分步指南助你在 30 天内学会 Python。**
 
 📝 The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 
@@ -9682,7 +9682,7 @@
 ---
 ### 🆕 #5 — etcd-io/etcd ⭐51.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **为分布式系统最关键数据而设计的可靠分布式键值存储**
 
 📝 Distributed reliable key-value store for the most critical data of a distributed system
 
@@ -9707,7 +9707,7 @@
 ---
 ### 🆕 #7 — prometheus/prometheus ⭐64.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Prometheus 监控系统与时间序列数据库。**
 
 📝 The Prometheus monitoring system and time series database.
 
@@ -9716,7 +9716,7 @@
 ---
 ### 🆕 #8 — dbeaver/dbeaver ⭐50.6K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **免费的通用数据库工具和 SQL 客户端**
 
 📝 Free universal database tool and SQL client
 
@@ -9725,7 +9725,7 @@
 ---
 ### 🆕 #9 — ClickHouse/ClickHouse ⭐48.1K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **ClickHouse® 是一个实时分析数据库管理系统**
 
 📝 ClickHouse® is a real-time analytics database management system
 
@@ -9752,7 +9752,7 @@
 ---
 ### 🆕 #12 — LeCoupa/awesome-cheatsheets ⭐46K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **👩‍💻👨‍💻 流行编程语言、框架和开发工具的精选速查表**
 
 📝 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
@@ -9770,7 +9770,7 @@
 ---
 ### 🆕 #14 — pingcap/tidb ⭐40.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **TiDB 专为不可预测增长的智能工作负载而设计，具备 ACID 保证和对事务的原生支持**
 
 📝 TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 
@@ -9779,7 +9779,7 @@
 ---
 ### 🆕 #15 — duckdb/duckdb ⭐38.8K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **DuckDB 是一个进程内分析型 SQL 数据库管理系统**
 
 📝 DuckDB is an analytical in-process SQL database management system
 
@@ -9788,7 +9788,7 @@
 ---
 ### 🆕 #16 — huihut/interview ⭐38K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。**
 
 📝 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, incl
 
@@ -9797,7 +9797,7 @@
 ---
 ### 🆕 #17 — sqlmapproject/sqlmap ⭐37.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **自动 SQL 注入和数据库接管工具**
 
 📝 Automatic SQL injection and database takeover tool
 
@@ -9806,7 +9806,7 @@
 ---
 ### 🆕 #18 — typeorm/typeorm ⭐36.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **适用于 Node.js 的 TypeScript 和 JavaScript ORM，支持 PostgreSQL、MySQL、MariaDB、SQLite、SQL Server、Oracle 等。**
 
 📝 TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 
@@ -9815,7 +9815,7 @@
 ---
 ### 🆕 #19 — SheetJS/sheetjs ⭐36.3K
 
-🌏 *中文描述待补充*
+🌏 **📗 SheetJS 电子表格数据工具包**
 
 📝 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 
@@ -9824,7 +9824,7 @@
 ---
 ### 🆕 #20 — directus/directus ⭐36K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **适用于所有项目的灵活后端 🐰 将数据库转换为无头 CMS、管理面板或自定义 UI 应用。**
 
 📝 The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
@@ -9860,7 +9860,7 @@
 ---
 ### 🆕 #24 — cockroachdb/cockroach ⭐32.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **CockroachDB — 云原生分布式 SQL 数据库，专为高可用、轻松扩展和数据本地性控制而设计。**
 
 📝 CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 
@@ -9869,7 +9869,7 @@
 ---
 ### 🆕 #25 — influxdata/influxdb ⭐31.6K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **可扩展的数据存储，适用于指标、事件和实时分析。**
 
 📝 Scalable datastore for metrics, events, and real-time analytics
 
@@ -9887,7 +9887,7 @@
 ---
 ### 🆕 #27 — mongodb/mongo ⭐28.4K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **MongoDB 数据库。**
 
 📝 The MongoDB Database
 
@@ -9896,7 +9896,7 @@
 ---
 ### 🆕 #28 — PostgREST/postgrest ⭐27.2K · 🔤Haskell
 
-🌏 *中文描述待补充*
+🌏 **为任意 Postgres 数据库提供 REST API。**
 
 📝 REST API for any Postgres database
 
@@ -9905,7 +9905,7 @@
 ---
 ### 🆕 #29 — forthespada/CS-Books ⭐27K
 
-🌏 *中文描述待补充*
+🌏 **🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、**
 
 📝 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 
@@ -9914,7 +9914,7 @@
 ---
 ### 🆕 #30 — valkey-io/valkey ⭐26.2K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **一个灵活的分布式键值数据库，针对缓存和其他实时工作负载进行了优化。**
 
 📝 A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
@@ -9932,7 +9932,7 @@
 ---
 ### 🆕 #32 — taosdata/TDengine ⭐24.9K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **专为工业物联网（IIoT）场景设计的高性能、可扩展时序数据库。**
 
 📝 High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 
@@ -9941,7 +9941,7 @@
 ---
 ### 🆕 #33 — sqlitebrowser/sqlitebrowser ⭐24.2K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **DB Browser for SQLite (DB4S) 项目的官方主页，前身为 SQLite Database Browser。**
 
 📝 Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
 
@@ -9950,7 +9950,7 @@
 ---
 ### 🆕 #34 — osquery/osquery ⭐23.3K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **基于 SQL 的操作系统仪表化、监控和分析工具。**
 
 📝 SQL powered operating system instrumentation, monitoring, and analytics.
 
@@ -9959,7 +9959,7 @@
 ---
 ### 🆕 #35 — pubkey/rxdb ⭐23.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个本地优先的数据库，可在任何 JS 运行时上运行并与现有后端同步，无供应商锁定。**
 
 📝 The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
 
@@ -9968,7 +9968,7 @@
 ---
 ### 🆕 #36 — Vonng/ddia ⭐23.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译**
 
 📝 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
 
@@ -9977,7 +9977,7 @@
 ---
 ### 🆕 #37 — beekeeper-studio/beekeeper-studio ⭐23K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一款现代化且易于使用的 SQL 客户端，支持 MySQL、Postgres、SQLite、SQL Server 等数据库。**
 
 📝 Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
@@ -9986,7 +9986,7 @@
 ---
 ### 🆕 #38 — timescale/timescaledb ⭐22.9K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **一个以 Postgres 扩展形式打包的时序数据库，专为高性能实时分析而设计。**
 
 📝 A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
@@ -9995,7 +9995,7 @@
 ---
 ### 🆕 #39 — typicode/lowdb ⭐22.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **简单快速的 JSON 数据库。**
 
 📝 Simple and fast JSON database
 
@@ -10004,7 +10004,7 @@
 ---
 ### 🆕 #40 — chartdb/chartdb ⭐22.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **数据库图表编辑器，通过单个查询即可可视化和设计数据库。**
 
 📝 Database diagrams editor that allows you to visualize and design your DB with a single query.
 
@@ -10013,7 +10013,7 @@
 ---
 ### 🆕 #41 — dgraph-io/dgraph ⭐21.7K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **用于实时场景的高性能图数据库。**
 
 📝 high-performance graph database for real-time use cases
 
@@ -10022,7 +10022,7 @@
 ---
 ### 🆕 #42 — teableio/teable ⭐21.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **新一代 Airtable 替代品：无代码 Postgres。**
 
 📝 ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
@@ -10031,7 +10031,7 @@
 ---
 ### 🆕 #43 — valeriansaliou/sonic ⭐21.3K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **快速、轻量、无需模式的搜索后端，Elasticsearch 的替代品，仅需几 MB 内存即可运行。**
 
 📝 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 
@@ -10040,7 +10040,7 @@
 ---
 ### 🆕 #44 — vitessio/vitess ⭐21K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Vitess 是一个用于 MySQL 水平扩展的数据库集群系统。**
 
 📝 Vitess is a database clustering system for horizontal scaling of MySQL.
 
@@ -10049,7 +10049,7 @@
 ---
 ### 🆕 #45 — apache/shardingsphere ⭐20.7K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **通过分布式 SQL 为所有数据库提供分片、扩展和安全支持，赋能数据智能。**
 
 📝 Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
 
@@ -10058,7 +10058,7 @@
 ---
 ### 🆕 #46 — tursodatabase/turso ⭐19.2K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **Turso 是一个进程内 SQL 数据库，兼容 SQLite。**
 
 📝 Turso is an in-process SQL database, compatible with SQLite.
 
@@ -10067,7 +10067,7 @@
 ---
 ### 🆕 #47 — amark/gun ⭐19.1K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **用于同步去中心化图数据的开源网络安全协议。**
 
 📝 An open source cybersecurity protocol for syncing decentralized graph data.
 
@@ -10076,7 +10076,7 @@
 ---
 ### 🆕 #48 — golang-migrate/migrate ⭐18.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **数据库迁移工具，提供 CLI 和 Go 库。**
 
 📝 Database migrations. CLI and Golang library.
 
@@ -10085,7 +10085,7 @@
 ---
 ### 🆕 #49 — rqlite/rqlite ⭐17.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **基于 SQLite 的轻量级容错数据库，以最少的工作量保持数据高可用。**
 
 📝 The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 
@@ -10094,7 +10094,7 @@
 ---
 ### 🆕 #50 — apache/pouchdb ⭐17.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **PouchDB 是一个袖珍型数据库。**
 
 📝 :kangaroo: - PouchDB is a pocket-sized database.
 
@@ -10103,7 +10103,7 @@
 ---
 ### 🆕 #51 — gyoogle/tech-interview-for-developer ⭐17.4K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **面向初入职场的开发者面试知识百科。**
 
 📝 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
@@ -10112,7 +10112,7 @@
 ---
 ### 🆕 #52 — VictoriaMetrics/VictoriaMetrics ⭐17.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **快速、经济高效的监控解决方案和时间序列数据库。**
 
 📝 VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 
@@ -10121,7 +10121,7 @@
 ---
 ### 🆕 #53 — questdb/questdb ⭐17.1K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **QuestDB 是一个高性能、开源的时间序列数据库。**
 
 📝 QuestDB is a high performance, open-source, time-series database
 
@@ -10130,7 +10130,7 @@
 ---
 ### 🆕 #54 — tursodatabase/libsql ⭐16.8K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **libSQL 是 SQLite 的一个分支，完全开源并接受社区贡献。**
 
 📝 libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 
@@ -10139,7 +10139,7 @@
 ---
 ### 🆕 #55 — neo4j/neo4j ⭐16.7K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **人人皆可用的图数据库。**
 
 📝 Graphs for Everyone
 
@@ -10148,7 +10148,7 @@
 ---
 ### 🆕 #56 — realm/realm-swift ⭐16.6K · 🔤Objective-C
 
-🌏 *中文描述待补充*
+🌏 **Realm 是一个移动端数据库，可作为 Core Data 和 SQLite 的替代品。**
 
 📝 Realm is a mobile database: a replacement for Core Data & SQLite
 
@@ -10157,7 +10157,7 @@
 ---
 ### 🆕 #57 — prisma/prisma1 ⭐16.4K · 🔤Scala
 
-🌏 *中文描述待补充*
+🌏 **数据库工具集，包含 ORM、迁移管理和管理 UI（支持 Postgres、MySQL 和 MongoDB）[已废弃]。**
 
 📝 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 
@@ -10166,7 +10166,7 @@
 ---
 ### 🆕 #58 — weaviate/weaviate ⭐16.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Weaviate 是一个开源向量数据库，同时存储对象和向量，支持向量搜索与结构化过滤的结合。**
 
 📝 Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 
@@ -10175,7 +10175,7 @@
 ---
 ### 🆕 #59 — dgraph-io/badger ⭐15.7K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **用 Go 实现的快速键值数据库。**
 
 📝 Fast key-value DB in Go.
 
@@ -10184,7 +10184,7 @@
 ---
 ### 🆕 #60 — scylladb/scylladb ⭐15.6K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **使用 Seastar 框架的 NoSQL 数据存储，兼容 Apache Cassandra 和 Amazon DynamoDB。**
 
 📝 NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 
@@ -10193,7 +10193,7 @@
 ---
 ### 🆕 #61 — apache/doris ⭐15.5K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **Apache Doris 是一个易用、高性能的统一分析数据库。**
 
 📝 Apache Doris is an easy-to-use, high performance and unified analytics database.
 
@@ -10202,7 +10202,7 @@
 ---
 ### 🆕 #62 — electric-sql/pglite ⭐15.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **可嵌入的 Postgres，具有实时响应式绑定功能。**
 
 📝 Embeddable Postgres with real-time, reactive bindings.
 
@@ -10211,7 +10211,7 @@
 ---
 ### 🆕 #63 — go-sql-driver/mysql ⭐15.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Go 语言 database/sql 包的 MySQL 驱动程序。**
 
 📝 Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 
@@ -10220,7 +10220,7 @@
 ---
 ### 🆕 #64 — dotnet/efcore ⭐14.7K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **EF Core 是 .NET 的现代对象-数据库映射器，支持 LINQ 查询、变更跟踪、更新和架构迁移。**
 
 📝 EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 
@@ -10229,7 +10229,7 @@
 ---
 ### 🆕 #65 — boltdb/bolt ⭐14.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Go 语言的嵌入式键值数据库。**
 
 📝 An embedded key/value database for Go.
 
@@ -10238,7 +10238,7 @@
 ---
 ### 🆕 #66 — dexie/Dexie.js ⭐14.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个极简的 IndexedDB 封装库。**
 
 📝 A Minimalistic Wrapper for IndexedDB
 
@@ -10247,7 +10247,7 @@
 ---
 ### 🆕 #67 — bytebase/bytebase ⭐14.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **全球最先进的数据库 DevSecOps 解决方案，面向开发者、安全、DBA 和平台工程团队。**
 
 📝 World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 
@@ -10256,7 +10256,7 @@
 ---
 ### 🆕 #68 — geldata/gel ⭐14.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Gel 为 Postgres 提供现代化数据模型、图查询、认证与 AI 解决方案等增强功能。**
 
 📝 Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 
@@ -10265,7 +10265,7 @@
 ---
 ### 🆕 #69 — kysely-org/kysely ⭐14K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个类型安全的 TypeScript SQL 查询构建器。**
 
 📝 A type-safe TypeScript SQL query builder
 
@@ -10274,7 +10274,7 @@
 ---
 ### 🆕 #70 — sql-js/sql.js ⭐13.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一个在浏览器中运行 SQLite 的 JavaScript 库。**
 
 📝 A javascript library to run SQLite on the web.  
 
@@ -10283,7 +10283,7 @@
 ---
 ### 🆕 #71 — dbcli/pgcli ⭐13.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **带有自动补全和语法高亮的 Postgres CLI 工具。**
 
 📝 Postgres CLI with autocompletion and syntax highlighting
 
@@ -10292,7 +10292,7 @@
 ---
 ### 🆕 #72 — trinodb/trino ⭐12.9K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **Trino 的官方仓库，分布式大数据 SQL 查询引擎，前身为 PrestoSQL。**
 
 📝 Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
@@ -10301,7 +10301,7 @@
 ---
 ### 🆕 #73 — debezium/debezium ⭐12.8K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **支持多种数据库的变更数据捕获（CDC）工具。**
 
 📝 Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
 
@@ -10310,7 +10310,7 @@
 ---
 ### 🆕 #74 — apache/zookeeper ⭐12.8K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **Apache ZooKeeper——分布式协调服务。**
 
 📝 Apache ZooKeeper
 
@@ -10319,7 +10319,7 @@
 ---
 ### 🆕 #75 — citusdata/citus ⭐12.6K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **以扩展形式实现的分布式 PostgreSQL。**
 
 📝 Distributed PostgreSQL as an extension
 
@@ -10328,7 +10328,7 @@
 ---
 ### 🆕 #76 — mealie-recipes/mealie ⭐12.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Mealie 是一款自托管的食谱管理与餐饮规划工具，配备 RestAPI 后端和响应式前端。**
 
 📝 Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 
@@ -10337,7 +10337,7 @@
 ---
 ### 🆕 #77 — invertase/react-native-firebase ⭐12.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个经过充分测试、功能丰富的模块化 Firebase React Native 实现，支持 iOS 和 Android 平台。**
 
 📝 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 
@@ -10346,7 +10346,7 @@
 ---
 ### 🆕 #78 — illacloud/illa-builder ⭐12.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **低代码平台，助您构建业务应用，快速创建仪表盘、CRUD 等内部工具。**
 
 📝 Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 
@@ -10355,7 +10355,7 @@
 ---
 ### 🆕 #79 — vesoft-inc/nebula ⭐12.2K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **一款分布式、快速的开源图数据库，具备水平扩展和高可用特性。**
 
 📝   A distributed, fast open-source graph database featuring horizontal scalability and high availability
 
@@ -10373,7 +10373,7 @@
 ---
 ### 🆕 #81 — dhamaniasad/awesome-postgres ⭐12K
 
-🌏 *中文描述待补充*
+🌏 **受 awesome-mysql 启发的精选 PostgreSQL 软件、库、工具和资源列表。**
 
 📝 A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 
@@ -10382,7 +10382,7 @@
 ---
 ### 🆕 #82 — get-convex/convex-backend ⭐12K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **面向应用开发者的开源响应式数据库。**
 
 📝 The open-source reactive database for app developers
 
@@ -10391,7 +10391,7 @@
 ---
 ### 🆕 #83 — dbcli/mycli ⭐11.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **一款带有自动补全和语法高亮的 MySQL 终端客户端。**
 
 📝 A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 
@@ -10439,7 +10439,7 @@
 ---
 ### 🆕 🥈 #2 — kubernetes/kubernetes ⭐123.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **生产级容器调度与管理平台**
 
 📝 Production-Grade Container Scheduling and Management
 
@@ -10500,7 +10500,7 @@
 ---
 ### 🆕 #8 — nektos/act ⭐70.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **在本地运行 GitHub Actions 🚀**
 
 📝 Run your GitHub Actions locally 🚀
 
@@ -10599,7 +10599,7 @@
 ---
 ### 🆕 #19 — docker/awesome-compose ⭐45.6K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **精选的 Docker Compose 示例合集**
 
 📝 Awesome Docker Compose samples
 
@@ -10608,7 +10608,7 @@
 ---
 ### 🆕 #20 — getsentry/sentry ⭐44.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **以开发者优先的错误追踪与性能监控**
 
 📝 Developer-first error tracking and performance monitoring
 
@@ -10617,7 +10617,7 @@
 ---
 ### 🆕 #21 — apple/container ⭐38.5K · 🔤Swift
 
-🌏 *中文描述待补充*
+🌏 **一款在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具，用 Swift 编写。**
 
 📝 A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 
@@ -10626,7 +10626,7 @@
 ---
 ### 🆕 #22 — istio/istio ⭐38.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **连接、保护、控制和观测服务。**
 
 📝 Connect, secure, control, and observe services.
 
@@ -10635,7 +10635,7 @@
 ---
 ### 🆕 #23 — httpie/cli ⭐38.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🥧 HTTPie CLI — 面向 API 时代的现代化、用户友好的命令行 HTTP 客户端，支持 JSON、彩色输出、会话和文件下载。**
 
 📝 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
@@ -10644,7 +10644,7 @@
 ---
 ### 🆕 #24 — portainer/portainer ⭐37.8K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **让 Docker 和 Kubernetes 管理变得简单。**
 
 📝 Making Docker and Kubernetes management easy.
 
@@ -10653,7 +10653,7 @@
 ---
 ### 🆕 #25 — docker/compose ⭐37.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **使用 Docker 定义和运行多容器应用**
 
 📝 Define and run multi-container applications with Docker
 
@@ -10662,7 +10662,7 @@
 ---
 ### 🆕 #26 — aquasecurity/trivy ⭐36.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **在容器、Kubernetes、代码仓库、云等环境中发现漏洞、错误配置、密钥和 SBOM**
 
 📝 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
@@ -10680,7 +10680,7 @@
 ---
 ### 🆕 #28 — Dokploy/dokploy ⭐35K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Vercel、Netlify 和 Heroku 的开源替代方案。**
 
 📝 Open Source Alternative to Vercel, Netlify and Heroku.
 
@@ -10689,7 +10689,7 @@
 ---
 ### 🆕 #29 — IceWhaleTech/CasaOS ⭐34.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **CasaOS — 一个简单、易用、优雅的开源个人云系统。**
 
 📝 CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
@@ -10698,7 +10698,7 @@
 ---
 ### 🆕 #30 — derailed/k9s ⭐34K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **🐶 让你时尚管理 Kubernetes 集群的 CLI 工具！**
 
 📝 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
@@ -10707,7 +10707,7 @@
 ---
 ### 🆕 #31 — k3s-io/k3s ⭐33.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **轻量级 Kubernetes**
 
 📝 Lightweight Kubernetes
 
@@ -10725,7 +10725,7 @@
 ---
 ### 🆕 #33 — podman-container-tools/podman ⭐32K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Podman：一个用于管理 OCI 容器和 Pod 的工具。**
 
 📝 Podman: A tool for managing OCI containers and pods.
 
@@ -10734,7 +10734,7 @@
 ---
 ### 🆕 #34 — dokku/dokku ⭐31.9K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **一个基于 Docker 的 PaaS，帮助你构建和管理应用的全生命周期。**
 
 📝 A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
@@ -10743,7 +10743,7 @@
 ---
 ### 🆕 #35 — kubernetes/minikube ⭐31.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **在本地运行 Kubernetes**
 
 📝 Run Kubernetes locally
 
@@ -10761,7 +10761,7 @@
 ---
 ### 🆕 #37 — gethomepage/homepage ⭐30.7K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一个高度可定制的首页（或起始页/应用仪表盘），支持 Docker 和服务 API 集成。**
 
 📝 A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
@@ -10770,7 +10770,7 @@
 ---
 ### 🆕 #38 — ityouknow/spring-boot-examples ⭐30.6K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。**
 
 📝 about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 
 
@@ -10788,7 +10788,7 @@
 ---
 ### 🆕 #40 — helm/helm ⭐29.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Kubernetes 包管理器。**
 
 📝 The Kubernetes Package Manager
 
@@ -10797,7 +10797,7 @@
 ---
 ### 🆕 #41 — MichaelCade/90DaysOfDevOps ⭐29.5K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **这个仓库最初是我个人的公开学习项目，如今已成为结构化的 DevOps 学习路线图。**
 
 📝 This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
@@ -10806,7 +10806,7 @@
 ---
 ### 🆕 #42 — abiosoft/colima ⭐29.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **在 macOS 和 Linux 上以最简配置运行容器运行时。**
 
 📝 Container runtimes on macOS (and Linux) with minimal setup
 
@@ -10815,7 +10815,7 @@
 ---
 ### 🆕 #43 — goharbor/harbor ⭐28.7K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一个开源的受信任云原生镜像仓库，支持内容存储、签名和扫描。**
 
 📝 An open source trusted cloud native registry project that stores, signs, and scans content.
 
@@ -10824,7 +10824,7 @@
 ---
 ### 🆕 #44 — community-scripts/ProxmoxVE ⭐28.6K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **Proxmox VE 辅助脚本（社区版）。**
 
 📝 Proxmox VE Helper-Scripts (Community Edition) 
 
@@ -10833,7 +10833,7 @@
 ---
 ### 🆕 #45 — authelia/authelia ⭐28.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **面向 Web 应用的单点登录多因素认证门户。**
 
 📝 The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 
@@ -10842,7 +10842,7 @@
 ---
 ### 🆕 #46 — openfaas/faas ⭐26.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **OpenFaaS —— 让 Serverless 函数变得简单。**
 
 📝 OpenFaaS - Serverless Functions Made Simple
 
@@ -10851,7 +10851,7 @@
 ---
 ### 🆕 #47 — yeasy/docker_practice ⭐26.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!**
 
 📝 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
 
@@ -10860,7 +10860,7 @@
 ---
 ### 🆕 #48 — rancher/rancher ⭐25.7K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **完整的容器管理平台。**
 
 📝 Complete container management platform
 
@@ -10869,7 +10869,7 @@
 ---
 ### 🆕 #49 — jenkinsci/jenkins ⭐25.5K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **Jenkins 自动化服务器。**
 
 📝 Jenkins automation server
 
@@ -10878,7 +10878,7 @@
 ---
 ### 🆕 #50 — lissy93/dashy ⭐25.5K · 🔤Vue
 
-🌏 *中文描述待补充*
+🌏 **一个为你打造的可自托管个人仪表盘，包含状态检查、小组件、主题、图标包和 UI 编辑器。**
 
 📝 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
@@ -10887,7 +10887,7 @@
 ---
 ### 🆕 #51 — pulumi/pulumi ⭐25.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Pulumi —— 用任意编程语言实现基础设施即代码（IaC）。**
 
 📝 Pulumi - Infrastructure as Code in any programming language 🚀
 
@@ -10896,7 +10896,7 @@
 ---
 ### 🆕 #52 — eip-work/kuboard-press ⭐25.1K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。**
 
 📝 Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 
@@ -10905,7 +10905,7 @@
 ---
 ### 🆕 #53 — cilium/cilium ⭐24.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **基于 eBPF 的网络、安全和可观测性方案。**
 
 📝 eBPF-based Networking, Security, and Observability
 
@@ -10914,7 +10914,7 @@
 ---
 ### 🆕 #54 — dotnet-architecture/eShopOnContainers ⭐24.4K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **跨平台的 .NET 示例微服务和容器化应用，可在 Linux、Windows 和 macOS 上运行。**
 
 📝 Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 
@@ -10923,7 +10923,7 @@
 ---
 ### 🆕 #55 — Guovin/iptv-api ⭐24.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source auto-update platform**
 
 📝 ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
@@ -10932,7 +10932,7 @@
 ---
 ### 🆕 #56 — firefly-iii/firefly-iii ⭐23.7K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **Firefly III：个人财务管理工具。**
 
 📝 Firefly III: a personal finances manager
 
@@ -10941,7 +10941,7 @@
 ---
 ### 🆕 #57 — air-verse/air ⭐23.7K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Go 应用的热重载工具。**
 
 📝 ☁️ Live reload for Go apps
 
@@ -10950,7 +10950,7 @@
 ---
 ### 🆕 #58 — slimtoolkit/slim ⭐23.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **无需改动容器镜像内容即可将其缩小最多 30 倍（编译语言可达更优）。**
 
 📝 Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
@@ -10959,7 +10959,7 @@
 ---
 ### 🆕 #59 — lensapp/lens ⭐23.2K
 
-🌏 *中文描述待补充*
+🌏 **Lens —— 全球运行 Kubernetes 的方式。**
 
 📝 Lens - The way the world runs Kubernetes
 
@@ -10968,7 +10968,7 @@
 ---
 ### 🆕 #60 — henrygd/beszel ⭐22.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **轻量级服务器监控工具，支持历史数据、Docker 统计和告警功能。**
 
 📝 Lightweight server monitoring with historical data, docker stats, and alerts.
 
@@ -10977,7 +10977,7 @@
 ---
 ### 🆕 #61 — GoogleContainerTools/distroless ⭐22.8K · 🔤Starlark
 
-🌏 *中文描述待补充*
+🌏 **精简的 Docker 镜像，只包含语言运行时，不包含操作系统。**
 
 📝 🥑  Language focused docker images, minus the operating system.  
 
@@ -10986,7 +10986,7 @@
 ---
 ### 🆕 #62 — wsargent/docker-cheat-sheet ⭐22.5K
 
-🌏 *中文描述待补充*
+🌏 **Docker 速查表。**
 
 📝 Docker Cheat Sheet
 
@@ -10995,7 +10995,7 @@
 ---
 ### 🆕 #63 — jhipster/generator-jhipster ⭐22.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **JHipster 是一个开发平台，用于快速生成、开发和部署现代 Web 应用及微服务架构。**
 
 📝 JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 
@@ -11004,7 +11004,7 @@
 ---
 ### 🆕 #64 — getsops/sops ⭐22.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **简单灵活的机密信息管理工具。**
 
 📝 Simple and flexible tool for managing secrets
 
@@ -11013,7 +11013,7 @@
 ---
 ### 🆕 #65 — goauthentik/authentik ⭐22.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **你所需的身份验证粘合剂。**
 
 📝 The authentication glue you need.
 
@@ -11022,7 +11022,7 @@
 ---
 ### 🆕 #66 — recommenders-team/recommenders ⭐21.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **推荐系统最佳实践。**
 
 📝 Best Practices on Recommendation Systems
 
@@ -11031,7 +11031,7 @@
 ---
 ### 🆕 #67 — TibixDev/winboat ⭐21.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **在 Linux 上无缝运行 Windows 应用。**
 
 📝 Run Windows apps on 🐧 Linux with ✨ seamless integration
 
@@ -11040,7 +11040,7 @@
 ---
 ### 🆕 #68 — Zeyi-Lin/HivisionIDPhotos ⭐21.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **⚡️HivisionIDPhotos：轻量高效的 AI 证件照工具。**
 
 📝 ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 
@@ -11049,7 +11049,7 @@
 ---
 ### 🆕 #69 — m1k1o/neko ⭐21.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **在 Docker 中运行并使用 WebRTC 的自托管虚拟浏览器。**
 
 📝 A self hosted virtual browser that runs in docker and uses WebRTC.
 
@@ -11058,7 +11058,7 @@
 ---
 ### 🆕 #70 — vulhub/vulhub ⭐20.9K · 🔤Dockerfile
 
-🌏 *中文描述待补充*
+🌏 **基于 Docker-Compose 的预构建漏洞环境。**
 
 📝 Pre-Built Vulnerable Environments Based on Docker-Compose
 
@@ -11067,7 +11067,7 @@
 ---
 ### 🆕 #71 — containerd/containerd ⭐20.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一个开放且可靠的容器运行时。**
 
 📝 An open and reliable container runtime
 
@@ -11076,7 +11076,7 @@
 ---
 ### 🆕 #72 — gravitational/teleport ⭐20.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **访问和保护基础设施的最简单、最安全的方式。**
 
 📝 The easiest, and most secure way to access and protect all of your infrastructure.
 
@@ -11085,7 +11085,7 @@
 ---
 ### 🆕 #73 — GoogleCloudPlatform/microservices-demo ⭐20.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **包含 10 个微服务的云优先示例应用，展示 Kubernetes、Istio 和 gRPC。**
 
 📝 Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 
@@ -11094,7 +11094,7 @@
 ---
 ### 🆕 #74 — bee-san/RustScan ⭐19.9K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **现代端口扫描器。**
 
 📝 🤖 The Modern Port Scanner 🤖
 
@@ -11112,7 +11112,7 @@
 ---
 ### 🆕 #76 — ory/hydra ⭐17.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **互联网规模的 OpenID Certified™ OpenID Connect 和 OAuth2.1 提供商，可通过现有用户管理集成。**
 
 📝 Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 
@@ -11148,7 +11148,7 @@
 ---
 ### 🆕 #80 — theonedev/onedev ⭐15K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **集成 CI/CD、看板和包管理的一体化 Git 服务器，无缝集成，体验卓越。**
 
 📝 Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 
@@ -11175,7 +11175,7 @@
 ---
 ### 🆕 #83 — alam00000/bentopdf ⭐13.7K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **隐私优先的 PDF 工具包。**
 
 📝 The Privacy First PDF Toolkit
 
@@ -11184,7 +11184,7 @@
 ---
 ### 🆕 #84 — plankanban/planka ⭐12.1K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **PLANKA 是一款面向所有人的看板风格项目管理工具。**
 
 📝 PLANKA is the Kanban-style project mastering tool for everyone
 
@@ -11211,7 +11211,7 @@
 ---
 ### 🆕 #87 — docker-archive-public/docker.labs ⭐11.9K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **一系列学习如何使用 Docker 与各种工具结合的教程合集，欢迎贡献。**
 
 📝 This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 
@@ -11220,7 +11220,7 @@
 ---
 ### 🆕 #88 — gravitl/netmaker ⭐11.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Netmaker 基于 WireGuard 构建网络，自动化创建快速、安全、分布式虚拟网络。**
 
 📝 Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 
@@ -11229,7 +11229,7 @@
 ---
 ### 🆕 #89 — getumbrel/umbrel ⭐11.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个优雅的家庭服务器操作系统，支持运行应用、存储文件照片、运行 Bitcoin 节点，300+ 应用等你探索。**
 
 📝 An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 
@@ -11238,7 +11238,7 @@
 ---
 ### 🆕 #90 — TwiN/gatus ⭐11.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **面向开发者的自动化状态页面，支持告警和事件管理。**
 
 📝 Automated developer-oriented status page with alerting and incident support
 
@@ -11265,7 +11265,7 @@
 ---
 ### 🆕 #93 — hyperdxio/hyperdx ⭐9.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **快速解决生产问题。开源的可观测性平台，统一会话回放、日志、指标和链路追踪。**
 
 📝 Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 
@@ -11274,7 +11274,7 @@
 ---
 ### 🆕 #94 — getsentry/self-hosted ⭐9.4K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **Sentry 功能完整版，为小规模部署和概念验证打包。**
 
 📝 Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 
@@ -11331,7 +11331,7 @@
 ---
 ### 🆕 🥈 #2 — Z4nzu/hackingtool ⭐77.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **面向黑客的全合一黑客工具**
 
 📝 ALL IN ONE Hacking Tool For Hackers
 
@@ -11349,7 +11349,7 @@
 ---
 ### 🆕 #4 — shadowsocks/shadowsocks-windows ⭐59.6K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **shadowsocks 的 C# 移植版本**
 
 📝 A C# port of shadowsocks
 
@@ -11358,7 +11358,7 @@
 ---
 ### 🆕 #5 — acmesh-official/acme.sh ⭐46.9K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **一个纯 Unix shell 脚本 ACME 客户端，用于 SSL/TLS 证书自动化**
 
 📝 A pure Unix shell script ACME client for SSL / TLS certificate automation
 
@@ -11374,7 +11374,7 @@
 <br>
 ### 🆕 #6 — unionlabs/union ⭐74K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **最小化信任的零知识跨链桥协议，专为抗审查和极高安全性而设计。**
 
 📝 The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 
@@ -11383,7 +11383,7 @@
 ---
 ### 🆕 #7 — danielmiessler/SecLists ⭐71.6K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **SecLists 是安全测试人员的伴侣，收录了安全评估中使用的多种类型列表**
 
 📝 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 
@@ -11401,7 +11401,7 @@
 ---
 ### 🆕 #9 — mitmproxy/mitmproxy ⭐44K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **一个支持 TLS 的交互式拦截 HTTP 代理，适用于渗透测试人员和软件开发人员。**
 
 📝 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
@@ -11410,7 +11410,7 @@
 ---
 ### 🆕 #10 — GyulyVGC/sniffnet ⭐39.4K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **舒适地监控你的互联网流量 🕵️‍♂️**
 
 📝 Comfortably monitor your Internet traffic 🕵️‍♂️
 
@@ -11419,7 +11419,7 @@
 ---
 ### 🆕 #11 — gchq/CyberChef ⭐35.1K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **网络瑞士军刀 — 一个集加密、编码、压缩和数据分析于一体的 Web 应用**
 
 📝 The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
@@ -11437,7 +11437,7 @@
 ---
 ### 🆕 #13 — certbot/certbot ⭐33.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Certbot 是 EFF 的工具，用于从 Let's Encrypt 获取证书并可选自动在服务器上启用 HTTPS。**
 
 📝 Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 
@@ -11455,7 +11455,7 @@
 ---
 ### 🆕 #15 — StevenBlack/hosts ⭐30.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **整合并扩展来自多个精心维护来源的 hosts 文件，可选屏蔽成人等类别。**
 
 📝 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
@@ -11482,7 +11482,7 @@
 ---
 ### 🆕 #18 — wuyouzhuguli/SpringAll ⭐29K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2等Spring系列**
 
 📝 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
 
@@ -11500,7 +11500,7 @@
 ---
 ### 🆕 #20 — hwdsl2/setup-ipsec-vpn ⭐28K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **只需几分钟即可搭建自己的 IPsec VPN 服务器，支持 IPsec/L2TP、Cisco IPsec 和 IKEv2。**
 
 📝 Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
 
@@ -11509,7 +11509,7 @@
 ---
 ### 🆕 #21 — imthenachoman/How-To-Secure-A-Linux-Server ⭐27.8K
 
-🌏 *中文描述待补充*
+🌏 **一份持续更新的 Linux 服务器安全加固指南。**
 
 📝 An evolving how-to guide for securing a Linux server.
 
@@ -11518,7 +11518,7 @@
 ---
 ### 🆕 #22 — The-Art-of-Hacking/h4cker ⭐27.7K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **由 Omar Santos 维护，包含数千个与道德黑客和安全相关的资源。**
 
 📝 This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 
@@ -11527,7 +11527,7 @@
 ---
 ### 🆕 #23 — keepassxreboot/keepassxc ⭐27.7K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **KeePassXC 是 Windows 应用 KeePass Password Safe 的跨平台社区驱动移植版。**
 
 📝 KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
@@ -11536,7 +11536,7 @@
 ---
 ### 🆕 #24 — Infisical/infisical ⭐27.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Infisical 是一个开源的密钥、证书和特权访问管理平台。**
 
 📝 Infisical is the open-source platform for secrets, certificates, and privileged access management.
 
@@ -11545,7 +11545,7 @@
 ---
 ### 🆕 #25 — OpenZeppelin/openzeppelin-contracts ⭐27.2K · 🔤Solidity
 
-🌏 *中文描述待补充*
+🌏 **OpenZeppelin Contracts 是一个用于安全智能合约开发的库。**
 
 📝 OpenZeppelin Contracts is a library for secure smart contract development.
 
@@ -11554,7 +11554,7 @@
 ---
 ### 🆕 #26 — trufflesecurity/trufflehog ⭐26.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **查找、验证和分析泄露的凭据。**
 
 📝 Find, verify, and analyze leaked credentials
 
@@ -11563,7 +11563,7 @@
 ---
 ### 🆕 #27 — enaqx/awesome-pentest ⭐26.4K
 
-🌏 *中文描述待补充*
+🌏 **一份精选的渗透测试资源与工具合集。**
 
 📝 A collection of awesome penetration testing resources, tools and other shiny things
 
@@ -11572,7 +11572,7 @@
 ---
 ### 🆕 #28 — radareorg/radare2 ⭐24.1K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **类 UNIX 的反向工程框架和命令行工具集。**
 
 📝 UNIX-like reverse engineering framework and command-line toolset
 
@@ -11590,7 +11590,7 @@
 ---
 ### 🆕 #30 — drduh/macOS-Security-and-Privacy-Guide ⭐22.4K
 
-🌏 *中文描述待补充*
+🌏 **社区维护的 macOS 安全与隐私加固指南。**
 
 📝 Community guide to securing and improving privacy on macOS.
 
@@ -11599,7 +11599,7 @@
 ---
 ### 🆕 #31 — lissy93/personal-security-checklist ⭐21.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **300 多条保护数字安全与隐私的实用清单，适用于 2026 年。**
 
 📝 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 
@@ -11608,7 +11608,7 @@
 ---
 ### 🆕 #32 — matomo-org/matomo ⭐21.6K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **领先的开源分析平台，以合乎道德的方式赋能用户。**
 
 📝 Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy
 
@@ -11617,7 +11617,7 @@
 ---
 ### 🆕 #33 — FallibleInc/security-guide-for-developers ⭐21.1K
 
-🌏 *中文描述待补充*
+🌏 **开发者安全指南。**
 
 📝 Security Guide for Developers
 
@@ -11626,7 +11626,7 @@
 ---
 ### 🆕 #34 — Atlas-OS/Atlas ⭐20.9K · 🔤Batchfile
 
-🌏 *中文描述待补充*
+🌏 **一款开源轻量级的 Windows 修改版，旨在优化性能、隐私和可用性。**
 
 📝 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
@@ -11635,7 +11635,7 @@
 ---
 ### 🆕 #35 — twpayne/chezmoi ⭐20.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **在多台不同机器上安全地管理你的 dotfiles。**
 
 📝 Manage your dotfiles across multiple diverse machines, securely.
 
@@ -11644,7 +11644,7 @@
 ---
 ### 🆕 #36 — TecharoHQ/anubis ⭐20.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **衡量传入 HTTP 请求的"灵魂"，阻止 AI 爬虫。**
 
 📝 Weighs the soul of incoming HTTP requests to stop AI crawlers
 
@@ -11653,7 +11653,7 @@
 ---
 ### 🆕 #37 — bettercap/bettercap ⭐19.4K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **用于 802.11、BLE、HID、CAN-bus、IPv4 和 IPv6 网络侦察及中间人攻击的瑞士军刀。**
 
 📝 The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 
@@ -11662,7 +11662,7 @@
 ---
 ### 🆕 #38 — rizinorg/cutter ⭐19K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **基于 rizin 的免费开源逆向工程平台。**
 
 📝 Free and Open Source Reverse Engineering Platform powered by rizin
 
@@ -11671,7 +11671,7 @@
 ---
 ### 🆕 #39 — fail2ban/fail2ban ⭐18K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用于封禁多次认证错误主机的守护进程。**
 
 📝 Daemon to ban hosts that cause multiple authentication errors
 
@@ -11680,7 +11680,7 @@
 ---
 ### 🆕 #40 — cure53/DOMPurify ⭐17.1K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **仅 DOM 级别、超快、超容错的 XSS 过滤器，适用于 HTML、MathML 和 SVG。**
 
 📝 DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 
@@ -11689,7 +11689,7 @@
 ---
 ### 🆕 #41 — javascript-obfuscator/javascript-obfuscator ⭐16.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **用于 JavaScript 和 Node.js 的强大混淆器。**
 
 📝 A powerful obfuscator for JavaScript and Node.js
 
@@ -11698,7 +11698,7 @@
 ---
 ### 🆕 #42 — wazuh/wazuh ⭐15.9K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **Wazuh — 开源安全平台，为端点和云工作负载提供统一的 XDR 和 SIEM 保护。**
 
 📝 Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
@@ -11707,7 +11707,7 @@
 ---
 ### 🆕 #43 — sundowndev/hacker-roadmap ⭐15.4K
 
-🌏 *中文描述待补充*
+🌏 **黑客工具、资源和参考资料合集，用于练习道德黑客技术。**
 
 📝 A collection of hacking tools, resources and references to practice ethical hacking.
 
@@ -11716,7 +11716,7 @@
 ---
 ### 🆕 #44 — zaproxy/zaproxy ⭐15.3K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **Checkmarx 的 ZAP 核心项目。**
 
 📝 The ZAP by Checkmarx Core project
 
@@ -11734,7 +11734,7 @@
 ---
 ### 🆕 #46 — winsiderss/systeminformer ⭐15K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **免费、强大、多用途的工具，帮助监控系统资源、调试软件和检测恶意软件。**
 
 📝 A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 
@@ -11743,7 +11743,7 @@
 ---
 ### 🆕 #47 — wifiphisher/wifiphisher ⭐14.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **恶意接入点框架。**
 
 📝 The Rogue Access Point Framework
 
@@ -11752,7 +11752,7 @@
 ---
 ### 🆕 #48 — Hacker0x01/hacker101 ⭐14.4K · 🔤SCSS
 
-🌏 *中文描述待补充*
+🌏 **Hacker101.com 的源代码，一个免费的 Web 和移动安全在线课程。**
 
 📝 Source code for Hacker101.com - a free online web and mobile security class.
 
@@ -11761,7 +11761,7 @@
 ---
 ### 🆕 #49 — sbilly/awesome-security ⭐14.4K
 
-🌏 *中文描述待补充*
+🌏 **安全领域的精选资源合集，包含软件、库、文档、书籍等。**
 
 📝 A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
@@ -11770,7 +11770,7 @@
 ---
 ### 🆕 #50 — maurosoria/dirsearch ⭐14.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Web 路径扫描器。**
 
 📝 Web path scanner
 
@@ -11779,7 +11779,7 @@
 ---
 ### 🆕 #51 — trimstray/nginx-admins-handbook ⭐14.2K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **如何提升 NGINX 性能、安全性及其他关键配置。**
 
 📝 How to improve NGINX performance, security, and other important things.
 
@@ -11788,7 +11788,7 @@
 ---
 ### 🆕 #52 — OpenVPN/openvpn ⭐14.1K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **OpenVPN 是一个开源的 VPN 守护进程。**
 
 📝 OpenVPN  is  an open source VPN daemon
 
@@ -11797,7 +11797,7 @@
 ---
 ### 🆕 #53 — prowler-cloud/prowler ⭐14K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Prowler 是全球使用最广泛的开源云安全平台，可自动化安全与合规检查。**
 
 📝 Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 
@@ -11806,7 +11806,7 @@
 ---
 ### 🆕 #54 — shadow1ng/fscan ⭐14K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。**
 
 📝 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
 
@@ -11815,7 +11815,7 @@
 ---
 ### 🆕 #55 — crowdsecurity/crowdsec ⭐13.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **CrowdSec 是一款开源且参与式的安全解决方案，通过众包方式抵御恶意 IP 攻击。**
 
 📝 CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 
@@ -11824,7 +11824,7 @@
 ---
 ### 🆕 #56 — gophish/gophish ⭐13.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **开源钓鱼测试工具包。**
 
 📝 Open-Source Phishing Toolkit
 
@@ -11833,7 +11833,7 @@
 ---
 ### 🆕 #57 — evilsocket/opensnitch ⭐13.8K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **OpenSnitch 是一款受 Little Snitch 启发的 GNU/Linux 交互式应用防火墙。**
 
 📝 OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 
@@ -11842,7 +11842,7 @@
 ---
 ### 🆕 #58 — tink-crypto/tink ⭐13.5K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **Tink 是一个多语言、跨平台的开源加密库，提供安全易用的加密 API。**
 
 📝 Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 
@@ -11851,7 +11851,7 @@
 ---
 ### 🆕 #59 — qazbnm456/awesome-web-security ⭐13.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **精选的 Web 安全资料与资源列表。**
 
 📝 🐶 A curated list of Web Security materials and resources.
 
@@ -11860,7 +11860,7 @@
 ---
 ### 🆕 #60 — Tencent/secguide ⭐13.5K
 
-🌏 *中文描述待补充*
+🌏 **面向开发人员梳理的代码安全指南。**
 
 📝 面向开发人员梳理的代码安全指南
 
@@ -11869,7 +11869,7 @@
 ---
 ### 🆕 #61 — juice-shop/juice-shop ⭐13.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **OWASP Juice Shop：可能是最现代、最复杂的不安全 Web 应用。**
 
 📝 OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 
@@ -11878,7 +11878,7 @@
 ---
 ### 🆕 #62 — digininja/DVWA ⭐13.2K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **Damn Vulnerable Web Application（DVWA）——一个易受攻击的 Web 应用程序。**
 
 📝 Damn Vulnerable Web Application (DVWA)
 
@@ -11887,7 +11887,7 @@
 ---
 ### 🆕 #63 — Datalux/Osintgram ⭐13.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Osintgram 是一款 Instagram 上的 OSINT 工具，提供交互式 shell 对任意账号进行分析。**
 
 📝 Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 
@@ -11896,7 +11896,7 @@
 ---
 ### 🆕 #64 — threat9/routersploit ⭐13.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **嵌入式设备漏洞利用框架。**
 
 📝 Exploitation Framework for Embedded Devices
 
@@ -11905,7 +11905,7 @@
 ---
 ### 🆕 #65 — nmap/nmap ⭐13.1K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **Nmap——网络映射器。官方 SVN 仓库的 GitHub 镜像。**
 
 📝 Nmap - the Network Mapper. Github mirror of official SVN repository.
 
@@ -11914,7 +11914,7 @@
 ---
 ### 🆕 #66 — keeweb/keeweb ⭐12.9K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **免费跨平台密码管理器，兼容 KeePass。**
 
 📝 Free cross-platform password manager compatible with KeePass
 
@@ -11923,7 +11923,7 @@
 ---
 ### 🆕 #67 — arkenfox/user.js ⭐12.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **Firefox 隐私、安全与反追踪：一份全面的 user.js 配置与加固模板。**
 
 📝 Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 
@@ -11932,7 +11932,7 @@
 ---
 ### 🆕 #68 — projectdiscovery/nuclei-templates ⭐12.5K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **社区维护的 nuclei 引擎模板集合，用于发现安全漏洞。**
 
 📝 Community curated list of templates for the nuclei engine to find security vulnerabilities.
 
@@ -11941,7 +11941,7 @@
 ---
 ### 🆕 #69 — mvt-project/mvt ⭐12.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **MVT（移动验证工具包）帮助对移动设备进行取证分析，发现潜在入侵迹象。**
 
 📝 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 
@@ -11950,7 +11950,7 @@
 ---
 ### 🆕 #70 — jopohl/urh ⭐12.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Universal Radio Hacker——轻松研究无线协议。**
 
 📝 Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 
@@ -11968,7 +11968,7 @@
 ---
 ### 🆕 #72 — secdev/scapy ⭐12.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Scapy：基于 Python 的交互式数据包操作程序与库。**
 
 📝 Scapy: the Python-based interactive packet manipulation program & library.
 
@@ -11977,7 +11977,7 @@
 ---
 ### 🆕 #73 — drduh/YubiKey-Guide ⭐12.4K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **使用 YubiKey 保护 GnuPG 和 SSH 密钥的社区指南——通过硬件加密保护机密信息。**
 
 📝 Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 
@@ -11986,7 +11986,7 @@
 ---
 ### 🆕 #74 — google/oss-fuzz ⭐12.4K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **OSS-Fuzz——开源软件的持续模糊测试。**
 
 📝 OSS-Fuzz - continuous fuzzing for open source software.
 
@@ -11995,7 +11995,7 @@
 ---
 ### 🆕 #75 — future-architect/vuls ⭐12.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **无代理漏洞扫描器，支持 Linux、FreeBSD、容器、WordPress、编程语言库和网络设备。**
 
 📝 Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 
@@ -12004,7 +12004,7 @@
 ---
 ### 🆕 #76 — zoicware/RemoveWindowsAI ⭐12.1K · 🔤PowerShell
 
-🌏 *中文描述待补充*
+🌏 **强制移除 Windows 11 中的 Copilot、Recall 等功能。**
 
 📝 Force Remove Copilot, Recall and More in Windows 11
 
@@ -12013,7 +12013,7 @@
 ---
 ### 🆕 #77 — vanhauser-thc/thc-hydra ⭐11.9K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **hydra——网络登录破解工具。**
 
 📝 hydra
 
@@ -12022,7 +12022,7 @@
 ---
 ### 🆕 #78 — apsdehal/awesome-ctf ⭐11.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **精选的 CTF 框架、库、资源和软件列表。**
 
 📝 A curated list of CTF frameworks, libraries, resources and softwares
 
@@ -12031,7 +12031,7 @@
 ---
 ### 🆕 #79 — chaitin/xray ⭐11.6K · 🔤Vue
 
-🌏 *中文描述待补充*
+🌏 **一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档。**
 
 📝 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 
@@ -12149,7 +12149,7 @@
 <br>
 ### 🆕 #6 — localsend/localsend ⭐83.5K · 🔤Dart
 
-🌏 *中文描述待补充*
+🌏 **一款开源的跨平台 AirDrop 替代方案**
 
 📝 An open-source cross-platform alternative to AirDrop
 
@@ -12158,7 +12158,7 @@
 ---
 ### 🆕 #7 — necolas/normalize.css ⭐53.5K · 🔤CSS
 
-🌏 *中文描述待补充*
+🌏 **CSS 重置样式的现代替代方案**
 
 📝 A modern alternative to CSS resets
 
@@ -12194,7 +12194,7 @@
 ---
 ### 🆕 #11 — iamkun/dayjs ⭐48.7K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **⏰ Day.js 2kB 不可变日期时间库，Moment.js 的替代方案，拥有相同的现代 API**
 
 📝 ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 
@@ -12248,7 +12248,7 @@
 ---
 ### 🆕 #17 — sharkdp/fd ⭐43.4K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **一个简单、快速且用户友好的 'find' 替代工具**
 
 📝 A simple, fast and user-friendly alternative to 'find'
 
@@ -12257,7 +12257,7 @@
 ---
 ### 🆕 #18 — photoprism/photoprism ⭐39.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **面向去中心化网络的 AI 驱动照片应用 🌈💎✨**
 
 📝 AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
@@ -12266,7 +12266,7 @@
 ---
 ### 🆕 #19 — amruthpillai/reactive-resume ⭐38.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一款注重隐私的独特简历生成器，完全安全、可定制、可移植且开源。**
 
 📝 A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
@@ -12275,7 +12275,7 @@
 ---
 ### 🆕 #20 — umami-software/umami ⭐37.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Umami 是一个现代化、注重隐私的分析平台，是 Google Analytics、Mixpanel 和 Amplitude 的开源替代方案。**
 
 📝 Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
@@ -12284,7 +12284,7 @@
 ---
 ### 🆕 #21 — nextcloud/server ⭐35.8K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **☁️ Nextcloud 服务器，你所有数据的安全家园**
 
 📝 ☁️ Nextcloud server, a safe home for all your data
 
@@ -12293,7 +12293,7 @@
 ---
 ### 🆕 #22 — filebrowser/filebrowser ⭐35.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **📂 Web 文件浏览器**
 
 📝 📂 Web File Browser
 
@@ -12329,7 +12329,7 @@
 ---
 ### 🆕 #26 — karakeep-app/karakeep ⭐26.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个可自托管的书签收藏应用（链接、笔记和图片），支持 AI 自动标签和全文搜索。**
 
 📝 A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
@@ -12347,7 +12347,7 @@
 ---
 ### 🆕 #28 — navidrome/navidrome ⭐21.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **你的个人流媒体服务。**
 
 📝 🎧 Your Personal Streaming Service 
 
@@ -12356,7 +12356,7 @@
 ---
 ### 🆕 #29 — fosrl/pangolin ⭐21.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **基于 WireGuard 的感知身份的 VPN 和隧道反向代理，用于远程访问。**
 
 📝 Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 
@@ -12365,7 +12365,7 @@
 ---
 ### 🆕 #30 — docusealco/docuseal ⭐17.2K · 🔤Ruby
 
-🌏 *中文描述待补充*
+🌏 **开源 DocuSign 替代品，创建、填写和签署数字文档。**
 
 📝 Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
@@ -12374,7 +12374,7 @@
 ---
 ### 🆕 #31 — FreshRSS/FreshRSS ⭐15.3K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **一个免费、可自托管的新闻聚合器。**
 
 📝 A free, self-hostable news aggregator…
 
@@ -12383,7 +12383,7 @@
 ---
 ### 🆕 #32 — tteck/Proxmox ⭐15.2K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **Proxmox VE 辅助脚本。**
 
 📝 Proxmox VE Helper-Scripts
 
@@ -12392,7 +12392,7 @@
 ---
 ### 🆕 #33 — gotify/server ⭐15.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **基于 WebSocket 实时发送和接收消息的简单服务器，包含精美的 Web UI。**
 
 📝 A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 
@@ -12401,7 +12401,7 @@
 ---
 ### 🆕 #34 — streetwriters/notesnook ⭐14.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一款完全开源且端到端加密的笔记应用，是 Evernote 的替代方案。**
 
 📝 A fully open source & end-to-end encrypted note taking alternative to Evernote.
 
@@ -12410,7 +12410,7 @@
 ---
 ### 🆕 #35 — documenso/documenso ⭐13.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **开源的 DocuSign 替代方案。**
 
 📝 The Open Source DocuSign Alternative.
 
@@ -12419,7 +12419,7 @@
 ---
 ### 🆕 #36 — zedeus/nitter ⭐13.1K · 🔤Nim
 
-🌏 *中文描述待补充*
+🌏 **替代性的 Twitter 前端。**
 
 📝 Alternative Twitter front-end
 
@@ -12428,7 +12428,7 @@
 ---
 ### 🆕 #37 — wallabag/wallabag ⭐12.8K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **wallabag 是一款自托管的网页保存应用：保存和分类文章，随时自由阅读。**
 
 📝 wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
@@ -12437,7 +12437,7 @@
 ---
 ### 🆕 #38 — bastienwirtz/homer ⭐11.4K · 🔤Vue
 
-🌏 *中文描述待补充*
+🌏 **一个非常简单的服务器静态主页。**
 
 📝 A very simple static homepage for your server.
 
@@ -12446,7 +12446,7 @@
 ---
 ### 🆕 #39 — owncast/owncast ⭐11.4K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **自行掌控直播流媒体，开箱即用支持直播推流和聊天功能。**
 
 📝 Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 
@@ -12455,7 +12455,7 @@
 ---
 ### 🆕 #40 — ekzhang/bore ⭐11.2K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **bore 是一个简单的 CLI 工具，用于创建到 localhost 的隧道。**
 
 📝 🕳 bore is a simple CLI tool for making tunnels to localhost
 
@@ -12464,7 +12464,7 @@
 ---
 ### 🆕 #41 — Kareadita/Kavita ⭐11K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **Kavita 是一个快速、功能丰富、跨平台的阅读服务器，旨在成为您的完整阅读解决方案。**
 
 📝 Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 
@@ -12473,7 +12473,7 @@
 ---
 ### 🆕 #42 — kanboard/kanboard ⭐9.6K · 🔤PHP
 
-🌏 *中文描述待补充*
+🌏 **看板项目管理软件。**
 
 📝 Kanban project management software
 
@@ -12482,7 +12482,7 @@
 ---
 ### 🆕 #43 — Atarity/deploy-your-own-saas ⭐9.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **日常所需的专属云服务列表。**
 
 📝 List of "only yours" cloud services for everyday needs :black_flag:
 
@@ -12491,7 +12491,7 @@
 ---
 ### 🆕 #44 — Freika/dawarich ⭐9.4K · 🔤Ruby
 
-🌏 *中文描述待补充*
+🌏 **你最喜爱的 Google Timeline（Google 位置历史）自托管替代方案。**
 
 📝 Your favorite self-hostable alternative to Google Timeline (Google Location History)
 
@@ -12500,7 +12500,7 @@
 ---
 ### 🆕 #45 — highlight/highlight ⭐9.3K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **highlight.io：开源的全栈监控平台，涵盖错误监控、会话回放、日志记录和分布式链路追踪。**
 
 📝 highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 
@@ -12521,7 +12521,7 @@
 
 ### 🆕 🥇 #1 — microsoft/vscode ⭐186.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Visual Studio Code**
 
 📝 Visual Studio Code
 
@@ -12530,7 +12530,7 @@
 ---
 ### 🆕 🥈 #2 — massgravel/Microsoft-Activation-Scripts ⭐178.8K · 🔤Batchfile
 
-🌏 *中文描述待补充*
+🌏 **开源的 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge 和在线 KMS 激活方式。**
 
 📝 Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
@@ -12539,7 +12539,7 @@
 ---
 ### 🆕 🥉 #3 — github/gitignore ⭐174.5K
 
-🌏 *中文描述待补充*
+🌏 **一套实用的 .gitignore 模板集合**
 
 📝 A collection of useful .gitignore templates
 
@@ -12557,7 +12557,7 @@
 ---
 ### 🆕 #5 — microsoft/PowerToys ⭐135.2K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **Microsoft PowerToys 是一套提升 Windows 生产力和自定义能力的实用工具集**
 
 📝 Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
@@ -12573,7 +12573,7 @@
 <br>
 ### 🆕 #6 — react/react-native ⭐126K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **使用 React 构建原生应用的框架**
 
 📝 A framework for building native applications using React
 
@@ -12582,7 +12582,7 @@
 ---
 ### 🆕 #7 — excalidraw/excalidraw ⭐125.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **用于绘制手绘风格图表的虚拟白板**
 
 📝 Virtual whiteboard for sketching hand-drawn like diagrams
 
@@ -12591,7 +12591,7 @@
 ---
 ### 🆕 #8 — electron/electron ⭐121.7K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用**
 
 📝 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
@@ -12600,7 +12600,7 @@
 ---
 ### 🆕 #9 — nodejs/node ⭐117.8K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **Node.js JavaScript 运行时 ✨🐢🚀✨**
 
 📝 Node.js JavaScript runtime ✨🐢🚀✨
 
@@ -12609,7 +12609,7 @@
 ---
 ### 🆕 #10 — shadcn-ui/ui ⭐116.9K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一套设计精美、可无障碍访问的组件库及代码分发平台，与你喜欢的框架搭配使用。**
 
 📝 A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
@@ -12645,7 +12645,7 @@
 ---
 ### 🆕 #14 — godotengine/godot ⭐112.7K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **Godot Engine — 跨平台 2D 和 3D 游戏引擎**
 
 📝 Godot Engine – Multi-platform 2D and 3D game engine
 
@@ -12663,7 +12663,7 @@
 ---
 ### 🆕 #16 — tauri-apps/tauri ⭐108K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **使用 Web 前端构建更小巧、更快速、更安全的桌面和移动应用。**
 
 📝 Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
@@ -12672,7 +12672,7 @@
 ---
 ### 🆕 #17 — denoland/deno ⭐107.1K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **一个现代的 JavaScript 和 TypeScript 运行时。**
 
 📝 A modern runtime for JavaScript and TypeScript.
 
@@ -12681,7 +12681,7 @@
 ---
 ### 🆕 #18 — microsoft/terminal ⭐103.6K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **全新 Windows 终端与经典 Windows 控制台宿主，合为一体！**
 
 📝 The new Windows Terminal and the original Windows console host, all in the same place!
 
@@ -12690,7 +12690,7 @@
 ---
 ### 🆕 #19 — pytorch/pytorch ⭐100.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **基于 Python 的张量与动态神经网络框架，支持强大的 GPU 加速**
 
 📝 Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
@@ -12699,7 +12699,7 @@
 ---
 ### 🆕 #20 — neovim/neovim ⭐100.5K · 🔤Vim Script
 
-🌏 *中文描述待补充*
+🌏 **专注于可扩展性和易用性的 Vim 分支**
 
 📝 Vim-fork focused on extensibility and usability
 
@@ -12708,7 +12708,7 @@
 ---
 ### 🆕 #21 — mui/material-ui ⭐98.4K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **Material UI：实现 Google Material Design 的全面的 React 组件库，永久免费。**
 
 📝 Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 
@@ -12717,7 +12717,7 @@
 ---
 ### 🆕 #22 — ant-design/ant-design ⭐98.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一款企业级 UI 设计语言与 React UI 组件库**
 
 📝 An enterprise-class UI design language and React UI library
 
@@ -12726,7 +12726,7 @@
 ---
 ### 🆕 #23 — nvbn/thefuck ⭐97.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **一款能纠正上一条控制台命令的绝妙应用。**
 
 📝 Magnificent app which corrects your previous console command.
 
@@ -12735,7 +12735,7 @@
 ---
 ### 🆕 #24 — nvm-sh/nvm ⭐93.8K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **Node 版本管理器——符合 POSIX 规范的 bash 脚本，用于管理多个 Node.js 版本。**
 
 📝 Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
@@ -12744,7 +12744,7 @@
 ---
 ### 🆕 #25 — nextlevelbuilder/ui-ux-pro-max-skill ⭐93.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **一款为构建专业级跨平台 UI/UX 提供设计智能的 AI 技能**
 
 📝 An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
@@ -12753,7 +12753,7 @@
 ---
 ### 🆕 #26 — oven-sh/bun ⭐93.3K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **极速 JavaScript 运行时、打包器、测试运行器和包管理器，多合一。**
 
 📝 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -12771,7 +12771,7 @@
 ---
 ### 🆕 #28 — mermaid-js/mermaid ⭐88.7K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **像写 Markdown 一样通过文本生成流程图、时序图等图表**
 
 📝 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
@@ -12780,7 +12780,7 @@
 ---
 ### 🆕 #29 — 3b1b/manim ⭐87.7K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用于制作数学讲解视频的动画引擎**
 
 📝 Animation engine for explanatory math videos
 
@@ -12789,7 +12789,7 @@
 ---
 ### 🆕 #30 — astral-sh/uv ⭐86.5K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **一款用 Rust 编写的极速 Python 包与项目管理器。**
 
 📝 An extremely fast Python package and project manager, written in Rust.
 
@@ -12798,7 +12798,7 @@
 ---
 ### 🆕 #31 — syncthing/syncthing ⭐85.5K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **开源持续文件同步工具**
 
 📝 Open Source Continuous File Synchronization
 
@@ -12807,7 +12807,7 @@
 ---
 ### 🆕 #32 — sherlock-project/sherlock ⭐85.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **跨社交网络通过用户名搜索社交媒体账号**
 
 📝 Hunt down social media accounts by username across social networks
 
@@ -12816,7 +12816,7 @@
 ---
 ### 🆕 #33 — tonsky/FiraCode ⭐81.8K · 🔤Clojure
 
-🌏 *中文描述待补充*
+🌏 **带编程连字的免费等宽字体**
 
 📝 Free monospaced font with programming ligatures
 
@@ -12825,7 +12825,7 @@
 ---
 ### 🆕 #34 — junegunn/fzf ⭐81K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **命令行模糊搜索工具**
 
 📝 :cherry_blossom: A command-line fuzzy finder
 
@@ -12852,7 +12852,7 @@
 ---
 ### 🆕 #37 — jesseduffield/lazygit ⭐79.4K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Git 命令的简易终端界面**
 
 📝 simple terminal UI for git commands
 
@@ -12861,7 +12861,7 @@
 ---
 ### 🆕 #38 — coder/code-server ⭐78K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **浏览器中的 VS Code**
 
 📝 VS Code in the browser
 
@@ -12870,7 +12870,7 @@
 ---
 ### 🆕 #39 — ventoy/Ventoy ⭐77.3K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **一种全新的可启动 USB 解决方案。**
 
 📝 A new bootable USB solution.
 
@@ -12888,7 +12888,7 @@
 ---
 ### 🆕 #41 — apache/superset ⭐73.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Apache Superset 是一个数据可视化和数据探索平台**
 
 📝 Apache Superset is a Data Visualization and Data Exploration Platform
 
@@ -12924,7 +12924,7 @@
 ---
 ### 🆕 #45 — BurntSushi/ripgrep ⭐65.2K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **ripgrep 递归搜索目录中的正则匹配模式，同时遵守 gitignore 规则**
 
 📝 ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
@@ -12933,7 +12933,7 @@
 ---
 ### 🆕 #46 — localstack/localstack ⭐65.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **功能完整的本地 AWS 云栈，离线开发和测试云及 Serverless 应用**
 
 📝 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
@@ -12942,7 +12942,7 @@
 ---
 ### 🆕 #47 — ryanoasis/nerd-fonts ⭐63.4K · 🔤CSS
 
-🌏 *中文描述待补充*
+🌏 **标志性字体聚合器、集合与修补工具。3600+ 图标，50+ 修补字体：Hack、Source Code Pro 等。**
 
 📝 Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
@@ -12969,7 +12969,7 @@
 ---
 ### 🆕 #50 — commaai/openpilot ⭐61.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **openpilot 是一个机器人操作系统，目前可升级 300 多款支持车型的驾驶辅助系统**
 
 📝 openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 
@@ -12978,7 +12978,7 @@
 ---
 ### 🆕 #51 — sharkdp/bat ⭐59.3K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **带有翅膀的 cat(1) 克隆。**
 
 📝 A cat(1) clone with wings.
 
@@ -12987,7 +12987,7 @@
 ---
 ### 🆕 #52 — pocketbase/pocketbase ⭐59.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **单个文件的开源实时后端**
 
 📝 Open Source realtime backend in 1 file
 
@@ -12996,7 +12996,7 @@
 ---
 ### 🆕 #53 — FiloSottile/mkcert ⭐59.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一个简单的零配置工具，用于创建本地受信任的开发证书，支持任意域名。**
 
 📝 A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
@@ -13005,7 +13005,7 @@
 ---
 ### 🆕 #54 — ultralytics/ultralytics ⭐58.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Ultralytics YOLO 🚀**
 
 📝 Ultralytics YOLO 🚀
 
@@ -13014,7 +13014,7 @@
 ---
 ### 🆕 #55 — marktext/marktext ⭐57.5K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一款简洁优雅的 Markdown 编辑器，支持 Linux、macOS 和 Windows。**
 
 📝 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
@@ -13023,7 +13023,7 @@
 ---
 ### 🆕 #56 — h5bp/html5-boilerplate ⭐57.5K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **用于构建快速、健壮、适应性强的 Web 应用或网站的专业前端模板。**
 
 📝 A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
@@ -13032,7 +13032,7 @@
 ---
 ### 🆕 #57 — ghostty-org/ghostty ⭐56.7K · 🔤Zig
 
-🌏 *中文描述待补充*
+🌏 **Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，使用平台原生 UI 和 GPU 加速**
 
 📝 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
@@ -13041,7 +13041,7 @@
 ---
 ### 🆕 #58 — Textualize/rich ⭐56.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Rich 是一个用于在终端中实现富文本和精美格式的 Python 库。**
 
 📝 Rich is a Python library for rich text and beautiful formatting in the terminal.
 
@@ -13059,7 +13059,7 @@
 ---
 ### 🆕 #60 — ageitgey/face_recognition ⭐56.5K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **世界上最简单的 Python 和命令行人脸识别 API**
 
 📝 The world's simplest facial recognition api for Python and the command line
 
@@ -13068,7 +13068,7 @@
 ---
 ### 🆕 #61 — tw93/Mole ⭐56.3K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **从终端清理、卸载、分析、优化和监控你的 Mac。**
 
 📝 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
@@ -13077,7 +13077,7 @@
 ---
 ### 🆕 #62 — romkatv/powerlevel10k ⭐54.5K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **一个 Zsh 主题**
 
 📝 A Zsh theme
 
@@ -13095,7 +13095,7 @@
 ---
 ### 🆕 #64 — PowerShell/PowerShell ⭐54K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **适用于所有系统的 PowerShell！**
 
 📝 PowerShell for every system!
 
@@ -13104,7 +13104,7 @@
 ---
 ### 🆕 #65 — JetBrains/kotlin ⭐52.9K · 🔤Kotlin
 
-🌏 *中文描述待补充*
+🌏 **Kotlin 编程语言**
 
 📝 The Kotlin Programming Language. 
 
@@ -13113,7 +13113,7 @@
 ---
 ### 🆕 #66 — agalwood/Motrix ⭐52K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一款功能全面的下载管理器**
 
 📝 A full-featured download manager.
 
@@ -13131,7 +13131,7 @@
 ---
 ### 🆕 #68 — ethereum/go-ethereum ⭐51.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **以太坊协议的 Go 语言实现**
 
 📝 Go implementation of the Ethereum protocol
 
@@ -13158,7 +13158,7 @@
 ---
 ### 🆕 #71 — bmad-code-org/BMAD-METHOD ⭐49.3K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **敏捷 AI 驱动开发的突破性方法**
 
 📝 Breakthrough Method for Agile Ai Driven Development
 
@@ -13167,7 +13167,7 @@
 ---
 ### 🆕 #72 — Raphire/Win11Debloat ⭐48.7K · 🔤PowerShell
 
-🌏 *中文描述待补充*
+🌏 **一个简单轻量的 PowerShell 脚本，可移除预装应用、禁用遥测并优化系统性能**
 
 📝 A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 
@@ -13203,7 +13203,7 @@
 ---
 ### 🆕 #76 — coreybutler/nvm-windows ⭐46.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一个适用于 Windows 的 Node.js 版本管理工具，有趣的是它用 Go 编写。**
 
 📝 A node.js version management utility for Windows. Ironically written in Go.
 
@@ -13221,7 +13221,7 @@
 ---
 ### 🆕 #78 — microsoft/monaco-editor ⭐46.2K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一个基于浏览器的代码编辑器**
 
 📝 A browser based code editor
 
@@ -13230,7 +13230,7 @@
 ---
 ### 🆕 #79 — google/zx ⭐45.5K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一个用于编写更优秀脚本的工具**
 
 📝 A tool for writing better scripts
 
@@ -13239,7 +13239,7 @@
 ---
 ### 🆕 #80 — streamlit/streamlit ⭐45K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Streamlit — 更快地构建和分享数据应用的方式**
 
 📝 Streamlit — A faster way to build and share data apps.
 
@@ -13248,7 +13248,7 @@
 ---
 ### 🆕 #81 — cli/cli ⭐44.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **GitHub 官方命令行工具**
 
 📝 GitHub’s official command line tool
 
@@ -13275,7 +13275,7 @@
 ---
 ### 🆕 #84 — spf13/cobra ⭐44.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **现代 Go CLI 应用的指挥官框架**
 
 📝 A Commander for modern Go CLI interactions
 
@@ -13302,7 +13302,7 @@
 ---
 ### 🆕 #87 — files-community/Files ⭐43.9K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **一个帮助用户整理文件和文件夹的现代文件管理器。**
 
 📝 A modern file manager that helps users organize their files and folders.
 
@@ -13311,7 +13311,7 @@
 ---
 ### 🆕 #88 — charmbracelet/bubbletea ⭐43.2K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一个功能强大的小型 TUI 框架 🏗**
 
 📝 A powerful little TUI framework 🏗
 
@@ -13374,7 +13374,7 @@
 ---
 ### 🆕 #95 — tabler/tabler ⭐41.2K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **一个基于 Bootstrap 构建的免费开源 HTML 仪表盘 UI 套件**
 
 📝 Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
@@ -13410,7 +13410,7 @@
 ---
 ### 🆕 #99 — sxyazi/yazi ⭐39.5K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **💥 用 Rust 编写的极速终端文件管理器，基于异步 I/O。**
 
 📝 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
@@ -13428,7 +13428,7 @@
 ---
 ### 🆕 #101 — freeCodeCamp/devdocs ⭐39.1K · 🔤Ruby
 
-🌏 *中文描述待补充*
+🌏 **API 文档浏览器**
 
 📝 API Documentation Browser
 
@@ -13446,7 +13446,7 @@
 ---
 ### 🆕 #103 — lapce/lapce ⭐38.6K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **用 Rust 编写的闪电般快速且功能强大的代码编辑器**
 
 📝 Lightning-fast and Powerful Code Editor written in Rust
 
@@ -13464,7 +13464,7 @@
 ---
 ### 🆕 #105 — vlang/v ⭐37.6K · 🔤V
 
-🌏 *中文描述待补充*
+🌏 **一种简单、快速、安全的编译型语言，用于开发可维护的软件，编译自身只需不到 1 秒且零库依赖。**
 
 📝 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 
@@ -13482,7 +13482,7 @@
 ---
 ### 🆕 #107 — Textualize/textual ⭐36.3K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **轻量级的 Python 应用框架。用简单的 Python API 构建复杂的用户界面，支持终端和 Web。**
 
 📝 The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 
@@ -13527,7 +13527,7 @@
 ---
 ### 🆕 #112 — wailsapp/wails ⭐34.8K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **使用 Go 创建精美的应用**
 
 📝 Create beautiful applications using Go
 
@@ -13572,7 +13572,7 @@
 ---
 ### 🆕 #117 — soxoj/maigret ⭐33.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **🕵️‍♂️ 通过用户名从 3000 多个网站收集某人的档案信息**
 
 📝 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 
@@ -13599,7 +13599,7 @@
 ---
 ### 🆕 #120 — ibraheemdev/modern-unix ⭐32.9K
 
-🌏 *中文描述待补充*
+🌏 **一系列比常见 Unix 命令更现代、更快、更合理的替代工具。**
 
 📝 A collection of modern/faster/saner alternatives to common unix commands.
 
@@ -13635,7 +13635,7 @@
 ---
 ### 🆕 #124 — tokio-rs/tokio ⭐32.3K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **一个用 Rust 编写可靠异步应用的运行时，提供 I/O、网络、调度、定时器等功能。**
 
 📝 A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
@@ -13680,7 +13680,7 @@
 ---
 ### 🆕 #129 — DevToys-app/DevToys ⭐31.7K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **开发者的瑞士军刀。**
 
 📝 A Swiss Army knife for developers.
 
@@ -13689,7 +13689,7 @@
 ---
 ### 🆕 #130 — Chanzhaoyu/chatgpt-web ⭐31.6K · 🔤Vue
 
-🌏 *中文描述待补充*
+🌏 **用 Express 和 Vue3 搭建的 ChatGPT 演示网页**
 
 📝 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
@@ -13725,7 +13725,7 @@
 ---
 ### 🆕 #134 — tqdm/tqdm ⭐31.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **一个快速、可扩展的 Python 和 CLI 进度条。**
 
 📝 :zap: A Fast, Extensible Progress Bar for Python and CLI
 
@@ -13842,7 +13842,7 @@
 ---
 ### 🆕 #147 — t3-oss/create-t3-app ⭐29K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **启动全栈类型安全的 Next.js 应用的最佳方式。**
 
 📝 The best way to start a full-stack, typesafe Next.js app 
 
@@ -13869,7 +13869,7 @@
 ---
 ### 🆕 #150 — reflex-dev/reflex ⭐28.6K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **用纯 Python 构建 Web 应用。**
 
 📝 🕸️ Web apps in pure Python 🐍
 
@@ -13887,7 +13887,7 @@
 ---
 ### 🆕 #152 — sharkdp/hyperfine ⭐28.3K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **一个命令行基准测试工具。**
 
 📝 A command-line benchmarking tool
 
@@ -13905,7 +13905,7 @@
 ---
 ### 🆕 #154 — google/python-fire ⭐28.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **Python Fire 是一个能从任意 Python 对象自动生成命令行接口（CLI）的库。**
 
 📝 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
@@ -13923,7 +13923,7 @@
 ---
 ### 🆕 #156 — acheong08/ChatGPT ⭐27.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **逆向工程实现的 ChatGPT API。**
 
 📝 Reverse engineered ChatGPT API
 
@@ -13941,7 +13941,7 @@
 ---
 ### 🆕 #158 — supermemoryai/supermemory ⭐27.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一个极其快速、可扩展、可完全本地运行的内存与上下文引擎及应用，为 AI 提供 Memory API。**
 
 📝 Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 
@@ -13950,7 +13950,7 @@
 ---
 ### 🆕 #159 — angular/angular-cli ⭐27K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **Angular 的命令行工具。**
 
 📝 CLI tool for Angular
 
@@ -13968,7 +13968,7 @@
 ---
 ### 🆕 #161 — charmbracelet/glow ⭐25.9K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **在 CLI 中渲染 Markdown，华丽又实用！**
 
 📝 Render markdown on the CLI, with pizzazz! 💅🏻
 
@@ -13986,7 +13986,7 @@
 ---
 ### 🆕 #163 — asdf-vm/asdf ⭐25.4K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **可扩展的版本管理器，支持 Ruby、Node.js、Elixir、Erlang 等。**
 
 📝 Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
@@ -13995,7 +13995,7 @@
 ---
 ### 🆕 #164 — jarrodwatts/claude-hud ⭐25.4K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一个 Claude Code 插件，实时显示上下文使用、活跃工具、运行中的代理和待办进度。**
 
 📝 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
@@ -14004,7 +14004,7 @@
 ---
 ### 🆕 #165 — withfig/autocomplete ⭐25.2K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **为你的终端和 Shell 提供 IDE 风格的自动补全。**
 
 📝 IDE-style autocomplete for your existing terminal & shell
 
@@ -14013,7 +14013,7 @@
 ---
 ### 🆕 #166 — gpakosz/.tmux ⭐25.1K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **一份自包含、美观且多功能的 tmux 配置。**
 
 📝 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 
@@ -14031,7 +14031,7 @@
 ---
 ### 🆕 #168 — responsively-org/responsively-app ⭐25K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **一款帮助响应式 Web 开发的改良浏览器，是 Web 开发者的必备工具。**
 
 📝 A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
@@ -14040,7 +14040,7 @@
 ---
 ### 🆕 #169 — Devolutions/UniGetUI ⭐24.5K · 🔤C#
 
-🌏 *中文描述待补充*
+🌏 **UniGetUI：你的包管理器的图形界面，堪称包管理器的管理器。**
 
 📝 UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
@@ -14067,7 +14067,7 @@
 ---
 ### 🆕 #172 — vercel/pkg ⭐24.4K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **将 Node.js 项目打包成可执行文件。**
 
 📝 Package your Node.js project into an executable
 
@@ -14076,7 +14076,7 @@
 ---
 ### 🆕 #173 — urfave/cli ⭐24.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **一个声明式、简单、快速且有趣的 Go 命令行工具构建包。**
 
 📝 A declarative, simple, fast, and fun package for building command line tools in Go
 
@@ -14085,7 +14085,7 @@
 ---
 ### 🆕 #174 — chalk/chalk ⭐23.3K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **纯正的终端字符串样式库。**
 
 📝 🖍 Terminal string styling done right
 
@@ -14094,7 +14094,7 @@
 ---
 ### 🆕 #175 — qeeqbox/social-analyzer ⭐23.1K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **API、CLI 和 Web 应用，用于在 1000 个社交媒体网站中分析和查找个人资料。**
 
 📝 API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
@@ -14103,7 +14103,7 @@
 ---
 ### 🆕 #176 — svg/svgo ⭐22.5K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **用于优化 SVG 文件的 Node.js 工具。**
 
 📝 ⚙️ Node.js tool for optimizing SVG files
 
@@ -14112,7 +14112,7 @@
 ---
 ### 🆕 #177 — jarun/nnn ⭐21.6K · 🔤C
 
-🌏 *中文描述待补充*
+🌏 **n³ 非传统的终端文件管理器。**
 
 📝 n³ The unorthodox terminal file manager
 
@@ -14121,7 +14121,7 @@
 ---
 ### 🆕 #178 — SBoudrias/Inquirer.js ⭐21.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **常用交互式命令行用户界面集合。**
 
 📝 A collection of common interactive command line user interfaces.
 
@@ -14130,7 +14130,7 @@
 ---
 ### 🆕 #179 — wavetermdev/waveterm ⭐21.3K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **开源、集成 AI 的跨平台终端，实现无缝工作流。**
 
 📝 An open-source, AI-integrated, cross-platform terminal for seamless workflows
 
@@ -14457,7 +14457,7 @@
 ---
 ### 🆕 #4 — EbookFoundation/free-programming-books ⭐390.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **📚 免费可获取的编程书籍**
 
 📝 :books: Freely available programming books
 
@@ -14482,7 +14482,7 @@
 <br>
 ### 🆕 #6 — freeCodeCamp/freeCodeCamp ⭐449.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **freeCodeCamp.org 的开源代码库与课程，免费学习数学、编程和计算机科学。**
 
 📝 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
@@ -14572,7 +14572,7 @@
 ---
 ### 🆕 #16 — tensorflow/tensorflow ⭐195.7K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **面向所有人的开源机器学习框架**
 
 📝 An Open Source Machine Learning Framework for Everyone
 
@@ -14581,7 +14581,7 @@
 ---
 ### 🆕 #17 — CyC2018/CS-Notes ⭐184.6K
 
-🌏 *中文描述待补充*
+🌏 **:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计**
 
 📝 :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
@@ -14590,7 +14590,7 @@
 ---
 ### 🆕 #18 — getify/You-Dont-Know-JS ⭐184.5K
 
-🌏 *中文描述待补充*
+🌏 **关于 JavaScript 语言的系列书籍（已出版两版）。**
 
 📝 A book series (2 published editions) on the JS language.
 
@@ -14599,7 +14599,7 @@
 ---
 ### 🆕 #19 — jackfrued/Python-100-Days ⭐183.5K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **Python - 100天从新手到大师**
 
 📝 Python - 100天从新手到大师
 
@@ -14617,7 +14617,7 @@
 ---
 ### 🆕 #21 — 521xueweihan/HelloGitHub ⭐161.9K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.**
 
 📝 :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
@@ -14653,7 +14653,7 @@
 ---
 ### 🆕 #25 — yangshun/tech-interview-handbook ⭐140.4K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **为忙碌的软件工程师精心整理的编程面试备考资料**
 
 📝 Curated coding interview preparation materials for busy software engineers
 
@@ -14671,7 +14671,7 @@
 ---
 ### 🆕 #27 — justjavac/free-programming-books-zh_CN ⭐117.1K
 
-🌏 *中文描述待补充*
+🌏 **:books: 免费的计算机编程类中文书籍，欢迎投稿**
 
 📝 :books: 免费的计算机编程类中文书籍，欢迎投稿
 
@@ -14698,7 +14698,7 @@
 ---
 ### 🆕 #30 — papers-we-love/papers-we-love ⭐107.2K · 🔤Shell
 
-🌏 *中文描述待补充*
+🌏 **来自计算机科学社区的论文，供阅读与讨论。**
 
 📝 Papers from the computer science community to read and discuss.
 
@@ -14725,7 +14725,7 @@
 ---
 ### 🆕 #33 — Anduin2017/HowToCook ⭐100.8K
 
-🌏 *中文描述待补充*
+🌏 **程序员居家烹饪指南。**
 
 📝 Programmer's guide about how to cook at home.
 
@@ -14734,7 +14734,7 @@
 ---
 ### 🆕 #34 — mtdvio/every-programmer-should-know ⭐99.8K
 
-🌏 *中文描述待补充*
+🌏 **每位软件开发人员都应了解的（大部分）技术知识合集**
 
 📝 A collection of (mostly) technical things every software developer should know about
 
@@ -14752,7 +14752,7 @@
 ---
 ### 🆕 #36 — florinpop17/app-ideas ⭐95.1K
 
-🌏 *中文描述待补充*
+🌏 **一系列可用于提升编程技能的应用创意集合。**
 
 📝 A Collection of application ideas which can be used to improve your coding skills.
 
@@ -14770,7 +14770,7 @@
 ---
 ### 🆕 #38 — iluwatar/java-design-patterns ⭐94.1K · 🔤Java
 
-🌏 *中文描述待补充*
+🌏 **用 Java 实现的设计模式**
 
 📝 Design patterns implemented in Java
 
@@ -14779,7 +14779,7 @@
 ---
 ### 🆕 #39 — microsoft/ML-For-Beginners ⭐87K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **12 周、26 节课、52 个测验，面向所有人的经典机器学习课程**
 
 📝 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
@@ -14806,7 +14806,7 @@
 ---
 ### 🆕 #42 — DopplerHQ/awesome-interview-questions ⭐83.2K
 
-🌏 *中文描述待补充*
+🌏 **精心整理的面试题精选列表，欢迎贡献！**
 
 📝 :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 
@@ -14986,7 +14986,7 @@
 ---
 ### 🆕 #62 — PlexPt/awesome-chatgpt-prompts-zh ⭐60.7K
 
-🌏 *中文描述待补充*
+🌏 **ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。**
 
 📝 ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
@@ -15004,7 +15004,7 @@
 ---
 ### 🆕 #64 — virattt/ai-hedge-fund ⭐60.2K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **一个 AI 对冲基金团队**
 
 📝 An AI Hedge Fund Team
 
@@ -15031,7 +15031,7 @@
 ---
 ### 🆕 #67 — tiimgreen/github-cheat-sheet ⭐57.4K
 
-🌏 *中文描述待补充*
+🌏 **Git 和 GitHub 的酷炫功能清单。**
 
 📝 A list of cool features of Git and GitHub.
 
@@ -15040,7 +15040,7 @@
 ---
 ### 🆕 #68 — wasabeef/awesome-android-ui ⭐56.5K
 
-🌏 *中文描述待补充*
+🌏 **精心整理的 Android UI/UX 库精选列表**
 
 📝 A curated list of awesome Android UI/UX libraries
 
@@ -15076,7 +15076,7 @@
 ---
 ### 🆕 #72 — firstcontributions/first-contributions ⭐54.5K
 
-🌏 *中文描述待补充*
+🌏 **帮助初学者参与开源项目贡献**
 
 📝 🚀✨ Help beginners to contribute to open source projects
 
@@ -15085,7 +15085,7 @@
 ---
 ### 🆕 #73 — byoungd/English-level-up-tips ⭐53.5K
 
-🌏 *中文描述待补充*
+🌏 **离谱的英语学习指南/英语学习教程/英语学习/学英语**
 
 📝 An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 
@@ -15112,7 +15112,7 @@
 ---
 ### 🆕 #76 — Avik-Jain/100-Days-Of-ML-Code ⭐51.3K
 
-🌏 *中文描述待补充*
+🌏 **机器学习编码 100 天**
 
 📝 100 Days of ML Coding
 
@@ -15220,7 +15220,7 @@
 ---
 ### 🆕 #88 — karan/Projects ⭐47.7K
 
-🌏 *中文描述待补充*
+🌏 **📜 一个任何人都可以用任何编程语言解决的实用项目列表**
 
 📝 :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 
@@ -15301,7 +15301,7 @@
 ---
 ### 🆕 #97 — aymericdamien/TensorFlow-Examples ⭐43.8K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **面向初学者的 TensorFlow 教程与示例（支持 TF v1 和 v2）**
 
 📝 TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 
@@ -15472,7 +15472,7 @@
 ---
 ### 🆕 #116 — mouredev/Hello-Python ⭐36.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **从零开始的 Python 编程语言课程，适合初学者。包含 100 节课、44 小时视频。**
 
 📝 Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...
 
@@ -15490,7 +15490,7 @@
 ---
 ### 🆕 #118 — microsoft/Data-Science-For-Beginners ⭐35.7K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **10 周，20 节课，人人皆可学数据科学！**
 
 📝 10 Weeks, 20 Lessons, Data Science for All!
 
@@ -15508,7 +15508,7 @@
 ---
 ### 🆕 #120 — unknwon/the-way-to-go_ZH_CN ⭐35.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **《The Way to Go》中文译本，中文正式名《Go 入门指南》**
 
 📝 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
@@ -15517,7 +15517,7 @@
 ---
 ### 🆕 #121 — kuchin/awesome-cto ⭐35.1K
 
-🌏 *中文描述待补充*
+🌏 **一份精心策划的 CTO 资源列表，重点关注初创企业**
 
 📝 A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
@@ -15580,7 +15580,7 @@
 ---
 ### 🆕 #128 — google/comprehensive-rust ⭐33.1K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **Google Android 团队使用的 Rust 课程，提供快速教授 Rust 所需的教材。**
 
 📝 This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 
@@ -15634,7 +15634,7 @@
 ---
 ### 🆕 #134 — ascoders/weekly ⭐31K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **前端精读周刊。帮你理解最前沿、实用的技术。**
 
 📝 前端精读周刊。帮你理解最前沿、实用的技术。
 
@@ -15643,7 +15643,7 @@
 ---
 ### 🆕 #135 — herrbischoff/awesome-macos-command-line ⭐30.7K
 
-🌏 *中文描述待补充*
+🌏 **用 macOS 终端做各种酷炫的事情。**
 
 📝 Use your macOS terminal shell to do awesome things.
 
@@ -15661,7 +15661,7 @@
 ---
 ### 🆕 #137 — abhisheknaiidu/awesome-github-profile-readme ⭐30.3K
 
-🌏 *中文描述待补充*
+🌏 **一份精心整理的 GitHub Profile 精选列表，实时更新。**
 
 📝 😎 A curated list of awesome GitHub Profile which updates in real time 
 
@@ -15679,7 +15679,7 @@
 ---
 ### 🆕 #139 — AllThingsSmitty/css-protips ⭐30.1K
 
-🌏 *中文描述待补充*
+🌏 **一系列帮你提升 CSS 技能的小技巧。**
 
 📝 ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
@@ -15706,7 +15706,7 @@
 ---
 ### 🆕 #142 — imDazui/Tvlist-awesome-m3u-m3u8 ⭐29.5K
 
-🌏 *中文描述待补充*
+🌏 **直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵**
 
 📝 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 
@@ -15778,7 +15778,7 @@
 ---
 ### 🆕 #150 — tmrts/go-patterns ⭐28.1K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **Go 语言设计模式、实践和惯用法的精选列表。**
 
 📝 Curated list of Go design patterns, recipes and idioms
 
@@ -15787,7 +15787,7 @@
 ---
 ### 🆕 #151 — sdras/awesome-actions ⭐27.9K
 
-🌏 *中文描述待补充*
+🌏 **一份精心整理的 GitHub Actions 精选列表。**
 
 📝 A curated list of awesome actions to use on GitHub
 
@@ -15796,7 +15796,7 @@
 ---
 ### 🆕 #152 — posquit0/Awesome-CV ⭐27.8K · 🔤TeX
 
-🌏 *中文描述待补充*
+🌏 **Awesome CV 是一款助你脱颖而出的 LaTeX 简历模板。**
 
 📝 :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
@@ -15814,7 +15814,7 @@
 ---
 ### 🆕 #154 — kdeldycke/awesome-falsehood ⭐27.5K
 
-🌏 *中文描述待补充*
+🌏 **程序员常信的谬误。**
 
 📝 😱 Falsehoods Programmers Believe in
 
@@ -15877,7 +15877,7 @@
 ---
 ### 🆕 #161 — javascript-tutorial/en.javascript.info ⭐25.3K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **现代 JavaScript 教程。**
 
 📝 Modern JavaScript Tutorial 
 
@@ -15886,7 +15886,7 @@
 ---
 ### 🆕 #162 — alexpate/awesome-design-systems ⭐25.1K
 
-🌏 *中文描述待补充*
+🌏 **一份精选的设计系统合集。**
 
 📝 💅🏻 ⚒ A collection of awesome design systems
 
@@ -15904,7 +15904,7 @@
 ---
 ### 🆕 #164 — emmabostian/developer-portfolios ⭐24.4K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **一份开发者作品集列表，供你获取灵感。**
 
 📝 A list of developer portfolios for your inspiration
 
@@ -15913,7 +15913,7 @@
 ---
 ### 🆕 #165 — MostlyAdequate/mostly-adequate-guide ⭐23.8K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **一本基本够用的 JavaScript 函数式编程指南。**
 
 📝 Mostly adequate guide to FP (in javascript)
 
@@ -15922,7 +15922,7 @@
 ---
 ### 🆕 #166 — processing/p5.js ⭐23.7K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **p5.js 是一个客户端 JS 平台，让艺术家、设计师、学生和任何人都能学习编程并进行创意表达。**
 
 📝 p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 
@@ -15931,7 +15931,7 @@
 ---
 ### 🆕 #167 — ssloy/tinyrenderer ⭐23.7K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **一份简明的计算机图形学/渲染教程。**
 
 📝 A brief computer graphics / rendering course
 
@@ -15940,7 +15940,7 @@
 ---
 ### 🆕 #168 — djsime1/awesome-flipperzero ⭐23.6K
 
-🌏 *中文描述待补充*
+🌏 **一份针对 Flipper Zero 设备的精选资源合集。**
 
 📝 🐬 A collection of awesome resources for the Flipper Zero device.
 
@@ -15958,7 +15958,7 @@
 ---
 ### 🆕 #170 — PicoTrex/Awesome-Nano-Banana-images ⭐23K
 
-🌏 *中文描述待补充*
+🌏 **一份精选的趣味创意示例合集，使用 Nano Banana & Nano Banana Pro 和 Gemini-2.5-flash-image 生成。**
 
 📝 A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communi
 
@@ -15994,7 +15994,7 @@
 ---
 ### 🆕 #174 — MLEveryday/100-Days-Of-ML-Code ⭐22.2K · 🔤Jupyter Notebook
 
-🌏 *中文描述待补充*
+🌏 **100-Days-Of-ML-Code中文版**
 
 📝 100-Days-Of-ML-Code中文版
 
@@ -16003,7 +16003,7 @@
 ---
 ### 🆕 #175 — judasn/IntelliJ-IDEA-Tutorial ⭐22.1K
 
-🌏 *中文描述待补充*
+🌏 **IntelliJ IDEA 简体中文专题教程**
 
 📝 IntelliJ IDEA 简体中文专题教程
 
@@ -16012,7 +16012,7 @@
 ---
 ### 🆕 #176 — izackwu/TeachYourselfCS-CN ⭐22.1K
 
-🌏 *中文描述待补充*
+🌏 **TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS**
 
 📝 TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 
@@ -16021,7 +16021,7 @@
 ---
 ### 🆕 #177 — dipakkr/A-to-Z-Resources-for-Students ⭐21.9K
 
-🌏 *中文描述待补充*
+🌏 **为开发者精选的资源列表。**
 
 📝 ✅  Curated list of resources for developers 
 
@@ -16030,7 +16030,7 @@
 ---
 ### 🆕 #178 — jbee37142/Interview_Question_for_Beginner ⭐21.6K
 
-🌏 *中文描述待补充*
+🌏 **为编程初学者编写的技术面试指南。**
 
 📝 :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
 
@@ -16354,7 +16354,7 @@
 ---
 ### 🆕 #214 — markets/awesome-ruby ⭐14.1K
 
-🌏 *中文描述待补充*
+🌏 **精选的 Ruby 库、工具、框架和软件合集。**
 
 📝 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 
@@ -16871,7 +16871,7 @@
 ---
 ### 🆕 denysdovhan/wtfjs ⭐37.6K · 🔤JavaScript
 
-🌏 *中文描述待补充*
+🌏 **🤪 一系列有趣且刁钻的 JavaScript 示例**
 
 📝 🤪 A list of funny and tricky JavaScript examples
 
@@ -16925,7 +16925,7 @@
 ---
 ### 🆕 sunface/rust-course ⭐30.5K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book**
 
 📝 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book 
 
