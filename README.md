@@ -1,6 +1,7 @@
 # Awesome AI Dev Tools
 
 > 热门 AI 开发者工具合集 · **1898** 个项目 · 每周日自动更新
+> 🌐 [在线 Web UI](https://casebuilding.github.io/awesome-ai-dev-tools/)
 
 ## 📊 统计
 

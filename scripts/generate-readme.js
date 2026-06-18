@@ -173,6 +173,7 @@ async function main() {
   lines.push(`# Awesome AI Dev Tools`);
   lines.push(``);
   lines.push(`> 热门 AI 开发者工具合集 · **${classifiedData.stats.total}** 个项目 · 每周日自动更新`);
+  lines.push(`> 🌐 [在线 Web UI](https://casebuilding.github.io/awesome-ai-dev-tools/)`);
   lines.push(``);
 
   // ════════ 统计（按分类展开） ════════
