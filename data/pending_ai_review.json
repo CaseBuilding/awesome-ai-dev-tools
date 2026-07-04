@@ -1,7 +1,7 @@
 {
   "_说明": "需要 AI 辅助分类的项目。由 classify.js 自动生成，通过 scripts/ai-classify.js 处理。",
-  "last_updated": "2026-06-18T14:56:08.035Z",
-  "pending_count": 10,
+  "last_updated": "2026-07-04T14:18:55.445Z",
+  "pending_count": 13,
   "pending": [
     {
       "full_name": "torvalds/linux",
@@ -104,6 +104,60 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "topics": [],
       "stars": 31152,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "2dust/v2rayN",
+      "_source": "desc_search",
+      "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+      "topics": [
+        "proxy",
+        "shadowsocks",
+        "socks5",
+        "trojan",
+        "v2fly",
+        "v2ray",
+        "vless",
+        "vmess",
+        "windows",
+        "xray",
+        "xtls"
+      ],
+      "stars": 110537,
+      "language": "C#"
+    },
+    {
+      "full_name": "tw93/Pake",
+      "_source": "desc_search",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "topics": [
+        "chatgpt",
+        "claude",
+        "desktop",
+        "gemini",
+        "hight-performance",
+        "linux",
+        "macos",
+        "no-electron",
+        "package",
+        "rust",
+        "tauri",
+        "windows",
+        "youtube"
+      ],
+      "stars": 59241,
+      "language": "Rust"
+    },
+    {
+      "full_name": "remotion-dev/remotion",
+      "_source": "desc_search",
+      "description": "🎥      Make videos programmatically with React",
+      "topics": [
+        "javascript",
+        "react",
+        "video"
+      ],
+      "stars": 52127,
       "language": "TypeScript"
     }
   ]

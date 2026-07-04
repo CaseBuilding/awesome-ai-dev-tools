@@ -8,7 +8,8 @@
     "fetch": "node scripts/fetch-repos.js",
     "classify": "node scripts/classify.js",
     "generate": "node scripts/generate-readme.js",
-    "build": "npm run fetch && npm run classify && npm run generate",
+    "generate-site": "node scripts/generate-site.js",
+    "build": "npm run fetch && npm run classify && npm run generate && npm run generate-site",
     "test": "node --test test/*.test.js"
   },
   "dependencies": {
