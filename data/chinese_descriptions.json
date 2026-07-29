@@ -1890,5 +1890,7 @@
   "remsky/Kokoro-FastAPI": "Kokoro-82M 文本转语音模型的 Docker 化 FastAPI 封装，支持多平台 CPU、AMD、NVIDIA GPU PyTorch。",
   "steipete/agent-scripts": "供 Agent 使用的脚本，在多个仓库间共享。",
   "argilla-io/argilla": "Argilla 是 AI 工程师与领域专家协作构建高质量数据集的工具。",
-  "extension-js/extension.js": "跨浏览器扩展框架。"
+  "extension-js/extension.js": "跨浏览器扩展框架。",
+  "headroomlabs-ai/headroom": "",
+  "opencv/opencv": ""
 }

@@ -3091,6 +3091,148 @@
     "slymnoyann/hey-1": {
       "category": "dev-tools",
       "reason": "AI 辅助分类"
+    },
+    "ultraworkers/claw-code": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "Crosstalk-Solutions/project-nomad": {
+      "category": "local-inference",
+      "reason": "AI 辅助分类"
+    },
+    "tw93/Pake": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "remotion-dev/remotion": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "TheAlgorithms/Python": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "golang/go": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "labuladong/fucking-algorithm": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "mrdoob/three.js": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "d3/d3": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "ruanyf/weekly": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "tailwindlabs/tailwindcss": {
+      "category": "web-framework",
+      "reason": "AI 辅助分类"
+    },
+    "opencv/opencv": {
+      "category": "media-processing",
+      "reason": "AI 辅助分类"
+    },
+    "zed-industries/zed": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "realworld-apps/realworld": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "animate-css/animate.css": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "vitejs/vite": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "d2l-ai/d2l-zh": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "doocs/advanced-java": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "Yuan1z0825/nature-skills": {
+      "category": "ai-coding-agent",
+      "reason": "AI 辅助分类"
+    },
+    "nextai-translator/nextai-translator": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "tashfeenahmed/freellmapi": {
+      "category": "ai-gateway",
+      "reason": "AI 辅助分类"
+    },
+    "HenryNdubuaku/maths-cs-ai-compendium": {
+      "category": "learning",
+      "reason": "AI 辅助分类"
+    },
+    "LadybirdBrowser/ladybird": {
+      "category": "dev-tools",
+      "reason": "AI 辅助分类"
+    },
+    "torvalds/linux": {
+      "category": null,
+      "hidden": true,
+      "reason": "Linux kernel - 不是开发者工具"
+    },
+    "bitcoin/bitcoin": {
+      "category": null,
+      "hidden": true,
+      "reason": "Bitcoin Core - 加密货币，非开发者工具"
+    },
+    "anthropics/financial-services": {
+      "category": null,
+      "hidden": true,
+      "reason": "模板项目，描述为空"
+    },
+    "DigitalPlatDev/FreeDomain": {
+      "category": null,
+      "hidden": true,
+      "reason": "免费域名服务，非开发者工具"
+    },
+    "iptv-org/iptv": {
+      "category": null,
+      "hidden": true,
+      "reason": "IPTV 频道合集，非开发者工具"
+    },
+    "inkonchain/node": {
+      "category": null,
+      "hidden": true,
+      "reason": "区块链节点运行指南，非开发者工具"
+    },
+    "opentofu/manifesto": {
+      "category": null,
+      "hidden": true,
+      "reason": "开源许可宣言，非开发工具"
+    },
+    "2dust/v2rayN": {
+      "category": null,
+      "hidden": true,
+      "reason": "代理客户端，非开发者工具"
+    },
+    "clash-verge-rev/clash-verge-rev": {
+      "category": null,
+      "hidden": true,
+      "reason": "代理客户端，非开发者工具"
+    },
+    "home-assistant/core": {
+      "category": null,
+      "hidden": true,
+      "reason": "智能家居平台，非开发者工具"
     }
   }
 }
