@@ -1,6 +1,125 @@
 {
   "_说明": "需要 AI 辅助分类的项目。由 classify.js 自动生成，通过 scripts/ai-classify.js 处理。",
-  "last_updated": "2026-07-29T12:35:42.094Z",
-  "pending_count": 0,
-  "pending": []
+  "last_updated": "2026-09-09T14:37:42.288Z",
+  "pending_count": 10,
+  "pending": [
+    {
+      "full_name": "moment/moment",
+      "_source": "desc_search",
+      "description": "Parse, validate, manipulate, and display dates in javascript.",
+      "topics": [],
+      "stars": 47917,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "SimplifyJobs/Summer2027-Internships",
+      "_source": "desc_search",
+      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "topics": [
+        "data-science",
+        "fall-2026",
+        "github",
+        "internship",
+        "internships",
+        "interview-preparation",
+        "jobs",
+        "software-engineering",
+        "university"
+      ],
+      "stars": 47245,
+      "language": "Python"
+    },
+    {
+      "full_name": "blader/humanizer",
+      "_source": "desc_search",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "claude-code",
+        "codex",
+        "cursor",
+        "prompt-engineering",
+        "writing-tools"
+      ],
+      "stars": 45814,
+      "language": "Python"
+    },
+    {
+      "full_name": "schollz/croc",
+      "_source": "desc_search",
+      "description": "Easily and securely send things from one computer to another :crocodile: :package:",
+      "topics": [
+        "data-transfer",
+        "file-sharing",
+        "golang",
+        "pake",
+        "peer-to-peer",
+        "tcp",
+        "transfer"
+      ],
+      "stars": 40280,
+      "language": "Go"
+    },
+    {
+      "full_name": "cathrynlavery/diagram-design",
+      "_source": "desc_search",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
+      ],
+      "stars": 36148,
+      "language": "HTML"
+    },
+    {
+      "full_name": "openai/codex-plugin-cc",
+      "_source": "desc_search",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "topics": [],
+      "stars": 32944,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "block/buzz",
+      "_source": "desc_search",
+      "description": "A hive mind communication platform",
+      "topics": [],
+      "stars": 32453,
+      "language": "Rust"
+    },
+    {
+      "full_name": "alchaincyf/nuwa-skill",
+      "_source": "desc_search",
+      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+      "topics": [],
+      "stars": 32325,
+      "language": "Python"
+    },
+    {
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "_source": "desc_search",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "topics": [
+        "compound",
+        "engineering"
+      ],
+      "stars": 24985,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "pathwaycom/arc-task-gen",
+      "_source": "desc_search",
+      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "topics": [],
+      "stars": 11242,
+      "language": "Python"
+    }
+  ]
 }
