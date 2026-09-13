@@ -1,7 +1,7 @@
 {
   "_说明": "需要 AI 辅助分类的项目。由 classify.js 自动生成，通过 scripts/ai-classify.js 处理。",
-  "last_updated": "2026-09-09T14:37:42.288Z",
-  "pending_count": 10,
+  "last_updated": "2026-09-13T04:12:58.838Z",
+  "pending_count": 12,
   "pending": [
     {
       "full_name": "moment/moment",
@@ -120,6 +120,32 @@
       "topics": [],
       "stars": 11242,
       "language": "Python"
+    },
+    {
+      "full_name": "foundation/yeti",
+      "_source": "desc_search",
+      "description": "A CSS-first, native, zero-build layout and styling framework for web designers.",
+      "topics": [
+        "css",
+        "foundation",
+        "html",
+        "website"
+      ],
+      "stars": 29787,
+      "language": "JavaScript"
+    },
+    {
+      "full_name": "steipete/CodexBar",
+      "_source": "desc_search",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "topics": [
+        "ai",
+        "claude-code",
+        "codex",
+        "swift"
+      ],
+      "stars": 21309,
+      "language": "Swift"
     }
   ]
 }
