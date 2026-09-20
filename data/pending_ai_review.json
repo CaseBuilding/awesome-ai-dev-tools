@@ -1,7 +1,7 @@
 {
   "_说明": "需要 AI 辅助分类的项目。由 classify.js 自动生成，通过 scripts/ai-classify.js 处理。",
-  "last_updated": "2026-09-13T04:12:58.838Z",
-  "pending_count": 12,
+  "last_updated": "2026-09-20T04:23:22.749Z",
+  "pending_count": 13,
   "pending": [
     {
       "full_name": "moment/moment",
@@ -146,6 +146,27 @@
       ],
       "stars": 21309,
       "language": "Swift"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "_source": "desc_search",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "topics": [
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis",
+        "osint",
+        "photogrammetry",
+        "satellite-tracking",
+        "spatial-intelligence",
+        "webgl",
+        "worldview"
+      ],
+      "stars": 38723,
+      "language": "JavaScript"
     }
   ]
 }
