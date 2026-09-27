@@ -1,7 +1,7 @@
 {
   "_说明": "需要 AI 辅助分类的项目。由 classify.js 自动生成，通过 scripts/ai-classify.js 处理。",
-  "last_updated": "2026-09-20T04:23:22.749Z",
-  "pending_count": 13,
+  "last_updated": "2026-09-27T04:44:30.535Z",
+  "pending_count": 16,
   "pending": [
     {
       "full_name": "moment/moment",
@@ -167,6 +167,69 @@
       ],
       "stars": 38723,
       "language": "JavaScript"
+    },
+    {
+      "full_name": "team-spotube/spotube",
+      "_source": "desc_search",
+      "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+      "topics": [
+        "android",
+        "android-client",
+        "android-music-player",
+        "desktop-client",
+        "fdroid",
+        "flutter",
+        "flutter-desktop",
+        "linux",
+        "macos",
+        "music",
+        "music-player",
+        "windows",
+        "youtube"
+      ],
+      "stars": 49455,
+      "language": "Dart"
+    },
+    {
+      "full_name": "gitroomhq/postiz-app",
+      "_source": "desc_search",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "topics": [
+        "nextjs",
+        "open-source",
+        "open-source-social-media-scheduling-tool",
+        "oss",
+        "postiz-cloud",
+        "postiz-hosted",
+        "redis",
+        "scheduling-tool",
+        "social-media-scheduling-tool",
+        "typescript"
+      ],
+      "stars": 36371,
+      "language": "TypeScript"
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "_source": "desc_search",
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ],
+      "stars": 25971,
+      "language": "Python"
     }
   ]
 }

@@ -1,23 +1,23 @@
 # Awesome AI Dev Tools
 
-> 热门 AI 开发者工具合集 · **2125** 个项目 · 每周日自动更新
+> 热门 AI 开发者工具合集 · **2150** 个项目 · 每周日自动更新
 > 🌐 [在线 Web UI](https://casebuilding.github.io/awesome-ai-dev-tools/)
 
 ## 📊 统计
 
 | 分类 | 数量 | | 分类 | 数量 |
 | --- | --- | --- | --- | --- |
-| 🤖 AI 编码助手 | 111 | | 🎬 音视频与多媒体 | 139 |
-| 🔧 Agent 开发框架 | 207 | | 🔍 代码分析与质量 | 108 |
-| ⚡ 工作流自动化 | 83 | | 🌐 Web 框架与服务器 | 85 |
-| ⛓️ MCP 生态 | 112 | | 🗄️ 数据库与存储 | 86 |
-| 🧠 本地推理与部署 | 112 | | ☁️ DevOps 与部署 | 103 |
+| 🤖 AI 编码助手 | 120 | | 🎬 音视频与多媒体 | 140 |
+| 🔧 Agent 开发框架 | 210 | | 🔍 代码分析与质量 | 109 |
+| ⚡ 工作流自动化 | 84 | | 🌐 Web 框架与服务器 | 85 |
+| ⛓️ MCP 生态 | 117 | | 🗄️ 数据库与存储 | 86 |
+| 🧠 本地推理与部署 | 113 | | ☁️ DevOps 与部署 | 103 |
 | 📚 LLM 开发 SDK | 83 | | 🔐 安全与渗透 | 86 |
-| 🚪 AI API 管理 | 20 | | 🏠 自托管服务 | 45 |
+| 🚪 AI API 管理 | 21 | | 🏠 自托管服务 | 45 |
 | 📏 AI 评估与监控 | 17 | | 🛠️ 通用开发者工具 | 222 |
 | 🌐 浏览器自动化 | 49 | | 📖 学习资料 | 276 |
-| 📄 文档与知识管理 | 81 | | | |
-| **合计** | **2125** | | 最后更新 | 2026/9/20 |
+| 📄 文档与知识管理 | 82 | | | |
+| **合计** | **2150** | | 最后更新 | 2026/9/27 |
 
 ## 📑 导航
 
@@ -31,20 +31,20 @@
 
 ---
 
-## 📬 本周新增 Top 10（共 26 个）
+## 📬 本周新增 Top 10（共 38 个）
 
 | 项目 | Stars | 分类 |
 | --- | --- | --- |
-| 🆕 [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) | 43.2K | ⛓️ MCP 生态 |
-| 🆕 [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 39.6K | ⛓️ MCP 生态 |
-| 🆕 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 37.8K | 🔍 代码分析与质量 |
-| 🆕 [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | 29K | ⛓️ MCP 生态 |
-| 🆕 [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 28.4K | 🔧 Agent 开发框架 |
-| 🆕 [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | 20.5K | 📖 学习资料 |
-| 🆕 [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 20.2K | ⛓️ MCP 生态 |
-| 🆕 [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) | 18.6K | 📄 文档与知识管理 |
-| 🆕 [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 16.3K | 🤖 AI 编码助手 |
-| 🆕 [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 15.3K |  |
+| 🆕 [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 45K | ⛓️ MCP 生态 |
+| 🆕 [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 41.7K | 🔍 代码分析与质量 |
+| 🆕 [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 32.8K | 🔧 Agent 开发框架 |
+| 🆕 [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) | 31.7K | ⛓️ MCP 生态 |
+| 🆕 [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | 29.4K | ⛓️ MCP 生态 |
+| 🆕 [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 28.5K | 🔧 Agent 开发框架 |
+| 🆕 [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | 20.6K | 📖 学习资料 |
+| 🆕 [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 16.4K | 🔧 Agent 开发框架 |
+| 🆕 [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | 14K | ⛓️ MCP 生态 |
+| 🆕 [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) | 11.2K | 🤖 AI 编码助手 |
 
 ---
 
@@ -53,18 +53,18 @@
 | 项目 | Stars | 分类 | 备注 |
 | --- | --- | --- | --- |
 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 53.4K | 🔍 代码分析与质量 | 重点关注 - 代码知识图谱，46.2K Stars |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 31.6K | 🔍 代码分析与质量 | 重点关注 - 代码审查图谱，17.7K Stars |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 31.8K | 🔍 代码分析与质量 | 重点关注 - 代码审查图谱，17.7K Stars |
 
 ---
 
 <a name="ai-编码助手"></a>
 
 <details open>
-<summary><b>🤖 AI 编码助手</b> <code>111</code></summary>
+<summary><b>🤖 AI 编码助手</b> <code>120</code></summary>
 <br>
-### ⭐ 精选推荐（Top 5 / 共 111）
+### ⭐ 精选推荐（Top 5 / 共 120）
 
-### 🥇 #1 — mattpocock/skills ⭐265.9K · 🔤Shell
+### 🥇 #1 — mattpocock/skills ⭐270.3K · 🔤Shell
 
 🌏 **给真正工程师的技能集，直接来自我的 .claude 目录。**
 
@@ -73,7 +73,7 @@
 🔗 [GitHub](https://github.com/mattpocock/skills)
 
 ---
-### 🥈 #2 — affaan-m/ECC ⭐263K · 🔤JavaScript
+### 🥈 #2 — affaan-m/ECC ⭐268K · 🔤JavaScript
 
 🌏 **> **140K+ stars** | **21K+ forks** | **170+ 贡献者** | **12+ 语言系统** | **Anthropic黑客松获胜者****
 
@@ -82,7 +82,7 @@
 🔗 [GitHub](https://github.com/affaan-m/ECC)
 
 ---
-### 🥉 #3 — multica-ai/andrej-karpathy-skills ⭐214.2K
+### 🥉 #3 — multica-ai/andrej-karpathy-skills ⭐215.4K
 
 🌏 **基于 Andrej Karpathy 对 LLM 编码陷阱的观察，一份改进 Claude Code 行为的 CLAUDE.md 文件。**
 
@@ -100,7 +100,7 @@
 🔗 [GitHub](https://github.com/ultraworkers/claw-code)
 
 ---
-### #5 — anthropics/skills ⭐177.2K · 🔤Python
+### #5 — anthropics/skills ⭐178.6K · 🔤Python
 
 🌏 **Agent Skills 的公共仓库**
 
@@ -111,12 +111,12 @@
 ---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📋 全部项目（106 个）
+### 📋 全部项目（115 个）
 
 <details>
-<summary>点击展开全部 106 个项目</summary>
+<summary>点击展开全部 115 个项目</summary>
 <br>
-### #6 — anomalyco/opencode ⭐208.7K · 🔤TypeScript
+### #6 — anomalyco/opencode ⭐210.3K · 🔤TypeScript
 
 🌏 **开源编码智能体。**
 
@@ -125,7 +125,7 @@
 🔗 [GitHub](https://github.com/anomalyco/opencode)
 
 ---
-### #7 — anthropics/claude-code ⭐146.8K · 🔤TypeScript
+### #7 — anthropics/claude-code ⭐148.2K · 🔤TypeScript
 
 🌏 **Claude Code 是一款驻留在终端中的智能编码工具，能理解你的代码库并帮助你更快地编写代码**
 
@@ -134,7 +134,7 @@
 🔗 [GitHub](https://github.com/anthropics/claude-code)
 
 ---
-### #8 — garrytan/gstack ⭐133.7K · 🔤TypeScript
+### #8 — garrytan/gstack ⭐134.3K · 🔤TypeScript
 
 🌏 **使用 Garry Tan 的 Claude Code 配置：23 个精良工具，充当 CEO、设计师、工程经理等角色。**
 
@@ -143,7 +143,7 @@
 🔗 [GitHub](https://github.com/garrytan/gstack)
 
 ---
-### #9 — openai/codex ⭐125.4K · 🔤Rust
+### #9 — openai/codex ⭐126.7K · 🔤Rust
 
 🌏 **在你的终端中运行的轻量级编码智能体**
 
@@ -152,7 +152,7 @@
 🔗 [GitHub](https://github.com/openai/codex)
 
 ---
-### #10 — Graphify-Labs/graphify ⭐119.7K · 🔤Python
+### #10 — Graphify-Labs/graphify ⭐121.7K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -161,7 +161,7 @@
 🔗 [GitHub](https://github.com/Graphify-Labs/graphify)
 
 ---
-### #11 — VoltAgent/awesome-design-md ⭐116.7K
+### #11 — VoltAgent/awesome-design-md ⭐118.2K
 
 🌏 **知名品牌设计系统的 DESIGN.md 文件合集，放入项目中让编码智能体生成匹配 UI。**
 
@@ -170,7 +170,7 @@
 🔗 [GitHub](https://github.com/VoltAgent/awesome-design-md)
 
 ---
-### #12 — earendil-works/pi ⭐107.4K · 🔤TypeScript
+### #12 — earendil-works/pi ⭐109.6K · 🔤TypeScript
 
 🌏 **AI 智能体工具包：编码智能体 CLI、统一 LLM API、TUI/Web UI、Slack 机器人、vLLM Pod。**
 
@@ -179,7 +179,7 @@
 🔗 [GitHub](https://github.com/earendil-works/pi)
 
 ---
-### #13 — google-gemini/gemini-cli ⭐107.1K · 🔤TypeScript
+### #13 — google-gemini/gemini-cli ⭐107.2K · 🔤TypeScript
 
 🌏 **一个开源的 AI 代理，将 Gemini 的能力直接带到你的终端中。**
 
@@ -188,7 +188,7 @@
 🔗 [GitHub](https://github.com/google-gemini/gemini-cli)
 
 ---
-### #14 — addyosmani/agent-skills ⭐97.1K · 🔤JavaScript
+### #14 — addyosmani/agent-skills ⭐99.3K · 🔤JavaScript
 
 🌏 **面向 AI 编码智能体的生产级工程技能集。**
 
@@ -197,7 +197,7 @@
 🔗 [GitHub](https://github.com/addyosmani/agent-skills)
 
 ---
-### #15 — Panniantong/Agent-Reach ⭐83.5K · 🔤Python
+### #15 — Panniantong/Agent-Reach ⭐85.6K · 🔤Python
 
 🌏 **让你的 AI 代理拥有浏览整个互联网的能力——读推、搜 Reddit、YouTube、GitHub、B站、小红书，一个命令行，零 API 费用。**
 
@@ -206,16 +206,7 @@
 🔗 [GitHub](https://github.com/Panniantong/Agent-Reach)
 
 ---
-### #16 — shareAI-lab/learn-claude-code ⭐77.2K · 🔤Python
-
-🌏 **Bash 即一切——一个极简的 Claude Code 风格「代理工具链」，从零到一构建。**
-
-📝 Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-
-🔗 [GitHub](https://github.com/shareAI-lab/learn-claude-code)
-
----
-### #17 — stablyai/orca ⭐72.8K · 🔤TypeScript
+### #16 — stablyai/orca ⭐79K · 🔤TypeScript
 
 🌏 **Orca 是用于管理并行 Agent 集群的 ADE。使用自己的订阅即可运行任何 coding agent。**
 
@@ -224,7 +215,16 @@
 🔗 [GitHub](https://github.com/stablyai/orca)
 
 ---
-### #18 — career-ops-hq/career-ops ⭐72.2K · 🔤JavaScript
+### #17 — shareAI-lab/learn-claude-code ⭐77.6K · 🔤Python
+
+🌏 **Bash 即一切——一个极简的 Claude Code 风格「代理工具链」，从零到一构建。**
+
+📝 Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+
+🔗 [GitHub](https://github.com/shareAI-lab/learn-claude-code)
+
+---
+### #18 — career-ops-hq/career-ops ⭐72.9K · 🔤JavaScript
 
 🌏 *中文描述待补充*
 
@@ -233,16 +233,7 @@
 🔗 [GitHub](https://github.com/career-ops-hq/career-ops)
 
 ---
-### #19 — Fission-AI/OpenSpec ⭐69.6K · 🔤TypeScript
-
-🌏 **面向 AI 编码助手的 Spec-Driven Development (SDD) 工具。**
-
-📝 Spec-driven development (SDD) for AI coding assistants.
-
-🔗 [GitHub](https://github.com/Fission-AI/OpenSpec)
-
----
-### #20 — pbakaus/impeccable ⭐69.2K · 🔤JavaScript
+### #19 — pbakaus/impeccable ⭐71.6K · 🔤JavaScript
 
 🌏 **让你的 AI 工具更擅长设计的设计语言。**
 
@@ -251,16 +242,16 @@
 🔗 [GitHub](https://github.com/pbakaus/impeccable)
 
 ---
-### #21 — safishamsi/graphify ⭐69K · 🔤Python
+### #20 — Fission-AI/OpenSpec ⭐70.5K · 🔤TypeScript
 
-🌏 **AI 编码助手技能，将任意代码或文档文件夹转为可查询的知识图谱。**
+🌏 **面向 AI 编码助手的 Spec-Driven Development (SDD) 工具。**
 
-📝 AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+📝 Spec-driven development (SDD) for AI coding assistants.
 
-🔗 [GitHub](https://github.com/safishamsi/graphify)
+🔗 [GitHub](https://github.com/Fission-AI/OpenSpec)
 
 ---
-### #22 — cline/cline ⭐68.8K · 🔤TypeScript
+### #21 — cline/cline ⭐69.4K · 🔤TypeScript
 
 🌏 **可作为 SDK、IDE 扩展或 CLI 助手的自主编码智能体。**
 
@@ -269,7 +260,16 @@
 🔗 [GitHub](https://github.com/cline/cline)
 
 ---
-### #23 — openinterpreter/openinterpreter ⭐68.4K · 🔤Rust
+### #22 — safishamsi/graphify ⭐69K · 🔤Python
+
+🌏 **AI 编码助手技能，将任意代码或文档文件夹转为可查询的知识图谱。**
+
+📝 AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+
+🔗 [GitHub](https://github.com/safishamsi/graphify)
+
+---
+### #23 — openinterpreter/openinterpreter ⭐68.5K · 🔤Rust
 
 🌏 **为 Deepseek、Kimi、Qwen 等开放模型打造的轻量级编码代理**
 
@@ -296,7 +296,7 @@
 🔗 [GitHub](https://github.com/santifer/career-ops)
 
 ---
-### #26 — calesthio/OpenMontage ⭐60.2K · 🔤Python
+### #26 — calesthio/OpenMontage ⭐61.4K · 🔤Python
 
 🌏 **全球首个开源智能视频制作系统。12 条流水线、52 个工具、500 多个 Agent 技能。**
 
@@ -314,7 +314,7 @@
 🔗 [GitHub](https://github.com/AntonOsika/gpt-engineer)
 
 ---
-### #28 — hesreallyhim/awesome-claude-code ⭐54.3K · 🔤Python
+### #28 — hesreallyhim/awesome-claude-code ⭐54.7K · 🔤Python
 
 🌏 **精选的 Claude Code 技能、钩子、斜杠命令、代理编排器、应用和插件列表。**
 
@@ -323,25 +323,7 @@
 🔗 [GitHub](https://github.com/hesreallyhim/awesome-claude-code)
 
 ---
-### #29 — multica-ai/multica ⭐50.7K · 🔤Go
-
-🌏 **开源托管智能体平台，把编码智能体变成真正的队友。**
-
-📝 Make humans and AI agents work as one team — open-source and self-hostable.
-
-🔗 [GitHub](https://github.com/multica-ai/multica)
-
----
-### #30 — Aider-AI/aider ⭐49.1K · 🔤Python
-
-🌏 **aider 是终端里的 AI 结对编程工具**
-
-📝 aider is AI pair programming in your terminal
-
-🔗 [GitHub](https://github.com/Aider-AI/aider)
-
----
-### #31 — ayghri/i-have-adhd ⭐48.8K · 🔤Python
+### #29 — ayghri/i-have-adhd ⭐51.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -350,7 +332,25 @@
 🔗 [GitHub](https://github.com/ayghri/i-have-adhd)
 
 ---
-### #32 — Yuan1z0825/nature-skills ⭐43.3K · 🔤Python
+### #30 — multica-ai/multica ⭐51.4K · 🔤Go
+
+🌏 **开源托管智能体平台，把编码智能体变成真正的队友。**
+
+📝 Make humans and AI agents work as one team — open-source and self-hostable.
+
+🔗 [GitHub](https://github.com/multica-ai/multica)
+
+---
+### #31 — Aider-AI/aider ⭐49.2K · 🔤Python
+
+🌏 **aider 是终端里的 AI 结对编程工具**
+
+📝 aider is AI pair programming in your terminal
+
+🔗 [GitHub](https://github.com/Aider-AI/aider)
+
+---
+### #32 — Yuan1z0825/nature-skills ⭐44.7K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -368,16 +368,7 @@
 🔗 [GitHub](https://github.com/sickn33/antigravity-awesome-skills)
 
 ---
-### #34 — Hmbown/CodeWhale ⭐40.2K · 🔤Rust
-
-🌏 **终端中的 DeepSeek + MiMo 编码智能体**
-
-📝 Open-source, community-driven agent harness
-
-🔗 [GitHub](https://github.com/Hmbown/CodeWhale)
-
----
-### #35 — herdrdev/herdr ⭐39.7K · 🔤Rust
+### #34 — herdrdev/herdr ⭐40.9K · 🔤Rust
 
 🌏 *中文描述待补充*
 
@@ -386,7 +377,16 @@
 🔗 [GitHub](https://github.com/herdrdev/herdr)
 
 ---
-### #36 — zhaoxuya520/reverse-skill ⭐36.6K · 🔤PowerShell
+### #35 — Hmbown/CodeWhale ⭐40.2K · 🔤Rust
+
+🌏 **终端中的 DeepSeek + MiMo 编码智能体**
+
+📝 Open-source, community-driven agent harness
+
+🔗 [GitHub](https://github.com/Hmbown/CodeWhale)
+
+---
+### #36 — zhaoxuya520/reverse-skill ⭐38.1K · 🔤PowerShell
 
 🌏 *中文描述待补充*
 
@@ -395,7 +395,7 @@
 🔗 [GitHub](https://github.com/zhaoxuya520/reverse-skill)
 
 ---
-### #37 — esengine/DeepSeek-Reasonix ⭐35.6K · 🔤Go
+### #37 — esengine/DeepSeek-Reasonix ⭐35.7K · 🔤Go
 
 🌏 **DeepSeek 原生的终端 AI 编程代理。围绕前缀缓存稳定性设计——可保持长期运行。**
 
@@ -404,7 +404,7 @@
 🔗 [GitHub](https://github.com/esengine/DeepSeek-Reasonix)
 
 ---
-### #38 — JCodesMore/ai-website-cloner-template ⭐34.7K · 🔤TypeScript
+### #38 — JCodesMore/ai-website-cloner-template ⭐35.3K · 🔤TypeScript
 
 🌏 **用 AI 编码代理一键克隆任何网站。**
 
@@ -431,7 +431,7 @@
 🔗 [GitHub](https://github.com/Pythagora-io/gpt-pilot)
 
 ---
-### #41 — Gitlawb/openclaude ⭐33.4K · 🔤TypeScript
+### #41 — Gitlawb/openclaude ⭐33.5K · 🔤TypeScript
 
 🌏 **开源的 Claude Code 替代方案，支持本地运行、多模型和自定义工具集成。**
 
@@ -440,7 +440,16 @@
 🔗 [GitHub](https://github.com/Gitlawb/openclaude)
 
 ---
-### #42 — Yeachan-Heo/oh-my-codex ⭐33.3K · 🔤TypeScript
+### #42 — can1357/oh-my-pi ⭐33.4K · 🔤TypeScript
+
+🌏 **⌥ 终端 AI 编码代理——哈希锚定编辑、优化工具链、LSP、Python、浏览器、子代理等。**
+
+📝 ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+
+🔗 [GitHub](https://github.com/can1357/oh-my-pi)
+
+---
+### #43 — Yeachan-Heo/oh-my-codex ⭐33.4K · 🔤TypeScript
 
 🌏 **OmX - Oh My codeX：你的 Codex 不孤单，添加钩子、Agent 团队、HUD 等更多功能。**
 
@@ -449,7 +458,7 @@
 🔗 [GitHub](https://github.com/Yeachan-Heo/oh-my-codex)
 
 ---
-### #43 — iOfficeAI/AionUi ⭐33K · 🔤TypeScript
+### #44 — iOfficeAI/AionUi ⭐33.2K · 🔤TypeScript
 
 🌏 **免费、本地、开源的全天候协同办公应用，支持 OpenClaw、Hermes Agent、Claude Code 等 20+ 命令行工具。**
 
@@ -458,16 +467,7 @@
 🔗 [GitHub](https://github.com/iOfficeAI/AionUi)
 
 ---
-### #44 — can1357/oh-my-pi ⭐32K · 🔤TypeScript
-
-🌏 **⌥ 终端 AI 编码代理——哈希锚定编辑、优化工具链、LSP、Python、浏览器、子代理等。**
-
-📝 ⌥ Coding agent with the IDE wired in
-
-🔗 [GitHub](https://github.com/can1357/oh-my-pi)
-
----
-### #45 — googleworkspace/cli ⭐31.1K · 🔤Rust
+### #45 — googleworkspace/cli ⭐31.2K · 🔤Rust
 
 🌏 **Google Workspace 命令行工具，统一管理 Drive、Gmail、Calendar、Sheets、Docs 等，动态生成命令，支持 AI 代理技能。**
 
@@ -503,7 +503,7 @@
 🔗 [GitHub](https://github.com/davila7/claude-code-templates)
 
 ---
-### #49 — oraios/serena ⭐29.6K · 🔤Python
+### #49 — oraios/serena ⭐29.8K · 🔤Python
 
 🌏 **强大的 MCP 编码工具包，提供语义检索和编辑能力——你的代理 IDE。**
 
@@ -512,16 +512,7 @@
 🔗 [GitHub](https://github.com/oraios/serena)
 
 ---
-### #50 — vercel-labs/agent-skills ⭐29.6K · 🔤JavaScript
-
-🌏 **Vercel 官方 Agent Skills 合集**
-
-📝 Vercel's official collection of agent skills
-
-🔗 [GitHub](https://github.com/vercel-labs/agent-skills)
-
----
-### #51 — jackwener/OpenCLI ⭐29.5K · 🔤JavaScript
+### #50 — jackwener/OpenCLI ⭐29.6K · 🔤JavaScript
 
 🌏 **将任何网站转化为命令行界面，让 AI 代理使用你已登录的浏览器。**
 
@@ -530,7 +521,16 @@
 🔗 [GitHub](https://github.com/jackwener/OpenCLI)
 
 ---
-### #52 — rohitg00/agentmemory ⭐28.6K · 🔤TypeScript
+### #51 — vercel-labs/agent-skills ⭐29.6K · 🔤JavaScript
+
+🌏 **Vercel 官方 Agent Skills 合集**
+
+📝 Vercel's official collection of agent skills
+
+🔗 [GitHub](https://github.com/vercel-labs/agent-skills)
+
+---
+### #52 — rohitg00/agentmemory ⭐28.9K · 🔤TypeScript
 
 🌏 **基于真实世界基准测试的 AI 编码智能体持久化记忆方案 #1**
 
@@ -539,7 +539,7 @@
 🔗 [GitHub](https://github.com/rohitg00/agentmemory)
 
 ---
-### #53 — charmbracelet/crush ⭐28.2K · 🔤Go
+### #53 — charmbracelet/crush ⭐28.3K · 🔤Go
 
 🌏 **迷人的智能体编码，为所有人 💘**
 
@@ -548,7 +548,7 @@
 🔗 [GitHub](https://github.com/charmbracelet/crush)
 
 ---
-### #54 — BloopAI/vibe-kanban ⭐28.1K · 🔤Rust
+### #54 — BloopAI/vibe-kanban ⭐28.2K · 🔤Rust
 
 🌏 **让 Claude Code、Codex 或任意编码代理发挥 10 倍效率。**
 
@@ -557,7 +557,7 @@
 🔗 [GitHub](https://github.com/BloopAI/vibe-kanban)
 
 ---
-### #55 — QwenLM/qwen-code ⭐28K · 🔤TypeScript
+### #55 — QwenLM/qwen-code ⭐28.1K · 🔤TypeScript
 
 🌏 **一个运行在终端中的开源 AI 编码代理。**
 
@@ -566,16 +566,7 @@
 🔗 [GitHub](https://github.com/QwenLM/qwen-code)
 
 ---
-### #56 — Kilo-Org/kilocode ⭐27.4K · 🔤TypeScript
-
-🌏 **Kilo 是一站式智能工程平台，使用最受欢迎的开源代码，帮助您更快地构建、发布和迭代。**
-
-📝 Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
-
-🔗 [GitHub](https://github.com/Kilo-Org/kilocode)
-
----
-### #57 — manaflow-ai/cmux ⭐27.3K · 🔤Swift
+### #56 — manaflow-ai/cmux ⭐27.4K · 🔤Swift
 
 🌏 *中文描述待补充*
 
@@ -584,7 +575,16 @@
 🔗 [GitHub](https://github.com/manaflow-ai/cmux)
 
 ---
-### #58 — OthmanAdi/planning-with-files ⭐27K · 🔤Shell
+### #57 — Kilo-Org/kilocode ⭐27.4K · 🔤TypeScript
+
+🌏 **Kilo 是一站式智能工程平台，使用最受欢迎的开源代码，帮助您更快地构建、发布和迭代。**
+
+📝 Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+
+🔗 [GitHub](https://github.com/Kilo-Org/kilocode)
+
+---
+### #58 — OthmanAdi/planning-with-files ⭐27.1K · 🔤Shell
 
 🌏 **面向 AI 编码代理和长期代理任务的持久化文件规划方案，崩溃安全的 Markdown 计划。**
 
@@ -602,7 +602,7 @@
 🔗 [GitHub](https://github.com/zarazhangrui/frontend-slides)
 
 ---
-### #60 — alirezarezvani/claude-skills ⭐26.2K · 🔤Python
+### #60 — alirezarezvani/claude-skills ⭐26.5K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -611,7 +611,7 @@
 🔗 [GitHub](https://github.com/alirezarezvani/claude-skills)
 
 ---
-### #61 — JimLiu/baoyu-skills ⭐26K · 🔤TypeScript
+### #61 — JimLiu/baoyu-skills ⭐26.2K · 🔤TypeScript
 
 🌏 **（暂无描述）**
 
@@ -620,7 +620,7 @@
 🔗 [GitHub](https://github.com/JimLiu/baoyu-skills)
 
 ---
-### #62 — titanwings/distilly ⭐24.9K · 🔤Python
+### #62 — titanwings/distilly ⭐25.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -629,7 +629,7 @@
 🔗 [GitHub](https://github.com/titanwings/distilly)
 
 ---
-### #63 — mksglu/context-mode ⭐23.7K · 🔤TypeScript
+### #63 — mksglu/context-mode ⭐24.1K · 🔤TypeScript
 
 🌏 **AI 编码代理的上下文窗口优化工具。对工具输出进行沙箱处理，减少 98% 上下文消耗，支持 15 个平台。**
 
@@ -638,7 +638,7 @@
 🔗 [GitHub](https://github.com/mksglu/context-mode)
 
 ---
-### #64 — coleam00/Archon ⭐23.5K · 🔤TypeScript
+### #64 — coleam00/Archon ⭐23.6K · 🔤TypeScript
 
 🌏 **首个 AI 编码的开源工具包构建器，使 AI 编码确定且可重复。**
 
@@ -656,7 +656,7 @@
 🔗 [GitHub](https://github.com/SuperClaude-Org/SuperClaude_Framework)
 
 ---
-### #66 — 1jehuang/jcode ⭐19.9K · 🔤Rust
+### #66 — 1jehuang/jcode ⭐20.2K · 🔤Rust
 
 🌏 **编码代理工具链。**
 
@@ -665,16 +665,7 @@
 🔗 [GitHub](https://github.com/1jehuang/jcode)
 
 ---
-### #67 — HKUDS/DeepCode ⭐16.6K · 🔤Python
-
-🌏 **DeepCode：开放智能体编码（从论文到代码、文本到网页、文本到后端）**
-
-📝 "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
-
-🔗 [GitHub](https://github.com/HKUDS/DeepCode)
-
----
-### #68 — wanshuiyin/Auto-claude-code-research-in-sleep ⭐16.4K · 🔤Python
+### #67 — wanshuiyin/Auto-claude-code-research-in-sleep ⭐16.7K · 🔤Python
 
 🌏 **ARIS ⚔️ 轻量级仅 Markdown 技能，用于自主 ML 研究：跨模型审查循环、创意发现和实验自动化。**
 
@@ -683,7 +674,16 @@
 🔗 [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
 ---
-### 🆕 #69 — tradecatlabs/vibe-coding-cn ⭐16.3K · 🔤Python
+### #68 — HKUDS/DeepCode ⭐16.6K · 🔤Python
+
+🌏 **DeepCode：开放智能体编码（从论文到代码、文本到网页、文本到后端）**
+
+📝 "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
+
+🔗 [GitHub](https://github.com/HKUDS/DeepCode)
+
+---
+### #69 — tradecatlabs/vibe-coding-cn ⭐16.6K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -692,7 +692,7 @@
 🔗 [GitHub](https://github.com/tradecatlabs/vibe-coding-cn)
 
 ---
-### #70 — citrolabs/ego-lite ⭐16.2K · 🔤JavaScript
+### #70 — citrolabs/ego-lite ⭐16.5K · 🔤JavaScript
 
 🌏 *中文描述待补充*
 
@@ -701,7 +701,16 @@
 🔗 [GitHub](https://github.com/citrolabs/ego-lite)
 
 ---
-### #71 — GLips/Figma-Context-MCP ⭐15.9K · 🔤TypeScript
+### #71 — walkinglabs/learn-harness-engineering ⭐16.3K · 🔤TypeScript
+
+🌏 **工具链工程官方风格初学者教程，从 0 到 1。**
+
+📝 Harness engineering beginner tutorial, from 0 to 1
+
+🔗 [GitHub](https://github.com/walkinglabs/learn-harness-engineering)
+
+---
+### #72 — GLips/Figma-Context-MCP ⭐15.9K · 🔤TypeScript
 
 🌏 **向 Cursor 等 AI 编码代理提供 Figma 布局信息的 MCP 服务器。**
 
@@ -710,16 +719,7 @@
 🔗 [GitHub](https://github.com/GLips/Figma-Context-MCP)
 
 ---
-### #72 — plandex-ai/plandex ⭐15.6K · 🔤Go
-
-🌏 **开源 AI 编码代理，专为大型项目和真实世界任务设计。**
-
-📝 Open source AI coding agent. Designed for large projects and real world tasks.
-
-🔗 [GitHub](https://github.com/plandex-ai/plandex)
-
----
-### #73 — chenhg5/cc-connect ⭐15.6K · 🔤Go
+### #73 — chenhg5/cc-connect ⭐15.7K · 🔤Go
 
 🌏 *中文描述待补充*
 
@@ -728,13 +728,13 @@
 🔗 [GitHub](https://github.com/chenhg5/cc-connect)
 
 ---
-### #74 — walkinglabs/learn-harness-engineering ⭐15.4K · 🔤TypeScript
+### #74 — plandex-ai/plandex ⭐15.7K · 🔤Go
 
-🌏 **工具链工程官方风格初学者教程，从 0 到 1。**
+🌏 **开源 AI 编码代理，专为大型项目和真实世界任务设计。**
 
-📝 Harness engineering beginner tutorial, from 0 to 1
+📝 Open source AI coding agent. Designed for large projects and real world tasks.
 
-🔗 [GitHub](https://github.com/walkinglabs/learn-harness-engineering)
+🔗 [GitHub](https://github.com/plandex-ai/plandex)
 
 ---
 ### #75 — fathah/hermes-desktop ⭐14.3K · 🔤TypeScript
@@ -746,16 +746,7 @@
 🔗 [GitHub](https://github.com/fathah/hermes-desktop)
 
 ---
-### #76 — InsForge/InsForge ⭐13K · 🔤TypeScript
-
-🌏 **全合一开源后端平台，为编码代理提供数据库、认证、存储、计算、托管和 AI 网关。**
-
-📝 The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
-
-🔗 [GitHub](https://github.com/InsForge/InsForge)
-
----
-### #77 — Orchestra-Research/AI-Research-SKILLs ⭐12.9K · 🔤TeX
+### #76 — Orchestra-Research/AI-Research-SKILLs ⭐13.1K · 🔤TeX
 
 🌏 **面向任何 AI 模型的开源 AI 研究和工程技能库，维护者 Orchestra Research。**
 
@@ -764,7 +755,16 @@
 🔗 [GitHub](https://github.com/Orchestra-Research/AI-Research-SKILLs)
 
 ---
-### #78 — zilliztech/claude-context ⭐12.5K · 🔤TypeScript
+### #77 — InsForge/InsForge ⭐13K · 🔤TypeScript
+
+🌏 **全合一开源后端平台，为编码代理提供数据库、认证、存储、计算、托管和 AI 网关。**
+
+📝 The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
+
+🔗 [GitHub](https://github.com/InsForge/InsForge)
+
+---
+### #78 — zilliztech/claude-context ⭐12.6K · 🔤TypeScript
 
 🌏 **面向 Claude Code 的代码搜索 MCP，让整个代码库成为编码代理的上下文。**
 
@@ -773,7 +773,7 @@
 🔗 [GitHub](https://github.com/zilliztech/claude-context)
 
 ---
-### #79 — Untrivial-ai/agent-orchestrator ⭐12.2K · 🔤Go
+### #79 — Untrivial-ai/agent-orchestrator ⭐12.4K · 🔤Go
 
 🌏 *中文描述待补充*
 
@@ -782,7 +782,7 @@
 🔗 [GitHub](https://github.com/Untrivial-ai/agent-orchestrator)
 
 ---
-### #80 — helloianneo/ian-xiaohei-illustrations ⭐11.8K
+### #80 — helloianneo/ian-xiaohei-illustrations ⭐12.1K
 
 🌏 **中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill**
 
@@ -791,7 +791,7 @@
 🔗 [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations)
 
 ---
-### #81 — calesthio/Crucix ⭐11.8K · 🔤JavaScript
+### #81 — calesthio/Crucix ⭐12K · 🔤JavaScript
 
 🌏 **你的个人情报智能体，从多数据源监控世界并在变化时通知你。**
 
@@ -800,7 +800,16 @@
 🔗 [GitHub](https://github.com/calesthio/Crucix)
 
 ---
-### #82 — EKKOLearnAI/hermes-studio ⭐11.1K · 🔤TypeScript
+### 🆕 #82 — EKKOLearnAI/ekko-studio ⭐11.2K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
+
+🔗 [GitHub](https://github.com/EKKOLearnAI/ekko-studio)
+
+---
+### #83 — EKKOLearnAI/hermes-studio ⭐11.1K · 🔤TypeScript
 
 🌏 **Hermes Agent 的 Web 仪表盘——多平台 AI 聊天、会话管理、定时任务、用量分析。**
 
@@ -809,7 +818,7 @@
 🔗 [GitHub](https://github.com/EKKOLearnAI/hermes-studio)
 
 ---
-### #83 — huggingface/skills ⭐11.1K · 🔤Python
+### #84 — huggingface/skills ⭐11.1K · 🔤Python
 
 🌏 **让你的智能体获得 Hugging Face 生态系统的能力**
 
@@ -818,61 +827,7 @@
 🔗 [GitHub](https://github.com/huggingface/skills)
 
 ---
-### #84 — omnigent-ai/omnigent ⭐10.1K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
-
-🔗 [GitHub](https://github.com/omnigent-ai/omnigent)
-
----
-### #85 — simonlin1212/a-stock-data ⭐10K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 A股全栈数据工具包：行情K线·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·指数日历·期货大宗·事件驱动·可转债 | 15层·85端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, reports, signals, fund flow, news, financials, filings, limi
-
-🔗 [GitHub](https://github.com/simonlin1212/a-stock-data)
-
----
-### #86 — frankbria/ralph-claude-code ⭐9.6K · 🔤Shell
-
-🌏 **Claude Code 的自主 AI 开发循环，带智能退出检测。**
-
-📝 Autonomous AI development loop for Claude Code with intelligent exit detection
-
-🔗 [GitHub](https://github.com/frankbria/ralph-claude-code)
-
----
-### #87 — HKUDS/ClawWork ⭐8.5K · 🔤Python
-
-🌏 **ClawWork：OpenClaw 作为你的 AI 同事 - 💰 11 小时赚 15000 美元**
-
-📝 "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
-
-🔗 [GitHub](https://github.com/HKUDS/ClawWork)
-
----
-### #88 — chuspeeism/dashi-ppt-skill ⭐8.5K · 🔤JavaScript
-
-🌏 *中文描述待补充*
-
-📝 An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
-
-🔗 [GitHub](https://github.com/chuspeeism/dashi-ppt-skill)
-
----
-### #89 — AgriciDaniel/claude-seo ⭐8.3K · 🔤Python
-
-🌏 **Claude Code 通用 SEO 技能，涵盖技术 SEO、架构、链接、本地 SEO、电商 SEO 等 25 个子技能。**
-
-📝 Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
-
-🔗 [GitHub](https://github.com/AgriciDaniel/claude-seo)
-
----
-### 🆕 #90 — google/artemis ⭐8.2K · 🔤Python
+### 🆕 #85 — google/artemis ⭐10.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -881,7 +836,79 @@
 🔗 [GitHub](https://github.com/google/artemis)
 
 ---
-### #91 — AgentWrapper/agent-orchestrator ⭐8K · 🔤Go
+### #86 — simonlin1212/a-stock-data ⭐10.4K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings
+
+🔗 [GitHub](https://github.com/simonlin1212/a-stock-data)
+
+---
+### #87 — omnigent-ai/omnigent ⭐10.3K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
+
+🔗 [GitHub](https://github.com/omnigent-ai/omnigent)
+
+---
+### 🆕 #88 — Companion-Inc/feynman ⭐9.8K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 The open source AI research agent.
+
+🔗 [GitHub](https://github.com/Companion-Inc/feynman)
+
+---
+### #89 — frankbria/ralph-claude-code ⭐9.6K · 🔤Shell
+
+🌏 **Claude Code 的自主 AI 开发循环，带智能退出检测。**
+
+📝 Autonomous AI development loop for Claude Code with intelligent exit detection
+
+🔗 [GitHub](https://github.com/frankbria/ralph-claude-code)
+
+---
+### #90 — chuspeeism/dashi-ppt-skill ⭐8.8K · 🔤JavaScript
+
+🌏 *中文描述待补充*
+
+📝 An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
+
+🔗 [GitHub](https://github.com/chuspeeism/dashi-ppt-skill)
+
+---
+### #91 — HKUDS/ClawWork ⭐8.6K · 🔤Python
+
+🌏 **ClawWork：OpenClaw 作为你的 AI 同事 - 💰 11 小时赚 15000 美元**
+
+📝 "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
+
+🔗 [GitHub](https://github.com/HKUDS/ClawWork)
+
+---
+### #92 — AgriciDaniel/claude-seo ⭐8.3K · 🔤Python
+
+🌏 **Claude Code 通用 SEO 技能，涵盖技术 SEO、架构、链接、本地 SEO、电商 SEO 等 25 个子技能。**
+
+📝 Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
+
+🔗 [GitHub](https://github.com/AgriciDaniel/claude-seo)
+
+---
+### #93 — YaoApp/yao ⭐8K · 🔤Go
+
+🌏 *中文描述待补充*
+
+📝 ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
+
+🔗 [GitHub](https://github.com/YaoApp/yao)
+
+---
+### #94 — AgentWrapper/agent-orchestrator ⭐8K · 🔤Go
 
 🌏 **并行编码代理的智能编排器——规划任务、生成代理，并自主处理 CI 修复和合并。**
 
@@ -890,7 +917,7 @@
 🔗 [GitHub](https://github.com/AgentWrapper/agent-orchestrator)
 
 ---
-### #92 — SWE-agent/mini-swe-agent ⭐7.8K · 🔤Python
+### #95 — SWE-agent/mini-swe-agent ⭐8K · 🔤Python
 
 🌏 **仅 100 行代码的 AI agent，能解决 GitHub issue 或在命令行中协助你。极其简洁，无需庞大配置。**
 
@@ -899,52 +926,7 @@
 🔗 [GitHub](https://github.com/SWE-agent/mini-swe-agent)
 
 ---
-### #93 — sweepai/sweep ⭐7.7K · 🔤Jupyter Notebook
-
-🌏 **Sweep：面向 JetBrains 的 AI 编码助手。**
-
-📝 Sweep: AI coding assistant for JetBrains
-
-🔗 [GitHub](https://github.com/sweepai/sweep)
-
----
-### #94 — EKKOLearnAI/hermes-web-ui ⭐7.4K · 🔤TypeScript
-
-🌏 **Hermes Agent 的 Web 仪表盘——多平台 AI 聊天、会话管理、定时任务、使用分析。**
-
-📝 Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
-
-🔗 [GitHub](https://github.com/EKKOLearnAI/hermes-web-ui)
-
----
-### #95 — ComposioHQ/agent-orchestrator ⭐7.4K · 🔤TypeScript
-
-🌏 **并行编码 Agent 的编排器，规划任务、生成 Agent、自主处理 CI 修复。**
-
-📝  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
-
-🔗 [GitHub](https://github.com/ComposioHQ/agent-orchestrator)
-
----
-### #96 — algorithmicsuperintelligence/openevolve ⭐7.4K · 🔤Python
-
-🌏 **AlphaEvolve 的开源实现。**
-
-📝 Open-source implementation of AlphaEvolve
-
-🔗 [GitHub](https://github.com/algorithmicsuperintelligence/openevolve)
-
----
-### #97 — ChatLab/ChatLab ⭐7.4K · 🔤TypeScript
-
-🌏 **本地优先的 AI 聊天记录分析工具。**
-
-📝 Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
-
-🔗 [GitHub](https://github.com/ChatLab/ChatLab)
-
----
-### #98 — genspark-ai/genoffice ⭐7.3K · 🔤TypeScript
+### #96 — genspark-ai/genoffice ⭐7.9K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -953,7 +935,52 @@
 🔗 [GitHub](https://github.com/genspark-ai/genoffice)
 
 ---
-### #99 — op7418/guizang-social-card-skill ⭐7.1K · 🔤HTML
+### #97 — sweepai/sweep ⭐7.7K · 🔤Jupyter Notebook
+
+🌏 **Sweep：面向 JetBrains 的 AI 编码助手。**
+
+📝 Sweep: AI coding assistant for JetBrains
+
+🔗 [GitHub](https://github.com/sweepai/sweep)
+
+---
+### #98 — algorithmicsuperintelligence/openevolve ⭐7.4K · 🔤Python
+
+🌏 **AlphaEvolve 的开源实现。**
+
+📝 Open-source implementation of AlphaEvolve
+
+🔗 [GitHub](https://github.com/algorithmicsuperintelligence/openevolve)
+
+---
+### #99 — ChatLab/ChatLab ⭐7.4K · 🔤TypeScript
+
+🌏 **本地优先的 AI 聊天记录分析工具。**
+
+📝 Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
+
+🔗 [GitHub](https://github.com/ChatLab/ChatLab)
+
+---
+### #100 — EKKOLearnAI/hermes-web-ui ⭐7.4K · 🔤TypeScript
+
+🌏 **Hermes Agent 的 Web 仪表盘——多平台 AI 聊天、会话管理、定时任务、使用分析。**
+
+📝 Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
+
+🔗 [GitHub](https://github.com/EKKOLearnAI/hermes-web-ui)
+
+---
+### #101 — ComposioHQ/agent-orchestrator ⭐7.4K · 🔤TypeScript
+
+🌏 **并行编码 Agent 的编排器，规划任务、生成 Agent、自主处理 CI 修复。**
+
+📝  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
+
+🔗 [GitHub](https://github.com/ComposioHQ/agent-orchestrator)
+
+---
+### #102 — op7418/guizang-social-card-skill ⭐7.3K · 🔤HTML
 
 🌏 *中文描述待补充*
 
@@ -962,7 +989,7 @@
 🔗 [GitHub](https://github.com/op7418/guizang-social-card-skill)
 
 ---
-### #100 — zenstory-ai/oh-story-claudecode ⭐7K · 🔤Python
+### #103 — zenstory-ai/oh-story-claudecode ⭐7.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -971,7 +998,7 @@
 🔗 [GitHub](https://github.com/zenstory-ai/oh-story-claudecode)
 
 ---
-### #101 — olimorris/codecompanion.nvim ⭐6.9K · 🔤Lua
+### #104 — olimorris/codecompanion.nvim ⭐6.9K · 🔤Lua
 
 🌏 **✨ AI 编码，Vim 风格。**
 
@@ -980,7 +1007,16 @@
 🔗 [GitHub](https://github.com/olimorris/codecompanion.nvim)
 
 ---
-### #102 — dramaclaw/dramaclaw ⭐6.2K · 🔤Python
+### 🆕 #105 — anus-dev/ANUS ⭐6.5K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 *无英文描述*
+
+🔗 [GitHub](https://github.com/anus-dev/ANUS)
+
+---
+### #106 — dramaclaw/dramaclaw ⭐6.5K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -989,16 +1025,7 @@
 🔗 [GitHub](https://github.com/dramaclaw/dramaclaw)
 
 ---
-### #103 — UfoMiao/zcf ⭐6.1K · 🔤TypeScript
-
-🌏 **面向 Claude Code 和 Codex 的零配置代码流。**
-
-📝 Zero-Config Code Flow for Claude code & Codex
-
-🔗 [GitHub](https://github.com/UfoMiao/zcf)
-
----
-### #104 — KimYx0207/AI-Coding-Guide-Zh ⭐6.1K
+### #107 — KimYx0207/AI-Coding-Guide-Zh ⭐6.1K
 
 🌏 *中文描述待补充*
 
@@ -1007,7 +1034,7 @@
 🔗 [GitHub](https://github.com/KimYx0207/AI-Coding-Guide-Zh)
 
 ---
-### #105 — Q00/ouroboros ⭐6K · 🔤Python
+### #108 — Q00/ouroboros ⭐6.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -1016,7 +1043,16 @@
 🔗 [GitHub](https://github.com/Q00/ouroboros)
 
 ---
-### #106 — google/agents-cli ⭐6K · 🔤Python
+### #109 — UfoMiao/zcf ⭐6.1K · 🔤TypeScript
+
+🌏 **面向 Claude Code 和 Codex 的零配置代码流。**
+
+📝 Zero-Config Code Flow for Claude code & Codex
+
+🔗 [GitHub](https://github.com/UfoMiao/zcf)
+
+---
+### #110 — google/agents-cli ⭐6K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -1025,7 +1061,7 @@
 🔗 [GitHub](https://github.com/google/agents-cli)
 
 ---
-### #107 — apache/maka ⭐5.6K · 🔤TypeScript
+### #111 — apache/maka ⭐5.7K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -1034,7 +1070,7 @@
 🔗 [GitHub](https://github.com/apache/maka)
 
 ---
-### #108 — cloudflare/vibesdk ⭐5.4K · 🔤TypeScript
+### #112 — cloudflare/vibesdk ⭐5.4K · 🔤TypeScript
 
 🌏 **开源 vibe coding 平台，帮助你构建自己的 vibe coding 平台，基于 Cloudflare 技术栈。**
 
@@ -1043,7 +1079,16 @@
 🔗 [GitHub](https://github.com/cloudflare/vibesdk)
 
 ---
-### #109 — filipecalegario/awesome-vibe-coding ⭐5.3K
+### 🆕 #113 — shengjidaguai-china/goutoujunshi ⭐5.4K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
+
+🔗 [GitHub](https://github.com/shengjidaguai-china/goutoujunshi)
+
+---
+### #114 — filipecalegario/awesome-vibe-coding ⭐5.3K
 
 🌏 *中文描述待补充*
 
@@ -1052,7 +1097,25 @@
 🔗 [GitHub](https://github.com/filipecalegario/awesome-vibe-coding)
 
 ---
-### #110 — iflytek/skillhub ⭐5.1K · 🔤Java
+### 🆕 #115 — shy3130/tick-stock-panel ⭐5.2K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
+
+🔗 [GitHub](https://github.com/shy3130/tick-stock-panel)
+
+---
+### 🆕 #116 — ArcReel/ArcReel ⭐5.2K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
+
+🔗 [GitHub](https://github.com/ArcReel/ArcReel)
+
+---
+### #117 — iflytek/skillhub ⭐5.2K · 🔤Java
 
 🌏 *中文描述待补充*
 
@@ -1061,13 +1124,31 @@
 🔗 [GitHub](https://github.com/iflytek/skillhub)
 
 ---
-### 🆕 #111 — ArcReel/ArcReel ⭐5.1K · 🔤Python
+### 🆕 #118 — FailproofAI/failproofai ⭐5.2K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
-📝 AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
+📝 Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  
 
-🔗 [GitHub](https://github.com/ArcReel/ArcReel)
+🔗 [GitHub](https://github.com/FailproofAI/failproofai)
+
+---
+### 🆕 #119 — TencentCloud/Octop ⭐5.2K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 A smarter, self-hosted AI assistant — multi-user, multi-agent.
+
+🔗 [GitHub](https://github.com/TencentCloud/Octop)
+
+---
+### 🆕 #120 — EvoScientist/EvoScientist ⭐5K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 🔬 Harness Vibe Research with Self-evolving AI Scientists
+
+🔗 [GitHub](https://github.com/EvoScientist/EvoScientist)
 
 ---
 </details>
@@ -1078,11 +1159,11 @@
 <a name="agent-开发框架"></a>
 
 <details open>
-<summary><b>🔧 Agent 开发框架</b> <code>207</code></summary>
+<summary><b>🔧 Agent 开发框架</b> <code>210</code></summary>
 <br>
-### ⭐ 精选推荐（Top 5 / 共 207）
+### ⭐ 精选推荐（Top 5 / 共 210）
 
-### 🥇 #1 — openclaw/openclaw ⭐390.1K · 🔤TypeScript
+### 🥇 #1 — openclaw/openclaw ⭐390.6K · 🔤TypeScript
 
 🌏 **你的个人 AI 助手，任何系统、任何平台，龙虾之道。🦞**
 
@@ -1091,7 +1172,7 @@
 🔗 [GitHub](https://github.com/openclaw/openclaw)
 
 ---
-### 🥈 #2 — obra/superpowers ⭐288.9K · 🔤Shell
+### 🥈 #2 — obra/superpowers ⭐292K · 🔤Shell
 
 🌏 **行之有效的智能体技能框架与软件开发方法论。**
 
@@ -1100,7 +1181,7 @@
 🔗 [GitHub](https://github.com/obra/superpowers)
 
 ---
-### 🥉 #3 — NousResearch/hermes-agent ⭐247.2K · 🔤Python
+### 🥉 #3 — NousResearch/hermes-agent ⭐249.3K · 🔤Python
 
 🌏 ****由 [Nous Research](https://nousresearch.com) 构建的自进化 AI 代理。** 它是唯一内置学习闭环的智能代理——从经验中创建技能，在使用中改进技能，主动持久化知识，搜索过往对话，并在跨会话中逐步构建对你的深度理解。可以在 $5 的 VPS 上运行，也可以在 GPU 集群上运行，或者使用几乎零成本的 Serverless 基础设施。它不绑定你的笔记本——**
 
@@ -1109,7 +1190,7 @@
 🔗 [GitHub](https://github.com/NousResearch/hermes-agent)
 
 ---
-### #4 — deepseek-ai/deepseek-harness ⭐230.3K · 🔤TypeScript
+### #4 — deepseek-ai/deepseek-harness ⭐237K · 🔤TypeScript
 
 🌏 **DeepSeek Harness（`dsh`）是由 [DeepSeek AI](https://deepseek.com) 开发的开源 agent harness（智能体框架）。**
 
@@ -1118,7 +1199,7 @@
 🔗 [GitHub](https://github.com/deepseek-ai/deepseek-harness)
 
 ---
-### #5 — Significant-Gravitas/AutoGPT ⭐187.4K · 🔤Python
+### #5 — Significant-Gravitas/AutoGPT ⭐187.6K · 🔤Python
 
 🌏 **AutoGPT 致力于让 AI 人人可及，提供工具让你专注于真正重要的事。**
 
@@ -1129,12 +1210,12 @@
 ---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📋 全部项目（202 个）
+### 📋 全部项目（205 个）
 
 <details>
-<summary>点击展开全部 202 个项目</summary>
+<summary>点击展开全部 205 个项目</summary>
 <br>
-### #6 — langgenius/dify ⭐156.5K · 🔤TypeScript
+### #6 — langgenius/dify ⭐157.3K · 🔤TypeScript
 
 🌏 **面向生产环境的代理工作流开发平台。**
 
@@ -1143,7 +1224,7 @@
 🔗 [GitHub](https://github.com/langgenius/dify)
 
 ---
-### #7 — langflow-ai/langflow ⭐155K · 🔤Python
+### #7 — langflow-ai/langflow ⭐155.3K · 🔤Python
 
 🌏 **构建和部署 AI 智能体与工作流的强大工具。**
 
@@ -1152,7 +1233,7 @@
 🔗 [GitHub](https://github.com/langflow-ai/langflow)
 
 ---
-### #8 — DietrichGebert/ponytail ⭐142.6K · 🔤JavaScript
+### #8 — DietrichGebert/ponytail ⭐146.6K · 🔤JavaScript
 
 🌏 **让你的 AI 智能体像团队里最懒的高级开发人员一样思考。最好的代码就是你从未写过的代码。**
 
@@ -1161,7 +1242,7 @@
 🔗 [GitHub](https://github.com/DietrichGebert/ponytail)
 
 ---
-### #9 — Shubhamsaboo/awesome-llm-apps ⭐139K · 🔤Python
+### #9 — Shubhamsaboo/awesome-llm-apps ⭐139.9K · 🔤Python
 
 🌏 **100+ 个可直接运行的 AI Agent 和 RAG 应用 — 克隆、定制、部署。**
 
@@ -1170,7 +1251,7 @@
 🔗 [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ---
-### #10 — TauricResearch/TradingAgents ⭐107.6K · 🔤Python
+### #10 — TauricResearch/TradingAgents ⭐108.8K · 🔤Python
 
 🌏 **TradingAgents：多智能体 LLM 金融交易框架**
 
@@ -1179,7 +1260,7 @@
 🔗 [GitHub](https://github.com/TauricResearch/TradingAgents)
 
 ---
-### #11 — karpathy/autoresearch ⭐96.4K · 🔤Python
+### #11 — karpathy/autoresearch ⭐96.8K · 🔤Python
 
 🌏 **AI 智能体自动在单 GPU 上进行 nanochat 训练研究的框架**
 
@@ -1188,7 +1269,7 @@
 🔗 [GitHub](https://github.com/karpathy/autoresearch)
 
 ---
-### #12 — thedotmack/claude-mem ⭐94.3K · 🔤TypeScript
+### #12 — thedotmack/claude-mem ⭐94.7K · 🔤TypeScript
 
 🌏 **跨会话持久化上下文——记录代理在会话中的所有操作，用 AI 压缩后注入未来会话的上下文。支持 Claude Code、OpenClaw、Codex 等多种工具。**
 
@@ -1197,7 +1278,7 @@
 🔗 [GitHub](https://github.com/thedotmack/claude-mem)
 
 ---
-### #13 — infiniflow/ragflow ⭐91K · 🔤Go
+### #13 — infiniflow/ragflow ⭐91.3K · 🔤Go
 
 🌏 **RAGFlow 是一款领先的开源检索增强生成（RAG）引擎。**
 
@@ -1206,25 +1287,7 @@
 🔗 [GitHub](https://github.com/infiniflow/ragflow)
 
 ---
-### #14 — bytedance/deer-flow ⭐82.7K · 🔤Python
-
-🌏 **开源长周期超级代理框架，可研究、编码和创作。借助沙箱、记忆、工具、技能、子代理和消息网关，处理从分钟到小时级别的不同任务。**
-
-📝 An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
-
-🔗 [GitHub](https://github.com/bytedance/deer-flow)
-
----
-### #15 — nexu-io/open-design ⭐82.4K · 🔤TypeScript
-
-🌏 **🎨 本地优先、开源的设计工具替代方案，原生桌面应用，内置 259+ 技能和 142+ 设计系统。**
-
-📝 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, 
-
-🔗 [GitHub](https://github.com/nexu-io/open-design)
-
----
-### #16 — paperclipai/paperclip ⭐81.1K · 🔤TypeScript
+### #14 — paperclipai/paperclip ⭐87.7K · 🔤TypeScript
 
 🌏 **团队用来管理 AI 智能体的开源应用**
 
@@ -1233,7 +1296,25 @@
 🔗 [GitHub](https://github.com/paperclipai/paperclip)
 
 ---
-### #17 — 666ghj/MiroFish ⭐74K · 🔤Python
+### #15 — bytedance/deer-flow ⭐83K · 🔤Python
+
+🌏 **开源长周期超级代理框架，可研究、编码和创作。借助沙箱、记忆、工具、技能、子代理和消息网关，处理从分钟到小时级别的不同任务。**
+
+📝 An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
+
+🔗 [GitHub](https://github.com/bytedance/deer-flow)
+
+---
+### #16 — nexu-io/open-design ⭐82.4K · 🔤TypeScript
+
+🌏 **🎨 本地优先、开源的设计工具替代方案，原生桌面应用，内置 259+ 技能和 142+ 设计系统。**
+
+📝 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, 
+
+🔗 [GitHub](https://github.com/nexu-io/open-design)
+
+---
+### #17 — 666ghj/MiroFish ⭐74.9K · 🔤Python
 
 🌏 **简洁通用的群体智能引擎，可预测一切。**
 
@@ -1242,7 +1323,7 @@
 🔗 [GitHub](https://github.com/666ghj/MiroFish)
 
 ---
-### #18 — OpenBB-finance/OpenBB ⭐73.3K · 🔤Python
+### #18 — OpenBB-finance/OpenBB ⭐73.5K · 🔤Python
 
 🌏 **面向分析师、量化研究员和 AI 智能体的金融数据平台。**
 
@@ -1251,7 +1332,7 @@
 🔗 [GitHub](https://github.com/OpenBB-finance/OpenBB)
 
 ---
-### #19 — ruvnet/ruflo ⭐72.9K · 🔤TypeScript
+### #19 — ruvnet/ruflo ⭐73.3K · 🔤TypeScript
 
 🌏 **🌊 领先的 Claude 代理编排平台，部署智能多代理集群、协调自主工作流、构建对话式 AI 系统。**
 
@@ -1269,7 +1350,7 @@
 🔗 [GitHub](https://github.com/daytonaio/daytona)
 
 ---
-### #21 — FoundationAgents/MetaGPT ⭐70.5K · 🔤Python
+### #21 — FoundationAgents/MetaGPT ⭐70.6K · 🔤Python
 
 🌏 **🌟 多代理框架：首个 AI 软件公司，迈向自然语言编程。**
 
@@ -1278,7 +1359,7 @@
 🔗 [GitHub](https://github.com/FoundationAgents/MetaGPT)
 
 ---
-### #22 — code-yeongyu/oh-my-openagent ⭐69.2K · 🔤TypeScript
+### #22 — code-yeongyu/oh-my-openagent ⭐69.5K · 🔤TypeScript
 
 🌏 **omo——最好的代理工具链（原名 oh-my-opencode）。**
 
@@ -1287,7 +1368,7 @@
 🔗 [GitHub](https://github.com/code-yeongyu/oh-my-openagent)
 
 ---
-### #23 — shanraisshan/claude-code-best-practice ⭐66.1K · 🔤HTML
+### #23 — shanraisshan/claude-code-best-practice ⭐66.4K · 🔤HTML
 
 🌏 **从 vibe coding 到代理工程——实践让 Claude 更完美。**
 
@@ -1296,7 +1377,7 @@
 🔗 [GitHub](https://github.com/shanraisshan/claude-code-best-practice)
 
 ---
-### #24 — usestrix/strix ⭐63.7K · 🔤Python
+### #24 — usestrix/strix ⭐65.1K · 🔤Python
 
 🌏 **开源 AI 黑客工具，帮助发现和修复应用漏洞。**
 
@@ -1305,7 +1386,7 @@
 🔗 [GitHub](https://github.com/usestrix/strix)
 
 ---
-### #25 — mvanhorn/last30days-skill ⭐62.4K · 🔤Python
+### #25 — mvanhorn/last30days-skill ⭐63K · 🔤Python
 
 🌏 **跨 Reddit、X、YouTube、HN 等平台研究任意主题并综合生成摘要的 AI 技能。**
 
@@ -1314,7 +1395,7 @@
 🔗 [GitHub](https://github.com/mvanhorn/last30days-skill)
 
 ---
-### #26 — microsoft/autogen ⭐61.1K · 🔤Python
+### #26 — microsoft/autogen ⭐61.2K · 🔤Python
 
 🌏 **面向代理式 AI 的编程框架。**
 
@@ -1323,7 +1404,7 @@
 🔗 [GitHub](https://github.com/microsoft/autogen)
 
 ---
-### #27 — crewAIInc/crewAI ⭐58.8K · 🔤Python
+### #27 — crewAIInc/crewAI ⭐59.1K · 🔤Python
 
 🌏 **用于编排角色扮演自主 AI 代理的框架。通过促进协作智能，使代理无缝协作处理复杂任务。**
 
@@ -1350,7 +1431,7 @@
 🔗 [GitHub](https://github.com/FlowiseAI/Flowise)
 
 ---
-### #30 — aaif-goose/goose ⭐54.5K · 🔤Rust
+### #30 — aaif-goose/goose ⭐54.7K · 🔤Rust
 
 🌏 **开源可扩展的 AI 代理，超越代码建议——可安装、执行、编辑和测试，支持任意 LLM。**
 
@@ -1359,7 +1440,7 @@
 🔗 [GitHub](https://github.com/aaif-goose/goose)
 
 ---
-### #31 — run-llama/llama_index ⭐52.2K · 🔤Python
+### #31 — run-llama/llama_index ⭐52.3K · 🔤Python
 
 🌏 **LlamaIndex 是领先的文档智能体和 OCR 平台**
 
@@ -1368,7 +1449,7 @@
 🔗 [GitHub](https://github.com/run-llama/llama_index)
 
 ---
-### #32 — coreyhaines31/marketingskills ⭐50.9K · 🔤JavaScript
+### #32 — coreyhaines31/marketingskills ⭐51.6K · 🔤JavaScript
 
 🌏 **面向 Claude Code 和 AI 智能体的营销技能集。**
 
@@ -1377,7 +1458,7 @@
 🔗 [GitHub](https://github.com/coreyhaines31/marketingskills)
 
 ---
-### #33 — moeru-ai/airi ⭐49.3K · 🔤TypeScript
+### #33 — moeru-ai/airi ⭐49.4K · 🔤TypeScript
 
 🌏 **💖🧸 自托管的 AI 伴侣，支持实时语音对话和 Minecraft/Factorio 游玩。**
 
@@ -1386,7 +1467,7 @@
 🔗 [GitHub](https://github.com/moeru-ai/airi)
 
 ---
-### #34 — kepano/obsidian-skills ⭐48.6K
+### #34 — kepano/obsidian-skills ⭐48.9K
 
 🌏 **Obsidian 的 Agent 技能。让你的智能体使用 Obsidian CLI 和开放格式，包括 Markdown、Bases、JSON Canvas。**
 
@@ -1395,7 +1476,7 @@
 🔗 [GitHub](https://github.com/kepano/obsidian-skills)
 
 ---
-### #35 — HKUDS/nanobot ⭐48.4K · 🔤Python
+### #35 — HKUDS/nanobot ⭐48.6K · 🔤Python
 
 🌏 **轻量级开源 AI 代理，服务于你的工具、聊天和工作流。**
 
@@ -1404,7 +1485,7 @@
 🔗 [GitHub](https://github.com/HKUDS/nanobot)
 
 ---
-### #36 — zhayujie/CowAgent ⭐47K · 🔤Python
+### #36 — zhayujie/CowAgent ⭐47.1K · 🔤Python
 
 🌏 **开源超级 AI 助手与代理工具链，可规划任务、运行工具和技能，具备记忆和知识自主成长能力。**
 
@@ -1413,7 +1494,7 @@
 🔗 [GitHub](https://github.com/zhayujie/CowAgent)
 
 ---
-### #37 — K-Dense-AI/scientific-agent-skills ⭐45.7K · 🔤Python
+### #37 — K-Dense-AI/scientific-agent-skills ⭐46.7K · 🔤Python
 
 🌏 **将任何 AI 智能体变为 AI 科学家，140+ 个科学技能和 100+ 科学数据库。**
 
@@ -1422,7 +1503,7 @@
 🔗 [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills)
 
 ---
-### #38 — MadsLorentzen/ai-job-search ⭐43.4K · 🔤Python
+### #38 — MadsLorentzen/ai-job-search ⭐44.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -1431,7 +1512,7 @@
 🔗 [GitHub](https://github.com/MadsLorentzen/ai-job-search)
 
 ---
-### #39 — vercel-labs/agent-browser ⭐42.9K · 🔤Rust
+### #39 — vercel-labs/agent-browser ⭐43.2K · 🔤Rust
 
 🌏 **面向 AI 智能体的浏览器自动化 CLI**
 
@@ -1440,16 +1521,7 @@
 🔗 [GitHub](https://github.com/vercel-labs/agent-browser)
 
 ---
-### #40 — 666ghj/BettaFish ⭐42.3K · 🔤Python
-
-🌏 **微舆：人人可用的多代理舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向。**
-
-📝 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-
-🔗 [GitHub](https://github.com/666ghj/BettaFish)
-
----
-### #41 — agno-agi/agno ⭐42.3K · 🔤Python
+### #40 — agno-agi/agno ⭐42.4K · 🔤Python
 
 🌏 **构建、运行和管理代理平台。**
 
@@ -1458,16 +1530,16 @@
 🔗 [GitHub](https://github.com/agno-agi/agno)
 
 ---
-### #42 — ToolJet/ToolJet ⭐40.9K · 🔤JavaScript
+### #41 — 666ghj/BettaFish ⭐42.3K · 🔤Python
 
-🌏 **ToolJet 是开源的企业应用生成平台，用于构建内部工具、仪表盘和 AI 智能体。**
+🌏 **微舆：人人可用的多代理舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向。**
 
-📝 Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
+📝 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
-🔗 [GitHub](https://github.com/ToolJet/ToolJet)
+🔗 [GitHub](https://github.com/666ghj/BettaFish)
 
 ---
-### #43 — AstrBotDevs/AstrBot ⭐40.7K · 🔤Python
+### #42 — AstrBotDevs/AstrBot ⭐41.1K · 🔤Python
 
 🌏 **AI 代理助手及开发框架，集成多 IM 平台、LLM、插件和 AI 功能，可作为 OpenClaw 的替代方案。**
 
@@ -1476,16 +1548,16 @@
 🔗 [GitHub](https://github.com/AstrBotDevs/AstrBot)
 
 ---
-### #44 — novuhq/novu ⭐40K · 🔤TypeScript
+### #43 — ToolJet/ToolJet ⭐41K · 🔤JavaScript
 
-🌏 **面向智能体和产品的开源通信基础设施**
+🌏 **ToolJet 是开源的企业应用生成平台，用于构建内部工具、仪表盘和 AI 智能体。**
 
-📝 The open-source communication infrastructure for agents and products
+📝 Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 
-🔗 [GitHub](https://github.com/novuhq/novu)
+🔗 [GitHub](https://github.com/ToolJet/ToolJet)
 
 ---
-### #45 — HKUDS/DeepTutor ⭐40K · 🔤Python
+### #44 — HKUDS/DeepTutor ⭐40.3K · 🔤Python
 
 🌏 **DeepTutor：以代理为中心的开源个性化辅导系统。**
 
@@ -1494,34 +1566,25 @@
 🔗 [GitHub](https://github.com/HKUDS/DeepTutor)
 
 ---
-### #46 — tinyhumansai/openhuman ⭐39.9K · 🔤Rust
+### #45 — tinyhumansai/openhuman ⭐40.1K · 🔤Rust
 
 🌏 **你的个人 AI 超级智能，私密、简单且极其强大。**
 
-📝 OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
+📝 OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 
 🔗 [GitHub](https://github.com/tinyhumansai/openhuman)
 
 ---
-### #47 — Yeachan-Heo/oh-my-claudecode ⭐39.3K · 🔤TypeScript
+### #46 — novuhq/novu ⭐40.1K · 🔤TypeScript
 
-🌏 **面向团队的 Claude Code 多代理编排工具。**
+🌏 **面向智能体和产品的开源通信基础设施**
 
-📝 Teams-first Multi-agent orchestration for Claude Code
+📝 The open-source communication infrastructure for agents and products
 
-🔗 [GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode)
-
----
-### #48 — mindsdb/minds-platform ⭐39.3K · 🔤Python
-
-🌏 **致力于为 AI 应用构建开放基础的平台，面向追求可掌控、可扩展、可随处部署的生产级 AI 系统。**
-
-📝 General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
-
-🔗 [GitHub](https://github.com/mindsdb/minds-platform)
+🔗 [GitHub](https://github.com/novuhq/novu)
 
 ---
-### #49 — github/awesome-copilot ⭐39.2K · 🔤JavaScript
+### #47 — github/awesome-copilot ⭐39.4K · 🔤JavaScript
 
 🌏 **社区贡献的 GitHub Copilot 指令、智能体、技能和配置合集。**
 
@@ -1530,7 +1593,25 @@
 🔗 [GitHub](https://github.com/github/awesome-copilot)
 
 ---
-### #50 — THU-MAIC/OpenMAIC ⭐38K · 🔤TypeScript
+### #48 — Yeachan-Heo/oh-my-claudecode ⭐39.4K · 🔤TypeScript
+
+🌏 **面向团队的 Claude Code 多代理编排工具。**
+
+📝 Teams-first Multi-agent orchestration for Claude Code
+
+🔗 [GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode)
+
+---
+### #49 — mindsdb/minds-platform ⭐39.3K · 🔤Python
+
+🌏 **致力于为 AI 应用构建开放基础的平台，面向追求可掌控、可扩展、可随处部署的生产级 AI 系统。**
+
+📝 General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+
+🔗 [GitHub](https://github.com/mindsdb/minds-platform)
+
+---
+### #50 — THU-MAIC/OpenMAIC ⭐39.2K · 🔤TypeScript
 
 🌏 **AI Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning **
 
@@ -1539,7 +1620,7 @@
 🔗 [GitHub](https://github.com/THU-MAIC/OpenMAIC)
 
 ---
-### #51 — ashishpatel26/500-AI-Agents-Projects ⭐37.9K · 🔤Python
+### #51 — ashishpatel26/500-AI-Agents-Projects ⭐38.1K · 🔤Python
 
 🌏 **500 个 AI 代理项目的精选合集，涵盖医疗、金融、教育、零售等多个行业的实际应用案例。**
 
@@ -1548,7 +1629,7 @@
 🔗 [GitHub](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 
 ---
-### #52 — CopilotKit/CopilotKit ⭐37.4K · 🔤TypeScript
+### #52 — CopilotKit/CopilotKit ⭐37.6K · 🔤TypeScript
 
 🌏 **面向代理和生成式 UI 的前端技术栈，支持 React + Angular，AG-UI 协议创建者。**
 
@@ -1584,7 +1665,7 @@
 🔗 [GitHub](https://github.com/reworkd/AgentGPT)
 
 ---
-### #56 — VoltAgent/awesome-agent-skills ⭐34.6K
+### #56 — VoltAgent/awesome-agent-skills ⭐34.9K
 
 🌏 **1000+ 代理技能的精选合集，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。**
 
@@ -1593,7 +1674,7 @@
 🔗 [GitHub](https://github.com/VoltAgent/awesome-agent-skills)
 
 ---
-### #57 — OpenBMB/ChatDev ⭐34.3K · 🔤Python
+### #57 — OpenBMB/ChatDev ⭐34.4K · 🔤Python
 
 🌏 **ChatDev 2.0：通过 LLM 驱动的多智能体协作进行开发**
 
@@ -1602,7 +1683,7 @@
 🔗 [GitHub](https://github.com/OpenBMB/ChatDev)
 
 ---
-### #58 — HKUDS/Vibe-Trading ⭐33.7K · 🔤Python
+### #58 — HKUDS/Vibe-Trading ⭐34.1K · 🔤Python
 
 🌏 **你的个人交易代理。**
 
@@ -1611,7 +1692,7 @@
 🔗 [GitHub](https://github.com/HKUDS/Vibe-Trading)
 
 ---
-### #59 — freestylefly/awesome-gpt-image-2 ⭐32.9K · 🔤JavaScript
+### #59 — freestylefly/awesome-gpt-image-2 ⭐33.6K · 🔤JavaScript
 
 🌏 **Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出 Skills，持续更新中。**
 
@@ -1620,7 +1701,7 @@
 🔗 [GitHub](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
-### #60 — huggingface/agents-course ⭐32.7K · 🔤MDX
+### #60 — huggingface/agents-course ⭐32.9K · 🔤MDX
 
 🌏 **Hugging Face Agent 课程仓库**
 
@@ -1629,43 +1710,16 @@
 🔗 [GitHub](https://github.com/huggingface/agents-course)
 
 ---
-### #61 — conductor-oss/conductor ⭐32.2K · 🔤Java
+### 🆕 #61 — vectorize-io/hindsight ⭐32.8K · 🔤Python
 
-🌏 **Conductor 是事件驱动的智能体工作流引擎，为应用和 AI 智能体提供持久可靠执行。**
+🌏 *中文描述待补充*
 
-📝 Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
+📝 Hindsight: Agent Memory That Learns
 
-🔗 [GitHub](https://github.com/conductor-oss/conductor)
-
----
-### #62 — agentscope-ai/agentscope ⭐32K · 🔤Python
-
-🌏 **构建和运行可视化、可理解、可信任的代理。**
-
-📝 Build and run agents you can see, understand and trust.
-
-🔗 [GitHub](https://github.com/agentscope-ai/agentscope)
+🔗 [GitHub](https://github.com/vectorize-io/hindsight)
 
 ---
-### #63 — zeroclaw-labs/zeroclaw ⭐31.9K · 🔤Rust
-
-🌏 **快速小巧的全自主 AI 个人助手基础设施，任何平台都可部署。**
-
-📝 Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
-
-🔗 [GitHub](https://github.com/zeroclaw-labs/zeroclaw)
-
----
-### #64 — Fincept-Corporation/FinceptTerminal ⭐31.8K · 🔤C++
-
-🌏 **现代金融应用，提供高级市场分析、投资研究和经济数据工具，支持交互式探索和数据驱动决策。**
-
-📝 FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
-
-🔗 [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal)
-
----
-### #65 — virgiliojr94/book-to-skill ⭐31.4K · 🔤Python
+### #62 — virgiliojr94/book-to-skill ⭐32.6K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -1674,16 +1728,43 @@
 🔗 [GitHub](https://github.com/virgiliojr94/book-to-skill)
 
 ---
-### #66 — getzep/graphiti ⭐31K · 🔤Python
+### #63 — agentscope-ai/agentscope ⭐32.4K · 🔤Python
 
-🌏 **为 AI 智能体构建实时知识图谱**
+🌏 **构建和运行可视化、可理解、可信任的代理。**
 
-📝 Build Real-Time Knowledge Graphs for AI Agents
+📝 Build and run agents you can see, understand and trust.
 
-🔗 [GitHub](https://github.com/getzep/graphiti)
+🔗 [GitHub](https://github.com/agentscope-ai/agentscope)
 
 ---
-### #67 — iOfficeAI/OfficeCLI ⭐30.9K · 🔤C#
+### #64 — conductor-oss/conductor ⭐32.2K · 🔤Java
+
+🌏 **Conductor 是事件驱动的智能体工作流引擎，为应用和 AI 智能体提供持久可靠执行。**
+
+📝 Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
+
+🔗 [GitHub](https://github.com/conductor-oss/conductor)
+
+---
+### #65 — Fincept-Corporation/FinceptTerminal ⭐32K · 🔤C++
+
+🌏 **现代金融应用，提供高级市场分析、投资研究和经济数据工具，支持交互式探索和数据驱动决策。**
+
+📝 FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
+
+🔗 [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal)
+
+---
+### #66 — zeroclaw-labs/zeroclaw ⭐31.9K · 🔤Rust
+
+🌏 **快速小巧的全自主 AI 个人助手基础设施，任何平台都可部署。**
+
+📝 Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
+
+🔗 [GitHub](https://github.com/zeroclaw-labs/zeroclaw)
+
+---
+### #67 — iOfficeAI/OfficeCLI ⭐31.3K · 🔤C#
 
 🌏 *中文描述待补充*
 
@@ -1692,7 +1773,16 @@
 🔗 [GitHub](https://github.com/iOfficeAI/OfficeCLI)
 
 ---
-### #68 — topoteretes/cognee ⭐30.8K · 🔤Python
+### #68 — getzep/graphiti ⭐31.2K · 🔤Python
+
+🌏 **为 AI 智能体构建实时知识图谱**
+
+📝 Build Real-Time Knowledge Graphs for AI Agents
+
+🔗 [GitHub](https://github.com/getzep/graphiti)
+
+---
+### #69 — topoteretes/cognee ⭐31K · 🔤Python
 
 🌏 **用 6 行代码为 AI 代理提供的记忆控制平面。**
 
@@ -1701,7 +1791,7 @@
 🔗 [GitHub](https://github.com/topoteretes/cognee)
 
 ---
-### #69 — nanocoai/nanoclaw ⭐30.8K · 🔤TypeScript
+### #70 — nanocoai/nanoclaw ⭐30.8K · 🔤TypeScript
 
 🌏 **OpenClaw 的轻量级替代方案，容器化运行更安全，支持 WhatsApp、Telegram、Slack 等多消息平台。**
 
@@ -1710,7 +1800,7 @@
 🔗 [GitHub](https://github.com/nanocoai/nanoclaw)
 
 ---
-### #70 — simstudioai/sim ⭐29.7K · 🔤TypeScript
+### #71 — simstudioai/sim ⭐29.7K · 🔤TypeScript
 
 🌏 **构建、部署和编排 AI 智能体，Sim 是你 AI 工作团队的中央智能层。**
 
@@ -1719,7 +1809,7 @@
 🔗 [GitHub](https://github.com/simstudioai/sim)
 
 ---
-### #71 — assafelovic/gpt-researcher ⭐29.5K · 🔤Python
+### #72 — assafelovic/gpt-researcher ⭐29.6K · 🔤Python
 
 🌏 **自主代理，可使用任意 LLM 提供商对任何数据进行深度研究。**
 
@@ -1728,16 +1818,7 @@
 🔗 [GitHub](https://github.com/assafelovic/gpt-researcher)
 
 ---
-### #72 — nrwl/nx ⭐29.4K · 🔤TypeScript
-
-🌏 **增强开发者和 AI Agent 的单仓平台，优化构建、扩展 CI、自动修复失败的 PR。**
-
-📝 The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
-
-🔗 [GitHub](https://github.com/nrwl/nx)
-
----
-### #73 — chroma-core/chroma ⭐29.3K · 🔤Rust
+### #73 — chroma-core/chroma ⭐29.4K · 🔤Rust
 
 🌏 **AI 搜索基础设施。**
 
@@ -1746,7 +1827,16 @@
 🔗 [GitHub](https://github.com/chroma-core/chroma)
 
 ---
-### 🆕 #74 — harvard-edge/cs249r_book ⭐28.4K · 🔤Python
+### #74 — nrwl/nx ⭐29.4K · 🔤TypeScript
+
+🌏 **增强开发者和 AI Agent 的单仓平台，优化构建、扩展 CI、自动修复失败的 PR。**
+
+📝 The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
+
+🔗 [GitHub](https://github.com/nrwl/nx)
+
+---
+### 🆕 #75 — harvard-edge/cs249r_book ⭐28.5K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -1755,7 +1845,7 @@
 🔗 [GitHub](https://github.com/harvard-edge/cs249r_book)
 
 ---
-### #75 — huggingface/smolagents ⭐28.2K · 🔤Python
+### #76 — huggingface/smolagents ⭐28.2K · 🔤Python
 
 🌏 **🤗 smolagents：一个极简的 Agent 库，让 Agent 用代码思考。**
 
@@ -1764,7 +1854,7 @@
 🔗 [GitHub](https://github.com/huggingface/smolagents)
 
 ---
-### #76 — Budibase/budibase ⭐28.1K · 🔤TypeScript
+### #77 — Budibase/budibase ⭐28.1K · 🔤TypeScript
 
 🌏 **AI 智能体、自动化和应用，驱动你的运营，模型无关。**
 
@@ -1773,7 +1863,7 @@
 🔗 [GitHub](https://github.com/Budibase/budibase)
 
 ---
-### #77 — h4ckf0r0day/obscura ⭐27.4K · 🔤Rust
+### #78 — h4ckf0r0day/obscura ⭐28K · 🔤Rust
 
 🌏 **面向 AI 智能体和网页抓取的无头浏览器**
 
@@ -1782,16 +1872,7 @@
 🔗 [GitHub](https://github.com/h4ckf0r0day/obscura)
 
 ---
-### #78 — openai/openai-agents-python ⭐27.2K · 🔤Python
-
-🌏 **轻量级、强大的多智能体工作流框架**
-
-📝 A lightweight, powerful framework for multi-agent workflows
-
-🔗 [GitHub](https://github.com/openai/openai-agents-python)
-
----
-### #79 — TencentCloud/TencentDB-Agent-Memory ⭐27K · 🔤TypeScript
+### #79 — TencentCloud/TencentDB-Agent-Memory ⭐27.3K · 🔤TypeScript
 
 🌏 **TencentDB Agent Memory 通过 4 层渐进式管线为 AI 智能体提供完全本地的长期记忆，零外部 API 依赖。**
 
@@ -1800,7 +1881,16 @@
 🔗 [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
 ---
-### #80 — Fosowl/agenticSeek ⭐26.7K · 🔤Python
+### #80 — openai/openai-agents-python ⭐27.2K · 🔤Python
+
+🌏 **轻量级、强大的多智能体工作流框架**
+
+📝 A lightweight, powerful framework for multi-agent workflows
+
+🔗 [GitHub](https://github.com/openai/openai-agents-python)
+
+---
+### #81 — Fosowl/agenticSeek ⭐26.7K · 🔤Python
 
 🌏 **完全本地的 Manus AI，无需 API，无需月费，自主智能体仅需电费。**
 
@@ -1809,7 +1899,7 @@
 🔗 [GitHub](https://github.com/Fosowl/agenticSeek)
 
 ---
-### #81 — deepset-ai/haystack ⭐26.6K · 🔤Python
+### #82 — deepset-ai/haystack ⭐26.6K · 🔤Python
 
 🌏 **开源 AI 编排框架，用于构建生产就绪的 LLM 应用。支持可扩展的 Agent 和 RAG。**
 
@@ -1818,61 +1908,7 @@
 🔗 [GitHub](https://github.com/deepset-ai/haystack)
 
 ---
-### #82 — humanlayer/12-factor-agents ⭐26.3K · 🔤TypeScript
-
-🌏 **构建生产级 LLM 应用应遵循的原则是什么？**
-
-📝 What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-
-🔗 [GitHub](https://github.com/humanlayer/12-factor-agents)
-
----
-### #83 — enescingoz/awesome-n8n-templates ⭐25.5K
-
-🌏 **280+ 免费 n8n 自动化模板，涵盖 Gmail、Telegram、Slack、Discord、WhatsApp 等的即用工作流。**
-
-📝 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
-
-🔗 [GitHub](https://github.com/enescingoz/awesome-n8n-templates)
-
----
-### #84 — Donchitos/Claude-Code-Game-Studios ⭐25.2K · 🔤Shell
-
-🌏 **将 Claude Code 变成完整的游戏开发工作室——49 个 AI 代理、72 个工作流技能，镜像真实工作室层级。**
-
-📝 Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-
-🔗 [GitHub](https://github.com/Donchitos/Claude-Code-Game-Studios)
-
----
-### #85 — VoltAgent/awesome-claude-code-subagents ⭐25.2K · 🔤Shell
-
-🌏 **100+ 专业化 Claude Code 子代理的合集，覆盖广泛的开发用例。**
-
-📝 A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
-
-🔗 [GitHub](https://github.com/VoltAgent/awesome-claude-code-subagents)
-
----
-### #86 — letta-ai/letta ⭐24.8K
-
-🌏 **Letta 是构建有状态代理的平台——具备高级记忆能力的 AI，可随时间学习和自我改进。**
-
-📝 Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
-
-🔗 [GitHub](https://github.com/letta-ai/letta)
-
----
-### #87 — vxcontrol/pentagi ⭐24.8K · 🔤Go
-
-🌏 **能够执行复杂渗透测试任务的完全自主 AI 代理系统。**
-
-📝 Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
-🔗 [GitHub](https://github.com/vxcontrol/pentagi)
-
----
-### #88 — trycua/cua ⭐24.6K · 🔤HTML
+### #83 — trycua/cua ⭐26.6K · 🔤HTML
 
 🌏 **面向计算机使用代理的开源基础设施：沙箱、SDK 和基准测试。**
 
@@ -1881,7 +1917,61 @@
 🔗 [GitHub](https://github.com/trycua/cua)
 
 ---
-### #89 — dolthub/dolt ⭐24.5K · 🔤Go
+### #84 — humanlayer/12-factor-agents ⭐26.4K · 🔤TypeScript
+
+🌏 **构建生产级 LLM 应用应遵循的原则是什么？**
+
+📝 What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+
+🔗 [GitHub](https://github.com/humanlayer/12-factor-agents)
+
+---
+### #85 — enescingoz/awesome-n8n-templates ⭐25.6K
+
+🌏 **280+ 免费 n8n 自动化模板，涵盖 Gmail、Telegram、Slack、Discord、WhatsApp 等的即用工作流。**
+
+📝 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
+
+🔗 [GitHub](https://github.com/enescingoz/awesome-n8n-templates)
+
+---
+### #86 — Donchitos/Claude-Code-Game-Studios ⭐25.5K · 🔤Shell
+
+🌏 **将 Claude Code 变成完整的游戏开发工作室——49 个 AI 代理、72 个工作流技能，镜像真实工作室层级。**
+
+📝 Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+
+🔗 [GitHub](https://github.com/Donchitos/Claude-Code-Game-Studios)
+
+---
+### #87 — VoltAgent/awesome-claude-code-subagents ⭐25.3K · 🔤Shell
+
+🌏 **100+ 专业化 Claude Code 子代理的合集，覆盖广泛的开发用例。**
+
+📝 A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+
+🔗 [GitHub](https://github.com/VoltAgent/awesome-claude-code-subagents)
+
+---
+### #88 — vxcontrol/pentagi ⭐25K · 🔤Go
+
+🌏 **能够执行复杂渗透测试任务的完全自主 AI 代理系统。**
+
+📝 Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+
+🔗 [GitHub](https://github.com/vxcontrol/pentagi)
+
+---
+### #89 — letta-ai/letta ⭐24.9K
+
+🌏 **Letta 是构建有状态代理的平台——具备高级记忆能力的 AI，可随时间学习和自我改进。**
+
+📝 Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
+
+🔗 [GitHub](https://github.com/letta-ai/letta)
+
+---
+### #90 — dolthub/dolt ⭐24.5K · 🔤Go
 
 🌏 **Dolt——数据的 Git。**
 
@@ -1890,7 +1980,7 @@
 🔗 [GitHub](https://github.com/dolthub/dolt)
 
 ---
-### #90 — AccumulateMore/CV ⭐23.8K · 🔤Jupyter Notebook
+### #91 — AccumulateMore/CV ⭐23.8K · 🔤Jupyter Notebook
 
 🌏 **✅ 超级全面的深度学习笔记合集**
 
@@ -1899,7 +1989,7 @@
 🔗 [GitHub](https://github.com/AccumulateMore/CV)
 
 ---
-### #91 — NVIDIA/NemoClaw ⭐22.5K · 🔤TypeScript
+### #92 — NVIDIA/NemoClaw ⭐22.5K · 🔤TypeScript
 
 🌏 **在 NVIDIA OpenShell 中更安全地运行 Hermes 和 OpenClaw 等智能体。**
 
@@ -1908,7 +1998,7 @@
 🔗 [GitHub](https://github.com/NVIDIA/NemoClaw)
 
 ---
-### #92 — ogulcancelik/herdr ⭐22.2K · 🔤Rust
+### #93 — ogulcancelik/herdr ⭐22.2K · 🔤Rust
 
 🌏 **驻留在终端中的 Agent 多路复用器。**
 
@@ -1917,7 +2007,7 @@
 🔗 [GitHub](https://github.com/ogulcancelik/herdr)
 
 ---
-### #93 — airbytehq/airbyte ⭐22.1K · 🔤Python
+### #94 — airbytehq/airbyte ⭐22.1K · 🔤Python
 
 🌏 **用于 ELT 管道和 AI 智能体的开源数据移动平台，可自托管或使用云服务。**
 
@@ -1926,16 +2016,7 @@
 🔗 [GitHub](https://github.com/airbytehq/airbyte)
 
 ---
-### #94 — coze-dev/coze-studio ⭐21.6K · 🔤TypeScript
-
-🌏 **AI 智能体开发平台，全可视化工具，简化智能体创建、调试和部署。**
-
-📝 An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-
-🔗 [GitHub](https://github.com/coze-dev/coze-studio)
-
----
-### #95 — google/adk-python ⭐21.6K · 🔤Python
+### #95 — google/adk-python ⭐21.7K · 🔤Python
 
 🌏 **开源的、代码优先的 Python 工具包，用于灵活构建、评估和部署复杂的 AI 代理。**
 
@@ -1944,16 +2025,16 @@
 🔗 [GitHub](https://github.com/google/adk-python)
 
 ---
-### #96 — KKKKhazix/khazix-skills ⭐20.8K · 🔤Python
+### #96 — coze-dev/coze-studio ⭐21.6K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **AI 智能体开发平台，全可视化工具，简化智能体创建、调试和部署。**
 
-📝 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
+📝 An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 
-🔗 [GitHub](https://github.com/KKKKhazix/khazix-skills)
+🔗 [GitHub](https://github.com/coze-dev/coze-studio)
 
 ---
-### #97 — jnMetaCode/agency-agents-zh ⭐20.8K · 🔤Shell
+### #97 — jnMetaCode/agency-agents-zh ⭐21K · 🔤Shell
 
 🌏 **🎭 211 个即插即用的 AI 专家角色，支持 16 种工具，覆盖工程、设计、营销、金融等 18 个部门。**
 
@@ -1962,7 +2043,16 @@
 🔗 [GitHub](https://github.com/jnMetaCode/agency-agents-zh)
 
 ---
-### #98 — kortix-ai/suna ⭐20.2K · 🔤TypeScript
+### #98 — KKKKhazix/khazix-skills ⭐20.9K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
+
+🔗 [GitHub](https://github.com/KKKKhazix/khazix-skills)
+
+---
+### #99 — kortix-ai/suna ⭐20.2K · 🔤TypeScript
 
 🌏 **企业 AI 指挥中心。**
 
@@ -1971,16 +2061,7 @@
 🔗 [GitHub](https://github.com/kortix-ai/suna)
 
 ---
-### #99 — camel-ai/owl ⭐20.1K · 🔤Python
-
-🌏 **🦉 OWL：面向真实世界任务自动化的一般多智能体协作框架**
-
-📝 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
-
-🔗 [GitHub](https://github.com/camel-ai/owl)
-
----
-### #100 — hummingbot/hummingbot ⭐20.1K · 🔤Python
+### #100 — hummingbot/hummingbot ⭐20.2K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -1989,7 +2070,16 @@
 🔗 [GitHub](https://github.com/hummingbot/hummingbot)
 
 ---
-### #101 — eosphoros-ai/DB-GPT ⭐20K · 🔤Python
+### #101 — camel-ai/owl ⭐20.1K · 🔤Python
+
+🌏 **🦉 OWL：面向真实世界任务自动化的一般多智能体协作框架**
+
+📝 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
+
+🔗 [GitHub](https://github.com/camel-ai/owl)
+
+---
+### #102 — eosphoros-ai/DB-GPT ⭐20K · 🔤Python
 
 🌏 **面向下一代 AI + 数据产品的开源智能体 AI 数据助手。**
 
@@ -1998,7 +2088,7 @@
 🔗 [GitHub](https://github.com/eosphoros-ai/DB-GPT)
 
 ---
-### #102 — nesquena/hermes-webui ⭐18.5K · 🔤Python
+### #103 — nesquena/hermes-webui ⭐18.6K · 🔤Python
 
 🌏 **Hermes WebUI：在网页或手机上使用 Hermes Agent 的最佳方式！**
 
@@ -2007,61 +2097,7 @@
 🔗 [GitHub](https://github.com/nesquena/hermes-webui)
 
 ---
-### #103 — emcie-co/parlant ⭐18.3K · 🔤Python
-
-🌏 **用 Parlant 构建可靠的面向客户的 AI 代理：一个专注于受控、一致和可预测的 LLM 交互控制框架。**
-
-📝 Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
-
-🔗 [GitHub](https://github.com/emcie-co/parlant)
-
----
-### #104 — arc53/DocsGPT ⭐18.3K · 🔤Python
-
-🌏 **面向智能体、助手和企业搜索的私有 AI 平台。内置 Agent 构建器。**
-
-📝 Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-
-🔗 [GitHub](https://github.com/arc53/DocsGPT)
-
----
-### #105 — RightNow-AI/openfang ⭐18.2K · 🔤Rust
-
-🌏 **开源代理操作系统。**
-
-📝 Open-source Agent Operating System
-
-🔗 [GitHub](https://github.com/RightNow-AI/openfang)
-
----
-### #106 — muratcankoylan/Agent-Skills-for-Context-Engineering ⭐18K · 🔤Python
-
-🌏 **面向上下文工程、多智能体架构和生产系统的 Agent Skills 综合合集。**
-
-📝 A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
-
-🔗 [GitHub](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
-
----
-### #107 — langbot-app/LangBot ⭐17.9K · 🔤Python
-
-🌏 **生产级多平台智能机器人开发平台，提供 Agent、知识库编排和插件系统，支持 Discord / Slack / LINE / Telegram / 微信 / 飞书 / 钉钉 / QQ 等。**
-
-📝 Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr
-
-🔗 [GitHub](https://github.com/langbot-app/LangBot)
-
----
-### #108 — rowboatlabs/rowboat ⭐17.9K · 🔤TypeScript
-
-🌏 **带记忆的开源 AI 同事。**
-
-📝 AI coworker with memory and collaboration
-
-🔗 [GitHub](https://github.com/rowboatlabs/rowboat)
-
----
-### #109 — NVIDIA/SkillSpector ⭐17.9K · 🔤Python
+### #104 — NVIDIA/SkillSpector ⭐18.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -2070,7 +2106,61 @@
 🔗 [GitHub](https://github.com/NVIDIA/SkillSpector)
 
 ---
-### #110 — camel-ai/camel ⭐17.7K · 🔤Python
+### #105 — emcie-co/parlant ⭐18.3K · 🔤Python
+
+🌏 **用 Parlant 构建可靠的面向客户的 AI 代理：一个专注于受控、一致和可预测的 LLM 交互控制框架。**
+
+📝 Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
+
+🔗 [GitHub](https://github.com/emcie-co/parlant)
+
+---
+### #106 — arc53/DocsGPT ⭐18.3K · 🔤Python
+
+🌏 **面向智能体、助手和企业搜索的私有 AI 平台。内置 Agent 构建器。**
+
+📝 Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+
+🔗 [GitHub](https://github.com/arc53/DocsGPT)
+
+---
+### #107 — RightNow-AI/openfang ⭐18.2K · 🔤Rust
+
+🌏 **开源代理操作系统。**
+
+📝 Open-source Agent Operating System
+
+🔗 [GitHub](https://github.com/RightNow-AI/openfang)
+
+---
+### #108 — muratcankoylan/Agent-Skills-for-Context-Engineering ⭐18K · 🔤Python
+
+🌏 **面向上下文工程、多智能体架构和生产系统的 Agent Skills 综合合集。**
+
+📝 A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
+
+🔗 [GitHub](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+
+---
+### #109 — rowboatlabs/rowboat ⭐18K · 🔤TypeScript
+
+🌏 **带记忆的开源 AI 同事。**
+
+📝 AI coworker with memory and collaboration
+
+🔗 [GitHub](https://github.com/rowboatlabs/rowboat)
+
+---
+### #110 — langbot-app/LangBot ⭐18K · 🔤Python
+
+🌏 **生产级多平台智能机器人开发平台，提供 Agent、知识库编排和插件系统，支持 Discord / Slack / LINE / Telegram / 微信 / 飞书 / 钉钉 / QQ 等。**
+
+📝 Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr
+
+🔗 [GitHub](https://github.com/langbot-app/LangBot)
+
+---
+### #111 — camel-ai/camel ⭐17.8K · 🔤Python
 
 🌏 **AI 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law **
 
@@ -2079,7 +2169,7 @@
 🔗 [GitHub](https://github.com/camel-ai/camel)
 
 ---
-### #111 — GoogleCloudPlatform/generative-ai ⭐17.7K · 🔤Jupyter Notebook
+### #112 — GoogleCloudPlatform/generative-ai ⭐17.8K · 🔤Jupyter Notebook
 
 🌏 **Google Cloud 上 Generative AI 的示例代码和笔记本，支持 Gemini Enterprise Agent 平台。**
 
@@ -2088,7 +2178,7 @@
 🔗 [GitHub](https://github.com/GoogleCloudPlatform/generative-ai)
 
 ---
-### #112 — Canner/WrenAI ⭐17.7K · 🔤Python
+### #113 — Canner/WrenAI ⭐17.8K · 🔤Python
 
 🌏 **AI 智能体的开放上下文层，通过 SQL 跨 20+ 数据源查询业务数据。**
 
@@ -2097,7 +2187,7 @@
 🔗 [GitHub](https://github.com/Canner/WrenAI)
 
 ---
-### #113 — leon-ai/leon ⭐17.5K · 🔤TypeScript
+### #114 — leon-ai/leon ⭐17.5K · 🔤TypeScript
 
 🌏 **🧠 Leon 是你的开源个人助手。**
 
@@ -2106,34 +2196,7 @@
 🔗 [GitHub](https://github.com/leon-ai/leon)
 
 ---
-### #114 — cft0808/edict ⭐16.9K · 🔤Python
-
-🌏 **🏛️ OpenClaw 多代理编排系统——9 个专业化 AI 代理，实时仪表盘、模型配置和完整审计追踪。**
-
-📝 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
-
-🔗 [GitHub](https://github.com/cft0808/edict)
-
----
-### #115 — mayooear/ai-pdf-chatbot-langchain ⭐16.6K · 🔤TypeScript
-
-🌏 **基于 LangChain 和 LangGraph 的 AI PDF 聊天机器人**
-
-📝 AI PDF chatbot agent built with LangChain & LangGraph 
-
-🔗 [GitHub](https://github.com/mayooear/ai-pdf-chatbot-langchain)
-
----
-### #116 — memvid/memvid ⭐16.5K · 🔤Rust
-
-🌏 **AI Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, sin**
-
-📝 Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-
-🔗 [GitHub](https://github.com/memvid/memvid)
-
----
-### #117 — img2threejs/img2threejs ⭐16.4K · 🔤Python
+### #115 — img2threejs/img2threejs ⭐16.9K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -2142,7 +2205,34 @@
 🔗 [GitHub](https://github.com/img2threejs/img2threejs)
 
 ---
-### #118 — earthtojake/text-to-cad ⭐16.2K · 🔤Python
+### #116 — cft0808/edict ⭐16.9K · 🔤Python
+
+🌏 **🏛️ OpenClaw 多代理编排系统——9 个专业化 AI 代理，实时仪表盘、模型配置和完整审计追踪。**
+
+📝 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
+
+🔗 [GitHub](https://github.com/cft0808/edict)
+
+---
+### #117 — mayooear/ai-pdf-chatbot-langchain ⭐16.6K · 🔤TypeScript
+
+🌏 **基于 LangChain 和 LangGraph 的 AI PDF 聊天机器人**
+
+📝 AI PDF chatbot agent built with LangChain & LangGraph 
+
+🔗 [GitHub](https://github.com/mayooear/ai-pdf-chatbot-langchain)
+
+---
+### #118 — memvid/memvid ⭐16.6K · 🔤Rust
+
+🌏 **AI Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, sin**
+
+📝 Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+
+🔗 [GitHub](https://github.com/memvid/memvid)
+
+---
+### #119 — earthtojake/text-to-cad ⭐16.4K · 🔤Python
 
 🌏 **CAD、机器人学和硬件设计的 Agent 技能合集**
 
@@ -2151,169 +2241,7 @@
 🔗 [GitHub](https://github.com/earthtojake/text-to-cad)
 
 ---
-### #119 — dagger/dagger ⭐16K · 🔤Go
-
-🌏 **构建、测试和部署任意代码库的自动化引擎，本地或 CI 中运行。**
-
-📝 Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-
-🔗 [GitHub](https://github.com/dagger/dagger)
-
----
-### #120 — ag-ui-protocol/ag-ui ⭐16K · 🔤TypeScript
-
-🌏 **AG-UI：代理-用户交互协议。将代理带入前端应用。**
-
-📝 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
-🔗 [GitHub](https://github.com/ag-ui-protocol/ag-ui)
-
----
-### #121 — ifixai-ai/iFixAi ⭐15.6K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th
-
-🔗 [GitHub](https://github.com/ifixai-ai/iFixAi)
-
----
-### #122 — opensandbox-group/OpenSandbox ⭐15.4K · 🔤Python
-
-🌏 **面向 AI 智能体安全、快速、可扩展的沙箱运行时。**
-
-📝 Secure, Fast, and Extensible Sandbox runtime for AI agents.
-
-🔗 [GitHub](https://github.com/opensandbox-group/OpenSandbox)
-
----
-### #123 — eigent-ai/eigent ⭐15.3K · 🔤TypeScript
-
-🌏 **Eigent：开源 AI 协同桌面，释放超常生产力。Claude Cowork 的本地免费替代。**
-
-📝 Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
-
-🔗 [GitHub](https://github.com/eigent-ai/eigent)
-
----
-### #124 — llmware-ai/llmware ⭐14.8K · 🔤Python
-
-🌏 **使用小型专用模型构建企业 RAG 管道的统一框架**
-
-📝 Unified framework for building enterprise RAG pipelines with small, specialized models
-
-🔗 [GitHub](https://github.com/llmware-ai/llmware)
-
----
-### #125 — superset-sh/superset ⭐14.4K · 🔤TypeScript
-
-🌏 **AI 代理时代的代码编辑器——在你的机器上运行一群 Claude Code、Codex 等代理。**
-
-📝 Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
-
-🔗 [GitHub](https://github.com/superset-sh/superset)
-
----
-### #126 — lsdefine/GenericAgent ⭐14.2K · 🔤Python
-
-🌏 **自进化代理：从 3.3K 行种子代码生长技能树，6 倍更少 token 消耗实现全系统控制。**
-
-📝 Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-
-🔗 [GitHub](https://github.com/lsdefine/GenericAgent)
-
----
-### #127 — waooAI/waoowaoo ⭐14.2K · 🔤TypeScript
-
-🌏 **首家工业级全流程 AI 影视生产平台，从短视频到实拍电影，好莱坞标准工作流。**
-
-📝 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
-
-🔗 [GitHub](https://github.com/waooAI/waoowaoo)
-
----
-### #128 — e2b-dev/E2B ⭐13.9K · 🔤Python
-
-🌏 **开源安全的执行环境，配备真实世界工具，面向企业级代理。**
-
-📝 Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-🔗 [GitHub](https://github.com/e2b-dev/E2B)
-
----
-### #129 — microsoft/agent-framework ⭐13.6K · 🔤Python
-
-🌏 **用于构建、编排和部署 AI 代理及多代理工作流的框架，支持 Python 和 .NET。**
-
-📝 A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
-
-🔗 [GitHub](https://github.com/microsoft/agent-framework)
-
----
-### #130 — XiaomiMiMo/MiMo-Code ⭐13.2K · 🔤TypeScript
-
-🌏 **MiMo Code：模型与代理共同进化之地。**
-
-📝 MiMo Code: Where Models and Agents Co-Evolve
-
-🔗 [GitHub](https://github.com/XiaomiMiMo/MiMo-Code)
-
----
-### #131 — oblien/openship ⭐12.4K · 🔤TypeScript
-
-🌏 *中文描述待补充*
-
-📝 Self-hosted deployment platform
-
-🔗 [GitHub](https://github.com/oblien/openship)
-
----
-### #132 — simular-ai/Agent-S ⭐12.3K · 🔤Python
-
-🌏 **Agent S：像人类一样使用计算机的开源代理框架。**
-
-📝 Agent S: an open agentic framework that uses computers like a human
-
-🔗 [GitHub](https://github.com/simular-ai/Agent-S)
-
----
-### #133 — kubeshark/kubeshark ⭐12K · 🔤Go
-
-🌏 **基于 eBPF 的 Kubernetes 网络可观测性工具，AI 代理可通过 MCP 查询。**
-
-📝 eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
-
-🔗 [GitHub](https://github.com/kubeshark/kubeshark)
-
----
-### #134 — cocoindex-io/cocoindex ⭐11.6K · 🔤Rust
-
-🌏 **面向长周期代理的增量引擎。**
-
-📝 Incremental engine for long horizon agents 🌟 Star if you like it!
-
-🔗 [GitHub](https://github.com/cocoindex-io/cocoindex)
-
----
-### #135 — Jeffallan/claude-skills ⭐11.5K · 🔤Python
-
-🌏 **面向全栈开发者的 66 个专业化技能，将 Claude Code 转化为你的专家结对编程伙伴。**
-
-📝 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-
-🔗 [GitHub](https://github.com/Jeffallan/claude-skills)
-
----
-### #136 — holaboss-ai/holaOS ⭐11.3K · 🔤TypeScript
-
-🌏 **你的工作超级代理：本地优先，几分钟内学习你的工作上下文，永不遗忘。**
-
-📝 Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
-
-🔗 [GitHub](https://github.com/holaboss-ai/holaOS)
-
----
-### 🆕 #137 — hypit-ai/hypit ⭐11.2K · 🔤TypeScript
+### 🆕 #120 — hypit-ai/hypit ⭐16.4K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -2322,7 +2250,169 @@
 🔗 [GitHub](https://github.com/hypit-ai/hypit)
 
 ---
-### #138 — bytebot-ai/bytebot ⭐11.1K · 🔤TypeScript
+### #121 — ag-ui-protocol/ag-ui ⭐16.1K · 🔤TypeScript
+
+🌏 **AG-UI：代理-用户交互协议。将代理带入前端应用。**
+
+📝 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+🔗 [GitHub](https://github.com/ag-ui-protocol/ag-ui)
+
+---
+### #122 — dagger/dagger ⭐16K · 🔤Go
+
+🌏 **构建、测试和部署任意代码库的自动化引擎，本地或 CI 中运行。**
+
+📝 Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+
+🔗 [GitHub](https://github.com/dagger/dagger)
+
+---
+### #123 — ifixai-ai/iFixAi ⭐15.7K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th
+
+🔗 [GitHub](https://github.com/ifixai-ai/iFixAi)
+
+---
+### #124 — opensandbox-group/OpenSandbox ⭐15.5K · 🔤Python
+
+🌏 **面向 AI 智能体安全、快速、可扩展的沙箱运行时。**
+
+📝 Secure, Fast, and Extensible Sandbox runtime for AI agents.
+
+🔗 [GitHub](https://github.com/opensandbox-group/OpenSandbox)
+
+---
+### #125 — eigent-ai/eigent ⭐15.4K · 🔤TypeScript
+
+🌏 **Eigent：开源 AI 协同桌面，释放超常生产力。Claude Cowork 的本地免费替代。**
+
+📝 Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
+
+🔗 [GitHub](https://github.com/eigent-ai/eigent)
+
+---
+### #126 — llmware-ai/llmware ⭐14.8K · 🔤Python
+
+🌏 **使用小型专用模型构建企业 RAG 管道的统一框架**
+
+📝 Unified framework for building enterprise RAG pipelines with small, specialized models
+
+🔗 [GitHub](https://github.com/llmware-ai/llmware)
+
+---
+### #127 — superset-sh/superset ⭐14.7K · 🔤TypeScript
+
+🌏 **AI 代理时代的代码编辑器——在你的机器上运行一群 Claude Code、Codex 等代理。**
+
+📝 Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+
+🔗 [GitHub](https://github.com/superset-sh/superset)
+
+---
+### #128 — waooAI/waoowaoo ⭐14.3K · 🔤TypeScript
+
+🌏 **首家工业级全流程 AI 影视生产平台，从短视频到实拍电影，好莱坞标准工作流。**
+
+📝 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
+
+🔗 [GitHub](https://github.com/waooAI/waoowaoo)
+
+---
+### #129 — lsdefine/GenericAgent ⭐14.3K · 🔤Python
+
+🌏 **自进化代理：从 3.3K 行种子代码生长技能树，6 倍更少 token 消耗实现全系统控制。**
+
+📝 Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+
+🔗 [GitHub](https://github.com/lsdefine/GenericAgent)
+
+---
+### #130 — e2b-dev/E2B ⭐14K · 🔤Python
+
+🌏 **开源安全的执行环境，配备真实世界工具，面向企业级代理。**
+
+📝 Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+🔗 [GitHub](https://github.com/e2b-dev/E2B)
+
+---
+### #131 — microsoft/agent-framework ⭐13.8K · 🔤Python
+
+🌏 **用于构建、编排和部署 AI 代理及多代理工作流的框架，支持 Python 和 .NET。**
+
+📝 A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+
+🔗 [GitHub](https://github.com/microsoft/agent-framework)
+
+---
+### #132 — XiaomiMiMo/MiMo-Code ⭐13.5K · 🔤TypeScript
+
+🌏 **MiMo Code：模型与代理共同进化之地。**
+
+📝 MiMo Code: Where Models and Agents Co-Evolve
+
+🔗 [GitHub](https://github.com/XiaomiMiMo/MiMo-Code)
+
+---
+### #133 — oblien/openship ⭐12.5K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 Self-hosted deployment platform
+
+🔗 [GitHub](https://github.com/oblien/openship)
+
+---
+### #134 — simular-ai/Agent-S ⭐12.4K · 🔤Python
+
+🌏 **Agent S：像人类一样使用计算机的开源代理框架。**
+
+📝 Agent S: an open agentic framework that uses computers like a human
+
+🔗 [GitHub](https://github.com/simular-ai/Agent-S)
+
+---
+### #135 — kubeshark/kubeshark ⭐12K · 🔤Go
+
+🌏 **基于 eBPF 的 Kubernetes 网络可观测性工具，AI 代理可通过 MCP 查询。**
+
+📝 eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
+
+🔗 [GitHub](https://github.com/kubeshark/kubeshark)
+
+---
+### #136 — Jeffallan/claude-skills ⭐11.6K · 🔤Python
+
+🌏 **面向全栈开发者的 66 个专业化技能，将 Claude Code 转化为你的专家结对编程伙伴。**
+
+📝 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+
+🔗 [GitHub](https://github.com/Jeffallan/claude-skills)
+
+---
+### #137 — cocoindex-io/cocoindex ⭐11.6K · 🔤Rust
+
+🌏 **面向长周期代理的增量引擎。**
+
+📝 Incremental engine for long horizon agents 🌟 Star if you like it!
+
+🔗 [GitHub](https://github.com/cocoindex-io/cocoindex)
+
+---
+### #138 — holaboss-ai/holaOS ⭐11.4K · 🔤TypeScript
+
+🌏 **你的工作超级代理：本地优先，几分钟内学习你的工作上下文，永不遗忘。**
+
+📝 Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+
+🔗 [GitHub](https://github.com/holaboss-ai/holaOS)
+
+---
+### #139 — bytebot-ai/bytebot ⭐11.1K · 🔤TypeScript
 
 🌏 **Bytebot 是自托管的 AI 桌面代理，通过自然语言命令在容器化 Linux 桌面环境中自动化计算机任务。**
 
@@ -2331,7 +2421,7 @@
 🔗 [GitHub](https://github.com/bytebot-ai/bytebot)
 
 ---
-### #139 — aden-hive/hive ⭐11.1K · 🔤Python
+### #140 — aden-hive/hive ⭐11.1K · 🔤Python
 
 🌏 **面向生产级 AI 的多代理工具链。**
 
@@ -2340,25 +2430,7 @@
 🔗 [GitHub](https://github.com/aden-hive/hive)
 
 ---
-### #140 — alibaba/OpenSandbox ⭐10.9K · 🔤Python
-
-🌏 **面向 AI 代理的安全、快速、可扩展的沙箱运行时。**
-
-📝 Secure, Fast, and Extensible Sandbox runtime for AI agents.
-
-🔗 [GitHub](https://github.com/alibaba/OpenSandbox)
-
----
-### #141 — ValueCell-ai/valuecell ⭐10.9K · 🔤Python
-
-🌏 **ValueCell 是社区驱动的多代理金融应用平台。**
-
-📝 ValueCell is a community-driven, multi-agent platform for financial applications.
-
-🔗 [GitHub](https://github.com/ValueCell-ai/valuecell)
-
----
-### #142 — alibaba/spring-ai-alibaba ⭐10.9K · 🔤Java
+### #141 — alibaba/spring-ai-alibaba ⭐10.9K · 🔤Java
 
 🌏 **面向 Java 开发者的代理式 AI 框架。**
 
@@ -2367,7 +2439,25 @@
 🔗 [GitHub](https://github.com/alibaba/spring-ai-alibaba)
 
 ---
-### #143 — VoltAgent/voltagent ⭐10.6K · 🔤TypeScript
+### #142 — alibaba/OpenSandbox ⭐10.9K · 🔤Python
+
+🌏 **面向 AI 代理的安全、快速、可扩展的沙箱运行时。**
+
+📝 Secure, Fast, and Extensible Sandbox runtime for AI agents.
+
+🔗 [GitHub](https://github.com/alibaba/OpenSandbox)
+
+---
+### #143 — ValueCell-ai/valuecell ⭐10.9K · 🔤Python
+
+🌏 **ValueCell 是社区驱动的多代理金融应用平台。**
+
+📝 ValueCell is a community-driven, multi-agent platform for financial applications.
+
+🔗 [GitHub](https://github.com/ValueCell-ai/valuecell)
+
+---
+### #144 — VoltAgent/voltagent ⭐10.7K · 🔤TypeScript
 
 🌏 **基于开源 TypeScript AI 代理框架构建的 AI 代理工程平台。**
 
@@ -2376,34 +2466,7 @@
 🔗 [GitHub](https://github.com/VoltAgent/voltagent)
 
 ---
-### #144 — Narcooo/inkos ⭐10K · 🔤TypeScript
-
-🌏 **自主小说写作 AI 代理——代理编写、审核和修订小说，带人工审查关卡。**
-
-📝 Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
-
-🔗 [GitHub](https://github.com/Narcooo/inkos)
-
----
-### #145 — cloudflare/moltworker ⭐10K · 🔤TypeScript
-
-🌏 **在 Cloudflare Workers 上运行 OpenClaw。**
-
-📝 Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-
-🔗 [GitHub](https://github.com/cloudflare/moltworker)
-
----
-### #146 — GetBindu/Bindu ⭐9.8K · 🔤Python
-
-🌏 **Bindu：AI 代理的身份、通信和支付层。**
-
-📝 Bindu: The identity, communication, and payments layer for AI agents.
-
-🔗 [GitHub](https://github.com/GetBindu/Bindu)
-
----
-### #147 — adongwanai/AgentGuide ⭐9.8K · 🔤MDX
+### #145 — adongwanai/AgentGuide ⭐10.1K · 🔤MDX
 
 🌏 **AI Agent 开发指南，含 LangGraph 实战、高级 RAG、面试题库和强化学习。**
 
@@ -2412,13 +2475,31 @@
 🔗 [GitHub](https://github.com/adongwanai/AgentGuide)
 
 ---
-### #148 — unicity-sphere/sphere ⭐9.7K · 🔤TypeScript
+### #146 — Narcooo/inkos ⭐10.1K · 🔤TypeScript
 
-🌏 *中文描述待补充*
+🌏 **自主小说写作 AI 代理——代理编写、审核和修订小说，带人工审查关卡。**
 
-📝 A Web3 wallet and agent platform for the Unicity network - crypto wallet, DMs, group chat, and marketplace.
+📝 Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 
-🔗 [GitHub](https://github.com/unicity-sphere/sphere)
+🔗 [GitHub](https://github.com/Narcooo/inkos)
+
+---
+### #147 — cloudflare/moltworker ⭐10K · 🔤TypeScript
+
+🌏 **在 Cloudflare Workers 上运行 OpenClaw。**
+
+📝 Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
+
+🔗 [GitHub](https://github.com/cloudflare/moltworker)
+
+---
+### #148 — GetBindu/Bindu ⭐9.8K · 🔤Python
+
+🌏 **Bindu：AI 代理的身份、通信和支付层。**
+
+📝 Bindu: The identity, communication, and payments layer for AI agents.
+
+🔗 [GitHub](https://github.com/GetBindu/Bindu)
 
 ---
 ### #149 — alirezadir/AIMLInterviews ⭐9.7K · 🔤Jupyter Notebook
@@ -2430,34 +2511,16 @@
 🔗 [GitHub](https://github.com/alirezadir/AIMLInterviews)
 
 ---
-### #150 — droidrun/mobilerun ⭐9.4K · 🔤Python
+### #150 — unicity-sphere/sphere ⭐9.7K · 🔤TypeScript
 
-🌏 **用自然语言命令自动化你的移动设备——与 LLM 无关的移动端代理。**
+🌏 *中文描述待补充*
 
-📝 Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+📝 A Web3 wallet and agent platform for the Unicity network - crypto wallet, DMs, group chat, and marketplace.
 
-🔗 [GitHub](https://github.com/droidrun/mobilerun)
-
----
-### #151 — EvoMap/evolver ⭐9.1K · 🔤JavaScript
-
-🌏 **基于 GEP 的 AI 代理自进化引擎。**
-
-📝 The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
-
-🔗 [GitHub](https://github.com/EvoMap/evolver)
+🔗 [GitHub](https://github.com/unicity-sphere/sphere)
 
 ---
-### #152 — MervinPraison/PraisonAI ⭐9.1K · 🔤Python
-
-🌏 **🦞 雇佣 24/7 AI 劳动力，5 行代码部署自主改进的智能体，内置记忆和 RAG。**
-
-📝 PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with bui
-
-🔗 [GitHub](https://github.com/MervinPraison/PraisonAI)
-
----
-### #153 — Vincentwei1021/video-shotcraft ⭐9.1K · 🔤TypeScript
+### #151 — Vincentwei1021/video-shotcraft ⭐9.6K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -2466,7 +2529,34 @@
 🔗 [GitHub](https://github.com/Vincentwei1021/video-shotcraft)
 
 ---
-### #154 — iflytek/astron-agent ⭐9K · 🔤Java
+### #152 — droidrun/mobilerun ⭐9.5K · 🔤Python
+
+🌏 **用自然语言命令自动化你的移动设备——与 LLM 无关的移动端代理。**
+
+📝 Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+
+🔗 [GitHub](https://github.com/droidrun/mobilerun)
+
+---
+### #153 — EvoMap/evolver ⭐9.1K · 🔤JavaScript
+
+🌏 **基于 GEP 的 AI 代理自进化引擎。**
+
+📝 The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
+
+🔗 [GitHub](https://github.com/EvoMap/evolver)
+
+---
+### #154 — MervinPraison/PraisonAI ⭐9.1K · 🔤Python
+
+🌏 **🦞 雇佣 24/7 AI 劳动力，5 行代码部署自主改进的智能体，内置记忆和 RAG。**
+
+📝 PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with bui
+
+🔗 [GitHub](https://github.com/MervinPraison/PraisonAI)
+
+---
+### #155 — iflytek/astron-agent ⭐9.1K · 🔤Java
 
 🌏 **企业级、商业友好的代理工作流平台，用于构建下一代超级代理。**
 
@@ -2475,124 +2565,7 @@
 🔗 [GitHub](https://github.com/iflytek/astron-agent)
 
 ---
-### #155 — nexu-io/html-anything ⭐8.9K · 🔤HTML
-
-🌏 **✨ Agentic HTML 编辑器，本地 AI Agent 写 HTML，你发布。零 API Key 要求。**
-
-📝 ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed p
-
-🔗 [GitHub](https://github.com/nexu-io/html-anything)
-
----
-### #156 — liyupi/codefather ⭐8.6K · 🔤TypeScript
-
-🌏 **程序员鱼皮的编程宝典 ⭐️ 2026年最全编程学习路线图！**
-
-📝 程序员鱼皮的编程宝典 ⭐️ 2026年最全编程学习路线图！包含Java学习路线、前端学习路线、Python学习路线、C++学习路线、算法学习路线、计算机基础学习路线、AI应用开发学习路线、AI Agent开发学习路线等。提供编程入门教程、AI大模型应用开发教程、RAG开发实战、MCP开发教程、Prompt工程指南、LLM应用开发、技术知识分享、学习资源推荐、项目实战教程、热门面试题、求职经验、简历
-
-🔗 [GitHub](https://github.com/liyupi/codefather)
-
----
-### #157 — TeamWiseFlow/xiaobei ⭐8.6K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 为OPC/中小微企业量身打造的自媒体获客智能体
-
-🔗 [GitHub](https://github.com/TeamWiseFlow/xiaobei)
-
----
-### #158 — alirezadir/Machine-Learning-Interviews ⭐8.5K · 🔤Jupyter Notebook
-
-🌏 **机器学习/AI 技术面试指南。**
-
-📝 This repo is meant to serve as a guide for Machine Learning/AI technical interviews. 
-
-🔗 [GitHub](https://github.com/alirezadir/Machine-Learning-Interviews)
-
----
-### #159 — MiroMindAI/MiroThinker ⭐8.4K · 🔤Python
-
-🌏 **MiroThinker 是针对复杂研究和预测任务优化的深度研究 Agent。**
-
-📝 MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7, achieves 74.0 and 75.3 on the BrowseComp and BrowseComp Zh, respectively.
-
-🔗 [GitHub](https://github.com/MiroMindAI/MiroThinker)
-
----
-### #160 — TeamWiseFlow/wiseflow ⭐8.3K · 🔤TypeScript
-
-🌏 **为所有人准备的 AI 搞钱团队，帮你把经验和方法跑成一门生意。**
-
-📝 为所有人准备的AI搞钱团队，帮你把经验和方法跑成一门生意。
-
-🔗 [GitHub](https://github.com/TeamWiseFlow/wiseflow)
-
----
-### #161 — GetStream/Vision-Agents ⭐8.1K · 🔤Python
-
-🌏 **Stream 的开源视觉 Agent，快速构建语音和视觉 Agent，支持低延迟边缘网络。**
-
-📝 Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
-
-🔗 [GitHub](https://github.com/GetStream/Vision-Agents)
-
----
-### #162 — AI4Finance-Foundation/FinRobot ⭐8K · 🔤Jupyter Notebook
-
-🌏 **FinRobot：使用 LLM 进行金融分析的开源 AI 智能体平台 🚀**
-
-📝 FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models
-
-🔗 [GitHub](https://github.com/AI4Finance-Foundation/FinRobot)
-
----
-### #163 — datahaven-xyz/datahaven ⭐7.9K · 🔤Rust
-
-🌏 **兼容 EVM 的 Substrate 链，由 StorageHub 驱动并由 EigenLayer 保护。**
-
-📝 An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer
-
-🔗 [GitHub](https://github.com/datahaven-xyz/datahaven)
-
----
-### #164 — mnfst/awesome-free-llm-apis ⭐7.8K · 🔤JavaScript
-
-🌏 **永久免费 LLM API（API Key）列表。**
-
-📝 List of Permanent Free LLM API  (API Keys)
-
-🔗 [GitHub](https://github.com/mnfst/awesome-free-llm-apis)
-
----
-### #165 — 2FastLabs/agent-squad ⭐7.8K · 🔤Swift
-
-🌏 **管理多个 AI 智能体和处理复杂对话的灵活强大框架。**
-
-📝 Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-
-🔗 [GitHub](https://github.com/2FastLabs/agent-squad)
-
----
-### #166 — chaitanyagiri/munder-difflin ⭐7.7K · 🔤TypeScript
-
-🌏 *中文描述待补充*
-
-📝 A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
-
-🔗 [GitHub](https://github.com/chaitanyagiri/munder-difflin)
-
----
-### #167 — unicity-astrid/astrid ⭐7.6K · 🔤Rust
-
-🌏 **面向 AI 智能体的操作系统。**
-
-📝 An operating system for AI agents.
-
-🔗 [GitHub](https://github.com/unicity-astrid/astrid)
-
----
-### #168 — zhouxiaoka/autoclip ⭐7.6K · 🔤Python
+### #156 — zhouxiaoka/autoclip ⭐9K · 🔤Python
 
 🌏 **AI AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具**
 
@@ -2601,106 +2574,16 @@
 🔗 [GitHub](https://github.com/zhouxiaoka/autoclip)
 
 ---
-### #169 — flyteorg/flyte ⭐7.5K · 🔤Go
+### #157 — nexu-io/html-anything ⭐9K · 🔤HTML
 
-🌏 **动态、弹性的 AI 编排，协调数据、模型和计算资源。**
+🌏 **✨ Agentic HTML 编辑器，本地 AI Agent 写 HTML，你发布。零 API Key 要求。**
 
-📝 Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
+📝 ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed p
 
-🔗 [GitHub](https://github.com/flyteorg/flyte)
-
----
-### #170 — ringhyacinth/Star-Office-UI ⭐7.5K · 🔤HTML
-
-🌏 **你的 OpenClaw 像素办公室，将不可见的工作状态转化为舒适的小空间。**
-
-📝 A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
-
-🔗 [GitHub](https://github.com/ringhyacinth/Star-Office-UI)
+🔗 [GitHub](https://github.com/nexu-io/html-anything)
 
 ---
-### #171 — plastic-labs/honcho ⭐7.3K · 🔤Python
-
-🌏 **用于构建有状态 Agent 的记忆库。**
-
-📝  Memory library for building stateful agents
-
-🔗 [GitHub](https://github.com/plastic-labs/honcho)
-
----
-### #172 — yjh051108/dsh-routing-suite ⭐7.2K · 🔤JavaScript
-
-🌏 *中文描述待补充*
-
-📝 dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-
-🔗 [GitHub](https://github.com/yjh051108/dsh-routing-suite)
-
----
-### #173 — kyegomez/swarms ⭐7.2K · 🔤Python
-
-🌏 **企业级生产就绪的多智能体编排框架。**
-
-📝 The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
-
-🔗 [GitHub](https://github.com/kyegomez/swarms)
-
----
-### #174 — enricoros/big-AGI ⭐7.1K · 🔤TypeScript
-
-🌏 **由最先进模型驱动的 AI 套件，提供 Beam 多模型聊天、文本转图像、语音等功能。**
-
-📝 AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
-
-🔗 [GitHub](https://github.com/enricoros/big-AGI)
-
----
-### #175 — deanpeters/Product-Manager-Skills ⭐7K · 🔤Shell
-
-🌏 **基于经过实战验证的方法构建的产品管理技能框架，适用于 Claude Code、Cowork、Codex 及 AI agents。**
-
-📝 Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
-
-🔗 [GitHub](https://github.com/deanpeters/Product-Manager-Skills)
-
----
-### #176 — deeppavlov/DeepPavlov ⭐7K · 🔤Python
-
-🌏 **用于深度学习的端到端对话系统和聊天机器人的开源库。**
-
-📝 An open source library for deep learning end-to-end dialog systems and chatbots.
-
-🔗 [GitHub](https://github.com/deeppavlov/DeepPavlov)
-
----
-### #177 — open-multi-agent/open-multi-agent ⭐6.9K · 🔤TypeScript
-
-🌏 **从目标自动生成任务 DAG。TypeScript 原生的多代理编排。**
-
-📝 Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.
-
-🔗 [GitHub](https://github.com/open-multi-agent/open-multi-agent)
-
----
-### #178 — GreptimeTeam/greptimedb ⭐6.7K · 🔤Rust
-
-🌏 *中文描述待补充*
-
-📝 The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
-
-🔗 [GitHub](https://github.com/GreptimeTeam/greptimedb)
-
----
-### #179 — steipete/agent-scripts ⭐6.6K · 🔤Shell
-
-🌏 **供 Agent 使用的脚本，在多个仓库间共享。**
-
-📝 Scripts for agents, shared between my repositories.
-
-🔗 [GitHub](https://github.com/steipete/agent-scripts)
-
----
-### #180 — Nasiko-Labs/nasiko ⭐6.6K · 🔤Rust
+### #158 — Nasiko-Labs/nasiko ⭐8.9K · 🔤Rust
 
 🌏 *中文描述待补充*
 
@@ -2709,187 +2592,133 @@
 🔗 [GitHub](https://github.com/Nasiko-Labs/nasiko)
 
 ---
-### #181 — BlockRunAI/ClawRouter ⭐6.6K · 🔤TypeScript
+### #159 — liyupi/codefather ⭐8.7K · 🔤TypeScript
 
-🌏 **AI agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on**
+🌏 **程序员鱼皮的编程宝典 ⭐️ 2026年最全编程学习路线图！**
 
-📝 The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402.
+📝 程序员鱼皮的编程宝典 ⭐️ 2026年最全编程学习路线图！包含Java学习路线、前端学习路线、Python学习路线、C++学习路线、算法学习路线、计算机基础学习路线、AI应用开发学习路线、AI Agent开发学习路线等。提供编程入门教程、AI大模型应用开发教程、RAG开发实战、MCP开发教程、Prompt工程指南、LLM应用开发、技术知识分享、学习资源推荐、项目实战教程、热门面试题、求职经验、简历
 
-🔗 [GitHub](https://github.com/BlockRunAI/ClawRouter)
+🔗 [GitHub](https://github.com/liyupi/codefather)
 
 ---
-### #182 — Osmantic/ODS ⭐6.6K · 🔤Python
+### #160 — TeamWiseFlow/xiaobei ⭐8.6K · 🔤Python
 
 🌏 *中文描述待补充*
 
-📝 Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+📝 为OPC/中小微企业量身打造的自媒体获客智能体
 
-🔗 [GitHub](https://github.com/Osmantic/ODS)
-
----
-### #183 — julep-ai/julep ⭐6.6K · 🔤Python
-
-🌏 **大规模部署无服务器 AI 工作流，Firebase for AI Agents。**
-
-📝 Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
-
-🔗 [GitHub](https://github.com/julep-ai/julep)
+🔗 [GitHub](https://github.com/TeamWiseFlow/xiaobei)
 
 ---
-### #184 — airweave-ai/airweave ⭐6.6K · 🔤Python
+### #161 — alirezadir/Machine-Learning-Interviews ⭐8.5K · 🔤Jupyter Notebook
 
-🌏 **面向 AI Agent 的开源上下文检索层**
+🌏 **机器学习/AI 技术面试指南。**
 
-📝 Open-source context retrieval layer for AI agents
+📝 This repo is meant to serve as a guide for Machine Learning/AI technical interviews. 
 
-🔗 [GitHub](https://github.com/airweave-ai/airweave)
-
----
-### #185 — crestalnetwork/intentkit ⭐6.5K · 🔤Python
-
-🌏 **开源自托管的云端代理集群，管理 AI 代理协作团队。**
-
-📝 IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.
-
-🔗 [GitHub](https://github.com/crestalnetwork/intentkit)
+🔗 [GitHub](https://github.com/alirezadir/Machine-Learning-Interviews)
 
 ---
-### #186 — Devin-AXIS/iPolloWork ⭐6.4K · 🔤TypeScript
+### #162 — mnfst/awesome-free-llm-apis ⭐8.4K · 🔤JavaScript
+
+🌏 **永久免费 LLM API（API Key）列表。**
+
+📝 List of Permanent Free LLM API  (API Keys)
+
+🔗 [GitHub](https://github.com/mnfst/awesome-free-llm-apis)
+
+---
+### #163 — MiroMindAI/MiroThinker ⭐8.4K · 🔤Python
+
+🌏 **MiroThinker 是针对复杂研究和预测任务优化的深度研究 Agent。**
+
+📝 MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7, achieves 74.0 and 75.3 on the BrowseComp and BrowseComp Zh, respectively.
+
+🔗 [GitHub](https://github.com/MiroMindAI/MiroThinker)
+
+---
+### #164 — TeamWiseFlow/wiseflow ⭐8.3K · 🔤TypeScript
+
+🌏 **为所有人准备的 AI 搞钱团队，帮你把经验和方法跑成一门生意。**
+
+📝 为所有人准备的AI搞钱团队，帮你把经验和方法跑成一门生意。
+
+🔗 [GitHub](https://github.com/TeamWiseFlow/wiseflow)
+
+---
+### #165 — GetStream/Vision-Agents ⭐8.1K · 🔤Python
+
+🌏 **Stream 的开源视觉 Agent，快速构建语音和视觉 Agent，支持低延迟边缘网络。**
+
+📝 Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
+
+🔗 [GitHub](https://github.com/GetStream/Vision-Agents)
+
+---
+### #166 — AI4Finance-Foundation/FinRobot ⭐8.1K · 🔤Jupyter Notebook
+
+🌏 **FinRobot：使用 LLM 进行金融分析的开源 AI 智能体平台 🚀**
+
+📝 FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models
+
+🔗 [GitHub](https://github.com/AI4Finance-Foundation/FinRobot)
+
+---
+### #167 — chaitanyagiri/munder-difflin ⭐8K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
-📝 Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-age
+📝 A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
 
-🔗 [GitHub](https://github.com/Devin-AXIS/iPolloWork)
-
----
-### #187 — ThinkInAIXYZ/deepchat ⭐6.3K · 🔤TypeScript
-
-🌏 **🐬 DeepChat——将强大 AI 连接到个人世界的智能助手。**
-
-📝 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-
-🔗 [GitHub](https://github.com/ThinkInAIXYZ/deepchat)
+🔗 [GitHub](https://github.com/chaitanyagiri/munder-difflin)
 
 ---
-### #188 — microsoft/agent-governance-toolkit ⭐6.3K · 🔤Python
+### #168 — datahaven-xyz/datahaven ⭐7.9K · 🔤Rust
 
-🌏 *中文描述待补充*
+🌏 **兼容 EVM 的 Substrate 链，由 StorageHub 驱动并由 EigenLayer 保护。**
 
-📝 AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+📝 An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer
 
-🔗 [GitHub](https://github.com/microsoft/agent-governance-toolkit)
-
----
-### #189 — czlonkowski/n8n-skills ⭐6.3K · 🔤Shell
-
-🌏 **Claude Code 的 n8n 技能集，用于构建完善的 n8n 工作流。**
-
-📝 n8n skillset for Claude Code to build flawless n8n workflows
-
-🔗 [GitHub](https://github.com/czlonkowski/n8n-skills)
+🔗 [GitHub](https://github.com/datahaven-xyz/datahaven)
 
 ---
-### #190 — VoltAgent/awesome-codex-subagents ⭐6.2K
+### #169 — 2FastLabs/agent-squad ⭐7.8K · 🔤Python
 
-🌏 **130+ 专用 Codex 子 Agent 合集，涵盖广泛开发用例。**
+🌏 **管理多个 AI 智能体和处理复杂对话的灵活强大框架。**
 
-📝 A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
+📝 Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 
-🔗 [GitHub](https://github.com/VoltAgent/awesome-codex-subagents)
-
----
-### #191 — elder-plinius/T3MP3ST ⭐6.2K · 🔤TypeScript
-
-🌏 *中文描述待补充*
-
-📝 autonomous red teaming platform; multi-agent offensive-security meta-harness
-
-🔗 [GitHub](https://github.com/elder-plinius/T3MP3ST)
+🔗 [GitHub](https://github.com/2FastLabs/agent-squad)
 
 ---
-### #192 — microsoft/TaskWeaver ⭐6.2K · 🔤Python
+### #170 — unicity-astrid/astrid ⭐7.6K · 🔤Rust
 
-🌏 **首个「代码优先」的 Agent 框架，无缝规划和执行数据分析任务。**
+🌏 **面向 AI 智能体的操作系统。**
 
-📝 The first "code-first" agent framework for seamlessly planning and executing data analytics tasks. 
+📝 An operating system for AI agents.
 
-🔗 [GitHub](https://github.com/microsoft/TaskWeaver)
-
----
-### #193 — netease-youdao/LobsterAI ⭐6K · 🔤TypeScript
-
-🌏 **AI Your 24/7 all-scenario AI agent that gets work done for you.**
-
-📝 Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
-
-🔗 [GitHub](https://github.com/netease-youdao/LobsterAI)
+🔗 [GitHub](https://github.com/unicity-astrid/astrid)
 
 ---
-### #194 — Dicklesworthstone/destructive_command_guard ⭐6K · 🔤Rust
+### #171 — flyteorg/flyte ⭐7.6K · 🔤Go
 
-🌏 *中文描述待补充*
+🌏 **动态、弹性的 AI 编排，协调数据、模型和计算资源。**
 
-📝 The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+📝 Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 
-🔗 [GitHub](https://github.com/Dicklesworthstone/destructive_command_guard)
-
----
-### #195 — strands-agents/sdk-python ⭐6K · 🔤Python
-
-🌏 **用几行代码构建 AI 代理的模型驱动方法。**
-
-📝 A model-driven approach to building AI agents in just a few lines of code.
-
-🔗 [GitHub](https://github.com/strands-agents/sdk-python)
+🔗 [GitHub](https://github.com/flyteorg/flyte)
 
 ---
-### #196 — browser-act/skills ⭐6K · 🔤Python
+### #172 — ringhyacinth/Star-Office-UI ⭐7.5K · 🔤HTML
 
-🌏 *中文描述待补充*
+🌏 **你的 OpenClaw 像素办公室，将不可见的工作状态转化为舒适的小空间。**
 
-📝 Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
+📝 A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
 
-🔗 [GitHub](https://github.com/browser-act/skills)
-
----
-### #197 — jacklandrin/OnlySwitch ⭐5.9K · 🔤Swift
-
-🌏 **⚙️ 一体式菜单栏应用，隐藏 MacBook Pro 刘海、深色模式等。**
-
-📝 ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
-
-🔗 [GitHub](https://github.com/jacklandrin/OnlySwitch)
+🔗 [GitHub](https://github.com/ringhyacinth/Star-Office-UI)
 
 ---
-### 🆕 #198 — loopx-project/loopx ⭐5.9K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
-
-🔗 [GitHub](https://github.com/loopx-project/loopx)
-
----
-### #199 — liyupi/mianshiya ⭐5.9K · 🔤TypeScript
-
-🌏 **持续维护的企业面试题库网站，1万多道高频程序员求职八股文。**
-
-📝 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、
-
-🔗 [GitHub](https://github.com/liyupi/mianshiya)
-
----
-### 🆕 #200 — arcboxlabs/arcbox ⭐5.9K · 🔤Rust
-
-🌏 *中文描述待补充*
-
-📝 Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.
-
-🔗 [GitHub](https://github.com/arcboxlabs/arcbox)
-
----
-### 🆕 #201 — Tencent/BrowserSkill ⭐5.8K · 🔤TypeScript
+### 🆕 #173 — Tencent/BrowserSkill ⭐7.4K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -2898,34 +2727,196 @@
 🔗 [GitHub](https://github.com/Tencent/BrowserSkill)
 
 ---
-### #202 — huangruiteng/loopx ⭐5.8K · 🔤Python
+### #174 — plastic-labs/honcho ⭐7.4K · 🔤Python
+
+🌏 **用于构建有状态 Agent 的记忆库。**
+
+📝  Memory library for building stateful agents
+
+🔗 [GitHub](https://github.com/plastic-labs/honcho)
+
+---
+### #175 — kyegomez/swarms ⭐7.2K · 🔤Python
+
+🌏 **企业级生产就绪的多智能体编排框架。**
+
+📝 The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
+
+🔗 [GitHub](https://github.com/kyegomez/swarms)
+
+---
+### #176 — enricoros/big-AGI ⭐7.1K · 🔤TypeScript
+
+🌏 **由最先进模型驱动的 AI 套件，提供 Beam 多模型聊天、文本转图像、语音等功能。**
+
+📝 AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
+
+🔗 [GitHub](https://github.com/enricoros/big-AGI)
+
+---
+### #177 — deanpeters/Product-Manager-Skills ⭐7.1K · 🔤Shell
+
+🌏 **基于经过实战验证的方法构建的产品管理技能框架，适用于 Claude Code、Cowork、Codex 及 AI agents。**
+
+📝 Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
+
+🔗 [GitHub](https://github.com/deanpeters/Product-Manager-Skills)
+
+---
+### #178 — yjh051108/dsh-routing-suite ⭐7K · 🔤JavaScript
 
 🌏 *中文描述待补充*
 
-📝 Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+📝 dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-🔗 [GitHub](https://github.com/huangruiteng/loopx)
-
----
-### #203 — PySpur-Dev/pyspur ⭐5.8K · 🔤TypeScript
-
-🌏 **代理工作流的可视化 playground：迭代速度提升 10 倍。**
-
-📝 A visual playground for agentic workflows: Iterate over your agents 10x faster
-
-🔗 [GitHub](https://github.com/PySpur-Dev/pyspur)
+🔗 [GitHub](https://github.com/yjh051108/dsh-routing-suite)
 
 ---
-### #204 — potpie-ai/potpie ⭐5.7K · 🔤Python
+### #179 — deeppavlov/DeepPavlov ⭐7K · 🔤Python
 
-🌏 **面向大型代码库的 Spec-Driven Development 工具。**
+🌏 **用于深度学习的端到端对话系统和聊天机器人的开源库。**
 
-📝 Context Graph for AI Native SDLC
+📝 An open source library for deep learning end-to-end dialog systems and chatbots.
 
-🔗 [GitHub](https://github.com/potpie-ai/potpie)
+🔗 [GitHub](https://github.com/deeppavlov/DeepPavlov)
 
 ---
-### #205 — internet-court/internet-court-skill ⭐5.7K · 🔤TypeScript
+### #180 — open-multi-agent/open-multi-agent ⭐7K · 🔤TypeScript
+
+🌏 **从目标自动生成任务 DAG。TypeScript 原生的多代理编排。**
+
+📝 Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.
+
+🔗 [GitHub](https://github.com/open-multi-agent/open-multi-agent)
+
+---
+### #181 — Osmantic/ODS ⭐6.9K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.
+
+🔗 [GitHub](https://github.com/Osmantic/ODS)
+
+---
+### 🆕 #182 — spinabot/brigade ⭐6.8K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 Brigade — Your personal intelligence, built enterprise-grade
+
+🔗 [GitHub](https://github.com/spinabot/brigade)
+
+---
+### #183 — Devin-AXIS/iPolloWork ⭐6.8K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-age
+
+🔗 [GitHub](https://github.com/Devin-AXIS/iPolloWork)
+
+---
+### #184 — GreptimeTeam/greptimedb ⭐6.7K · 🔤Rust
+
+🌏 *中文描述待补充*
+
+📝 The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
+
+🔗 [GitHub](https://github.com/GreptimeTeam/greptimedb)
+
+---
+### #185 — steipete/agent-scripts ⭐6.7K · 🔤Shell
+
+🌏 **供 Agent 使用的脚本，在多个仓库间共享。**
+
+📝 Scripts for agents, shared between my repositories.
+
+🔗 [GitHub](https://github.com/steipete/agent-scripts)
+
+---
+### #186 — BlockRunAI/ClawRouter ⭐6.6K · 🔤TypeScript
+
+🌏 **AI agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on**
+
+📝 The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402.
+
+🔗 [GitHub](https://github.com/BlockRunAI/ClawRouter)
+
+---
+### #187 — julep-ai/julep ⭐6.6K · 🔤Python
+
+🌏 **大规模部署无服务器 AI 工作流，Firebase for AI Agents。**
+
+📝 Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
+
+🔗 [GitHub](https://github.com/julep-ai/julep)
+
+---
+### #188 — airweave-ai/airweave ⭐6.6K · 🔤Python
+
+🌏 **面向 AI Agent 的开源上下文检索层**
+
+📝 Open-source context retrieval layer for AI agents
+
+🔗 [GitHub](https://github.com/airweave-ai/airweave)
+
+---
+### #189 — crestalnetwork/intentkit ⭐6.5K · 🔤Python
+
+🌏 **开源自托管的云端代理集群，管理 AI 代理协作团队。**
+
+📝 IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.
+
+🔗 [GitHub](https://github.com/crestalnetwork/intentkit)
+
+---
+### #190 — microsoft/agent-governance-toolkit ⭐6.3K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+
+🔗 [GitHub](https://github.com/microsoft/agent-governance-toolkit)
+
+---
+### #191 — ThinkInAIXYZ/deepchat ⭐6.3K · 🔤TypeScript
+
+🌏 **🐬 DeepChat——将强大 AI 连接到个人世界的智能助手。**
+
+📝 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+
+🔗 [GitHub](https://github.com/ThinkInAIXYZ/deepchat)
+
+---
+### #192 — czlonkowski/n8n-skills ⭐6.3K · 🔤Shell
+
+🌏 **Claude Code 的 n8n 技能集，用于构建完善的 n8n 工作流。**
+
+📝 n8n skillset for Claude Code to build flawless n8n workflows
+
+🔗 [GitHub](https://github.com/czlonkowski/n8n-skills)
+
+---
+### #193 — elder-plinius/T3MP3ST ⭐6.3K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 autonomous red teaming platform; multi-agent offensive-security meta-harness
+
+🔗 [GitHub](https://github.com/elder-plinius/T3MP3ST)
+
+---
+### #194 — VoltAgent/awesome-codex-subagents ⭐6.2K
+
+🌏 **130+ 专用 Codex 子 Agent 合集，涵盖广泛开发用例。**
+
+📝 A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
+
+🔗 [GitHub](https://github.com/VoltAgent/awesome-codex-subagents)
+
+---
+### #195 — internet-court/internet-court-skill ⭐6.2K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -2934,7 +2925,124 @@
 🔗 [GitHub](https://github.com/internet-court/internet-court-skill)
 
 ---
-### #206 — agentscope-ai/agentscope-java ⭐5.5K · 🔤Java
+### #196 — microsoft/TaskWeaver ⭐6.2K · 🔤Python
+
+🌏 **首个「代码优先」的 Agent 框架，无缝规划和执行数据分析任务。**
+
+📝 The first "code-first" agent framework for seamlessly planning and executing data analytics tasks. 
+
+🔗 [GitHub](https://github.com/microsoft/TaskWeaver)
+
+---
+### #197 — netease-youdao/LobsterAI ⭐6.1K · 🔤TypeScript
+
+🌏 **AI Your 24/7 all-scenario AI agent that gets work done for you.**
+
+📝 Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
+
+🔗 [GitHub](https://github.com/netease-youdao/LobsterAI)
+
+---
+### #198 — Dicklesworthstone/destructive_command_guard ⭐6.1K · 🔤Rust
+
+🌏 *中文描述待补充*
+
+📝 The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+
+🔗 [GitHub](https://github.com/Dicklesworthstone/destructive_command_guard)
+
+---
+### #199 — browser-act/skills ⭐6K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
+
+🔗 [GitHub](https://github.com/browser-act/skills)
+
+---
+### 🆕 #200 — Human-Agent-Society/reef ⭐6K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Infrastructure for continually self‑improving agents
+
+🔗 [GitHub](https://github.com/Human-Agent-Society/reef)
+
+---
+### #201 — strands-agents/sdk-python ⭐6K · 🔤Python
+
+🌏 **用几行代码构建 AI 代理的模型驱动方法。**
+
+📝 A model-driven approach to building AI agents in just a few lines of code.
+
+🔗 [GitHub](https://github.com/strands-agents/sdk-python)
+
+---
+### #202 — jacklandrin/OnlySwitch ⭐5.9K · 🔤Swift
+
+🌏 **⚙️ 一体式菜单栏应用，隐藏 MacBook Pro 刘海、深色模式等。**
+
+📝 ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+
+🔗 [GitHub](https://github.com/jacklandrin/OnlySwitch)
+
+---
+### 🆕 #203 — loopx-project/loopx ⭐5.9K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+
+🔗 [GitHub](https://github.com/loopx-project/loopx)
+
+---
+### #204 — liyupi/mianshiya ⭐5.9K · 🔤TypeScript
+
+🌏 **持续维护的企业面试题库网站，1万多道高频程序员求职八股文。**
+
+📝 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、
+
+🔗 [GitHub](https://github.com/liyupi/mianshiya)
+
+---
+### 🆕 #205 — arcboxlabs/arcbox ⭐5.9K · 🔤Rust
+
+🌏 *中文描述待补充*
+
+📝 Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.
+
+🔗 [GitHub](https://github.com/arcboxlabs/arcbox)
+
+---
+### #206 — huangruiteng/loopx ⭐5.8K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+
+🔗 [GitHub](https://github.com/huangruiteng/loopx)
+
+---
+### #207 — PySpur-Dev/pyspur ⭐5.8K · 🔤TypeScript
+
+🌏 **代理工作流的可视化 playground：迭代速度提升 10 倍。**
+
+📝 A visual playground for agentic workflows: Iterate over your agents 10x faster
+
+🔗 [GitHub](https://github.com/PySpur-Dev/pyspur)
+
+---
+### #208 — potpie-ai/potpie ⭐5.7K · 🔤Python
+
+🌏 **面向大型代码库的 Spec-Driven Development 工具。**
+
+📝 Context Graph for AI Native SDLC
+
+🔗 [GitHub](https://github.com/potpie-ai/potpie)
+
+---
+### #209 — agentscope-ai/agentscope-java ⭐5.5K · 🔤Java
 
 🌏 *中文描述待补充*
 
@@ -2943,7 +3051,7 @@
 🔗 [GitHub](https://github.com/agentscope-ai/agentscope-java)
 
 ---
-### #207 — unicity-sphere/sphere-sdk ⭐5.4K · 🔤TypeScript
+### #210 — unicity-sphere/sphere-sdk ⭐5.4K · 🔤TypeScript
 
 🌏 **面向自主经济 Agent 的 SDK，赋予 Agent 身份、钱包和点对点结算能力。**
 
@@ -2960,11 +3068,11 @@
 <a name="工作流自动化"></a>
 
 <details open>
-<summary><b>⚡ 工作流自动化</b> <code>83</code></summary>
+<summary><b>⚡ 工作流自动化</b> <code>84</code></summary>
 <br>
-### ⭐ 精选推荐（Top 5 / 共 83）
+### ⭐ 精选推荐（Top 5 / 共 84）
 
-### 🥇 #1 — n8n-io/n8n ⭐205.4K · 🔤TypeScript
+### 🥇 #1 — n8n-io/n8n ⭐206.1K · 🔤TypeScript
 
 🌏 **公平代码的工作流自动化平台，内置原生 AI 能力，结合可视化构建和自定义编码。**
 
@@ -2973,7 +3081,7 @@
 🔗 [GitHub](https://github.com/n8n-io/n8n)
 
 ---
-### 🥈 #2 — harry0703/MoneyPrinterTurbo ⭐124.7K · 🔤Python
+### 🥈 #2 — harry0703/MoneyPrinterTurbo ⭐126.2K · 🔤Python
 
 🌏 **利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.**
 
@@ -2991,7 +3099,7 @@
 🔗 [GitHub](https://github.com/puppeteer/puppeteer)
 
 ---
-### #4 — pathwaycom/pathway ⭐62.3K · 🔤Python
+### #4 — pathwaycom/pathway ⭐62.2K · 🔤Python
 
 🌏 **用于流处理、实时分析、LLM 管线和 RAG 的 Python ETL 框架。**
 
@@ -3011,10 +3119,10 @@
 ---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📋 全部项目（78 个）
+### 📋 全部项目（79 个）
 
 <details>
-<summary>点击展开全部 78 个项目</summary>
+<summary>点击展开全部 79 个项目</summary>
 <br>
 ### #6 — huginn/huginn ⭐50K · 🔤Ruby
 
@@ -3025,7 +3133,7 @@
 🔗 [GitHub](https://github.com/huginn/huginn)
 
 ---
-### #7 — usebruno/bruno ⭐47.1K · 🔤JavaScript
+### #7 — usebruno/bruno ⭐47.2K · 🔤JavaScript
 
 🌏 **用于探索和测试 API 的开源 IDE（Postman/Insomnia 的轻量替代）**
 
@@ -3034,7 +3142,7 @@
 🔗 [GitHub](https://github.com/usebruno/bruno)
 
 ---
-### #8 — apache/airflow ⭐46.9K · 🔤Python
+### #8 — apache/airflow ⭐47K · 🔤Python
 
 🌏 **Apache Airflow - 以编程方式编写、调度和监控工作流的平台**
 
@@ -3043,7 +3151,7 @@
 🔗 [GitHub](https://github.com/apache/airflow)
 
 ---
-### #9 — DataTalksClub/data-engineering-zoomcamp ⭐45.7K · 🔤Jupyter Notebook
+### #9 — DataTalksClub/data-engineering-zoomcamp ⭐45.8K · 🔤Jupyter Notebook
 
 🌏 **一个为期 9 周的免费课程，教你构建生产级数据管道。**
 
@@ -3052,7 +3160,7 @@
 🔗 [GitHub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 ---
-### #10 — fastlane/fastlane ⭐42.1K · 🔤Ruby
+### #10 — fastlane/fastlane ⭐42.2K · 🔤Ruby
 
 🌏 **🚀 自动化构建和发布 iOS 和 Android 应用的最简单方式。**
 
@@ -3061,7 +3169,7 @@
 🔗 [GitHub](https://github.com/fastlane/fastlane)
 
 ---
-### #11 — appsmithorg/appsmith ⭐40.9K · 🔤TypeScript
+### #11 — appsmithorg/appsmith ⭐41K · 🔤TypeScript
 
 🌏 **构建管理面板、内部工具和仪表盘的平台，集成 25+ 数据库和任意 API。**
 
@@ -3070,7 +3178,7 @@
 🔗 [GitHub](https://github.com/appsmithorg/appsmith)
 
 ---
-### #12 — xyflow/xyflow ⭐38.4K · 🔤TypeScript
+### #12 — xyflow/xyflow ⭐38.5K · 🔤TypeScript
 
 🌏 **React Flow | Svelte Flow - 构建基于节点的 UI 的强大开源库。**
 
@@ -3088,7 +3196,7 @@
 🔗 [GitHub](https://github.com/harness/harness)
 
 ---
-### #14 — debpalash/VoiceStudio ⭐33.2K · 🔤Python
+### #14 — debpalash/VoiceStudio ⭐37.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -3097,7 +3205,7 @@
 🔗 [GitHub](https://github.com/debpalash/VoiceStudio)
 
 ---
-### #15 — FujiwaraChoki/MoneyPrinterV2 ⭐31.9K · 🔤Python
+### #15 — FujiwaraChoki/MoneyPrinterV2 ⭐32K · 🔤Python
 
 🌏 **自动化在线赚钱的流程。**
 
@@ -3106,7 +3214,7 @@
 🔗 [GitHub](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 
 ---
-### #16 — statelyai/xstate ⭐30.1K · 🔤TypeScript
+### #16 — statelyai/xstate ⭐30.2K · 🔤TypeScript
 
 🌏 **用于复杂逻辑的状态机、状态图和 Actor 模型**
 
@@ -3133,7 +3241,7 @@
 🔗 [GitHub](https://github.com/ariya/phantomjs)
 
 ---
-### #19 — kestra-io/kestra ⭐28.2K · 🔤Java
+### #19 — kestra-io/kestra ⭐28.4K · 🔤Java
 
 🌏 **面向关键任务应用的事件驱动编排和调度平台**
 
@@ -3169,16 +3277,7 @@
 🔗 [GitHub](https://github.com/arendst/Tasmota)
 
 ---
-### #23 — containrrr/watchtower ⭐24.6K · 🔤Go
-
-🌏 **自动化 Docker 容器基础镜像更新的进程。**
-
-📝 A process for automating Docker container base image updates. 
-
-🔗 [GitHub](https://github.com/containrrr/watchtower)
-
----
-### #24 — activepieces/activepieces ⭐24.6K · 🔤TypeScript
+### #23 — activepieces/activepieces ⭐24.7K · 🔤TypeScript
 
 🌏 **AI 代理与 MCP 工作流自动化平台，含约 400 个 MCP 服务器。**
 
@@ -3187,7 +3286,16 @@
 🔗 [GitHub](https://github.com/activepieces/activepieces)
 
 ---
-### #25 — argoproj/argo-cd ⭐24.2K · 🔤Go
+### #24 — containrrr/watchtower ⭐24.6K · 🔤Go
+
+🌏 **自动化 Docker 容器基础镜像更新的进程。**
+
+📝 A process for automating Docker container base image updates. 
+
+🔗 [GitHub](https://github.com/containrrr/watchtower)
+
+---
+### #25 — argoproj/argo-cd ⭐24.3K · 🔤Go
 
 🌏 **Kubernetes 声明式持续部署**
 
@@ -3214,7 +3322,7 @@
 🔗 [GitHub](https://github.com/PrefectHQ/prefect)
 
 ---
-### #28 — marimo-team/marimo ⭐22.8K · 🔤Python
+### #28 — marimo-team/marimo ⭐22.9K · 🔤Python
 
 🌏 **Python 响应式笔记本，可复现实验、SQL 查询、部署为应用，支持 Git 版本控制。**
 
@@ -3223,11 +3331,11 @@
 🔗 [GitHub](https://github.com/marimo-team/marimo)
 
 ---
-### #29 — openobserve/openobserve ⭐22K · 🔤TypeScript
+### #29 — openobserve/openobserve ⭐22.1K · 🔤TypeScript
 
 🌏 **开源可观测平台，支持日志、指标、追踪、LLM 可观测性，Datadog/Splunk 的高性能替代。**
 
-📝 Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+📝 Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 
 🔗 [GitHub](https://github.com/openobserve/openobserve)
 
@@ -3250,7 +3358,7 @@
 🔗 [GitHub](https://github.com/jina-ai/serve)
 
 ---
-### #32 — ImranR98/Obtainium ⭐19.8K · 🔤Dart
+### #32 — ImranR98/Obtainium ⭐20K · 🔤Dart
 
 🌏 **直接从源头获取 Android 应用更新。**
 
@@ -3277,7 +3385,7 @@
 🔗 [GitHub](https://github.com/spotify/luigi)
 
 ---
-### #35 — InstaPy/InstaPy ⭐18.2K · 🔤Python
+### #35 — InstaPy/InstaPy ⭐18.3K · 🔤Python
 
 🌏 **📷 Instagram 机器人 - 自动化 Instagram 交互工具**
 
@@ -3304,7 +3412,7 @@
 🔗 [GitHub](https://github.com/argoproj/argo-workflows)
 
 ---
-### #38 — triggerdotdev/trigger.dev ⭐16.3K · 🔤TypeScript
+### #38 — triggerdotdev/trigger.dev ⭐16.4K · 🔤TypeScript
 
 🌏 **Trigger.dev——构建和部署完全托管的 AI 代理和工作流。**
 
@@ -3322,7 +3430,7 @@
 🔗 [GitHub](https://github.com/dagster-io/dagster)
 
 ---
-### #40 — Hammerspoon/hammerspoon ⭐16.1K · 🔤Objective-C
+### #40 — Hammerspoon/hammerspoon ⭐16.2K · 🔤Objective-C
 
 🌏 **使用 Lua 实现极其强大的 macOS 桌面自动化**
 
@@ -3331,11 +3439,11 @@
 🔗 [GitHub](https://github.com/Hammerspoon/hammerspoon)
 
 ---
-### #41 — HBAI-Ltd/Toonflow-app ⭐15.8K · 🔤TypeScript
+### #41 — HBAI-Ltd/Toonflow-app ⭐16.1K · 🔤TypeScript
 
 🌏 **AI Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者**
 
-📝 Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
+📝 Toonflow 是开源 AI 创作平台，融合无限画布、AI Agent 与可视化工作流，支持图像生成、视频生成、智能分镜及短剧创作。支持本地部署、自由接入模型，提供跨平台桌面端，并可通过 MCP 与插件扩展创作能力。Open-source AI creative platform with an infinite canvas, AI agents and visual workflows fo
 
 🔗 [GitHub](https://github.com/HBAI-Ltd/Toonflow-app)
 
@@ -3349,7 +3457,7 @@
 🔗 [GitHub](https://github.com/ansible/awx)
 
 ---
-### #43 — microsoft/RD-Agent ⭐14.7K · 🔤Python
+### #43 — microsoft/RD-Agent ⭐14.8K · 🔤Python
 
 🌏 **通过 R&D-Agent 自动化高价值通用研发流程，让 AI 驱动数据驱动的 AI。**
 
@@ -3430,7 +3538,7 @@
 🔗 [GitHub](https://github.com/clearw5/Auto.js)
 
 ---
-### #52 — ultrafunkamsterdam/undetected-chromedriver ⭐12.8K · 🔤Python
+### #52 — ultrafunkamsterdam/undetected-chromedriver ⭐12.9K · 🔤Python
 
 🌏 **自定义 Selenium Chromedriver，零配置通过所有机器人检测系统。**
 
@@ -3439,7 +3547,7 @@
 🔗 [GitHub](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 
 ---
-### #53 — darrenburns/posting ⭐12.4K · 🔤Python
+### #53 — darrenburns/posting ⭐12.5K · 🔤Python
 
 🌏 **活在终端中的现代化 API 客户端。**
 
@@ -3448,7 +3556,7 @@
 🔗 [GitHub](https://github.com/darrenburns/posting)
 
 ---
-### #54 — adnanh/webhook ⭐12.1K · 🔤Go
+### #54 — adnanh/webhook ⭐12.2K · 🔤Go
 
 🌏 **轻量级入站 Webhook 服务器，用于运行 Shell 命令。**
 
@@ -3538,7 +3646,16 @@
 🔗 [GitHub](https://github.com/blacklanternsecurity/bbot)
 
 ---
-### #64 — getlago/lago ⭐10.6K · 🔤Go
+### #64 — kangarooking/cangjie-skill ⭐10.6K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）
+
+🔗 [GitHub](https://github.com/kangarooking/cangjie-skill)
+
+---
+### #65 — getlago/lago ⭐10.6K · 🔤Go
 
 🌏 **开源计量与基于用量的计费 API，支持消费追踪、订阅管理和定价迭代。**
 
@@ -3547,22 +3664,13 @@
 🔗 [GitHub](https://github.com/getlago/lago)
 
 ---
-### #65 — projectdiscovery/httpx ⭐10.4K · 🔤Go
+### #66 — projectdiscovery/httpx ⭐10.4K · 🔤Go
 
 🌏 **快速多用途 HTTP 工具包，支持使用 retryablehttp 库运行多个探测。**
 
 📝 httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 
 🔗 [GitHub](https://github.com/projectdiscovery/httpx)
-
----
-### #66 — kangarooking/cangjie-skill ⭐10.3K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）
-
-🔗 [GitHub](https://github.com/kangarooking/cangjie-skill)
 
 ---
 ### #67 — OthersideAI/self-operating-computer ⭐10.3K · 🔤Python
@@ -3574,16 +3682,7 @@
 🔗 [GitHub](https://github.com/OthersideAI/self-operating-computer)
 
 ---
-### #68 — EpistasisLab/tpot ⭐10.1K · 🔤Jupyter Notebook
-
-🌏 **使用遗传编程优化机器学习管道的 Python 自动机器学习工具。**
-
-📝 A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
-
-🔗 [GitHub](https://github.com/EpistasisLab/tpot)
-
----
-### #69 — iam-veeramalla/Jenkins-Zero-To-Hero ⭐10K · 🔤Python
+### #68 — iam-veeramalla/Jenkins-Zero-To-Hero ⭐10.1K · 🔤Python
 
 🌏 **安装 Jenkins、配置 Docker 从节点、设置 CI/CD、使用 Argo CD 以 GitOps 方式部署应用到 Kubernetes。**
 
@@ -3592,22 +3691,31 @@
 🔗 [GitHub](https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero)
 
 ---
-### #70 — webdriverio/webdriverio ⭐9.8K · 🔤TypeScript
+### #69 — EpistasisLab/tpot ⭐10.1K · 🔤Jupyter Notebook
 
-🌏 **Node.js 的下一代浏览器和移动自动化测试框架**
+🌏 **使用遗传编程优化机器学习管道的 Python 自动机器学习工具。**
 
-📝 Next-gen browser and mobile automation test framework for Node.js
+📝 A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
-🔗 [GitHub](https://github.com/webdriverio/webdriverio)
+🔗 [GitHub](https://github.com/EpistasisLab/tpot)
 
 ---
-### #71 — microsoft/UFO ⭐9.8K · 🔤Python
+### #70 — microsoft/UFO ⭐9.8K · 🔤Python
 
 🌏 **UFO³：编织数字代理星系。**
 
 📝 UFO³: Weaving the Digital Agent Galaxy
 
 🔗 [GitHub](https://github.com/microsoft/UFO)
+
+---
+### #71 — webdriverio/webdriverio ⭐9.8K · 🔤TypeScript
+
+🌏 **Node.js 的下一代浏览器和移动自动化测试框架**
+
+📝 Next-gen browser and mobile automation test framework for Node.js
+
+🔗 [GitHub](https://github.com/webdriverio/webdriverio)
 
 ---
 ### #72 — AirtestProject/Airtest ⭐9.6K · 🔤Python
@@ -3619,7 +3727,7 @@
 🔗 [GitHub](https://github.com/AirtestProject/Airtest)
 
 ---
-### #73 — flowable/flowable-engine ⭐9.5K · 🔤Java
+### #73 — flowable/flowable-engine ⭐9.6K · 🔤Java
 
 🌏 **紧凑高效的流程和业务流程管理 (BPM) 平台。**
 
@@ -3628,7 +3736,16 @@
 🔗 [GitHub](https://github.com/flowable/flowable-engine)
 
 ---
-### #74 — runatlantis/atlantis ⭐9.2K · 🔤Go
+### 🆕 #74 — certimate-go/certimate ⭐9.3K · 🔤Go
+
+🌏 *中文描述待补充*
+
+📝 An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
+
+🔗 [GitHub](https://github.com/certimate-go/certimate)
+
+---
+### #75 — runatlantis/atlantis ⭐9.2K · 🔤Go
 
 🌏 **Terraform 拉取请求自动化**
 
@@ -3637,7 +3754,7 @@
 🔗 [GitHub](https://github.com/runatlantis/atlantis)
 
 ---
-### #75 — bentoml/BentoML ⭐8.9K · 🔤Python
+### #76 — bentoml/BentoML ⭐8.9K · 🔤Python
 
 🌏 **服务 AI 应用和模型的最简单方式——构建模型推理 API、任务队列、LLM 应用等。**
 
@@ -3646,7 +3763,7 @@
 🔗 [GitHub](https://github.com/bentoml/BentoML)
 
 ---
-### #76 — OpenDCAI/DataFlow ⭐8.2K · 🔤Python
+### #77 — OpenDCAI/DataFlow ⭐8.2K · 🔤Python
 
 🌏 **基于最新 LLM 的 Operator 和 Pipeline，轻松完成数据准备。**
 
@@ -3655,7 +3772,7 @@
 🔗 [GitHub](https://github.com/OpenDCAI/DataFlow)
 
 ---
-### #77 — RayVentura/ShortGPT ⭐8K · 🔤Python
+### #78 — RayVentura/ShortGPT ⭐8K · 🔤Python
 
 🌏 **AI 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel au**
 
@@ -3664,7 +3781,7 @@
 🔗 [GitHub](https://github.com/RayVentura/ShortGPT)
 
 ---
-### #78 — evidentlyai/evidently ⭐7.9K · 🔤Jupyter Notebook
+### #79 — evidentlyai/evidently ⭐7.9K · 🔤Jupyter Notebook
 
 🌏 **开源 ML 和 LLM 可观测性框架，评估、测试和监控任何 AI 系统。100+ 指标。**
 
@@ -3673,7 +3790,7 @@
 🔗 [GitHub](https://github.com/evidentlyai/evidently)
 
 ---
-### #79 — katanemo/plano ⭐7.1K · 🔤Rust
+### #80 — katanemo/plano ⭐7.1K · 🔤Rust
 
 🌏 **面向代理应用的 AI 原生代理和数据平面，内置编排、安全、可观测性和智能 LLM 路由。**
 
@@ -3682,7 +3799,7 @@
 🔗 [GitHub](https://github.com/katanemo/plano)
 
 ---
-### #80 — clearml/clearml ⭐6.9K · 🔤Python
+### #81 — clearml/clearml ⭐6.9K · 🔤Python
 
 🌏 **ClearML - 自动化 CI/CD 简化 AI 工作负载，一站式 MLOps/LLMOps 解决方案。**
 
@@ -3691,7 +3808,7 @@
 🔗 [GitHub](https://github.com/clearml/clearml)
 
 ---
-### #81 — Emily2040/seedance-2.0 ⭐5.6K · 🔤Python
+### #82 — Emily2040/seedance-2.0 ⭐5.6K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -3700,7 +3817,7 @@
 🔗 [GitHub](https://github.com/Emily2040/seedance-2.0)
 
 ---
-### #82 — tencentmusic/cube-studio ⭐5.1K
+### #83 — tencentmusic/cube-studio ⭐5.1K
 
 🌏 **开源云原生一站式机器学习/深度学习/AI平台，支持分布式训练和推理。**
 
@@ -3709,7 +3826,7 @@
 🔗 [GitHub](https://github.com/tencentmusic/cube-studio)
 
 ---
-### #83 — Marker-Inc-Korea/AutoRAG ⭐5.1K · 🔤TypeScript
+### #84 — Marker-Inc-Korea/AutoRAG ⭐5.1K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -3726,11 +3843,11 @@
 <a name="mcp-生态"></a>
 
 <details >
-<summary><b>⛓️ MCP 生态</b> <code>112</code></summary>
+<summary><b>⛓️ MCP 生态</b> <code>117</code></summary>
 <br>
-### ⭐ 精选推荐（Top 5 / 共 112）
+### ⭐ 精选推荐（Top 5 / 共 117）
 
-### 🥇 #1 — farion1231/cc-switch ⭐133.7K · 🔤Rust
+### 🥇 #1 — farion1231/cc-switch ⭐137.3K · 🔤Rust
 
 🌏 **跨平台桌面全能助手，支持 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 和 Hermes Agent。**
 
@@ -3739,7 +3856,7 @@
 🔗 [GitHub](https://github.com/farion1231/cc-switch)
 
 ---
-### 🥈 #2 — punkpeye/awesome-mcp-servers ⭐95.3K
+### 🥈 #2 — punkpeye/awesome-mcp-servers ⭐95.6K
 
 🌏 **MCP 服务器精选合集。**
 
@@ -3748,7 +3865,7 @@
 🔗 [GitHub](https://github.com/punkpeye/awesome-mcp-servers)
 
 ---
-### 🥉 #3 — lobehub/lobehub ⭐82.7K · 🔤TypeScript
+### 🥉 #3 — lobehub/lobehub ⭐82.8K · 🔤TypeScript
 
 🌏 **LobeHub 帮你把专属 Agent 组织成 7×24 不打烊的高效队伍：**
 
@@ -3757,7 +3874,7 @@
 🔗 [GitHub](https://github.com/lobehub/lobehub)
 
 ---
-### #4 — ComposioHQ/awesome-claude-skills ⭐75.4K · 🔤Python
+### #4 — ComposioHQ/awesome-claude-skills ⭐75.7K · 🔤Python
 
 🌏 **精选的 Claude Skills、资源和工具列表，用于定制 Claude AI 工作流。**
 
@@ -3766,7 +3883,7 @@
 🔗 [GitHub](https://github.com/ComposioHQ/awesome-claude-skills)
 
 ---
-### #5 — headroomlabs-ai/headroom ⭐73.1K · 🔤Python
+### #5 — headroomlabs-ai/headroom ⭐73.9K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -3777,12 +3894,12 @@
 ---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📋 全部项目（107 个）
+### 📋 全部项目（112 个）
 
 <details>
-<summary>点击展开全部 107 个项目</summary>
+<summary>点击展开全部 112 个项目</summary>
 <br>
-### #6 — modelcontextprotocol/servers ⭐90.5K · 🔤TypeScript
+### #6 — modelcontextprotocol/servers ⭐90.6K · 🔤TypeScript
 
 🌏 **Model Context Protocol 服务器集合**
 
@@ -3791,7 +3908,7 @@
 🔗 [GitHub](https://github.com/modelcontextprotocol/servers)
 
 ---
-### #7 — upstash/context7 ⭐62.2K · 🔤TypeScript
+### #7 — upstash/context7 ⭐62.5K · 🔤TypeScript
 
 🌏 **Context7 平台——为 LLM 和 AI 代码编辑器提供最新的代码文档。**
 
@@ -3800,7 +3917,7 @@
 🔗 [GitHub](https://github.com/upstash/context7)
 
 ---
-### #8 — bojieli/ai-agent-book ⭐48.7K · 🔤Python
+### #8 — bojieli/ai-agent-book ⭐51.2K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -3809,7 +3926,7 @@
 🔗 [GitHub](https://github.com/bojieli/ai-agent-book)
 
 ---
-### #9 — jeecgboot/JeecgBoot ⭐47.9K · 🔤Java
+### #9 — jeecgboot/JeecgBoot ⭐48K · 🔤Java
 
 🌏 **AI 低代码平台，低代码+零代码双驱动，可一键生成前后端代码，5 分钟搭建系统。**
 
@@ -3818,25 +3935,16 @@
 🔗 [GitHub](https://github.com/jeecgboot/JeecgBoot)
 
 ---
-### #10 — sickn33/agentic-awesome-skills ⭐46.6K · 🔤Python
+### #10 — sickn33/agentic-awesome-skills ⭐47K · 🔤Python
 
 🌏 *中文描述待补充*
 
-📝 AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
+📝 AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalo
 
 🔗 [GitHub](https://github.com/sickn33/agentic-awesome-skills)
 
 ---
-### #11 — danny-avila/LibreChat ⭐44.4K · 🔤TypeScript
-
-🌏 **增强版 ChatGPT 克隆，支持代理、MCP、DeepSeek、Anthropic、OpenAI 等多种模型，含代码解释器和多用户认证。**
-
-📝 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-
-🔗 [GitHub](https://github.com/danny-avila/LibreChat)
-
----
-### #12 — DeusData/codebase-memory-mcp ⭐43.8K · 🔤C
+### #11 — DeusData/codebase-memory-mcp ⭐45K · 🔤C
 
 🌏 **高性能代码智能 MCP 服务器。将代码库索引为持久化知识图谱。**
 
@@ -3845,7 +3953,25 @@
 🔗 [GitHub](https://github.com/DeusData/codebase-memory-mcp)
 
 ---
-### 🆕 #13 — reactive-resume/reactive-resume ⭐43.2K · 🔤TypeScript
+### 🆕 #12 — LibreChat-AI/LibreChat ⭐45K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+
+🔗 [GitHub](https://github.com/LibreChat-AI/LibreChat)
+
+---
+### #13 — danny-avila/LibreChat ⭐44.4K · 🔤TypeScript
+
+🌏 **增强版 ChatGPT 克隆，支持代理、MCP、DeepSeek、Anthropic、OpenAI 等多种模型，含代码解释器和多用户认证。**
+
+📝 Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+
+🔗 [GitHub](https://github.com/danny-avila/LibreChat)
+
+---
+### #14 — reactive-resume/reactive-resume ⭐43.5K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -3854,7 +3980,7 @@
 🔗 [GitHub](https://github.com/reactive-resume/reactive-resume)
 
 ---
-### #14 — Hmbown/Codewhale ⭐41K · 🔤Rust
+### #15 — Hmbown/Codewhale ⭐41K · 🔤Rust
 
 🌏 *中文描述待补充*
 
@@ -3863,7 +3989,7 @@
 🔗 [GitHub](https://github.com/Hmbown/Codewhale)
 
 ---
-### #15 — wshobson/agents ⭐39.8K · 🔤Python
+### #16 — wshobson/agents ⭐40K · 🔤Python
 
 🌏 **多工具链代理插件市场，支持 Claude Code、Codex CLI、Cursor、OpenCode 和 Gemini CLI。**
 
@@ -3872,7 +3998,7 @@
 🔗 [GitHub](https://github.com/wshobson/agents)
 
 ---
-### #16 — mindsdb/mindshub ⭐39.8K · 🔤Makefile
+### #17 — mindsdb/mindshub ⭐39.8K · 🔤Makefile
 
 🌏 *中文描述待补充*
 
@@ -3881,7 +4007,7 @@
 🔗 [GitHub](https://github.com/mindsdb/mindshub)
 
 ---
-### 🆕 #17 — drawdb-io/drawdb ⭐39.6K · 🔤JavaScript
+### #18 — drawdb-io/drawdb ⭐39.7K · 🔤JavaScript
 
 🌏 *中文描述待补充*
 
@@ -3890,7 +4016,7 @@
 🔗 [GitHub](https://github.com/drawdb-io/drawdb)
 
 ---
-### #18 — mindsdb/minds ⭐39.4K · 🔤Makefile
+### #19 — mindsdb/minds ⭐39.4K · 🔤Makefile
 
 🌏 **专为知识工作者设计的通用 AI**
 
@@ -3899,7 +4025,7 @@
 🔗 [GitHub](https://github.com/mindsdb/minds)
 
 ---
-### #19 — PDFMathTranslate/PDFMathTranslate ⭐37.1K · 🔤Python
+### #20 — PDFMathTranslate/PDFMathTranslate ⭐37.2K · 🔤Python
 
 🌏 **[EMNLP 2025 Demo] 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务。**
 
@@ -3908,7 +4034,7 @@
 🔗 [GitHub](https://github.com/PDFMathTranslate/PDFMathTranslate)
 
 ---
-### #20 — anthropics/claude-plugins-official ⭐36.5K · 🔤Python
+### #21 — anthropics/claude-plugins-official ⭐37.1K · 🔤Python
 
 🌏 **Anthropic 官方维护的优质 Claude Code 插件目录。**
 
@@ -3917,16 +4043,7 @@
 🔗 [GitHub](https://github.com/anthropics/claude-plugins-official)
 
 ---
-### #21 — github/github-mcp-server ⭐33.1K · 🔤Go
-
-🌏 **GitHub 官方的 MCP 服务器。**
-
-📝 GitHub's official MCP Server
-
-🔗 [GitHub](https://github.com/github/github-mcp-server)
-
----
-### #22 — mukul975/Anthropic-Cybersecurity-Skills ⭐33K · 🔤Python
+### #22 — mukul975/Anthropic-Cybersecurity-Skills ⭐33.4K · 🔤Python
 
 🌏 **754 个结构化网络安全 AI 技能，映射到 MITRE ATT&CK、NIST CSF 2.0 等 5 个框架。**
 
@@ -3935,7 +4052,16 @@
 🔗 [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 
 ---
-### #23 — chopratejas/headroom ⭐32.7K · 🔤Python
+### #23 — github/github-mcp-server ⭐33.2K · 🔤Go
+
+🌏 **GitHub 官方的 MCP 服务器。**
+
+📝 GitHub's official MCP Server
+
+🔗 [GitHub](https://github.com/github/github-mcp-server)
+
+---
+### #24 — chopratejas/headroom ⭐32.7K · 🔤Python
 
 🌏 **压缩工具输出、日志、文件和 RAG 块，减少 60-95% token 的同时保持相同答案。**
 
@@ -3944,7 +4070,16 @@
 🔗 [GitHub](https://github.com/chopratejas/headroom)
 
 ---
-### #24 — feder-cr/AIHawk ⭐31.6K · 🔤Python
+### 🆕 #25 — feder-cr/invisible_playwright_mcp ⭐31.7K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
+
+🔗 [GitHub](https://github.com/feder-cr/invisible_playwright_mcp)
+
+---
+### #26 — feder-cr/AIHawk ⭐31.6K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -3953,7 +4088,7 @@
 🔗 [GitHub](https://github.com/feder-cr/AIHawk)
 
 ---
-### #25 — ComposioHQ/composio ⭐30.3K · 🔤TypeScript
+### #27 — ComposioHQ/composio ⭐30.3K · 🔤TypeScript
 
 🌏 **Composio 提供 1000+ 工具包、工具搜索、上下文管理、认证和沙箱工作台，助你构建将意图转化为行动的 AI 代理。**
 
@@ -3962,7 +4097,7 @@
 🔗 [GitHub](https://github.com/ComposioHQ/composio)
 
 ---
-### #26 — 78/xiaozhi-esp32 ⭐30.1K · 🔤C++
+### #28 — 78/xiaozhi-esp32 ⭐30.2K · 🔤C++
 
 🌏 **基于 MCP 的聊天机器人。**
 
@@ -3971,7 +4106,7 @@
 🔗 [GitHub](https://github.com/78/xiaozhi-esp32)
 
 ---
-### 🆕 #27 — ahujasid/mcp-for-blender ⭐29K · 🔤Python
+### 🆕 #29 — ahujasid/mcp-for-blender ⭐29.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -3980,7 +4115,7 @@
 🔗 [GitHub](https://github.com/ahujasid/mcp-for-blender)
 
 ---
-### #28 — yamadashy/repomix ⭐28.4K · 🔤TypeScript
+### #30 — yamadashy/repomix ⭐28.5K · 🔤TypeScript
 
 🌏 **📦 将整个仓库打包成单个 AI 友好文件的工具，便于喂给 LLM 或 AI 工具。**
 
@@ -3989,7 +4124,7 @@
 🔗 [GitHub](https://github.com/yamadashy/repomix)
 
 ---
-### #29 — ahujasid/blender-mcp ⭐28.4K · 🔤Python
+### #31 — ahujasid/blender-mcp ⭐28.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -3998,7 +4133,7 @@
 🔗 [GitHub](https://github.com/ahujasid/blender-mcp)
 
 ---
-### #30 — PrefectHQ/fastmcp ⭐27.8K · 🔤Python
+### #32 — PrefectHQ/fastmcp ⭐27.9K · 🔤Python
 
 🌏 **🚀 快速、Pythonic 的 MCP 服务器和客户端构建工具。**
 
@@ -4007,7 +4142,7 @@
 🔗 [GitHub](https://github.com/PrefectHQ/fastmcp)
 
 ---
-### #31 — modelcontextprotocol/python-sdk ⭐24.3K · 🔤Python
+### #33 — modelcontextprotocol/python-sdk ⭐24.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4016,7 +4151,7 @@
 🔗 [GitHub](https://github.com/modelcontextprotocol/python-sdk)
 
 ---
-### #32 — pascalorg/editor ⭐24.2K · 🔤TypeScript
+### #34 — pascalorg/editor ⭐24.3K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -4025,7 +4160,7 @@
 🔗 [GitHub](https://github.com/pascalorg/editor)
 
 ---
-### #33 — micro/go-micro ⭐23.1K · 🔤Go
+### #35 — micro/go-micro ⭐23.1K · 🔤Go
 
 🌏 **用于构建智能体和服务的 Go 框架。**
 
@@ -4034,7 +4169,7 @@
 🔗 [GitHub](https://github.com/micro/go-micro)
 
 ---
-### #34 — czlonkowski/n8n-mcp ⭐22.9K · 🔤TypeScript
+### #36 — czlonkowski/n8n-mcp ⭐23K · 🔤TypeScript
 
 🌏 **用于 Claude Desktop / Claude Code 等的 MCP，可为你构建 n8n 工作流。**
 
@@ -4043,7 +4178,7 @@
 🔗 [GitHub](https://github.com/czlonkowski/n8n-mcp)
 
 ---
-### #35 — screenpipe/screenpipe ⭐21.6K · 🔤Rust
+### #37 — screenpipe/screenpipe ⭐21.7K · 🔤Rust
 
 🌏 **记录你看过、说过或听过一切的 AI，24/7 本地运行，私密安全。**
 
@@ -4052,34 +4187,7 @@
 🔗 [GitHub](https://github.com/screenpipe/screenpipe)
 
 ---
-### #36 — modelscope/FunASR ⭐20.4K · 🔤Python
-
-🌏 **工业级语音识别工具包：170 倍实时、50+ 语言、说话人分离、情感检测、流式识别，兼容 OpenAI API。**
-
-📝 Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
-
-🔗 [GitHub](https://github.com/modelscope/FunASR)
-
----
-### 🆕 #37 — Evil0ctal/Douyin_TikTok_Download_API ⭐20.2K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, Post
-
-🔗 [GitHub](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
-
----
-### #38 — t8y2/dbx ⭐20.1K · 🔤Rust
-
-🌏 *中文描述待补充*
-
-📝 25 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
-
-🔗 [GitHub](https://github.com/t8y2/dbx)
-
----
-### #39 — every-app/open-seo ⭐19.5K · 🔤TypeScript
+### #38 — every-app/open-seo ⭐21.3K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -4088,7 +4196,34 @@
 🔗 [GitHub](https://github.com/every-app/open-seo)
 
 ---
-### #40 — nukeop/nuclear ⭐18.5K · 🔤TypeScript
+### #39 — t8y2/dbx ⭐20.8K · 🔤Rust
+
+🌏 *中文描述待补充*
+
+📝 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
+
+🔗 [GitHub](https://github.com/t8y2/dbx)
+
+---
+### #40 — modelscope/FunASR ⭐20.5K · 🔤Python
+
+🌏 **工业级语音识别工具包：170 倍实时、50+ 语言、说话人分离、情感检测、流式识别，兼容 OpenAI API。**
+
+📝 Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
+
+🔗 [GitHub](https://github.com/modelscope/FunASR)
+
+---
+### #41 — Evil0ctal/Douyin_TikTok_Download_API ⭐20.3K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, 
+
+🔗 [GitHub](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
+
+---
+### #42 — nukeop/nuclear ⭐18.5K · 🔤TypeScript
 
 🌏 **为你寻找免费音乐的流媒体音乐播放器。**
 
@@ -4097,7 +4232,7 @@
 🔗 [GitHub](https://github.com/nukeop/nuclear)
 
 ---
-### #41 — microsoft/mcp-for-beginners ⭐17.3K · 🔤Jupyter Notebook
+### #43 — microsoft/mcp-for-beginners ⭐17.3K · 🔤Jupyter Notebook
 
 🌏 **开源 MCP 入门课程，通过 .NET、Java、TypeScript、JavaScript、Rust 和 Python 的实际示例，介绍模型上下文协议的基础知识。**
 
@@ -4106,7 +4241,7 @@
 🔗 [GitHub](https://github.com/microsoft/mcp-for-beginners)
 
 ---
-### #42 — udecode/plate ⭐16.6K · 🔤TypeScript
+### #44 — udecode/plate ⭐16.6K · 🔤TypeScript
 
 🌏 **带 AI 和 shadcn/ui 的富文本编辑器。**
 
@@ -4115,16 +4250,7 @@
 🔗 [GitHub](https://github.com/udecode/plate)
 
 ---
-### #43 — googleapis/mcp-toolbox ⭐16.5K · 🔤Go
-
-🌏 **数据库 MCP 工具箱，一个开源的数据库 MCP 服务器。**
-
-📝 MCP Toolbox for Databases is an open source MCP server for databases.
-
-🔗 [GitHub](https://github.com/googleapis/mcp-toolbox)
-
----
-### #44 — xbtlin/ai-berkshire ⭐16.5K · 🔤HTML
+### #45 — xbtlin/ai-berkshire ⭐16.6K · 🔤HTML
 
 🌏 *中文描述待补充*
 
@@ -4133,16 +4259,16 @@
 🔗 [GitHub](https://github.com/xbtlin/ai-berkshire)
 
 ---
-### #45 — xpzouying/xiaohongshu-mcp ⭐15.9K · 🔤Go
+### #46 — googleapis/mcp-toolbox ⭐16.5K · 🔤Go
 
-🌏 **小红书 MCP 服务。**
+🌏 **数据库 MCP 工具箱，一个开源的数据库 MCP 服务器。**
 
-📝 MCP for xiaohongshu.com
+📝 MCP Toolbox for Databases is an open source MCP server for databases.
 
-🔗 [GitHub](https://github.com/xpzouying/xiaohongshu-mcp)
+🔗 [GitHub](https://github.com/googleapis/mcp-toolbox)
 
 ---
-### #46 — budtmo/docker-android ⭐15.9K · 🔤Python
+### #47 — budtmo/docker-android ⭐15.9K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4151,7 +4277,16 @@
 🔗 [GitHub](https://github.com/budtmo/docker-android)
 
 ---
-### #47 — electerm/electerm ⭐15.2K · 🔤JavaScript
+### #48 — xpzouying/xiaohongshu-mcp ⭐15.9K · 🔤Go
+
+🌏 **小红书 MCP 服务。**
+
+📝 MCP for xiaohongshu.com
+
+🔗 [GitHub](https://github.com/xpzouying/xiaohongshu-mcp)
+
+---
+### #49 — electerm/electerm ⭐15.2K · 🔤JavaScript
 
 🌏 **📻 终端/SSH/SFTP/FTP/Telnet/串口/RDP/VNC/Spice 客户端（Linux、Mac、Win）。**
 
@@ -4160,7 +4295,7 @@
 🔗 [GitHub](https://github.com/electerm/electerm)
 
 ---
-### #48 — open-metadata/OpenMetadata ⭐15.2K · 🔤TypeScript
+### #50 — open-metadata/OpenMetadata ⭐15.2K · 🔤TypeScript
 
 🌏 **统一元数据平台，用于数据发现、可观测性和数据治理。**
 
@@ -4169,7 +4304,7 @@
 🔗 [GitHub](https://github.com/open-metadata/OpenMetadata)
 
 ---
-### #49 — yusufkaraaslan/Skill_Seekers ⭐15K · 🔤Python
+### #51 — yusufkaraaslan/Skill_Seekers ⭐15K · 🔤Python
 
 🌏 **将文档网站、GitHub 仓库和 PDF 转换为 Claude AI 技能，带自动冲突检测。**
 
@@ -4178,7 +4313,7 @@
 🔗 [GitHub](https://github.com/yusufkaraaslan/Skill_Seekers)
 
 ---
-### #50 — NanmiCoder/cc-haha ⭐14.6K · 🔤TypeScript
+### #52 — NanmiCoder/cc-haha ⭐14.7K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -4187,7 +4322,7 @@
 🔗 [GitHub](https://github.com/NanmiCoder/cc-haha)
 
 ---
-### #51 — NevaMind-AI/memU ⭐14.1K · 🔤Python
+### #53 — NevaMind-AI/memU ⭐14.1K · 🔤Python
 
 🌏 **为 OpenClaw 等全天候主动代理提供的记忆模块。**
 
@@ -4196,7 +4331,7 @@
 🔗 [GitHub](https://github.com/NevaMind-AI/memU)
 
 ---
-### 🆕 #52 — tonhowtf/omniget ⭐14K · 🔤Rust
+### 🆕 #54 — tonhowtf/omniget ⭐14K · 🔤Rust
 
 🌏 *中文描述待补充*
 
@@ -4205,7 +4340,7 @@
 🔗 [GitHub](https://github.com/tonhowtf/omniget)
 
 ---
-### #53 — EverMind-AI/EverOS ⭐13.1K · 🔤Python
+### #55 — EverMind-AI/EverOS ⭐13.2K · 🔤Python
 
 🌏 **跨 Agent 和平台的自我进化记忆层，适用于 Claude Code、Codex 等。**
 
@@ -4214,7 +4349,7 @@
 🔗 [GitHub](https://github.com/EverMind-AI/EverOS)
 
 ---
-### #54 — CoplayDev/unity-mcp ⭐12.9K · 🔤C#
+### #56 — CoplayDev/unity-mcp ⭐12.9K · 🔤C#
 
 🌏 **Unity MCP 充当 AI 助手和 Unity 编辑器之间的桥梁，管理资源、控制场景、编辑脚本。**
 
@@ -4223,7 +4358,7 @@
 🔗 [GitHub](https://github.com/CoplayDev/unity-mcp)
 
 ---
-### #55 — codexu/note-gen ⭐12.8K · 🔤TypeScript
+### #57 — codexu/note-gen ⭐12.8K · 🔤TypeScript
 
 🌏 **跨平台 Markdown AI 笔记软件。**
 
@@ -4232,7 +4367,7 @@
 🔗 [GitHub](https://github.com/codexu/note-gen)
 
 ---
-### #56 — palmier-io/palmier-pro ⭐12.7K · 🔤Swift
+### #58 — palmier-io/palmier-pro ⭐12.7K · 🔤Swift
 
 🌏 *中文描述待补充*
 
@@ -4241,52 +4376,7 @@
 🔗 [GitHub](https://github.com/palmier-io/palmier-pro)
 
 ---
-### #57 — JoeanAmier/XHS-Downloader ⭐12.1K · 🔤Python
-
-🌏 **小红书链接提取与作品采集工具，支持账号作品提取、搜索、下载。**
-
-📝 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
-
-🔗 [GitHub](https://github.com/JoeanAmier/XHS-Downloader)
-
----
-### #58 — 0x4m4/hexstrike-ai ⭐12K · 🔤Python
-
-🌏 **HexStrike AI MCP 代理，让 AI 代理自主运行 150+ 网络安全工具进行自动化渗透测试和漏洞发现。**
-
-📝 HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
-
-🔗 [GitHub](https://github.com/0x4m4/hexstrike-ai)
-
----
-### #59 — tadata-org/fastapi_mcp ⭐11.9K · 🔤Python
-
-🌏 **将 FastAPI 端点暴露为 MCP 工具，支持认证！**
-
-📝 Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
-
-🔗 [GitHub](https://github.com/tadata-org/fastapi_mcp)
-
----
-### #60 — BeehiveInnovations/pal-mcp-server ⭐11.6K · 🔤Python
-
-🌏 **将 Claude Code / Gemini CLI / Codex CLI 与多种模型整合为一。**
-
-📝 The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
-
-🔗 [GitHub](https://github.com/BeehiveInnovations/pal-mcp-server)
-
----
-### #61 — 0xJacky/nginx-ui ⭐11.5K · 🔤Go
-
-🌏 **另一个 Nginx WebUI。**
-
-📝 Yet another WebUI for Nginx
-
-🔗 [GitHub](https://github.com/0xJacky/nginx-ui)
-
----
-### 🆕 #62 — corsairdev/corsair ⭐11.5K · 🔤TypeScript
+### #59 — corsairdev/corsair ⭐12.3K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -4295,43 +4385,34 @@
 🔗 [GitHub](https://github.com/corsairdev/corsair)
 
 ---
-### #63 — cobusgreyling/loop-engineering ⭐11.3K · 🔤TypeScript
+### #60 — JoeanAmier/XHS-Downloader ⭐12.1K · 🔤Python
 
-🌏 *中文描述待补充*
+🌏 **小红书链接提取与作品采集工具，支持账号作品提取、搜索、下载。**
 
-📝 Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
+📝 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
 
-🔗 [GitHub](https://github.com/cobusgreyling/loop-engineering)
-
----
-### #64 — astrid-runtime/astrid ⭐10.3K · 🔤Rust
-
-🌏 *中文描述待补充*
-
-📝 Astrid is a portable, capability-secure operating system for composable software.
-
-🔗 [GitHub](https://github.com/astrid-runtime/astrid)
+🔗 [GitHub](https://github.com/JoeanAmier/XHS-Downloader)
 
 ---
-### #65 — mcp-use/mcp-use ⭐10.2K · 🔤TypeScript
+### #61 — 0x4m4/hexstrike-ai ⭐12.1K · 🔤Python
 
-🌏 **全栈 MCP 框架，用于为 ChatGPT/Claude 开发 MCP 应用和为 AI 代理开发 MCP 服务器。**
+🌏 **HexStrike AI MCP 代理，让 AI 代理自主运行 150+ 网络安全工具进行自动化渗透测试和漏洞发现。**
 
-📝 The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
+📝 HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 
-🔗 [GitHub](https://github.com/mcp-use/mcp-use)
-
----
-### #66 — xinnan-tech/xiaozhi-esp32-server ⭐10K · 🔤JavaScript
-
-🌏 **为 xiaozhi-esp32 提供后端服务，快速搭建 ESP32 设备控制服务器。**
-
-📝 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
-
-🔗 [GitHub](https://github.com/xinnan-tech/xiaozhi-esp32-server)
+🔗 [GitHub](https://github.com/0x4m4/hexstrike-ai)
 
 ---
-### #67 — miuuyy/codex-chatgpt-web ⭐9.7K · 🔤TypeScript
+### #62 — tadata-org/fastapi_mcp ⭐11.9K · 🔤Python
+
+🌏 **将 FastAPI 端点暴露为 MCP 工具，支持认证！**
+
+📝 Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+
+🔗 [GitHub](https://github.com/tadata-org/fastapi_mcp)
+
+---
+### #63 — miuuyy/codex-chatgpt-web ⭐11.8K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -4340,7 +4421,70 @@
 🔗 [GitHub](https://github.com/miuuyy/codex-chatgpt-web)
 
 ---
-### #68 — wonderwhy-er/DesktopCommanderMCP ⭐9.7K · 🔤TypeScript
+### #64 — BeehiveInnovations/pal-mcp-server ⭐11.6K · 🔤Python
+
+🌏 **将 Claude Code / Gemini CLI / Codex CLI 与多种模型整合为一。**
+
+📝 The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+
+🔗 [GitHub](https://github.com/BeehiveInnovations/pal-mcp-server)
+
+---
+### #65 — 0xJacky/nginx-ui ⭐11.5K · 🔤Go
+
+🌏 **另一个 Nginx WebUI。**
+
+📝 Yet another WebUI for Nginx
+
+🔗 [GitHub](https://github.com/0xJacky/nginx-ui)
+
+---
+### #66 — cobusgreyling/loop-engineering ⭐11.3K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
+
+🔗 [GitHub](https://github.com/cobusgreyling/loop-engineering)
+
+---
+### 🆕 #67 — TykTechnologies/tyk ⭐10.8K · 🔤Go
+
+🌏 *中文描述待补充*
+
+📝 Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
+
+🔗 [GitHub](https://github.com/TykTechnologies/tyk)
+
+---
+### #68 — astrid-runtime/astrid ⭐10.3K · 🔤Rust
+
+🌏 *中文描述待补充*
+
+📝 Astrid is a portable, capability-secure operating system for composable software.
+
+🔗 [GitHub](https://github.com/astrid-runtime/astrid)
+
+---
+### #69 — mcp-use/mcp-use ⭐10.2K · 🔤TypeScript
+
+🌏 **全栈 MCP 框架，用于为 ChatGPT/Claude 开发 MCP 应用和为 AI 代理开发 MCP 服务器。**
+
+📝 The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
+
+🔗 [GitHub](https://github.com/mcp-use/mcp-use)
+
+---
+### #70 — xinnan-tech/xiaozhi-esp32-server ⭐10K · 🔤JavaScript
+
+🌏 **为 xiaozhi-esp32 提供后端服务，快速搭建 ESP32 设备控制服务器。**
+
+📝 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+
+🔗 [GitHub](https://github.com/xinnan-tech/xiaozhi-esp32-server)
+
+---
+### #71 — wonderwhy-er/DesktopCommanderMCP ⭐9.8K · 🔤TypeScript
 
 🌏 **为 Claude 提供终端控制、文件系统搜索和差异文件编辑能力的 MCP 服务器。**
 
@@ -4349,16 +4493,7 @@
 🔗 [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
 ---
-### #69 — mrexodia/ida-pro-mcp ⭐9.5K · 🔤Python
-
-🌏 **AI 驱动的逆向工程助手，通过 MCP 桥接 IDA Pro 与语言模型。**
-
-📝 AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
-
-🔗 [GitHub](https://github.com/mrexodia/ida-pro-mcp)
-
----
-### #70 — Thysrael/Horizon ⭐9.4K · 🔤Python
+### #72 — Thysrael/Horizon ⭐9.5K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4367,7 +4502,16 @@
 🔗 [GitHub](https://github.com/Thysrael/Horizon)
 
 ---
-### #71 — xberg-io/xberg ⭐9.3K · 🔤Rust
+### #73 — mrexodia/ida-pro-mcp ⭐9.5K · 🔤Python
+
+🌏 **AI 驱动的逆向工程助手，通过 MCP 桥接 IDA Pro 与语言模型。**
+
+📝 AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
+🔗 [GitHub](https://github.com/mrexodia/ida-pro-mcp)
+
+---
+### #74 — xberg-io/xberg ⭐9.3K · 🔤Rust
 
 🌏 *中文描述待补充*
 
@@ -4376,7 +4520,7 @@
 🔗 [GitHub](https://github.com/xberg-io/xberg)
 
 ---
-### #72 — awslabs/mcp ⭐9.3K · 🔤Python
+### #75 — awslabs/mcp ⭐9.3K · 🔤Python
 
 🌏 **AWS 开源 MCP 服务器。**
 
@@ -4385,7 +4529,7 @@
 🔗 [GitHub](https://github.com/awslabs/mcp)
 
 ---
-### #73 — trailhq/Graft ⭐8.7K · 🔤TypeScript
+### #76 — trailhq/Graft ⭐9.3K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -4394,7 +4538,7 @@
 🔗 [GitHub](https://github.com/trailhq/Graft)
 
 ---
-### #74 — lastmile-ai/mcp-agent ⭐8.5K · 🔤Python
+### #77 — lastmile-ai/mcp-agent ⭐8.6K · 🔤Python
 
 🌏 **使用模型上下文协议和简单工作流模式构建有效的代理。**
 
@@ -4403,7 +4547,7 @@
 🔗 [GitHub](https://github.com/lastmile-ai/mcp-agent)
 
 ---
-### #75 — kreuzberg-dev/kreuzberg ⭐8.5K · 🔤Rust
+### #78 — kreuzberg-dev/kreuzberg ⭐8.5K · 🔤Rust
 
 🌏 **多语言文档智能框架，支持从 97+ 格式中提取文本、元数据和结构化信息。**
 
@@ -4412,7 +4556,7 @@
 🔗 [GitHub](https://github.com/kreuzberg-dev/kreuzberg)
 
 ---
-### #76 — firerpa/lamda ⭐8.3K · 🔤Python
+### #79 — firerpa/lamda ⭐8.5K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4421,43 +4565,7 @@
 🔗 [GitHub](https://github.com/firerpa/lamda)
 
 ---
-### #77 — idosal/git-mcp ⭐8.1K · 🔤TypeScript
-
-🌏 **终结代码幻觉！GitMCP 是面向任意 GitHub 项目的免费开源远程 MCP 服务器。**
-
-📝 Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
-
-🔗 [GitHub](https://github.com/idosal/git-mcp)
-
----
-### #78 — YaoApp/yao ⭐8K · 🔤Go
-
-🌏 *中文描述待补充*
-
-📝 ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
-
-🔗 [GitHub](https://github.com/YaoApp/yao)
-
----
-### #79 — Upsonic/Upsonic ⭐8K · 🔤Python
-
-🌏 **用 Python 构建自主 AI 智能体。**
-
-📝 Build autonomous AI agents in Python.
-
-🔗 [GitHub](https://github.com/Upsonic/Upsonic)
-
----
-### #80 — rikkahub/rikkahub ⭐7.7K · 🔤Kotlin
-
-🌏 *中文描述待补充*
-
-📝 RikkaHub is an Android APP that supports for multiple LLM providers.
-
-🔗 [GitHub](https://github.com/rikkahub/rikkahub)
-
----
-### #81 — strands-agents/harness-sdk ⭐7.4K · 🔤Python
+### #80 — strands-agents/harness-sdk ⭐8.5K · 🔤Python
 
 🌏 **用几行代码、以模型驱动的方式构建 AI 智能体。**
 
@@ -4466,43 +4574,34 @@
 🔗 [GitHub](https://github.com/strands-agents/harness-sdk)
 
 ---
-### #82 — Zipstack/unstract ⭐7.2K · 🔤Python
+### #81 — idosal/git-mcp ⭐8.1K · 🔤TypeScript
 
-🌏 **LLM 驱动的非结构化数据提取，面向 API 部署和 ETL 管道工作流。**
+🌏 **终结代码幻觉！GitMCP 是面向任意 GitHub 项目的免费开源远程 MCP 服务器。**
 
-📝 LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
+📝 Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
-🔗 [GitHub](https://github.com/Zipstack/unstract)
-
----
-### #83 — yzfly/Awesome-MCP-ZH ⭐7.2K
-
-🌏 **命令行工具：MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients**
-
-📝 MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
-
-🔗 [GitHub](https://github.com/yzfly/Awesome-MCP-ZH)
+🔗 [GitHub](https://github.com/idosal/git-mcp)
 
 ---
-### #84 — xerrors/Yuxi ⭐7.1K · 🔤Python
+### #82 — Upsonic/Upsonic ⭐8K · 🔤Python
+
+🌏 **用 Python 构建自主 AI 智能体。**
+
+📝 Build autonomous AI agents in Python.
+
+🔗 [GitHub](https://github.com/Upsonic/Upsonic)
+
+---
+### #83 — rikkahub/rikkahub ⭐7.9K · 🔤Kotlin
 
 🌏 *中文描述待补充*
 
-📝 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.
+📝 RikkaHub is an Android APP that supports for multiple LLM providers.
 
-🔗 [GitHub](https://github.com/xerrors/Yuxi)
-
----
-### #85 — WenyuChiou/awesome-agentic-ai-zh ⭐7.1K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
-
-🔗 [GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+🔗 [GitHub](https://github.com/rikkahub/rikkahub)
 
 ---
-### #86 — Gentleman-Programming/gentle-ai ⭐7K · 🔤Go
+### #84 — Gentleman-Programming/gentle-ai ⭐7.3K · 🔤Go
 
 🌏 *中文描述待补充*
 
@@ -4511,7 +4610,43 @@
 🔗 [GitHub](https://github.com/Gentleman-Programming/gentle-ai)
 
 ---
-### #87 — TokenRhythm/opensquilla ⭐7K · 🔤Python
+### #85 — Zipstack/unstract ⭐7.3K · 🔤Python
+
+🌏 **LLM 驱动的非结构化数据提取，面向 API 部署和 ETL 管道工作流。**
+
+📝 LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
+
+🔗 [GitHub](https://github.com/Zipstack/unstract)
+
+---
+### #86 — yzfly/Awesome-MCP-ZH ⭐7.2K
+
+🌏 **命令行工具：MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients**
+
+📝 MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
+
+🔗 [GitHub](https://github.com/yzfly/Awesome-MCP-ZH)
+
+---
+### #87 — xerrors/Yuxi ⭐7.2K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.
+
+🔗 [GitHub](https://github.com/xerrors/Yuxi)
+
+---
+### #88 — WenyuChiou/awesome-agentic-ai-zh ⭐7.2K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
+
+🔗 [GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+
+---
+### #89 — TokenRhythm/opensquilla ⭐7.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4520,25 +4655,7 @@
 🔗 [GitHub](https://github.com/TokenRhythm/opensquilla)
 
 ---
-### #88 — grab/cursor-talk-to-figma-mcp ⭐7K · 🔤JavaScript
-
-🌏 **TalkToFigma：AI Agent 与 Figma 之间的 MCP 集成。**
-
-📝 TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
-
-🔗 [GitHub](https://github.com/grab/cursor-talk-to-figma-mcp)
-
----
-### #89 — AIPentest/CyberStrikeAI ⭐6.9K · 🔤Go
-
-🌏 *中文描述待补充*
-
-📝 The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
-
-🔗 [GitHub](https://github.com/AIPentest/CyberStrikeAI)
-
----
-### #90 — repowise-dev/repowise ⭐6.7K · 🔤Python
+### #90 — repowise-dev/repowise ⭐7.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4547,7 +4664,34 @@
 🔗 [GitHub](https://github.com/repowise-dev/repowise)
 
 ---
-### #91 — opensquilla/opensquilla ⭐6.4K · 🔤Python
+### #91 — AIPentest/CyberStrikeAI ⭐7K · 🔤Go
+
+🌏 *中文描述待补充*
+
+📝 The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
+
+🔗 [GitHub](https://github.com/AIPentest/CyberStrikeAI)
+
+---
+### #92 — grab/cursor-talk-to-figma-mcp ⭐7K · 🔤JavaScript
+
+🌏 **TalkToFigma：AI Agent 与 Figma 之间的 MCP 集成。**
+
+📝 TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
+
+🔗 [GitHub](https://github.com/grab/cursor-talk-to-figma-mcp)
+
+---
+### 🆕 #93 — XiaoDuoYa/codex-with-chatgpt ⭐6.7K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+
+🔗 [GitHub](https://github.com/XiaoDuoYa/codex-with-chatgpt)
+
+---
+### #94 — opensquilla/opensquilla ⭐6.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4556,7 +4700,7 @@
 🔗 [GitHub](https://github.com/opensquilla/opensquilla)
 
 ---
-### #92 — KunAgent/Kun ⭐6.3K · 🔤TypeScript
+### #95 — KunAgent/Kun ⭐6.3K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -4565,7 +4709,7 @@
 🔗 [GitHub](https://github.com/KunAgent/Kun)
 
 ---
-### #93 — Sylinko/Everywhere ⭐6.3K · 🔤C#
+### #96 — Sylinko/Everywhere ⭐6.3K · 🔤C#
 
 🌏 **上下文感知的桌面 AI 助手，无缝集成多种 LLM 和 MCP 工具。**
 
@@ -4574,16 +4718,7 @@
 🔗 [GitHub](https://github.com/Sylinko/Everywhere)
 
 ---
-### #94 — builderz-labs/mission-control ⭐6.2K · 🔤TypeScript
-
-🌏 **自托管的 AI Agent 编排平台，从统一控制面板调度任务和管理运营。**
-
-📝 Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
-
-🔗 [GitHub](https://github.com/builderz-labs/mission-control)
-
----
-### #95 — kucherenko/jscpd ⭐6.2K · 🔤Rust
+### #97 — kucherenko/jscpd ⭐6.3K · 🔤Rust
 
 🌏 *中文描述待补充*
 
@@ -4592,7 +4727,16 @@
 🔗 [GitHub](https://github.com/kucherenko/jscpd)
 
 ---
-### #96 — heilcheng/awesome-agent-skills ⭐6.2K · 🔤TypeScript
+### #98 — builderz-labs/mission-control ⭐6.3K · 🔤TypeScript
+
+🌏 **自托管的 AI Agent 编排平台，从统一控制面板调度任务和管理运营。**
+
+📝 Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
+
+🔗 [GitHub](https://github.com/builderz-labs/mission-control)
+
+---
+### #99 — heilcheng/awesome-agent-skills ⭐6.2K · 🔤TypeScript
 
 🌏 **教程、指南和 Agent Skills 目录**
 
@@ -4601,7 +4745,7 @@
 🔗 [GitHub](https://github.com/heilcheng/awesome-agent-skills)
 
 ---
-### #97 — vllm-project/semantic-router ⭐5.9K · 🔤Go
+### #100 — vllm-project/semantic-router ⭐5.9K · 🔤Go
 
 🌏 *中文描述待补充*
 
@@ -4610,7 +4754,7 @@
 🔗 [GitHub](https://github.com/vllm-project/semantic-router)
 
 ---
-### #98 — ModelEngine-Group/nexent ⭐5.9K · 🔤Python
+### #101 — ModelEngine-Group/nexent ⭐5.9K · 🔤Python
 
 🌏 **Nexent 是一个零代码平台，利用 Harness Engineering 原则自动生成生产级 AI Agent。**
 
@@ -4619,7 +4763,16 @@
 🔗 [GitHub](https://github.com/ModelEngine-Group/nexent)
 
 ---
-### #99 — Klavis-AI/klavis ⭐5.8K · 🔤Python
+### 🆕 #102 — vastsa/PI-Desktop ⭐5.8K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+
+🔗 [GitHub](https://github.com/vastsa/PI-Desktop)
+
+---
+### #103 — Klavis-AI/klavis ⭐5.8K · 🔤Python
 
 🌏 **Klavis AI：让 AI Agent 在任何规模下可靠使用工具的 MCP 集成平台。**
 
@@ -4628,7 +4781,7 @@
 🔗 [GitHub](https://github.com/Klavis-AI/klavis)
 
 ---
-### #100 — appcypher/awesome-mcp-servers ⭐5.7K
+### #104 — appcypher/awesome-mcp-servers ⭐5.7K
 
 🌏 **AI Awesome MCP Servers - A curated list of Model Context Protocol servers**
 
@@ -4637,7 +4790,7 @@
 🔗 [GitHub](https://github.com/appcypher/awesome-mcp-servers)
 
 ---
-### #101 — oomol-lab/open-connector ⭐5.7K · 🔤TypeScript
+### #105 — oomol-lab/open-connector ⭐5.7K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -4646,7 +4799,7 @@
 🔗 [GitHub](https://github.com/oomol-lab/open-connector)
 
 ---
-### #102 — the-open-agent/openagent ⭐5.6K · 🔤Go
+### #106 — the-open-agent/openagent ⭐5.7K · 🔤Go
 
 🌏 **⚡️ 下一代个人 AI 助手，支持计算机使用、浏览器使用和编码 Agent。**
 
@@ -4655,34 +4808,7 @@
 🔗 [GitHub](https://github.com/the-open-agent/openagent)
 
 ---
-### #103 — 0xNyk/awesome-hermes-agent ⭐5.6K
-
-🌏 *中文描述待补充*
-
-📝 Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
-
-🔗 [GitHub](https://github.com/0xNyk/awesome-hermes-agent)
-
----
-### #104 — Ed1s0nZ/CyberStrikeAI ⭐5.4K · 🔤Go
-
-🌏 *中文描述待补充*
-
-📝 The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
-
-🔗 [GitHub](https://github.com/Ed1s0nZ/CyberStrikeAI)
-
----
-### #105 — KnockOutEZ/wigolo ⭐5.3K · 🔤TypeScript
-
-🌏 *中文描述待补充*
-
-📝 The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
-
-🔗 [GitHub](https://github.com/KnockOutEZ/wigolo)
-
----
-### 🆕 #106 — CopilotKit/OpenBot ⭐5.2K · 🔤TypeScript
+### 🆕 #107 — CopilotKit/OpenBot ⭐5.6K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -4691,7 +4817,34 @@
 🔗 [GitHub](https://github.com/CopilotKit/OpenBot)
 
 ---
-### #107 — vitali87/code-graph-rag ⭐5.2K · 🔤Python
+### #108 — 0xNyk/awesome-hermes-agent ⭐5.6K
+
+🌏 *中文描述待补充*
+
+📝 Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
+
+🔗 [GitHub](https://github.com/0xNyk/awesome-hermes-agent)
+
+---
+### #109 — KnockOutEZ/wigolo ⭐5.4K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
+
+🔗 [GitHub](https://github.com/KnockOutEZ/wigolo)
+
+---
+### #110 — Ed1s0nZ/CyberStrikeAI ⭐5.4K · 🔤Go
+
+🌏 *中文描述待补充*
+
+📝 The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
+
+🔗 [GitHub](https://github.com/Ed1s0nZ/CyberStrikeAI)
+
+---
+### #111 — vitali87/code-graph-rag ⭐5.2K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4700,7 +4853,7 @@
 🔗 [GitHub](https://github.com/vitali87/code-graph-rag)
 
 ---
-### #108 — beclab/Olares ⭐5.1K · 🔤Go
+### #112 — beclab/Olares ⭐5.1K · 🔤Go
 
 🌏 *中文描述待补充*
 
@@ -4709,7 +4862,7 @@
 🔗 [GitHub](https://github.com/beclab/Olares)
 
 ---
-### #109 — Kiln-AI/Kiln ⭐5.1K · 🔤Python
+### #113 — Kiln-AI/Kiln ⭐5.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4718,7 +4871,25 @@
 🔗 [GitHub](https://github.com/Kiln-AI/Kiln)
 
 ---
-### #110 — clidey/whodb ⭐5K · 🔤Go
+### 🆕 #114 — TabularisDB/tabularis ⭐5.1K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL not
+
+🔗 [GitHub](https://github.com/TabularisDB/tabularis)
+
+---
+### 🆕 #115 — agentgateway/agentgateway ⭐5.1K · 🔤Rust
+
+🌏 *中文描述待补充*
+
+📝 Next Generation Agentic Proxy for AI Agents and MCP servers
+
+🔗 [GitHub](https://github.com/agentgateway/agentgateway)
+
+---
+### #116 — clidey/whodb ⭐5K · 🔤Go
 
 🌏 *中文描述待补充*
 
@@ -4727,22 +4898,13 @@
 🔗 [GitHub](https://github.com/clidey/whodb)
 
 ---
-### #111 — GaiaNet-AI/gaianet-node ⭐5K · 🔤Shell
+### #117 — GaiaNet-AI/gaianet-node ⭐5K · 🔤Shell
 
 🌏 **安装、运行和部署你自己的去中心化 AI Agent 服务。**
 
 📝 Install, run and deploy your own decentralized AI agent service
 
 🔗 [GitHub](https://github.com/GaiaNet-AI/gaianet-node)
-
----
-### 🆕 #112 — TabularisDB/tabularis ⭐5K · 🔤TypeScript
-
-🌏 *中文描述待补充*
-
-📝 Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL not
-
-🔗 [GitHub](https://github.com/TabularisDB/tabularis)
 
 ---
 </details>
@@ -4753,11 +4915,11 @@
 <a name="本地推理与部署"></a>
 
 <details >
-<summary><b>🧠 本地推理与部署</b> <code>112</code></summary>
+<summary><b>🧠 本地推理与部署</b> <code>113</code></summary>
 <br>
-### ⭐ 精选推荐（Top 5 / 共 112）
+### ⭐ 精选推荐（Top 5 / 共 113）
 
-### 🥇 #1 — ollama/ollama ⭐181.3K · 🔤Go
+### 🥇 #1 — ollama/ollama ⭐181.8K · 🔤Go
 
 🌏 **快速上手运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等模型。**
 
@@ -4766,7 +4928,7 @@
 🔗 [GitHub](https://github.com/ollama/ollama)
 
 ---
-### 🥈 #2 — huggingface/transformers ⭐166.4K · 🔤Python
+### 🥈 #2 — huggingface/transformers ⭐166.7K · 🔤Python
 
 🌏 **🤗 Transformers：用于文本、视觉、音频和多模态模型推理与训练的最先进模型定义框架。**
 
@@ -4775,7 +4937,7 @@
 🔗 [GitHub](https://github.com/huggingface/transformers)
 
 ---
-### 🥉 #3 — AUTOMATIC1111/stable-diffusion-webui ⭐165K · 🔤Python
+### 🥉 #3 — AUTOMATIC1111/stable-diffusion-webui ⭐165.1K · 🔤Python
 
 🌏 **Stable Diffusion Web 用户界面**
 
@@ -4784,7 +4946,7 @@
 🔗 [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ---
-### #4 — open-webui/open-webui ⭐152.6K · 🔤Python
+### #4 — open-webui/open-webui ⭐153.3K · 🔤Python
 
 🌏 **用户友好的 AI 界面（支持 Ollama、OpenAI API 等）。**
 
@@ -4793,7 +4955,7 @@
 🔗 [GitHub](https://github.com/open-webui/open-webui)
 
 ---
-### #5 — ggml-org/llama.cpp ⭐128.9K · 🔤C++
+### #5 — ggml-org/llama.cpp ⭐129.6K · 🔤C++
 
 🌏 **C/C++ 实现的 LLM 推理引擎**
 
@@ -4804,12 +4966,12 @@
 ---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📋 全部项目（107 个）
+### 📋 全部项目（108 个）
 
 <details>
-<summary>点击展开全部 107 个项目</summary>
+<summary>点击展开全部 108 个项目</summary>
 <br>
-### #6 — immich-app/immich ⭐114.6K · 🔤TypeScript
+### #6 — immich-app/immich ⭐115.1K · 🔤TypeScript
 
 🌏 **高性能自托管照片和视频管理方案。**
 
@@ -4827,7 +4989,7 @@
 🔗 [GitHub](https://github.com/deepseek-ai/DeepSeek-V3)
 
 ---
-### #8 — vllm-project/vllm ⭐92.2K · 🔤Python
+### #8 — vllm-project/vllm ⭐92.7K · 🔤Python
 
 🌏 **高吞吐量、内存高效的 LLM 推理和服务引擎**
 
@@ -4845,7 +5007,7 @@
 🔗 [GitHub](https://github.com/deepseek-ai/DeepSeek-R1)
 
 ---
-### #10 — louislam/uptime-kuma ⭐91.6K · 🔤JavaScript
+### #10 — louislam/uptime-kuma ⭐91.9K · 🔤JavaScript
 
 🌏 **美观的自托管监控工具**
 
@@ -4854,7 +5016,7 @@
 🔗 [GitHub](https://github.com/louislam/uptime-kuma)
 
 ---
-### #11 — odysseus-dev/odysseus ⭐87.4K · 🔤Python
+### #11 — odysseus-dev/odysseus ⭐87.6K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4881,7 +5043,7 @@
 🔗 [GitHub](https://github.com/nomic-ai/gpt4all)
 
 ---
-### #14 — unslothai/unsloth ⭐76.5K · 🔤Python
+### #14 — unslothai/unsloth ⭐76.8K · 🔤Python
 
 🌏 **Unsloth Studio 是在本地训练和运行 Gemma 4、Qwen3.6、DeepSeek 等开源模型的 Web UI。**
 
@@ -4890,7 +5052,7 @@
 🔗 [GitHub](https://github.com/unslothai/unsloth)
 
 ---
-### #15 — Mintplex-Labs/anything-llm ⭐66.2K · 🔤JavaScript
+### #15 — Mintplex-Labs/anything-llm ⭐66.5K · 🔤JavaScript
 
 🌏 **全合一 AI 生产力加速器。设备本地运行，隐私优先，无需联网。**
 
@@ -4899,7 +5061,7 @@
 🔗 [GitHub](https://github.com/Mintplex-Labs/anything-llm)
 
 ---
-### #16 — usememos/memos ⭐63.2K · 🔤Go
+### #16 — usememos/memos ⭐63.4K · 🔤Go
 
 🌏 **开源、自托管的笔记工具，Markdown 原生，轻量且完全属于你。**
 
@@ -4917,7 +5079,7 @@
 🔗 [GitHub](https://github.com/meta-llama/llama)
 
 ---
-### #18 — ultralytics/yolov5 ⭐58K · 🔤Python
+### #18 — ultralytics/yolov5 ⭐58.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -4944,7 +5106,7 @@
 🔗 [GitHub](https://github.com/mastodon/mastodon)
 
 ---
-### #21 — mudler/LocalAI ⭐49.2K · 🔤Go
+### #21 — mudler/LocalAI ⭐49.3K · 🔤Go
 
 🌏 **LocalAI 是开源的 AI 引擎。可运行任意模型——LLM、视觉、语音、图像生成等，无需 GPU。**
 
@@ -4962,7 +5124,7 @@
 🔗 [GitHub](https://github.com/oobabooga/textgen)
 
 ---
-### #23 — juanfont/headscale ⭐44K · 🔤Go
+### #23 — juanfont/headscale ⭐44.1K · 🔤Go
 
 🌏 **开源自托管的 Tailscale 控制服务器实现**
 
@@ -4971,7 +5133,7 @@
 🔗 [GitHub](https://github.com/juanfont/headscale)
 
 ---
-### #24 — deepspeedai/DeepSpeed ⭐43.1K · 🔤Python
+### #24 — deepspeedai/DeepSpeed ⭐43.2K · 🔤Python
 
 🌏 **DeepSpeed 深度学习优化库，让分布式训练和推理变得简单高效。**
 
@@ -4980,22 +5142,22 @@
 🔗 [GitHub](https://github.com/deepspeedai/DeepSpeed)
 
 ---
-### #25 — hpcaitech/ColossalAI ⭐41.4K · 🔤Python
-
-🌏 **AI Making large AI models cheaper, faster and more accessible**
-
-📝 Making large AI models cheaper, faster and more accessible
-
-🔗 [GitHub](https://github.com/hpcaitech/ColossalAI)
-
----
-### #26 — LizardByte/Sunshine ⭐41.4K · 🔤C++
+### #25 — LizardByte/Sunshine ⭐41.6K · 🔤C++
 
 🌏 **Moonlight 的自托管游戏串流服务端。**
 
 📝 Self-hosted game stream host for Moonlight.
 
 🔗 [GitHub](https://github.com/LizardByte/Sunshine)
+
+---
+### #26 — hpcaitech/ColossalAI ⭐41.4K · 🔤Python
+
+🌏 **AI Making large AI models cheaper, faster and more accessible**
+
+📝 Making large AI models cheaper, faster and more accessible
+
+🔗 [GitHub](https://github.com/hpcaitech/ColossalAI)
 
 ---
 ### #27 — microsoft/BitNet ⭐40.3K · 🔤C++
@@ -5007,7 +5169,7 @@
 🔗 [GitHub](https://github.com/microsoft/BitNet)
 
 ---
-### #28 — chatchat-space/Langchain-Chatchat ⭐38.6K · 🔤Python
+### #28 — chatchat-space/Langchain-Chatchat ⭐38.7K · 🔤Python
 
 🌏 **基于 Langchain 与 ChatGLM、Qwen、Llama 等语言模型的 RAG 与 Agent 应用。**
 
@@ -5016,25 +5178,7 @@
 🔗 [GitHub](https://github.com/chatchat-space/Langchain-Chatchat)
 
 ---
-### #29 — glanceapp/glance ⭐37.1K · 🔤Go
-
-🌏 **一个将所有信息流汇聚一处的自托管仪表盘**
-
-📝 A self-hosted dashboard that puts all your feeds in one place
-
-🔗 [GitHub](https://github.com/glanceapp/glance)
-
----
-### #30 — sgl-project/sglang ⭐36.2K · 🔤Python
-
-🌏 **面向大语言模型和多模态模型的高性能服务框架。**
-
-📝 SGLang is a high-performance serving framework for large language models and multimodal models.
-
-🔗 [GitHub](https://github.com/sgl-project/sglang)
-
----
-### #31 — Crosstalk-Solutions/project-nomad ⭐35.2K · 🔤TypeScript
+### #29 — Crosstalk-Solutions/project-nomad ⭐38.5K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -5043,7 +5187,25 @@
 🔗 [GitHub](https://github.com/Crosstalk-Solutions/project-nomad)
 
 ---
-### #32 — Zackriya-Solutions/meetily ⭐31K · 🔤Rust
+### #30 — glanceapp/glance ⭐37.2K · 🔤Go
+
+🌏 **一个将所有信息流汇聚一处的自托管仪表盘**
+
+📝 A self-hosted dashboard that puts all your feeds in one place
+
+🔗 [GitHub](https://github.com/glanceapp/glance)
+
+---
+### #31 — sgl-project/sglang ⭐36.5K · 🔤Python
+
+🌏 **面向大语言模型和多模态模型的高性能服务框架。**
+
+📝 SGLang is a high-performance serving framework for large language models and multimodal models.
+
+🔗 [GitHub](https://github.com/sgl-project/sglang)
+
+---
+### #32 — Zackriya-Solutions/meetily ⭐31.1K · 🔤Rust
 
 🌏 **隐私优先的 AI 会议助手，支持实时转录、说话人分离和 Ollama 摘要，100% 本地处理。**
 
@@ -5061,7 +5223,7 @@
 🔗 [GitHub](https://github.com/tatsu-lab/stanford_alpaca)
 
 ---
-### #34 — gitleaks/gitleaks ⭐29.4K · 🔤Go
+### #34 — gitleaks/gitleaks ⭐29.5K · 🔤Go
 
 🌏 **使用 Gitleaks 查找泄露的密钥。**
 
@@ -5088,7 +5250,7 @@
 🔗 [GitHub](https://github.com/plausible/analytics)
 
 ---
-### #37 — ArchiveBox/ArchiveBox ⭐28.5K · 🔤Python
+### #37 — ArchiveBox/ArchiveBox ⭐28.6K · 🔤Python
 
 🌏 **🗃 开源自托管网页归档工具，保存 URL、HTML、JS、PDF、媒体等。**
 
@@ -5097,7 +5259,7 @@
 🔗 [GitHub](https://github.com/ArchiveBox/ArchiveBox)
 
 ---
-### #38 — mozilla-ai/llamafile ⭐26K · 🔤C++
+### #38 — mozilla-ai/llamafile ⭐26.1K · 🔤C++
 
 🌏 **用一个文件分发和运行 LLM。**
 
@@ -5106,7 +5268,7 @@
 🔗 [GitHub](https://github.com/mozilla-ai/llamafile)
 
 ---
-### #39 — louislam/dockge ⭐24.4K · 🔤TypeScript
+### #39 — louislam/dockge ⭐24.5K · 🔤TypeScript
 
 🌏 **一个美观、易用、响应式的自托管 Docker compose.yaml 栈管理器。**
 
@@ -5115,7 +5277,7 @@
 🔗 [GitHub](https://github.com/louislam/dockge)
 
 ---
-### #40 — Tencent/ncnn ⭐23.8K · 🔤C++
+### #40 — Tencent/ncnn ⭐23.9K · 🔤C++
 
 🌏 **针对移动平台优化的高性能神经网络推理框架**
 
@@ -5124,7 +5286,7 @@
 🔗 [GitHub](https://github.com/Tencent/ncnn)
 
 ---
-### #41 — knadh/listmonk ⭐23.5K · 🔤Go
+### #41 — knadh/listmonk ⭐23.6K · 🔤Go
 
 🌏 **高性能、自托管的新闻通讯和邮件列表管理器，带有现代化仪表盘，单二进制文件即可运行。**
 
@@ -5133,7 +5295,7 @@
 🔗 [GitHub](https://github.com/knadh/listmonk)
 
 ---
-### #42 — chaitin/SafeLine ⭐22.6K · 🔤Go
+### #42 — chaitin/SafeLine ⭐22.7K · 🔤Go
 
 🌏 **SafeLine 是一个自托管的 WAF（Web 应用防火墙）/反向代理，保护您的 Web 应用免受攻击和漏洞利用。**
 
@@ -5169,22 +5331,22 @@
 🔗 [GitHub](https://github.com/linkwarden/linkwarden)
 
 ---
-### #46 — lss233/kirara-ai ⭐19K · 🔤Python
-
-🌏 **🤖 可 DIY 的多模态 AI 聊天机器人，快速接入微信、QQ、Telegram 等聊天平台。**
-
-📝 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | 
-
-🔗 [GitHub](https://github.com/lss233/kirara-ai)
-
----
-### #47 — C4illin/ConvertX ⭐19K · 🔤TypeScript
+### #46 — C4illin/ConvertX ⭐19.1K · 🔤TypeScript
 
 🌏 **自托管在线文件转换器，支持 1000 多种格式。**
 
 📝 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 
 🔗 [GitHub](https://github.com/C4illin/ConvertX)
+
+---
+### #47 — lss233/kirara-ai ⭐19K · 🔤Python
+
+🌏 **🤖 可 DIY 的多模态 AI 聊天机器人，快速接入微信、QQ、Telegram 等聊天平台。**
+
+📝 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | 
+
+🔗 [GitHub](https://github.com/lss233/kirara-ai)
 
 ---
 ### #48 — antirez/ds4 ⭐17.5K · 🔤C
@@ -5196,16 +5358,16 @@
 🔗 [GitHub](https://github.com/antirez/ds4)
 
 ---
-### #49 — MODSetter/SurfSense ⭐16.2K · 🔤Python
+### #49 — MODSetter/SurfSense ⭐16.3K · 🔤Python
 
 🌏 **开源的、注重隐私的 NotebookLM 替代方案，面向团队，无数据限制。**
 
-📝 Air gapped, open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+📝 Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
 
 🔗 [GitHub](https://github.com/MODSetter/SurfSense)
 
 ---
-### #50 — GeeeekExplorer/nano-vllm ⭐15.5K · 🔤Python
+### #50 — GeeeekExplorer/nano-vllm ⭐15.6K · 🔤Python
 
 🌏 **Nano vLLM**
 
@@ -5232,16 +5394,7 @@
 🔗 [GitHub](https://github.com/n8n-io/self-hosted-ai-starter-kit)
 
 ---
-### #53 — cachethq/cachet ⭐15.2K · 🔤PHP
-
-🌏 **Cachet，开源自托管的状态页面系统。**
-
-📝 🚦 Cachet, the open source, self-hosted status page system.
-
-🔗 [GitHub](https://github.com/cachethq/cachet)
-
----
-### #54 — Termix-SSH/Termix ⭐15.2K · 🔤TypeScript
+### #53 — Termix-SSH/Termix ⭐15.3K · 🔤TypeScript
 
 🌏 **自托管的 SSH 和远程桌面管理工具。**
 
@@ -5250,7 +5403,16 @@
 🔗 [GitHub](https://github.com/Termix-SSH/Termix)
 
 ---
-### #55 — alexta69/metube ⭐14.8K · 🔤Python
+### #54 — cachethq/cachet ⭐15.3K · 🔤PHP
+
+🌏 **Cachet，开源自托管的状态页面系统。**
+
+📝 🚦 Cachet, the open source, self-hosted status page system.
+
+🔗 [GitHub](https://github.com/cachethq/cachet)
+
+---
+### #55 — alexta69/metube ⭐14.9K · 🔤Python
 
 🌏 **自托管的视频下载器，支持 YouTube 等网站（基于 youtube-dl / yt-dlp 的 Web UI）。**
 
@@ -5259,7 +5421,7 @@
 🔗 [GitHub](https://github.com/alexta69/metube)
 
 ---
-### #56 — rmyndharis/OpenWA ⭐14.4K · 🔤TypeScript
+### #56 — rmyndharis/OpenWA ⭐14.6K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -5268,7 +5430,7 @@
 🔗 [GitHub](https://github.com/rmyndharis/OpenWA)
 
 ---
-### #57 — liketrek/TREK ⭐14.1K · 🔤TypeScript
+### #57 — liketrek/TREK ⭐14.4K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -5277,7 +5439,7 @@
 🔗 [GitHub](https://github.com/liketrek/TREK)
 
 ---
-### #58 — Open-LLM-VTuber/Open-LLM-VTuber ⭐13.8K · 🔤Python
+### #58 — Open-LLM-VTuber/Open-LLM-VTuber ⭐13.9K · 🔤Python
 
 🌏 **跨平台与任意 LLM 进行免提语音交互，支持语音打断和 Live2D 面部动画。**
 
@@ -5286,34 +5448,7 @@
 🔗 [GitHub](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
 
 ---
-### #59 — browseros-ai/BrowserOS ⭐13.7K · 🔤TypeScript
-
-🌏 **🌐 开源的代理浏览器，ChatGPT Atlas、Perplexity Comet、Dia 的替代方案。**
-
-📝 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-
-🔗 [GitHub](https://github.com/browseros-ai/BrowserOS)
-
----
-### #60 — Lightning-AI/litgpt ⭐13.7K · 🔤Python
-
-🌏 **20+ 高性能 LLM，附预训练、微调和规模化部署的方案。**
-
-📝 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-
-🔗 [GitHub](https://github.com/Lightning-AI/litgpt)
-
----
-### #61 — NVIDIA/TensorRT ⭐13.4K · 🔤C++
-
-🌏 **NVIDIA® TensorRT™ 是 NVIDIA GPU 上的高性能深度学习推理 SDK。**
-
-📝 NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
-
-🔗 [GitHub](https://github.com/NVIDIA/TensorRT)
-
----
-### #62 — FlashML-org/FreeToken ⭐13.2K · 🔤Python
+### #59 — FlashML-org/FreeToken ⭐13.9K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -5322,7 +5457,34 @@
 🔗 [GitHub](https://github.com/FlashML-org/FreeToken)
 
 ---
-### #63 — rommapp/romm ⭐13.1K · 🔤Python
+### #60 — browseros-ai/BrowserOS ⭐13.8K · 🔤TypeScript
+
+🌏 **🌐 开源的代理浏览器，ChatGPT Atlas、Perplexity Comet、Dia 的替代方案。**
+
+📝 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+
+🔗 [GitHub](https://github.com/browseros-ai/BrowserOS)
+
+---
+### #61 — Lightning-AI/litgpt ⭐13.7K · 🔤Python
+
+🌏 **20+ 高性能 LLM，附预训练、微调和规模化部署的方案。**
+
+📝 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+
+🔗 [GitHub](https://github.com/Lightning-AI/litgpt)
+
+---
+### #62 — NVIDIA/TensorRT ⭐13.4K · 🔤C++
+
+🌏 **NVIDIA® TensorRT™ 是 NVIDIA GPU 上的高性能深度学习推理 SDK。**
+
+📝 NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
+
+🔗 [GitHub](https://github.com/NVIDIA/TensorRT)
+
+---
+### #63 — rommapp/romm ⭐13.2K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -5331,7 +5493,7 @@
 🔗 [GitHub](https://github.com/rommapp/romm)
 
 ---
-### #64 — StarTrail-org/LEANN ⭐12.9K · 🔤Python
+### #64 — StarTrail-org/LEANN ⭐13K · 🔤Python
 
 🌏 **[MLsys2026] 在个人设备上享受 97% 存储节省的同时运行快速、准确、100% 私密的 RAG 应用。**
 
@@ -5439,7 +5601,7 @@
 🔗 [GitHub](https://github.com/ultralytics/yolov3)
 
 ---
-### #76 — ollama/ollama-python ⭐10.5K · 🔤Python
+### #76 — ollama/ollama-python ⭐10.6K · 🔤Python
 
 🌏 **Ollama Python 库。**
 
@@ -5574,7 +5736,7 @@
 🔗 [GitHub](https://github.com/n4ze3m/page-assist)
 
 ---
-### #91 — ai-dynamo/dynamo ⭐8.1K · 🔤Rust
+### #91 — ai-dynamo/dynamo ⭐8.2K · 🔤Rust
 
 🌏 **开发框架/库：Datacenter Scale Distributed Inference Serving Framework**
 
@@ -5601,7 +5763,7 @@
 🔗 [GitHub](https://github.com/OpenCoworkAI/open-codesign)
 
 ---
-### #94 — ArvinLovegood/go-stock ⭐7.6K · 🔤Go
+### #94 — ArvinLovegood/go-stock ⭐7.7K · 🔤Go
 
 🌏 **🦄 AI 赋能股票分析工具，支持 A 股、港股、美股行情获取、AI 热点分析和资金分析。**
 
@@ -5628,7 +5790,16 @@
 🔗 [GitHub](https://github.com/EleutherAI/gpt-neox)
 
 ---
-### #97 — JerryZLiu/Dayflow ⭐7.1K · 🔤Swift
+### #97 — MakazhanAlpamys/Soup ⭐7.3K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+
+🔗 [GitHub](https://github.com/MakazhanAlpamys/Soup)
+
+---
+### #98 — JerryZLiu/Dayflow ⭐7.2K · 🔤Swift
 
 🌏 **自动工作日志。将你的屏幕私密转化为时间线，记录实际完成的工作。开源且本地优先。**
 
@@ -5637,22 +5808,13 @@
 🔗 [GitHub](https://github.com/JerryZLiu/Dayflow)
 
 ---
-### #98 — deepseek-ai/DeepSeek-LLM ⭐7.1K · 🔤Makefile
+### #99 — deepseek-ai/DeepSeek-LLM ⭐7.1K · 🔤Makefile
 
 🌏 **DeepSeek LLM：让答案存在**
 
 📝 DeepSeek LLM: Let there be answers
 
 🔗 [GitHub](https://github.com/deepseek-ai/DeepSeek-LLM)
-
----
-### #99 — MakazhanAlpamys/Soup ⭐6.9K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
-
-🔗 [GitHub](https://github.com/MakazhanAlpamys/Soup)
 
 ---
 ### #100 — vas3k/TaxHacker ⭐6.7K · 🔤TypeScript
@@ -5664,7 +5826,7 @@
 🔗 [GitHub](https://github.com/vas3k/TaxHacker)
 
 ---
-### #101 — kvcache-ai/Mooncake ⭐6.6K · 🔤C++
+### #101 — kvcache-ai/Mooncake ⭐6.7K · 🔤C++
 
 🌏 **Mooncake 是 Kimi（Moonshot AI）的服务平台。**
 
@@ -5682,7 +5844,16 @@
 🔗 [GitHub](https://github.com/flashinfer-ai/flashinfer)
 
 ---
-### #103 — Trusted-AI/adversarial-robustness-toolbox ⭐6.2K · 🔤Python
+### 🆕 #103 — mizorewww/laya-mlx ⭐6.4K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
+
+🔗 [GitHub](https://github.com/mizorewww/laya-mlx)
+
+---
+### #104 — Trusted-AI/adversarial-robustness-toolbox ⭐6.2K · 🔤Python
 
 🌏 **ART - 机器学习安全 Python 库，支持逃逸、投毒、提取、推理。**
 
@@ -5691,7 +5862,7 @@
 🔗 [GitHub](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 
 ---
-### #104 — Andyyyy64/whichllm ⭐6K · 🔤Python
+### #105 — Andyyyy64/whichllm ⭐6K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -5700,7 +5871,7 @@
 🔗 [GitHub](https://github.com/Andyyyy64/whichllm)
 
 ---
-### #105 — gluonfield/enchanted ⭐6K · 🔤Swift
+### #106 — gluonfield/enchanted ⭐6K · 🔤Swift
 
 🌏 **Enchanted 是 iOS 和 macOS 应用，用于通过 Ollama 与本地私有大语言模型聊天。**
 
@@ -5709,7 +5880,7 @@
 🔗 [GitHub](https://github.com/gluonfield/enchanted)
 
 ---
-### #106 — kserve/kserve ⭐6K · 🔤Go
+### #107 — kserve/kserve ⭐6K · 🔤Go
 
 🌏 **Kubernetes 上可扩展的多框架生成式和预测式 AI 推理平台。**
 
@@ -5718,7 +5889,7 @@
 🔗 [GitHub](https://github.com/kserve/kserve)
 
 ---
-### #107 — clusterzx/paperless-ai ⭐6K · 🔤JavaScript
+### #108 — clusterzx/paperless-ai ⭐6K · 🔤JavaScript
 
 🌏 **Paperless-ngx 的自动化文档分析器，使用 OpenAI、Ollama、DeepSeek 等自动分析标记文档。**
 
@@ -5727,7 +5898,7 @@
 🔗 [GitHub](https://github.com/clusterzx/paperless-ai)
 
 ---
-### #108 — gpustack/gpustack ⭐5.7K · 🔤Python
+### #109 — gpustack/gpustack ⭐5.8K · 🔤Python
 
 🌏 **GPU 集群管理器，编排 vLLM 和 SGLang 等推理引擎。**
 
@@ -5736,7 +5907,7 @@
 🔗 [GitHub](https://github.com/gpustack/gpustack)
 
 ---
-### #109 — xlite-dev/Awesome-LLM-Inference ⭐5.5K · 🔤Python
+### #110 — xlite-dev/Awesome-LLM-Inference ⭐5.5K · 🔤Python
 
 🌏 **📚 精选 LLM/VLM 推理论文与代码清单**
 
@@ -5745,7 +5916,7 @@
 🔗 [GitHub](https://github.com/xlite-dev/Awesome-LLM-Inference)
 
 ---
-### #110 — maziyarpanahi/openmed ⭐5.3K · 🔤Python
+### #111 — maziyarpanahi/openmed ⭐5.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -5754,7 +5925,7 @@
 🔗 [GitHub](https://github.com/maziyarpanahi/openmed)
 
 ---
-### #111 — sgl-project/mini-sglang ⭐5.1K · 🔤Python
+### #112 — sgl-project/mini-sglang ⭐5.2K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -5763,7 +5934,7 @@
 🔗 [GitHub](https://github.com/sgl-project/mini-sglang)
 
 ---
-### #112 — AutoGPTQ/AutoGPTQ ⭐5.1K · 🔤Python
+### #113 — AutoGPTQ/AutoGPTQ ⭐5.1K · 🔤Python
 
 🌏 **基于 GPTQ 算法的易用 LLM 量化包。**
 
@@ -5784,7 +5955,7 @@
 <br>
 ### ⭐ 精选推荐（Top 5 / 共 83）
 
-### 🥇 #1 — f/prompts.chat ⭐170.8K · 🔤HTML
+### 🥇 #1 — f/prompts.chat ⭐171.4K · 🔤HTML
 
 🌏 **前身为 Awesome ChatGPT Prompts。分享和发现社区提示词，免费开源可自托管。**
 
@@ -5793,7 +5964,7 @@
 🔗 [GitHub](https://github.com/f/prompts.chat)
 
 ---
-### 🥈 #2 — langchain-ai/langchain ⭐146.7K · 🔤Python
+### 🥈 #2 — langchain-ai/langchain ⭐147.1K · 🔤Python
 
 🌏 **代理工程平台。**
 
@@ -5802,7 +5973,7 @@
 🔗 [GitHub](https://github.com/langchain-ai/langchain)
 
 ---
-### 🥉 #3 — JuliusBrussee/caveman ⭐106.8K · 🔤Go
+### 🥉 #3 — JuliusBrussee/caveman ⭐108K · 🔤Go
 
 🌏 **🪨 用更少的 token 说更多话 — 通过像原始人一样说话减少 65% token 的 Claude Code 技能。**
 
@@ -5811,7 +5982,7 @@
 🔗 [GitHub](https://github.com/JuliusBrussee/caveman)
 
 ---
-### #4 — rasbt/LLMs-from-scratch ⭐105.3K · 🔤Jupyter Notebook
+### #4 — rasbt/LLMs-from-scratch ⭐105.6K · 🔤Jupyter Notebook
 
 🌏 **从零开始用 PyTorch 逐步实现 ChatGPT 类 LLM**
 
@@ -5820,7 +5991,7 @@
 🔗 [GitHub](https://github.com/rasbt/LLMs-from-scratch)
 
 ---
-### #5 — OpenHands/OpenHands ⭐88.6K · 🔤TypeScript
+### #5 — OpenHands/OpenHands ⭐89.2K · 🔤TypeScript
 
 🌏 **🙌 OpenHands：AI 驱动的开发平台**
 
@@ -5836,7 +6007,7 @@
 <details>
 <summary>点击展开全部 78 个项目</summary>
 <br>
-### #6 — mlabonne/llm-course ⭐83K
+### #6 — mlabonne/llm-course ⭐83.2K
 
 🌏 **大语言模型入门课程，含路线图和 Colab 笔记本。**
 
@@ -5845,7 +6016,7 @@
 🔗 [GitHub](https://github.com/mlabonne/llm-course)
 
 ---
-### #7 — hiyouga/LlamaFactory ⭐74.9K · 🔤Python
+### #7 — hiyouga/LlamaFactory ⭐75K · 🔤Python
 
 🌏 **统一高效的 100+ LLM 和 VLM 微调框架（ACL 2024）**
 
@@ -5854,11 +6025,11 @@
 🔗 [GitHub](https://github.com/hiyouga/LlamaFactory)
 
 ---
-### #8 — asgeirtj/system_prompts_leaks ⭐67.7K · 🔤JavaScript
+### #8 — asgeirtj/system_prompts_leaks ⭐68.4K · 🔤JavaScript
 
 🌏 **从 Anthropic 和 OpenAI 提取的系统提示语集合**
 
-📝 Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
+📝 Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 
 🔗 [GitHub](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -5872,7 +6043,7 @@
 🔗 [GitHub](https://github.com/xtekky/gpt4free)
 
 ---
-### #10 — mem0ai/mem0 ⭐65.7K · 🔤Python
+### #10 — mem0ai/mem0 ⭐66K · 🔤Python
 
 🌏 **AI 代理的通用记忆层。**
 
@@ -5881,7 +6052,7 @@
 🔗 [GitHub](https://github.com/mem0ai/mem0)
 
 ---
-### #11 — MemPalace/mempalace ⭐59.2K · 🔤Python
+### #11 — MemPalace/mempalace ⭐59.3K · 🔤Python
 
 🌏 **基准测试最优的开源 AI 记忆系统，且免费使用。**
 
@@ -5890,7 +6061,7 @@
 🔗 [GitHub](https://github.com/MemPalace/mempalace)
 
 ---
-### #12 — janhq/jan ⭐44.6K · 🔤TypeScript
+### #12 — janhq/jan ⭐44.7K · 🔤Rust
 
 🌏 **Jan 是 ChatGPT 的开源替代品，100% 离线运行在你的电脑上。**
 
@@ -5899,7 +6070,7 @@
 🔗 [GitHub](https://github.com/janhq/jan)
 
 ---
-### #13 — langchain-ai/langgraph ⭐42K · 🔤Python
+### #13 — langchain-ai/langgraph ⭐42.3K · 🔤Python
 
 🌏 **构建弹性 AI 代理。**
 
@@ -5908,7 +6079,7 @@
 🔗 [GitHub](https://github.com/langchain-ai/langgraph)
 
 ---
-### #14 — zai-org/ChatGLM-6B ⭐41K · 🔤Python
+### #14 — zai-org/ChatGLM-6B ⭐40.9K · 🔤Python
 
 🌏 **ChatGLM-6B：开源双语对话语言模型**
 
@@ -5917,7 +6088,7 @@
 🔗 [GitHub](https://github.com/zai-org/ChatGLM-6B)
 
 ---
-### #15 — lm-sys/FastChat ⭐39.5K · 🔤Python
+### #15 — lm-sys/FastChat ⭐39.6K · 🔤Python
 
 🌏 **训练、服务和评估大语言模型的开放平台，Vicuna 和 Chatbot Arena 的发布仓库。**
 
@@ -5926,7 +6097,7 @@
 🔗 [GitHub](https://github.com/lm-sys/FastChat)
 
 ---
-### #16 — google/langextract ⭐38.6K · 🔤Python
+### #16 — google/langextract ⭐38.9K · 🔤Python
 
 🌏 **使用 LLM 从非结构化文本中提取结构化信息的 Python 库，带精确来源定位和交互式可视化。**
 
@@ -5935,7 +6106,7 @@
 🔗 [GitHub](https://github.com/google/langextract)
 
 ---
-### #17 — stanfordnlp/dspy ⭐38.1K · 🔤Python
+### #17 — stanfordnlp/dspy ⭐38.4K · 🔤Python
 
 🌏 **DSPy：编程而非提示语言模型的框架**
 
@@ -5944,7 +6115,7 @@
 🔗 [GitHub](https://github.com/stanfordnlp/dspy)
 
 ---
-### #18 — AlexsJones/llmfit ⭐36.8K · 🔤Rust
+### #18 — AlexsJones/llmfit ⭐37.2K · 🔤Rust
 
 🌏 **数百个模型和提供商，一条命令找到适合你硬件的模型。**
 
@@ -5962,7 +6133,7 @@
 🔗 [GitHub](https://github.com/continuedev/continue)
 
 ---
-### #20 — VectifyAI/PageIndex ⭐35.8K · 🔤Python
+### #20 — VectifyAI/PageIndex ⭐35.9K · 🔤Python
 
 🌏 **📑 PageIndex：面向无向量、基于推理的 RAG 的文档索引系统。**
 
@@ -5971,7 +6142,7 @@
 🔗 [GitHub](https://github.com/VectifyAI/PageIndex)
 
 ---
-### #21 — linshenkx/prompt-optimizer ⭐35.1K · 🔤TypeScript
+### #21 — linshenkx/prompt-optimizer ⭐35.8K · 🔤TypeScript
 
 🌏 **AI 提示词优化器：编写更好的提示词，获得更好的 AI 结果。**
 
@@ -5980,7 +6151,7 @@
 🔗 [GitHub](https://github.com/linshenkx/prompt-optimizer)
 
 ---
-### #22 — lyogavin/airllm ⭐34.6K · 🔤Jupyter Notebook
+### #22 — lyogavin/airllm ⭐35K · 🔤Jupyter Notebook
 
 🌏 *中文描述待补充*
 
@@ -5989,22 +6160,22 @@
 🔗 [GitHub](https://github.com/lyogavin/airllm)
 
 ---
-### #23 — facebookresearch/fairseq ⭐32.2K · 🔤Python
-
-🌏 **Facebook AI Research 序列到序列工具包**
-
-📝 Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-
-🔗 [GitHub](https://github.com/facebookresearch/fairseq)
-
----
-### #24 — p-e-w/heretic ⭐31.9K · 🔤Python
+### #23 — p-e-w/heretic ⭐32.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
 📝 Fully automatic censorship removal for language models
 
 🔗 [GitHub](https://github.com/p-e-w/heretic)
+
+---
+### #24 — facebookresearch/fairseq ⭐32.2K · 🔤Python
+
+🌏 **Facebook AI Research 序列到序列工具包**
+
+📝 Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+
+🔗 [GitHub](https://github.com/facebookresearch/fairseq)
 
 ---
 ### #25 — datawhalechina/self-llm ⭐31K · 🔤Jupyter Notebook
@@ -6025,7 +6196,16 @@
 🔗 [GitHub](https://github.com/openai/openai-python)
 
 ---
-### #27 — langchain-ai/deepagents ⭐29.6K · 🔤Python
+### #27 — Tencent/WeKnora ⭐30.4K · 🔤Go
+
+🌏 **开源 LLM 知识平台：将原始文档转化为可查询的 RAG 系统、自主推理代理和自维护 Wiki。**
+
+📝 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+
+🔗 [GitHub](https://github.com/Tencent/WeKnora)
+
+---
+### #28 — langchain-ai/deepagents ⭐29.8K · 🔤Python
 
 🌏 **功能齐全的 Agent 工具包。**
 
@@ -6034,7 +6214,7 @@
 🔗 [GitHub](https://github.com/langchain-ai/deepagents)
 
 ---
-### #28 — voideditor/void ⭐28.8K · 🔤TypeScript
+### #29 — voideditor/void ⭐28.8K · 🔤TypeScript
 
 🌏 **（暂无描述）**
 
@@ -6043,7 +6223,7 @@
 🔗 [GitHub](https://github.com/voideditor/void)
 
 ---
-### #29 — cheahjs/free-llm-api-resources ⭐28.6K · 🔤Python
+### #30 — cheahjs/free-llm-api-resources ⭐28.6K · 🔤Python
 
 🌏 **免费 LLM 推理 API 资源清单**
 
@@ -6052,16 +6232,7 @@
 🔗 [GitHub](https://github.com/cheahjs/free-llm-api-resources)
 
 ---
-### #30 — microsoft/semantic-kernel ⭐28.3K · 🔤C#
-
-🌏 **快速轻松地将尖端 LLM 技术集成到你的应用中**
-
-📝 Integrate cutting-edge LLM technology quickly and easily into your apps
-
-🔗 [GitHub](https://github.com/microsoft/semantic-kernel)
-
----
-### #31 — mastra-ai/mastra ⭐28.2K · 🔤TypeScript
+### #31 — mastra-ai/mastra ⭐28.4K · 🔤TypeScript
 
 🌏 **来自 Gatsby 团队，Mastra 是一个用现代 TypeScript 栈构建 AI 应用和代理的框架。**
 
@@ -6070,13 +6241,13 @@
 🔗 [GitHub](https://github.com/mastra-ai/mastra)
 
 ---
-### #32 — Tencent/WeKnora ⭐27.6K · 🔤Go
+### #32 — microsoft/semantic-kernel ⭐28.3K · 🔤C#
 
-🌏 **开源 LLM 知识平台：将原始文档转化为可查询的 RAG 系统、自主推理代理和自维护 Wiki。**
+🌏 **快速轻松地将尖端 LLM 技术集成到你的应用中**
 
-📝 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+📝 Integrate cutting-edge LLM technology quickly and easily into your apps
 
-🔗 [GitHub](https://github.com/Tencent/WeKnora)
+🔗 [GitHub](https://github.com/microsoft/semantic-kernel)
 
 ---
 ### #33 — Hannibal046/Awesome-LLM ⭐27.4K
@@ -6088,7 +6259,7 @@
 🔗 [GitHub](https://github.com/Hannibal046/Awesome-LLM)
 
 ---
-### #34 — vercel/ai ⭐26.9K · 🔤TypeScript
+### #34 — vercel/ai ⭐27K · 🔤TypeScript
 
 🌏 **TypeScript AI 工具包，来自 Next.js 团队的开源 AI SDK。**
 
@@ -6106,16 +6277,7 @@
 🔗 [GitHub](https://github.com/volcengine/OpenViking)
 
 ---
-### #36 — huggingface/datasets ⭐22K · 🔤Python
-
-🌏 **🤗 最大的即用型 AI 模型数据集中心，附带快速高效的数据处理工具。**
-
-📝 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-
-🔗 [GitHub](https://github.com/huggingface/datasets)
-
----
-### #37 — jundot/omlx ⭐21.9K · 🔤Python
+### #36 — jundot/omlx ⭐22.3K · 🔤Python
 
 🌏 **为 Apple Silicon 优化的 LLM 推理服务器，支持连续批处理和 SSD 缓存。**
 
@@ -6124,7 +6286,16 @@
 🔗 [GitHub](https://github.com/jundot/omlx)
 
 ---
-### #38 — pydantic/pydantic-ai ⭐20.1K · 🔤Python
+### #37 — huggingface/datasets ⭐22K · 🔤Python
+
+🌏 **🤗 最大的即用型 AI 模型数据集中心，附带快速高效的数据处理工具。**
+
+📝 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
+
+🔗 [GitHub](https://github.com/huggingface/datasets)
+
+---
+### #38 — pydantic/pydantic-ai ⭐20.2K · 🔤Python
 
 🌏 **AI 代理框架，Pydantic 风格。**
 
@@ -6142,7 +6313,7 @@
 🔗 [GitHub](https://github.com/QwenLM/Qwen3-VL)
 
 ---
-### #40 — datawhalechina/easy-vibe ⭐19.5K · 🔤JavaScript
+### #40 — datawhalechina/easy-vibe ⭐19.6K · 🔤JavaScript
 
 🌏 **💻 2026 年 Vibe Coding 入门课程，面向初学者的现代化编程课程。**
 
@@ -6191,12 +6362,12 @@
 
 🌏 **使用 PEFT 或全参数微调 600+ LLM 和 300+ MLLM 的统一框架 (AAAI 2025)。**
 
-📝 Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi
+📝 Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM5.3, Gemma4, Llava, Phi4
 
 🔗 [GitHub](https://github.com/modelscope/ms-swift)
 
 ---
-### #46 — GreyDGL/PentestGPT ⭐15.5K · 🔤Python
+### #46 — GreyDGL/PentestGPT ⭐15.6K · 🔤Python
 
 🌏 **由大语言模型驱动的自动化渗透测试 Agent 框架。**
 
@@ -6232,7 +6403,7 @@
 🔗 [GitHub](https://github.com/NVIDIA/TensorRT-LLM)
 
 ---
-### #50 — EleutherAI/lm-evaluation-harness ⭐14K · 🔤Python
+### #50 — EleutherAI/lm-evaluation-harness ⭐14.1K · 🔤Python
 
 🌏 **语言模型少样本评估框架。**
 
@@ -6241,22 +6412,22 @@
 🔗 [GitHub](https://github.com/EleutherAI/lm-evaluation-harness)
 
 ---
-### #51 — langchain4j/langchain4j ⭐13.1K · 🔤Java
-
-🌏 **用于在 JVM 上构建 LLM 应用的 Java 库，统一 API 支持主流 LLM 提供商和向量存储。**
-
-📝 LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing too
-
-🔗 [GitHub](https://github.com/langchain4j/langchain4j)
-
----
-### #52 — cloudwego/eino ⭐13.1K · 🔤Go
+### #51 — cloudwego/eino ⭐13.2K · 🔤Go
 
 🌏 **Go 语言的终极 LLM/AI 应用开发框架。**
 
 📝 The ultimate LLM/AI application development framework in Go.
 
 🔗 [GitHub](https://github.com/cloudwego/eino)
+
+---
+### #52 — langchain4j/langchain4j ⭐13.2K · 🔤Java
+
+🌏 **用于在 JVM 上构建 LLM 应用的 Java 库，统一 API 支持主流 LLM 提供商和向量存储。**
+
+📝 LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing too
+
+🔗 [GitHub](https://github.com/langchain4j/langchain4j)
 
 ---
 ### #53 — ShishirPatil/gorilla ⭐13K · 🔤Python
@@ -6277,22 +6448,22 @@
 🔗 [GitHub](https://github.com/neuml/txtai)
 
 ---
-### #55 — The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge ⭐12.7K · 🔤Python
-
-🌏 **Pocket Flow：从代码库到教程。**
-
-📝 Pocket Flow: Codebase to Tutorial
-
-🔗 [GitHub](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
-
----
-### #56 — steven2358/awesome-generative-ai ⭐12.7K
+### #55 — steven2358/awesome-generative-ai ⭐12.7K
 
 🌏 **精选资源列表：curated list of modern Generative Artificial Intelligence project**
 
 📝 A curated list of modern Generative Artificial Intelligence projects and services
 
 🔗 [GitHub](https://github.com/steven2358/awesome-generative-ai)
+
+---
+### #56 — The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge ⭐12.7K · 🔤Python
+
+🌏 **Pocket Flow：从代码库到教程。**
+
+📝 Pocket Flow: Codebase to Tutorial
+
+🔗 [GitHub](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
 
 ---
 ### #57 — Chainlit/chainlit ⭐12.5K · 🔤Python
@@ -6322,7 +6493,7 @@
 🔗 [GitHub](https://github.com/EmbraceAGI/awesome-chatgpt-zh)
 
 ---
-### #60 — MemTensor/MemOS ⭐11.5K · 🔤TypeScript
+### #60 — MemTensor/MemOS ⭐11.6K · 🔤TypeScript
 
 🌏 **自进化记忆操作系统，为 LLM 和 AI 代理提供超持久记忆、混合检索和跨任务技能复用，节省 35.24% token。**
 
@@ -6394,7 +6565,7 @@
 🔗 [GitHub](https://github.com/spring-projects/spring-ai)
 
 ---
-### #68 — BoundaryML/baml ⭐9.2K · 🔤Rust
+### #68 — BoundaryML/baml ⭐9.3K · 🔤Rust
 
 🌏 *中文描述待补充*
 
@@ -6546,11 +6717,11 @@
 <a name="ai-api-管理"></a>
 
 <details >
-<summary><b>🚪 AI API 管理</b> <code>20</code></summary>
+<summary><b>🚪 AI API 管理</b> <code>21</code></summary>
 <br>
-### ⭐ 精选推荐（Top 5 / 共 20）
+### ⭐ 精选推荐（Top 5 / 共 21）
 
-### 🥇 #1 — rtk-ai/rtk ⭐81.1K · 🔤Rust
+### 🥇 #1 — rtk-ai/rtk ⭐81.8K · 🔤Rust
 
 🌏 **CLI 代理，将常见开发命令的 LLM token 消耗降低 60-90%。单个 Rust 二进制文件，零依赖。**
 
@@ -6559,16 +6730,16 @@
 🔗 [GitHub](https://github.com/rtk-ai/rtk)
 
 ---
-### 🥈 #2 — diegosouzapw/OmniRoute ⭐68.3K · 🔤TypeScript
+### 🥈 #2 — diegosouzapw/OmniRoute ⭐70.5K · 🔤TypeScript
 
 🌏 **永不停机。免费 AI 网关：一个端点，160+ 提供商，连接 Claude Code、Codex、Cursor、Cline 等。**
 
-📝 Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
+📝 Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
 
 🔗 [GitHub](https://github.com/diegosouzapw/OmniRoute)
 
 ---
-### 🥉 #3 — BerriAI/litellm ⭐59.2K · 🔤Python
+### 🥉 #3 — BerriAI/litellm ⭐59.7K · 🔤Python
 
 🌏 **Python SDK 和代理服务器（AI 网关），以 OpenAI 格式调用 100+ LLM API。**
 
@@ -6577,7 +6748,7 @@
 🔗 [GitHub](https://github.com/BerriAI/litellm)
 
 ---
-### #4 — router-for-me/CLIProxyAPI ⭐52.5K · 🔤Go
+### #4 — router-for-me/CLIProxyAPI ⭐53.3K · 🔤Go
 
 🌏 **将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code 等包装为 OpenAI/Gemini/Claude 兼容 API 服务。**
 
@@ -6586,7 +6757,7 @@
 🔗 [GitHub](https://github.com/router-for-me/CLIProxyAPI)
 
 ---
-### #5 — QuantumNous/new-api ⭐48.5K · 🔤Go
+### #5 — QuantumNous/new-api ⭐48.9K · 🔤Go
 
 🌏 **统一的 AI 模型枢纽，支持聚合与分发，跨格式转换。**
 
@@ -6597,10 +6768,10 @@
 ---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📋 全部项目（15 个）
+### 📋 全部项目（16 个）
 
 <details>
-<summary>点击展开全部 15 个项目</summary>
+<summary>点击展开全部 16 个项目</summary>
 <br>
 ### #6 — Kong/kong ⭐44.2K · 🔤Lua
 
@@ -6611,7 +6782,7 @@
 🔗 [GitHub](https://github.com/Kong/kong)
 
 ---
-### #7 — Wei-Shaw/sub2api ⭐42.1K · 🔤Go
+### #7 — Wei-Shaw/sub2api ⭐42.9K · 🔤Go
 
 🌏 **Sub2API 一站式开源中转服务，统一接入 Claude、OpenAI、Gemini 等订阅。**
 
@@ -6620,7 +6791,7 @@
 🔗 [GitHub](https://github.com/Wei-Shaw/sub2api)
 
 ---
-### #8 — decolua/9router ⭐29.4K · 🔤JavaScript
+### #8 — decolua/9router ⭐29.9K · 🔤JavaScript
 
 🌏 **# 9Router - 免费 AI 路由器与 Token 节省器**
 
@@ -6629,7 +6800,7 @@
 🔗 [GitHub](https://github.com/decolua/9router)
 
 ---
-### #9 — tashfeenahmed/freellmapi ⭐27.5K · 🔤TypeScript
+### #9 — tashfeenahmed/freellmapi ⭐29.1K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -6638,7 +6809,7 @@
 🔗 [GitHub](https://github.com/tashfeenahmed/freellmapi)
 
 ---
-### #10 — apache/apisix ⭐17.1K · 🔤Lua
+### #10 — apache/apisix ⭐17.2K · 🔤Lua
 
 🌏 **云原生 API 网关和 AI 网关。**
 
@@ -6647,7 +6818,7 @@
 🔗 [GitHub](https://github.com/apache/apisix)
 
 ---
-### #11 — lidge-jun/opencodex ⭐15.5K · 🔤TypeScript
+### #11 — lidge-jun/opencodex ⭐16.4K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -6656,7 +6827,7 @@
 🔗 [GitHub](https://github.com/lidge-jun/opencodex)
 
 ---
-### #12 — casdoor/casdoor ⭐14.4K · 🔤Go
+### #12 — casdoor/casdoor ⭐14.5K · 🔤Go
 
 🌏 **以代理为先的开源身份和访问管理（IAM）/ LLM MCP 与代理网关认证服务器。**
 
@@ -6674,7 +6845,7 @@
 🔗 [GitHub](https://github.com/arangodb/arangodb)
 
 ---
-### #14 — Portkey-AI/gateway ⭐13K · 🔤TypeScript
+### #14 — Portkey-AI/gateway ⭐13.1K · 🔤TypeScript
 
 🌏 **极速 AI 网关，集成护栏，通过单一 API 路由到 1600+ LLM 和 50+ AI 护栏。**
 
@@ -6692,7 +6863,7 @@
 🔗 [GitHub](https://github.com/tensorzero/tensorzero)
 
 ---
-### #16 — higress-group/higress ⭐9.4K · 🔤Go
+### #16 — higress-group/higress ⭐9.5K · 🔤Go
 
 🌏 **🤖 AI 网关 | AI 原生 API 网关。**
 
@@ -6710,7 +6881,7 @@
 🔗 [GitHub](https://github.com/coaidev/coai)
 
 ---
-### #18 — maximhq/bifrost ⭐8.2K · 🔤Go
+### #18 — maximhq/bifrost ⭐8.4K · 🔤Go
 
 🌏 **最快的企业级 AI 网关（比 LiteLLM 快 50 倍），支持自适应负载均衡、集群模式、护栏和 1000+ 模型。**
 
@@ -6728,13 +6899,22 @@
 🔗 [GitHub](https://github.com/mnfst/manifest)
 
 ---
-### #20 — tbphp/gpt-load ⭐6.9K · 🔤Go
+### #20 — tbphp/gpt-load ⭐7K · 🔤Go
 
 🌏 *中文描述待补充*
 
 📝 Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。
 
 🔗 [GitHub](https://github.com/tbphp/gpt-load)
+
+---
+### 🆕 #21 — weave-os/router ⭐5.3K · 🔤Go
+
+🌏 *中文描述待补充*
+
+📝 Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
+
+🔗 [GitHub](https://github.com/weave-os/router)
 
 ---
 </details>
@@ -6749,7 +6929,7 @@
 <br>
 ### ⭐ 精选推荐（Top 5 / 共 17）
 
-### 🥇 #1 — netdata/netdata ⭐80.6K · 🔤Go
+### 🥇 #1 — netdata/netdata ⭐80.7K · 🔤Go
 
 🌏 **通往 AI 驱动的全栈可观测性的最快路径，即使对于精简团队也适用。**
 
@@ -6758,7 +6938,7 @@
 🔗 [GitHub](https://github.com/netdata/netdata)
 
 ---
-### 🥈 #2 — langfuse/langfuse ⭐34.8K · 🔤TypeScript
+### 🥈 #2 — langfuse/langfuse ⭐35.1K · 🔤TypeScript
 
 🌏 **🪢 开源 LLM 工程平台：LLM 可观测性、指标、评估、提示管理和测试。**
 
@@ -6767,7 +6947,7 @@
 🔗 [GitHub](https://github.com/langfuse/langfuse)
 
 ---
-### 🥉 #3 — mlflow/mlflow ⭐28K · 🔤Python
+### 🥉 #3 — mlflow/mlflow ⭐28.1K · 🔤Python
 
 🌏 **面向代理、LLM 和 ML 模型的开源 AI 工程平台。**
 
@@ -6776,7 +6956,7 @@
 🔗 [GitHub](https://github.com/mlflow/mlflow)
 
 ---
-### #4 — promptfoo/promptfoo ⭐25.3K · 🔤TypeScript
+### #4 — promptfoo/promptfoo ⭐25.5K · 🔤TypeScript
 
 🌏 **测试你的提示词、代理和 RAG 系统。支持红队测试、渗透测试和漏洞扫描。**
 
@@ -6785,7 +6965,7 @@
 🔗 [GitHub](https://github.com/promptfoo/promptfoo)
 
 ---
-### #5 — comet-ml/opik ⭐22.1K · 🔤Python
+### #5 — comet-ml/opik ⭐22.3K · 🔤Python
 
 🌏 **调试、评估和监控你的 LLM 应用、RAG 系统和代理工作流。**
 
@@ -6801,7 +6981,7 @@
 <details>
 <summary>点击展开全部 12 个项目</summary>
 <br>
-### #6 — confident-ai/deepeval ⭐18.3K · 🔤Python
+### #6 — confident-ai/deepeval ⭐18.5K · 🔤Python
 
 🌏 **LLM 评估框架。**
 
@@ -6810,7 +6990,7 @@
 🔗 [GitHub](https://github.com/confident-ai/deepeval)
 
 ---
-### #7 — Arize-ai/phoenix ⭐11.5K · 🔤Python
+### #7 — Arize-ai/phoenix ⭐11.6K · 🔤Python
 
 🌏 **AI 可观测性与评估平台。**
 
@@ -6819,7 +6999,7 @@
 🔗 [GitHub](https://github.com/Arize-ai/phoenix)
 
 ---
-### #8 — NVIDIA/garak ⭐9.3K · 🔤Python
+### #8 — NVIDIA/garak ⭐9.4K · 🔤Python
 
 🌏 **LLM 漏洞扫描器。**
 
@@ -6837,16 +7017,16 @@
 🔗 [GitHub](https://github.com/mnfst/llm-gateway)
 
 ---
-### #10 — open-compass/opencompass ⭐7.1K · 🔤Python
+### #10 — open-compass/opencompass ⭐7.5K · 🔤Python
 
 🌏 **LLM 评估平台，支持 100+ 数据集上的多种模型（Llama3、GPT-4、Qwen、Claude 等）。**
 
-📝 OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
+📝 OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding, scien
 
 🔗 [GitHub](https://github.com/open-compass/opencompass)
 
 ---
-### #11 — Tencent/AI-Infra-Guard ⭐6.5K · 🔤Python
+### #11 — Tencent/AI-Infra-Guard ⭐6.6K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -6855,7 +7035,7 @@
 🔗 [GitHub](https://github.com/Tencent/AI-Infra-Guard)
 
 ---
-### #12 — jeinlee1991/chinese-llm-benchmark ⭐6.4K
+### #12 — jeinlee1991/chinese-llm-benchmark ⭐6.5K
 
 🌏 **中文 AI 大模型能力评测，持续更新，涵盖 374 个大模型及超过 200 万的大模型缺陷库。**
 
@@ -6900,7 +7080,7 @@
 🔗 [GitHub](https://github.com/coze-dev/coze-loop)
 
 ---
-### #17 — PacktPublishing/LLM-Engineers-Handbook ⭐5.3K · 🔤Python
+### #17 — PacktPublishing/LLM-Engineers-Handbook ⭐5.4K · 🔤Python
 
 🌏 **LLM 工程师实用指南：从基础到在 AWS 上部署高级 LLM 和 RAG 应用。**
 
@@ -6921,7 +7101,7 @@
 <br>
 ### ⭐ 精选推荐（Top 5 / 共 49）
 
-### 🥇 #1 — firecrawl/firecrawl ⭐182.3K · 🔤TypeScript
+### 🥇 #1 — firecrawl/firecrawl ⭐185.2K · 🔤TypeScript
 
 🌏 **大规模搜索、抓取和与网页交互的 API。🔥**
 
@@ -6930,7 +7110,7 @@
 🔗 [GitHub](https://github.com/firecrawl/firecrawl)
 
 ---
-### 🥈 #2 — browser-use/browser-use ⭐115.4K · 🔤Python
+### 🥈 #2 — browser-use/browser-use ⭐116.4K · 🔤Python
 
 🌏 **🌐 让网站对 AI 代理可访问，轻松在线自动化任务。**
 
@@ -6939,7 +7119,7 @@
 🔗 [GitHub](https://github.com/browser-use/browser-use)
 
 ---
-### 🥉 #3 — microsoft/playwright ⭐96.4K · 🔤TypeScript
+### 🥉 #3 — microsoft/playwright ⭐96.7K · 🔤TypeScript
 
 🌏 **Playwright 是一个 Web 测试和自动化框架，支持 Chromium、Firefox 和 WebKit 跨浏览器测试。**
 
@@ -6948,22 +7128,22 @@
 🔗 [GitHub](https://github.com/microsoft/playwright)
 
 ---
-### #4 — D4Vinci/Scrapling ⭐82.5K · 🔤Python
+### #4 — D4Vinci/Scrapling ⭐83.9K · 🔤Python
 
 🌏 **🕷️ 自适应网页抓取框架，从单个请求处理反检测、动态内容和 JS 渲染。**
 
-📝 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
+📝 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tr
 
 🔗 [GitHub](https://github.com/D4Vinci/Scrapling)
 
 ---
-### #5 — ChromeDevTools/chrome-devtools-mcp ⭐52.3K · 🔤TypeScript
+### #5 — heygen-com/hyperframes ⭐53.4K · 🔤TypeScript
 
-🌏 **面向编码代理的 Chrome 开发者工具 MCP 集成。**
+🌏 **写 HTML，渲染视频。为代理而生。**
 
-📝 Chrome DevTools for coding agents
+📝 Write HTML. Render video. Built for agents.
 
-🔗 [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+🔗 [GitHub](https://github.com/heygen-com/hyperframes)
 
 ---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -6973,13 +7153,13 @@
 <details>
 <summary>点击展开全部 44 个项目</summary>
 <br>
-### #6 — heygen-com/hyperframes ⭐51.7K · 🔤TypeScript
+### #6 — ChromeDevTools/chrome-devtools-mcp ⭐52.6K · 🔤TypeScript
 
-🌏 **写 HTML，渲染视频。为代理而生。**
+🌏 **面向编码代理的 Chrome 开发者工具 MCP 集成。**
 
-📝 Write HTML. Render video. Built for agents.
+📝 Chrome DevTools for coding agents
 
-🔗 [GitHub](https://github.com/heygen-com/hyperframes)
+🔗 [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 ---
 ### #7 — cypress-io/cypress ⭐51K · 🔤TypeScript
@@ -7009,7 +7189,7 @@
 🔗 [GitHub](https://github.com/bytedance/UI-TARS-desktop)
 
 ---
-### #10 — microsoft/playwright-mcp ⭐37.4K · 🔤TypeScript
+### #10 — microsoft/playwright-mcp ⭐37.6K · 🔤TypeScript
 
 🌏 **Playwright MCP 服务器。**
 
@@ -7018,7 +7198,7 @@
 🔗 [GitHub](https://github.com/microsoft/playwright-mcp)
 
 ---
-### #11 — lightpanda-io/browser ⭐35.5K · 🔤Zig
+### #11 — lightpanda-io/browser ⭐35.6K · 🔤Zig
 
 🌏 **Lightpanda：专为 AI 和自动化设计的无头浏览器。**
 
@@ -7036,7 +7216,7 @@
 🔗 [GitHub](https://github.com/SeleniumHQ/selenium)
 
 ---
-### #13 — CloakHQ/CloakBrowser ⭐31.6K · 🔤Python
+### #13 — CloakHQ/CloakBrowser ⭐31.7K · 🔤Python
 
 🌏 **隐身 Chromium，通过所有机器人检测。可直接替代 Playwright，通过源码级指纹补丁通过 30/30 测试。**
 
@@ -7045,7 +7225,7 @@
 🔗 [GitHub](https://github.com/CloakHQ/CloakBrowser)
 
 ---
-### #14 — alibaba/page-agent ⭐29.1K · 🔤TypeScript
+### #14 — alibaba/page-agent ⭐29.2K · 🔤TypeScript
 
 🌏 **JavaScript 页面内 GUI 代理。用自然语言控制网页界面。**
 
@@ -7054,7 +7234,7 @@
 🔗 [GitHub](https://github.com/alibaba/page-agent)
 
 ---
-### #15 — apify/crawlee ⭐25.8K · 🔤TypeScript
+### #15 — apify/crawlee ⭐25.9K · 🔤TypeScript
 
 🌏 **Node.js 网页抓取和浏览器自动化库，用于构建可靠的爬虫，支持 JavaScript 和 TypeScript，可与 Puppeteer、Playwright 等配合使用。**
 
@@ -7063,7 +7243,7 @@
 🔗 [GitHub](https://github.com/apify/crawlee)
 
 ---
-### #16 — browserbase/stagehand ⭐24.6K · 🔤TypeScript
+### #16 — browserbase/stagehand ⭐25.4K · 🔤TypeScript
 
 🌏 **浏览器代理的 SDK。**
 
@@ -7072,7 +7252,7 @@
 🔗 [GitHub](https://github.com/browserbase/stagehand)
 
 ---
-### #17 — Skyvern-AI/skyvern ⭐23K · 🔤Python
+### #17 — Skyvern-AI/skyvern ⭐23.1K · 🔤Python
 
 🌏 **用 AI 自动化基于浏览器的工作流。**
 
@@ -7099,7 +7279,7 @@
 🔗 [GitHub](https://github.com/AutomaApp/automa)
 
 ---
-### #20 — browser-use/browser-harness ⭐17.8K · 🔤Python
+### #20 — browser-use/browser-harness ⭐18.1K · 🔤Python
 
 🌏 **浏览器工具链——自愈式工具链，使 LLM 能够完成任意任务。**
 
@@ -7108,7 +7288,7 @@
 🔗 [GitHub](https://github.com/browser-use/browser-harness)
 
 ---
-### #21 — getmaxun/maxun ⭐17.5K · 🔤TypeScript
+### #21 — getmaxun/maxun ⭐17.6K · 🔤TypeScript
 
 🌏 **🔥 开源无代码网页抓取平台，将网站转化为结构化 API，支持爬取、搜索和 AI 数据提取。**
 
@@ -7135,16 +7315,7 @@
 🔗 [GitHub](https://github.com/checkly/headless-recorder)
 
 ---
-### #24 — microsoft/playwright-python ⭐15K · 🔤Python
-
-🌏 **Playwright 测试和自动化库的 Python 版本。**
-
-📝 Python version of the Playwright testing and automation library.
-
-🔗 [GitHub](https://github.com/microsoft/playwright-python)
-
----
-### #25 — web-infra-dev/midscene ⭐14.9K · 🔤TypeScript
+### #24 — web-infra-dev/midscene ⭐15K · 🔤TypeScript
 
 🌏 **AI 驱动的视觉化 UI 自动化，适用于每个平台。**
 
@@ -7153,7 +7324,16 @@
 🔗 [GitHub](https://github.com/web-infra-dev/midscene)
 
 ---
-### #26 — Usagi-org/ai-goofish-monitor ⭐14.4K · 🔤Python
+### #25 — microsoft/playwright-python ⭐15K · 🔤Python
+
+🌏 **Playwright 测试和自动化库的 Python 版本。**
+
+📝 Python version of the Playwright testing and automation library.
+
+🔗 [GitHub](https://github.com/microsoft/playwright-python)
+
+---
+### #26 — Usagi-org/ai-goofish-monitor ⭐14.5K · 🔤Python
 
 🌏 **基于 Playwright 和 AI 的闲鱼多任务实时监控与智能分析系统，配备后台管理 UI。**
 
@@ -7180,7 +7360,7 @@
 🔗 [GitHub](https://github.com/browserless/browserless)
 
 ---
-### #29 — microsoft/playwright-cli ⭐13.4K · 🔤JavaScript
+### #29 — microsoft/playwright-cli ⭐13.6K · 🔤JavaScript
 
 🌏 **Playwright 常见操作的 CLI，可录制和生成 Playwright 代码、检查选择器和截图。**
 
@@ -7193,7 +7373,7 @@
 
 🌏 **用于网页自动化和 E2E 测试的 Python API，支持绕过机器人检测。**
 
-📝 Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.
+📝 Browser automation framework and MCP server for web-scraping and testing. CDP Mode makes Chrome stealthy for bypassing bot-detection.
 
 🔗 [GitHub](https://github.com/seleniumbase/SeleniumBase)
 
@@ -7207,7 +7387,7 @@
 🔗 [GitHub](https://github.com/g1879/DrissionPage)
 
 ---
-### #32 — daijro/camoufox ⭐12K · 🔤C++
+### #32 — daijro/camoufox ⭐12.2K · 🔤Python
 
 🌏 **🦊 反检测浏览器。**
 
@@ -7216,7 +7396,7 @@
 🔗 [GitHub](https://github.com/daijro/camoufox)
 
 ---
-### #33 — jo-inc/camofox-browser ⭐11.1K · 🔤JavaScript
+### #33 — jo-inc/camofox-browser ⭐11.2K · 🔤JavaScript
 
 🌏 **面向 AI 代理的隐身无头浏览器——绕过 Cloudflare、机器人检测和反爬。可直接替代 Puppeteer/Playwright。**
 
@@ -7243,7 +7423,7 @@
 🔗 [GitHub](https://github.com/microsoft/magentic-ui)
 
 ---
-### #36 — apify/crawlee-python ⭐9.5K · 🔤Python
+### #36 — apify/crawlee-python ⭐9.6K · 🔤Python
 
 🌏 **Python 网页抓取和浏览器自动化库，用于构建可靠的爬虫，提取 AI 和 LLM 所需数据。**
 
@@ -7377,11 +7557,11 @@
 <a name="文档与知识管理"></a>
 
 <details >
-<summary><b>📄 文档与知识管理</b> <code>81</code></summary>
+<summary><b>📄 文档与知识管理</b> <code>82</code></summary>
 <br>
-### ⭐ 精选推荐（Top 5 / 共 81）
+### ⭐ 精选推荐（Top 5 / 共 82）
 
-### 🥇 #1 — Stirling-Tools/Stirling-PDF ⭐92.6K · 🔤Java
+### 🥇 #1 — Stirling-Tools/Stirling-PDF ⭐93.1K · 🔤Java
 
 🌏 **GitHub 上排名第一的 PDF 应用，可在任何设备上编辑 PDF。**
 
@@ -7390,7 +7570,7 @@
 🔗 [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ---
-### 🥈 #2 — PaddlePaddle/PaddleOCR ⭐89.9K · 🔤Python
+### 🥈 #2 — PaddlePaddle/PaddleOCR ⭐90.3K · 🔤Python
 
 🌏 **将任意 PDF 或图片转为结构化数据，支持 100+ 语言的轻量 OCR 工具包。**
 
@@ -7399,7 +7579,7 @@
 🔗 [GitHub](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
-### 🥉 #3 — Egonex-AI/Understand-Anything ⭐83.3K · 🔤TypeScript
+### 🥉 #3 — Egonex-AI/Understand-Anything ⭐84.3K · 🔤TypeScript
 
 🌏 **<strong>将任意代码库、知识库或文档转化为可探索、可搜索、可对话的交互式知识图谱</strong>**
 
@@ -7408,16 +7588,7 @@
 🔗 [GitHub](https://github.com/Egonex-AI/Understand-Anything)
 
 ---
-### #4 — opendatalab/MinerU ⭐80.3K · 🔤Python
-
-🌏 **将 PDF 和 Office 等复杂文档转换为 LLM 就绪的 Markdown/JSON，用于智能体工作流。**
-
-📝 Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
-
-🔗 [GitHub](https://github.com/opendatalab/MinerU)
-
----
-### #5 — datawhalechina/hello-agents ⭐79.9K · 🔤Python
+### #4 — datawhalechina/hello-agents ⭐80.9K · 🔤Python
 
 🌏 **📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程**
 
@@ -7426,14 +7597,23 @@
 🔗 [GitHub](https://github.com/datawhalechina/hello-agents)
 
 ---
+### #5 — opendatalab/MinerU ⭐80.7K · 🔤Python
+
+🌏 **将 PDF 和 Office 等复杂文档转换为 LLM 就绪的 Markdown/JSON，用于智能体工作流。**
+
+📝 Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+
+🔗 [GitHub](https://github.com/opendatalab/MinerU)
+
+---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📋 全部项目（76 个）
+### 📋 全部项目（77 个）
 
 <details>
-<summary>点击展开全部 76 个项目</summary>
+<summary>点击展开全部 77 个项目</summary>
 <br>
-### #6 — docling-project/docling ⭐67.2K · 🔤Python
+### #6 — docling-project/docling ⭐68K · 🔤Python
 
 🌏 **让你的文档为生成式 AI 做好准备**
 
@@ -7442,7 +7622,7 @@
 🔗 [GitHub](https://github.com/docling-project/docling)
 
 ---
-### #7 — rclone/rclone ⭐59.8K · 🔤Go
+### #7 — rclone/rclone ⭐60K · 🔤Go
 
 🌏 **“云存储版 rsync”——支持 Google Drive、S3、Dropbox、Backblaze B2、OneDrive、Swift、Hubic、Wasabi、Google Cloud Storage 等。**
 
@@ -7451,7 +7631,7 @@
 🔗 [GitHub](https://github.com/rclone/rclone)
 
 ---
-### #8 — hugohe3/ppt-master ⭐55.4K · 🔤Python
+### #8 — hugohe3/ppt-master ⭐56.5K · 🔤Python
 
 🌏 **AI 从任何文档生成真正的可编辑 PowerPoint——原生形状和动画、演讲者笔记配音，支持自定义模板。**
 
@@ -7478,7 +7658,7 @@
 🔗 [GitHub](https://github.com/AlistGo/alist)
 
 ---
-### #11 — milvus-io/milvus ⭐46.2K · 🔤Go
+### #11 — milvus-io/milvus ⭐46.3K · 🔤Go
 
 🌏 **高性能云原生向量数据库，用于可扩展的向量 ANN 搜索**
 
@@ -7487,7 +7667,7 @@
 🔗 [GitHub](https://github.com/milvus-io/milvus)
 
 ---
-### #12 — logseq/logseq ⭐45K · 🔤Clojure
+### #12 — logseq/logseq ⭐45.1K · 🔤Clojure
 
 🌏 **隐私优先的开源知识管理和协作平台。**
 
@@ -7496,7 +7676,7 @@
 🔗 [GitHub](https://github.com/logseq/logseq)
 
 ---
-### #13 — outline/outline ⭐40.6K · 🔤TypeScript
+### #13 — outline/outline ⭐40.7K · 🔤TypeScript
 
 🌏 **成长型团队最快的知识库，实时协作，功能丰富，兼容 Markdown。**
 
@@ -7514,7 +7694,7 @@
 🔗 [GitHub](https://github.com/Kong/insomnia)
 
 ---
-### #15 — datalab-to/marker ⭐39.9K · 🔤Python
+### #15 — datalab-to/marker ⭐40K · 🔤Python
 
 🌏 **将 PDF 快速高精度转换为 Markdown 和 JSON**
 
@@ -7523,7 +7703,7 @@
 🔗 [GitHub](https://github.com/datalab-to/marker)
 
 ---
-### #16 — HKUDS/LightRAG ⭐39.8K · 🔤Python
+### #16 — HKUDS/LightRAG ⭐39.9K · 🔤Python
 
 🌏 **[EMNLP2025] LightRAG：简单快速的检索增强生成框架**
 
@@ -7532,7 +7712,7 @@
 🔗 [GitHub](https://github.com/HKUDS/LightRAG)
 
 ---
-### #17 — The-Vibe-Company/quivr ⭐39.5K · 🔤Python
+### #17 — The-Vibe-Company/quivr ⭐39.6K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -7541,16 +7721,7 @@
 🔗 [GitHub](https://github.com/The-Vibe-Company/quivr)
 
 ---
-### #18 — QuivrHQ/quivr ⭐39.4K · 🔤Python
-
-🌏 **在应用中集成 GenAI 的 RAG 框架，专注于产品而非 RAG 本身。**
-
-📝 Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore:
-
-🔗 [GitHub](https://github.com/QuivrHQ/quivr)
-
----
-### #19 — lfnovo/open-notebook ⭐39.2K · 🔤TypeScript
+### #18 — lfnovo/open-notebook ⭐39.5K · 🔤TypeScript
 
 🌏 **Notebook LM 的开源实现，更灵活、功能更丰富。**
 
@@ -7559,7 +7730,16 @@
 🔗 [GitHub](https://github.com/lfnovo/open-notebook)
 
 ---
-### #20 — TriliumNext/Trilium ⭐37.9K · 🔤TypeScript
+### #19 — QuivrHQ/quivr ⭐39.4K · 🔤Python
+
+🌏 **在应用中集成 GenAI 的 RAG 框架，专注于产品而非 RAG 本身。**
+
+📝 Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore:
+
+🔗 [GitHub](https://github.com/QuivrHQ/quivr)
+
+---
+### #20 — TriliumNext/Trilium ⭐38K · 🔤TypeScript
 
 🌏 **用 Trilium Notes 构建你的个人知识库**
 
@@ -7568,7 +7748,7 @@
 🔗 [GitHub](https://github.com/TriliumNext/Trilium)
 
 ---
-### #21 — khoj-ai/khoj ⭐37.4K · 🔤Python
+### #21 — khoj-ai/khoj ⭐37.5K · 🔤Python
 
 🌏 **你的 AI 第二大脑。可自托管，从网页或文档获取答案，构建自定义智能体。**
 
@@ -7577,7 +7757,7 @@
 🔗 [GitHub](https://github.com/khoj-ai/khoj)
 
 ---
-### #22 — microsoft/graphrag ⭐36K · 🔤Python
+### #22 — microsoft/graphrag ⭐36.1K · 🔤Python
 
 🌏 **基于图的模块化检索增强生成 (RAG) 系统**
 
@@ -7586,7 +7766,7 @@
 🔗 [GitHub](https://github.com/microsoft/graphrag)
 
 ---
-### #23 — seaweedfs/seaweedfs ⭐34.8K · 🔤Go
+### #23 — seaweedfs/seaweedfs ⭐35K · 🔤Go
 
 🌏 **SeaweedFS 是一个分布式存储系统，支持对象存储（S3）、文件系统和 Iceberg 表，专为处理十亿级文件而设计。**
 
@@ -7595,7 +7775,7 @@
 🔗 [GitHub](https://github.com/seaweedfs/seaweedfs)
 
 ---
-### #24 — datawhalechina/happy-llm ⭐33.9K · 🔤Jupyter Notebook
+### #24 — datawhalechina/happy-llm ⭐34.1K · 🔤Jupyter Notebook
 
 🌏 **📚 从零开始构建大模型**
 
@@ -7604,7 +7784,7 @@
 🔗 [GitHub](https://github.com/datawhalechina/happy-llm)
 
 ---
-### #25 — onyx-dot-app/onyx ⭐32.2K · 🔤Python
+### #25 — onyx-dot-app/onyx ⭐32.3K · 🔤Python
 
 🌏 **开源 AI 平台 - 支持所有 LLM 的 AI 聊天和高级功能**
 
@@ -7622,22 +7802,22 @@
 🔗 [GitHub](https://github.com/facebook/rocksdb)
 
 ---
-### #27 — docsifyjs/docsify ⭐31.3K · 🔤JavaScript
-
-🌏 **一个神奇的文档站点生成器。**
-
-📝 🃏 A magical documentation site generator.
-
-🔗 [GitHub](https://github.com/docsifyjs/docsify)
-
----
-### #28 — ScrapeGraphAI/Scrapegraph-ai ⭐31.1K · 🔤Python
+### #27 — ScrapeGraphAI/Scrapegraph-ai ⭐31.3K · 🔤Python
 
 🌏 **基于 AI 的 Python 爬虫工具**
 
 📝 Python scraper based on AI
 
 🔗 [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
+
+---
+### #28 — docsifyjs/docsify ⭐31.3K · 🔤JavaScript
+
+🌏 **一个神奇的文档站点生成器。**
+
+📝 🃏 A magical documentation site generator.
+
+🔗 [GitHub](https://github.com/docsifyjs/docsify)
 
 ---
 ### #29 — blueimp/jQuery-File-Upload ⭐30.7K · 🔤PHP
@@ -7667,7 +7847,7 @@
 🔗 [GitHub](https://github.com/NirDiamant/RAG_Techniques)
 
 ---
-### #32 — opendataloader-project/opendataloader-pdf ⭐29.3K · 🔤Java
+### #32 — opendataloader-project/opendataloader-pdf ⭐29.4K · 🔤Java
 
 🌏 **面向 AI 就绪数据的 PDF 解析器，开源。**
 
@@ -7676,7 +7856,7 @@
 🔗 [GitHub](https://github.com/opendataloader-project/opendataloader-pdf)
 
 ---
-### #33 — op7418/guizang-ppt-skill ⭐26.6K · 🔤HTML
+### #33 — op7418/guizang-ppt-skill ⭐27K · 🔤HTML
 
 🌏 **AI 代理技能，用于生成精美的 HTML 幻灯片：编辑杂志和瑞士布局、图像提示、社交媒体封面。**
 
@@ -7739,7 +7919,7 @@
 🔗 [GitHub](https://github.com/neondatabase/neon)
 
 ---
-### #40 — 1Panel-dev/MaxKB ⭐22.8K · 🔤Python
+### #40 — 1Panel-dev/MaxKB ⭐22.9K · 🔤Python
 
 🌏 **🔥 强大易用的开源企业级智能体平台。**
 
@@ -7748,7 +7928,7 @@
 🔗 [GitHub](https://github.com/1Panel-dev/MaxKB)
 
 ---
-### #41 — docmost/docmost ⭐21.7K · 🔤TypeScript
+### #41 — docmost/docmost ⭐21.8K · 🔤TypeScript
 
 🌏 **开源协作 Wiki 和文档软件，Confluence 和 Notion 的开源替代。**
 
@@ -7766,7 +7946,7 @@
 🔗 [GitHub](https://github.com/CarGuo/GSYVideoPlayer)
 
 ---
-### #43 — elizaOS/eliza ⭐19.4K · 🔤TypeScript
+### #43 — elizaOS/eliza ⭐19.5K · 🔤TypeScript
 
 🌏 **开源智能体操作系统**
 
@@ -7775,22 +7955,22 @@
 🔗 [GitHub](https://github.com/elizaOS/eliza)
 
 ---
-### #44 — meta-llama/llama-cookbook ⭐18.6K · 🔤Jupyter Notebook
-
-🌏 **Llama 使用指南：推理、微调、RAG 入门以及端到端问题解决方案。**
-
-📝 Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
-
-🔗 [GitHub](https://github.com/meta-llama/llama-cookbook)
-
----
-### 🆕 #45 — metainternal/llama-cookbook ⭐18.6K · 🔤Jupyter Notebook
+### #44 — metainternal/llama-cookbook ⭐18.6K · 🔤Jupyter Notebook
 
 🌏 *中文描述待补充*
 
 📝 Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 
 🔗 [GitHub](https://github.com/metainternal/llama-cookbook)
+
+---
+### #45 — meta-llama/llama-cookbook ⭐18.6K · 🔤Jupyter Notebook
+
+🌏 **Llama 使用指南：推理、微调、RAG 入门以及端到端问题解决方案。**
+
+📝 Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+
+🔗 [GitHub](https://github.com/meta-llama/llama-cookbook)
 
 ---
 ### #46 — RyanCodrai/turbovec ⭐17.2K · 🔤Rust
@@ -7802,7 +7982,7 @@
 🔗 [GitHub](https://github.com/RyanCodrai/turbovec)
 
 ---
-### #47 — MemoriLabs/Memori ⭐16.8K · 🔤Python
+### #47 — MemoriLabs/Memori ⭐17K · 🔤Python
 
 🌏 **Memori 是 Agent 原生记忆基础设施，将 Agent 执行转化为结构化持久状态。**
 
@@ -7811,7 +7991,7 @@
 🔗 [GitHub](https://github.com/MemoriLabs/Memori)
 
 ---
-### #48 — suitenumerique/docs ⭐16.8K · 🔤Python
+### #48 — suitenumerique/docs ⭐16.9K · 🔤Python
 
 🌏 **协作笔记、Wiki 和文档平台，使用 Django 和 React 构建。**
 
@@ -7838,7 +8018,7 @@
 🔗 [GitHub](https://github.com/alibaba/zvec)
 
 ---
-### #51 — ConardLi/easy-dataset ⭐14.9K · 🔤JavaScript
+### #51 — ConardLi/easy-dataset ⭐15K · 🔤JavaScript
 
 🌏 **为 LLM 微调、RAG 和评估创建数据集的强大工具。**
 
@@ -7874,16 +8054,7 @@
 🔗 [GitHub](https://github.com/plantuml/plantuml)
 
 ---
-### #55 — ConardLi/garden-skills ⭐12.5K · 🔤CSS
-
-🌏 **ConardLi 的开源 Skills 集合，涵盖 Web 设计、知识检索、图像生成等。**
-
-📝 ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-
-🔗 [GitHub](https://github.com/ConardLi/garden-skills)
-
----
-### #56 — run-llama/liteparse ⭐12.3K · 🔤Rust
+### #55 — run-llama/liteparse ⭐12.7K · 🔤Rust
 
 🌏 **快速、有用、开源的文档解析器**
 
@@ -7892,7 +8063,16 @@
 🔗 [GitHub](https://github.com/run-llama/liteparse)
 
 ---
-### #57 — datawhalechina/all-in-rag ⭐11.2K · 🔤Python
+### #56 — ConardLi/garden-skills ⭐12.6K · 🔤CSS
+
+🌏 **ConardLi 的开源 Skills 集合，涵盖 Web 设计、知识检索、图像生成等。**
+
+📝 ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+
+🔗 [GitHub](https://github.com/ConardLi/garden-skills)
+
+---
+### #57 — datawhalechina/all-in-rag ⭐11.4K · 🔤Python
 
 🌏 **🔍 RAG 技术全栈指南**
 
@@ -7910,7 +8090,7 @@
 🔗 [GitHub](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
 ---
-### #59 — presenton/presenton ⭐10.6K · 🔤TypeScript
+### #59 — presenton/presenton ⭐10.8K · 🔤TypeScript
 
 🌏 **开源 AI 演示文稿生成器和 API（Gamma、Beautiful AI、Decktopus 替代方案）。**
 
@@ -7919,7 +8099,7 @@
 🔗 [GitHub](https://github.com/presenton/presenton)
 
 ---
-### #60 — StarTrail-org/PixelRAG ⭐10K · 🔤Python
+### #60 — StarTrail-org/PixelRAG ⭐10.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -7928,16 +8108,16 @@
 🔗 [GitHub](https://github.com/StarTrail-org/PixelRAG)
 
 ---
-### #61 — activeloopai/deeplake ⭐9.2K · 🔤C++
+### 🆕 #61 — latent-spaces/brag ⭐10K · 🔤Python
 
-🌏 **Deeplake 是面向 Agent 的 AI 数据运行时，提供无服务器 PostgreSQL 和多模态数据湖。**
+🌏 *中文描述待补充*
 
-📝 Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
+📝 You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
 
-🔗 [GitHub](https://github.com/activeloopai/deeplake)
+🔗 [GitHub](https://github.com/latent-spaces/brag)
 
 ---
-### #62 — Future-House/paper-qa ⭐9.2K · 🔤Python
+### #62 — Future-House/paper-qa ⭐9.3K · 🔤Python
 
 🌏 **高精度 RAG，用于回答科学文献问题并附引用。**
 
@@ -7946,13 +8126,13 @@
 🔗 [GitHub](https://github.com/Future-House/paper-qa)
 
 ---
-### 🆕 #63 — deeplethe/utopia ⭐9.2K · 🔤Rust
+### #63 — activeloopai/deeplake ⭐9.2K · 🔤C++
 
-🌏 *中文描述待补充*
+🌏 **Deeplake 是面向 Agent 的 AI 数据运行时，提供无服务器 PostgreSQL 和多模态数据湖。**
 
-📝 World's first open-source enterprise world model.
+📝 Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 
-🔗 [GitHub](https://github.com/deeplethe/utopia)
+🔗 [GitHub](https://github.com/activeloopai/deeplake)
 
 ---
 ### #64 — WangRongsheng/awesome-LLM-resources ⭐9K
@@ -7964,7 +8144,7 @@
 🔗 [GitHub](https://github.com/WangRongsheng/awesome-LLM-resources)
 
 ---
-### #65 — reorproject/reor ⭐8.6K · 🔤JavaScript
+### #65 — reorproject/reor ⭐8.5K · 🔤JavaScript
 
 🌏 **面向高熵人群的私密本地 AI 个人知识管理应用。**
 
@@ -8000,7 +8180,16 @@
 🔗 [GitHub](https://github.com/SciPhi-AI/R2R)
 
 ---
-### #69 — NirDiamant/Prompt_Engineering ⭐7.9K · 🔤Jupyter Notebook
+### #69 — deeplethe/utopia ⭐8K · 🔤Rust
+
+🌏 *中文描述待补充*
+
+📝 World's first open-source enterprise world model.
+
+🔗 [GitHub](https://github.com/deeplethe/utopia)
+
+---
+### #70 — NirDiamant/Prompt_Engineering ⭐7.9K · 🔤Jupyter Notebook
 
 🌏 **22 种提示工程技术，含 Jupyter Notebook 教程。**
 
@@ -8009,7 +8198,7 @@
 🔗 [GitHub](https://github.com/NirDiamant/Prompt_Engineering)
 
 ---
-### #70 — weaviate/Verba ⭐7.7K · 🔤Python
+### #71 — weaviate/Verba ⭐7.7K · 🔤Python
 
 🌏 **由 Weaviate 驱动的检索增强生成 (RAG) 聊天机器人**
 
@@ -8018,7 +8207,7 @@
 🔗 [GitHub](https://github.com/weaviate/Verba)
 
 ---
-### #71 — luhengshiwo/LLMForEverybody ⭐7.4K · 🔤Jupyter Notebook
+### #72 — luhengshiwo/LLMForEverybody ⭐7.4K · 🔤Jupyter Notebook
 
 🌏 **每个人都能看懂的大模型知识分享，春秋招大模型面试必看。**
 
@@ -8027,7 +8216,7 @@
 🔗 [GitHub](https://github.com/luhengshiwo/LLMForEverybody)
 
 ---
-### #72 — plantuml-stdlib/C4-PlantUML ⭐7.3K · 🔤PlantUML
+### #73 — plantuml-stdlib/C4-PlantUML ⭐7.3K · 🔤PlantUML
 
 🌏 **C4-PlantUML 结合 PlantUML 和 C4 模型，简单描述和交流软件架构。**
 
@@ -8036,7 +8225,7 @@
 🔗 [GitHub](https://github.com/plantuml-stdlib/C4-PlantUML)
 
 ---
-### #73 — massCodeIO/massCode ⭐7K · 🔤TypeScript
+### #74 — massCodeIO/massCode ⭐7K · 🔤TypeScript
 
 🌏 **免费的开发者工作空间，集代码片段、笔记、HTTP 请求等为一体的本地优先应用。**
 
@@ -8045,7 +8234,7 @@
 🔗 [GitHub](https://github.com/massCodeIO/massCode)
 
 ---
-### #74 — postgresml/postgresml ⭐6.8K · 🔤Rust
+### #75 — postgresml/postgresml ⭐6.8K · 🔤Rust
 
 🌏 **带 GPU 的 PostgreSQL，用于 ML/AI 应用。**
 
@@ -8054,7 +8243,7 @@
 🔗 [GitHub](https://github.com/postgresml/postgresml)
 
 ---
-### #75 — run-llama/rags ⭐6.5K · 🔤Python
+### #76 — run-llama/rags ⭐6.6K · 🔤Python
 
 🌏 **通过自然语言在数据上构建 ChatGPT。**
 
@@ -8063,7 +8252,7 @@
 🔗 [GitHub](https://github.com/run-llama/rags)
 
 ---
-### #76 — dataease/SQLBot ⭐6.5K · 🔤JavaScript
+### #77 — dataease/SQLBot ⭐6.5K · 🔤JavaScript
 
 🌏 *中文描述待补充*
 
@@ -8072,7 +8261,7 @@
 🔗 [GitHub](https://github.com/dataease/SQLBot)
 
 ---
-### #77 — lavague-ai/LaVague ⭐6.4K · 🔤Python
+### #78 — lavague-ai/LaVague ⭐6.4K · 🔤Python
 
 🌏 **开发 AI Web Agent 的大型动作模型框架**
 
@@ -8081,7 +8270,7 @@
 🔗 [GitHub](https://github.com/lavague-ai/LaVague)
 
 ---
-### #78 — TaskingAI/TaskingAI ⭐5.4K · 🔤Python
+### #79 — TaskingAI/TaskingAI ⭐5.4K · 🔤Python
 
 🌏 **AI 原生应用开发的开源平台。**
 
@@ -8090,7 +8279,7 @@
 🔗 [GitHub](https://github.com/TaskingAI/TaskingAI)
 
 ---
-### #79 — superduper-io/superduper ⭐5.3K · 🔤Python
+### #80 — superduper-io/superduper ⭐5.3K · 🔤Python
 
 🌏 **构建自定义 AI 应用和 Agent 的端到端框架。**
 
@@ -8099,7 +8288,7 @@
 🔗 [GitHub](https://github.com/superduper-io/superduper)
 
 ---
-### #80 — neo4j-labs/llm-graph-builder ⭐5.3K · 🔤Jupyter Notebook
+### #81 — neo4j-labs/llm-graph-builder ⭐5.3K · 🔤Jupyter Notebook
 
 🌏 *中文描述待补充*
 
@@ -8108,7 +8297,7 @@
 🔗 [GitHub](https://github.com/neo4j-labs/llm-graph-builder)
 
 ---
-### #81 — line/armeria ⭐5.1K · 🔤Java
+### #82 — line/armeria ⭐5.1K · 🔤Java
 
 🌏 **源自 Netty 等项目的创建者，是适用于任何场景的首选微服务框架。可构建任何类型的微服务。**
 
@@ -8125,11 +8314,11 @@
 <a name="音视频与多媒体"></a>
 
 <details >
-<summary><b>🎬 音视频与多媒体</b> <code>139</code></summary>
+<summary><b>🎬 音视频与多媒体</b> <code>140</code></summary>
 <br>
-### ⭐ 精选推荐（Top 5 / 共 139）
+### ⭐ 精选推荐（Top 5 / 共 140）
 
-### 🥇 #1 — yt-dlp/yt-dlp ⭐192.2K · 🔤Python
+### 🥇 #1 — yt-dlp/yt-dlp ⭐193.8K · 🔤Python
 
 🌏 **功能丰富的命令行音视频下载器**
 
@@ -8138,7 +8327,7 @@
 🔗 [GitHub](https://github.com/yt-dlp/yt-dlp)
 
 ---
-### 🥈 #2 — ytdl-org/youtube-dl ⭐141.3K · 🔤Python
+### 🥈 #2 — ytdl-org/youtube-dl ⭐141.4K · 🔤Python
 
 🌏 **从 YouTube 及其他视频网站下载视频的命令行程序**
 
@@ -8147,16 +8336,16 @@
 🔗 [GitHub](https://github.com/ytdl-org/youtube-dl)
 
 ---
-### 🥉 #3 — Comfy-Org/ComfyUI ⭐134K · 🔤Python
+### 🥉 #3 — Comfy-Org/ComfyUI ⭐135.1K · 🔤Python
 
 🌏 **最强大且模块化的扩散模型 GUI、API 和后端，基于图/节点界面。**
 
-📝 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+📝 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
 🔗 [GitHub](https://github.com/Comfy-Org/ComfyUI)
 
 ---
-### #4 — hacksider/Deep-Live-Cam ⭐96.7K · 🔤Python
+### #4 — hacksider/Deep-Live-Cam ⭐96.8K · 🔤Python
 
 🌏 **实时换脸和一键视频深度伪造，仅需一张图片。**
 
@@ -8165,32 +8354,7 @@
 🔗 [GitHub](https://github.com/hacksider/Deep-Live-Cam)
 
 ---
-### #5 — opencv/opencv ⭐90.2K · 🔤C++
-
-🌏 *中文描述待补充*
-
-📝 Open Source Computer Vision Library
-
-🔗 [GitHub](https://github.com/opencv/opencv)
-
----
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### 📋 全部项目（134 个）
-
-<details>
-<summary>点击展开全部 134 个项目</summary>
-<br>
-### #6 — openai/whisper ⭐109.4K · 🔤Python
-
-🌏 **通过大规模弱监督实现鲁棒语音识别**
-
-📝 Robust Speech Recognition via Large-Scale Weak Supervision
-
-🔗 [GitHub](https://github.com/openai/whisper)
-
----
-### #7 — OpenCut-app/OpenCut ⭐89.9K · 🔤TypeScript
+### #5 — OpenCut-app/OpenCut ⭐90.7K · 🔤TypeScript
 
 🌏 **开源版 CapCut 替代品**
 
@@ -8199,7 +8363,32 @@
 🔗 [GitHub](https://github.com/OpenCut-app/OpenCut)
 
 ---
-### #8 — tesseract-ocr/tesseract ⭐76.6K · 🔤C++
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 📋 全部项目（135 个）
+
+<details>
+<summary>点击展开全部 135 个项目</summary>
+<br>
+### #6 — openai/whisper ⭐109.6K · 🔤Python
+
+🌏 **通过大规模弱监督实现鲁棒语音识别**
+
+📝 Robust Speech Recognition via Large-Scale Weak Supervision
+
+🔗 [GitHub](https://github.com/openai/whisper)
+
+---
+### #7 — opencv/opencv ⭐90.2K · 🔤C++
+
+🌏 *中文描述待补充*
+
+📝 Open Source Computer Vision Library
+
+🔗 [GitHub](https://github.com/opencv/opencv)
+
+---
+### #8 — tesseract-ocr/tesseract ⭐76.7K · 🔤C++
 
 🌏 **Tesseract 开源 OCR 引擎（主仓库）**
 
@@ -8208,7 +8397,7 @@
 🔗 [GitHub](https://github.com/tesseract-ocr/tesseract)
 
 ---
-### #9 — CompVis/stable-diffusion ⭐73.4K · 🔤Jupyter Notebook
+### #9 — CompVis/stable-diffusion ⭐73.5K · 🔤Jupyter Notebook
 
 🌏 **一个潜在文本到图像扩散模型**
 
@@ -8217,7 +8406,7 @@
 🔗 [GitHub](https://github.com/CompVis/stable-diffusion)
 
 ---
-### #10 — FFmpeg/FFmpeg ⭐64.4K · 🔤C
+### #10 — FFmpeg/FFmpeg ⭐64.6K · 🔤C
 
 🌏 **FFmpeg 镜像：音视频处理的瑞士军刀。**
 
@@ -8226,7 +8415,7 @@
 🔗 [GitHub](https://github.com/FFmpeg/FFmpeg)
 
 ---
-### #11 — RVC-Boss/GPT-SoVITS ⭐61.9K · 🔤Python
+### #11 — RVC-Boss/GPT-SoVITS ⭐62.2K · 🔤Python
 
 🌏 **1 分钟语音数据即可训练优秀的 TTS 模型！（少样本语音克隆）**
 
@@ -8235,22 +8424,22 @@
 🔗 [GitHub](https://github.com/RVC-Boss/GPT-SoVITS)
 
 ---
-### #12 — CorentinJ/Real-Time-Voice-Cloning ⭐60.1K · 🔤Python
-
-🌏 **5 秒克隆声音，实时生成任意语音。**
-
-📝 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-🔗 [GitHub](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
-
----
-### #13 — remotion-dev/remotion ⭐59.8K · 🔤TypeScript
+### #12 — remotion-dev/remotion ⭐60.6K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
 📝 🎥      Make videos programmatically with React
 
 🔗 [GitHub](https://github.com/remotion-dev/remotion)
+
+---
+### #13 — CorentinJ/Real-Time-Voice-Cloning ⭐60.2K · 🔤Python
+
+🌏 **5 秒克隆声音，实时生成任意语音。**
+
+📝 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+🔗 [GitHub](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
 ---
 ### #14 — deepfakes/faceswap ⭐57.6K · 🔤Python
@@ -8271,7 +8460,7 @@
 🔗 [GitHub](https://github.com/soimort/you-get)
 
 ---
-### #16 — jamiepine/voicebox ⭐55.2K · 🔤TypeScript
+### #16 — jamiepine/voicebox ⭐55.8K · 🔤TypeScript
 
 🌏 **开源 AI 语音工作室，支持克隆、听写、创作。**
 
@@ -8289,7 +8478,7 @@
 🔗 [GitHub](https://github.com/facebookresearch/segment-anything)
 
 ---
-### #18 — microsoft/VibeVoice ⭐54.4K · 🔤Python
+### #18 — microsoft/VibeVoice ⭐54.5K · 🔤Python
 
 🌏 **开源前沿语音 AI**
 
@@ -8298,7 +8487,7 @@
 🔗 [GitHub](https://github.com/microsoft/VibeVoice)
 
 ---
-### #19 — ggml-org/whisper.cpp ⭐53.8K · 🔤C++
+### #19 — ggml-org/whisper.cpp ⭐53.9K · 🔤C++
 
 🌏 **OpenAI Whisper 模型的 C/C++ 移植版**
 
@@ -8307,7 +8496,7 @@
 🔗 [GitHub](https://github.com/ggml-org/whisper.cpp)
 
 ---
-### #20 — lllyasviel/Fooocus ⭐53.1K · 🔤Python
+### #20 — lllyasviel/Fooocus ⭐53.2K · 🔤Python
 
 🌏 **专注于提示词和生成**
 
@@ -8316,7 +8505,7 @@
 🔗 [GitHub](https://github.com/lllyasviel/Fooocus)
 
 ---
-### #21 — roboflow/supervision ⭐50.9K · 🔤Python
+### #21 — roboflow/supervision ⭐51.1K · 🔤Python
 
 🌏 **工具/平台：We write your reusable computer vision tools. 💜**
 
@@ -8325,7 +8514,7 @@
 🔗 [GitHub](https://github.com/roboflow/supervision)
 
 ---
-### #22 — upscayl/upscayl ⭐49.4K · 🔤TypeScript
+### #22 — upscayl/upscayl ⭐49.9K · 🔤TypeScript
 
 🌏 **🆙 Upscayl — #1 免费开源 AI 图像放大工具，支持 Linux、macOS 和 Windows。**
 
@@ -8334,7 +8523,7 @@
 🔗 [GitHub](https://github.com/upscayl/upscayl)
 
 ---
-### #23 — iina/iina ⭐46.4K · 🔤Swift
+### #23 — iina/iina ⭐46.5K · 🔤Swift
 
 🌏 **macOS 上的现代视频播放器。**
 
@@ -8343,7 +8532,7 @@
 🔗 [GitHub](https://github.com/iina/iina)
 
 ---
-### #24 — coqui-ai/TTS ⭐46K · 🔤Python
+### #24 — coqui-ai/TTS ⭐46.1K · 🔤Python
 
 🌏 **🐸💬 深度学习的文本转语音工具包，经研究到生产验证。**
 
@@ -8352,7 +8541,7 @@
 🔗 [GitHub](https://github.com/coqui-ai/TTS)
 
 ---
-### #25 — aria2/aria2 ⭐42.5K · 🔤C++
+### #25 — aria2/aria2 ⭐42.7K · 🔤C++
 
 🌏 **一个轻量级的多协议、多源跨平台命令行下载工具**
 
@@ -8388,7 +8577,7 @@
 🔗 [GitHub](https://github.com/naptha/tesseract.js)
 
 ---
-### #29 — OpenBMB/VoxCPM ⭐37.8K · 🔤Python
+### #29 — OpenBMB/VoxCPM ⭐38K · 🔤Python
 
 🌏 **VoxCPM2：无分词器 TTS，支持多语言语音生成和创意语音设计。**
 
@@ -8397,7 +8586,7 @@
 🔗 [GitHub](https://github.com/OpenBMB/VoxCPM)
 
 ---
-### #30 — myshell-ai/OpenVoice ⭐37.6K · 🔤Python
+### #30 — myshell-ai/OpenVoice ⭐37.7K · 🔤Python
 
 🌏 **MIT 和 MyShell 的即时语音克隆，音频基础模型。**
 
@@ -8406,7 +8595,7 @@
 🔗 [GitHub](https://github.com/myshell-ai/OpenVoice)
 
 ---
-### #31 — mpv-player/mpv ⭐37K · 🔤C
+### #31 — mpv-player/mpv ⭐37.1K · 🔤C
 
 🌏 **🎥 命令行媒体播放器**
 
@@ -8415,7 +8604,7 @@
 🔗 [GitHub](https://github.com/mpv-player/mpv)
 
 ---
-### #32 — google-ai-edge/mediapipe ⭐37K · 🔤C++
+### #32 — google-ai-edge/mediapipe ⭐37.1K · 🔤C++
 
 🌏 **工具/平台：Cross-platform, customizable ML solutions for live and streaming **
 
@@ -8433,7 +8622,7 @@
 🔗 [GitHub](https://github.com/babysor/MockingBird)
 
 ---
-### #34 — huggingface/diffusers ⭐34.5K · 🔤Python
+### #34 — huggingface/diffusers ⭐34.6K · 🔤Python
 
 🌏 **🤗 Diffusers：基于 PyTorch 的图像、视频和音频生成的一流扩散模型。**
 
@@ -8442,7 +8631,7 @@
 🔗 [GitHub](https://github.com/huggingface/diffusers)
 
 ---
-### #35 — fishaudio/fish-speech ⭐32.8K · 🔤Python
+### #35 — fishaudio/fish-speech ⭐32.9K · 🔤Python
 
 🌏 **SOTA 开源文本转语音 (TTS) 工具**
 
@@ -8460,7 +8649,7 @@
 🔗 [GitHub](https://github.com/deepinsight/insightface)
 
 ---
-### #37 — Anil-matcha/Open-Generative-AI ⭐28.9K · 🔤JavaScript
+### #37 — Anil-matcha/Open-Generative-AI ⭐29.3K · 🔤JavaScript
 
 🌏 **AI Open-source alternative to AI video platforms — Free AI image & video generation**
 
@@ -8478,7 +8667,7 @@
 🔗 [GitHub](https://github.com/deezer/spleeter)
 
 ---
-### #39 — ATH-MaaS/Pixelle-Video ⭐28.3K · 🔤Python
+### #39 — ATH-MaaS/Pixelle-Video ⭐28.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -8505,7 +8694,7 @@
 🔗 [GitHub](https://github.com/mozilla/DeepSpeech)
 
 ---
-### #42 — SYSTRAN/faster-whisper ⭐25.5K · 🔤Python
+### #42 — SYSTRAN/faster-whisper ⭐25.6K · 🔤Python
 
 🌏 **使用 CTranslate2 的更快 Whisper 转录**
 
@@ -8514,7 +8703,7 @@
 🔗 [GitHub](https://github.com/SYSTRAN/faster-whisper)
 
 ---
-### #43 — m-bain/whisperX ⭐24.1K · 🔤Python
+### #43 — m-bain/whisperX ⭐24.3K · 🔤Python
 
 🌏 **WhisperX：带词级时间戳的自动语音识别**
 
@@ -8523,7 +8712,7 @@
 🔗 [GitHub](https://github.com/m-bain/whisperX)
 
 ---
-### #44 — index-tts/index-tts ⭐24.1K · 🔤Python
+### #44 — index-tts/index-tts ⭐24.2K · 🔤Python
 
 🌏 **工业级可控高效的零样本文本转语音系统**
 
@@ -8532,7 +8721,7 @@
 🔗 [GitHub](https://github.com/index-tts/index-tts)
 
 ---
-### #45 — QwenAudio/CosyVoice ⭐23.7K · 🔤Python
+### #45 — QwenAudio/CosyVoice ⭐23.8K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -8568,7 +8757,7 @@
 🔗 [GitHub](https://github.com/bloc97/Anime4K)
 
 ---
-### #49 — livekit/livekit ⭐21K · 🔤Go
+### #49 — livekit/livekit ⭐21.1K · 🔤Go
 
 🌏 **连接人类和 AI 的端到端实时技术栈**
 
@@ -8604,16 +8793,7 @@
 🔗 [GitHub](https://github.com/nari-labs/dia)
 
 ---
-### #53 — KlingAIResearch/LivePortrait ⭐19.1K · 🔤Python
-
-🌏 **AI Bring portraits to life!**
-
-📝 Bring portraits to life!
-
-🔗 [GitHub](https://github.com/KlingAIResearch/LivePortrait)
-
----
-### #54 — jianchang512/pyvideotrans ⭐19.1K · 🔤Python
+### #53 — jianchang512/pyvideotrans ⭐19.2K · 🔤Python
 
 🌏 **将视频从一种语言翻译为另一种语言并嵌入配音和字幕。**
 
@@ -8622,7 +8802,16 @@
 🔗 [GitHub](https://github.com/jianchang512/pyvideotrans)
 
 ---
-### #55 — sczhou/CodeFormer ⭐18.1K · 🔤Python
+### #54 — KlingAIResearch/LivePortrait ⭐19.1K · 🔤Python
+
+🌏 **AI Bring portraits to life!**
+
+📝 Bring portraits to life!
+
+🔗 [GitHub](https://github.com/KlingAIResearch/LivePortrait)
+
+---
+### #55 — sczhou/CodeFormer ⭐18.2K · 🔤Python
 
 🌏 **[NeurIPS 2022] 基于 Codebook Lookup Transformer 的鲁棒盲脸修复**
 
@@ -8640,7 +8829,7 @@
 🔗 [GitHub](https://github.com/Wan-Video/Wan2.2)
 
 ---
-### #57 — AaronFeng753/Waifu2x-Extension-GUI ⭐17K · 🔤C++
+### #57 — AaronFeng753/Waifu2x-Extension-GUI ⭐17.1K · 🔤C++
 
 🌏 **AI Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpola**
 
@@ -8649,7 +8838,7 @@
 🔗 [GitHub](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
 ---
-### #58 — duixcom/Duix-Avatar ⭐15.5K · 🔤C
+### #58 — duixcom/Duix-Avatar ⭐15.6K · 🔤C
 
 🌏 **AI 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generati**
 
@@ -8667,7 +8856,7 @@
 🔗 [GitHub](https://github.com/kaldi-asr/kaldi)
 
 ---
-### #60 — alphacep/vosk-api ⭐15.1K · 🔤Jupyter Notebook
+### #60 — alphacep/vosk-api ⭐15.2K · 🔤Jupyter Notebook
 
 🌏 **Android、iOS、树莓派和服务器上的离线语音识别 API，支持 Python/Java/C#/Node。**
 
@@ -8676,16 +8865,7 @@
 🔗 [GitHub](https://github.com/alphacep/vosk-api)
 
 ---
-### #61 — Zulko/moviepy ⭐14.9K · 🔤Python
-
-🌏 **项目简介：Video editing with Python**
-
-📝 Video editing with Python
-
-🔗 [GitHub](https://github.com/Zulko/moviepy)
-
----
-### #62 — k2-fsa/sherpa-onnx ⭐14.9K · 🔤C++
+### #61 — k2-fsa/sherpa-onnx ⭐15K · 🔤C++
 
 🌏 **基于 next-gen Kaldi 和 onnxruntime 的语音转文本、TTS、声纹识别等，无需网络。**
 
@@ -8694,7 +8874,16 @@
 🔗 [GitHub](https://github.com/k2-fsa/sherpa-onnx)
 
 ---
-### #63 — NVIDIA/DeepLearningExamples ⭐14.8K · 🔤Jupyter Notebook
+### #62 — Zulko/moviepy ⭐14.9K · 🔤Python
+
+🌏 **项目简介：Video editing with Python**
+
+📝 Video editing with Python
+
+🔗 [GitHub](https://github.com/Zulko/moviepy)
+
+---
+### #63 — NVIDIA/DeepLearningExamples ⭐14.9K · 🔤Jupyter Notebook
 
 🌏 **最先进的深度学习脚本，按模型组织，易于训练和部署。**
 
@@ -8703,22 +8892,22 @@
 🔗 [GitHub](https://github.com/NVIDIA/DeepLearningExamples)
 
 ---
-### #64 — NVlabs/stylegan ⭐14.4K · 🔤Python
-
-🌏 **StyleGAN - 官方 TensorFlow 实现**
-
-📝 StyleGAN - Official TensorFlow Implementation
-
-🔗 [GitHub](https://github.com/NVlabs/stylegan)
-
----
-### #65 — advplyr/audiobookshelf ⭐14.4K · 🔤JavaScript
+### #64 — advplyr/audiobookshelf ⭐14.5K · 🔤JavaScript
 
 🌏 **自托管的有声书和播客服务器。**
 
 📝 Self-hosted audiobook and podcast server
 
 🔗 [GitHub](https://github.com/advplyr/audiobookshelf)
+
+---
+### #65 — NVlabs/stylegan ⭐14.4K · 🔤Python
+
+🌏 **StyleGAN - 官方 TensorFlow 实现**
+
+📝 StyleGAN - Official TensorFlow Implementation
+
+🔗 [GitHub](https://github.com/NVlabs/stylegan)
 
 ---
 ### #66 — OpenTalker/SadTalker ⭐13.9K · 🔤Python
@@ -8766,7 +8955,7 @@
 🔗 [GitHub](https://github.com/zai-org/CogVideo)
 
 ---
-### #71 — abus-aikorea/voice-pro ⭐12.8K · 🔤Python
+### #71 — abus-aikorea/voice-pro ⭐12.9K · 🔤Python
 
 🌏 **面向创作者和开发者的 Gradio WebUI，集 TTS、零样本语音克隆、Whisper 音频处理等功能。**
 
@@ -8784,7 +8973,7 @@
 🔗 [GitHub](https://github.com/PaddlePaddle/PaddleSpeech)
 
 ---
-### #73 — Tencent-Hunyuan/HunyuanVideo ⭐12.5K · 🔤Python
+### #73 — Tencent-Hunyuan/HunyuanVideo ⭐12.6K · 🔤Python
 
 🌏 **AI HunyuanVideo: A Systematic Framework For Large Video Generation Model**
 
@@ -8793,7 +8982,7 @@
 🔗 [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo)
 
 ---
-### #74 — HKUDS/ViMax ⭐12.4K · 🔤Python
+### #74 — HKUDS/ViMax ⭐12.5K · 🔤Python
 
 🌏 **AI "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Ge**
 
@@ -8802,7 +8991,16 @@
 🔗 [GitHub](https://github.com/HKUDS/ViMax)
 
 ---
-### #75 — rany2/edge-tts ⭐12K · 🔤Python
+### #75 — krillinai/OpenCreator ⭐12.4K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.
+
+🔗 [GitHub](https://github.com/krillinai/OpenCreator)
+
+---
+### #76 — rany2/edge-tts ⭐12.1K · 🔤Python
 
 🌏 **从 Python 使用 Microsoft Edge 在线 TTS 服务，无需 Edge、Windows 或 API key。**
 
@@ -8811,7 +9009,7 @@
 🔗 [GitHub](https://github.com/rany2/edge-tts)
 
 ---
-### #76 — speechbrain/speechbrain ⭐11.8K · 🔤Python
+### #77 — speechbrain/speechbrain ⭐11.8K · 🔤Python
 
 🌏 **基于 PyTorch 的语音工具包**
 
@@ -8820,7 +9018,7 @@
 🔗 [GitHub](https://github.com/speechbrain/speechbrain)
 
 ---
-### #77 — rhasspy/piper ⭐11.3K · 🔤C++
+### #78 — rhasspy/piper ⭐11.3K · 🔤C++
 
 🌏 **快速、本地的神经文本转语音系统**
 
@@ -8829,7 +9027,7 @@
 🔗 [GitHub](https://github.com/rhasspy/piper)
 
 ---
-### #78 — NVlabs/stylegan2 ⭐11.2K · 🔤Python
+### #79 — NVlabs/stylegan2 ⭐11.2K · 🔤Python
 
 🌏 **StyleGAN2 - 官方 TensorFlow 实现**
 
@@ -8838,7 +9036,7 @@
 🔗 [GitHub](https://github.com/NVlabs/stylegan2)
 
 ---
-### #79 — captbaritone/webamp ⭐11.1K · 🔤TypeScript
+### #80 — captbaritone/webamp ⭐11.1K · 🔤TypeScript
 
 🌏 **浏览器中重新实现的 Winamp 2**
 
@@ -8847,7 +9045,7 @@
 🔗 [GitHub](https://github.com/captbaritone/webamp)
 
 ---
-### #80 — QuentinFuxa/WhisperLiveKit ⭐11.1K · 🔤Python
+### #81 — QuentinFuxa/WhisperLiveKit ⭐11.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -8856,7 +9054,7 @@
 🔗 [GitHub](https://github.com/QuentinFuxa/WhisperLiveKit)
 
 ---
-### #81 — leandromoreira/ffmpeg-libav-tutorial ⭐11K · 🔤C
+### #82 — leandromoreira/ffmpeg-libav-tutorial ⭐11K · 🔤C
 
 🌏 **项目简介：FFmpeg libav tutorial - learn how media works from basic to trans**
 
@@ -8865,7 +9063,7 @@
 🔗 [GitHub](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 
 ---
-### #82 — openvinotoolkit/openvino ⭐10.9K · 🔤C++
+### #83 — openvinotoolkit/openvino ⭐10.9K · 🔤C++
 
 🌏 **OpenVINO™ 是用于优化和部署 AI 推理的开源工具包。**
 
@@ -8874,7 +9072,7 @@
 🔗 [GitHub](https://github.com/openvinotoolkit/openvino)
 
 ---
-### #83 — open-mmlab/Amphion ⭐10.3K · 🔤Python
+### #84 — open-mmlab/Amphion ⭐10.3K · 🔤Python
 
 🌏 **Amphion 是音频、音乐和语音生成工具包，支持可复现研究。**
 
@@ -8883,7 +9081,7 @@
 🔗 [GitHub](https://github.com/open-mmlab/Amphion)
 
 ---
-### #84 — mozilla/TTS ⭐10.2K · 🔤Jupyter Notebook
+### #85 — mozilla/TTS ⭐10.2K · 🔤Jupyter Notebook
 
 🌏 **🤖💬 文本转语音的深度学习库**
 
@@ -8892,7 +9090,7 @@
 🔗 [GitHub](https://github.com/mozilla/TTS)
 
 ---
-### #85 — Acly/krita-ai-diffusion ⭐10.2K · 🔤Python
+### #86 — Acly/krita-ai-diffusion ⭐10.2K · 🔤Python
 
 🌏 **Krita 中 AI 图像生成的简化界面，支持局部重绘和扩图。**
 
@@ -8901,7 +9099,7 @@
 🔗 [GitHub](https://github.com/Acly/krita-ai-diffusion)
 
 ---
-### #86 — espnet/espnet ⭐10K · 🔤Python
+### #87 — espnet/espnet ⭐10K · 🔤Python
 
 🌏 **端到端语音处理工具包**
 
@@ -8910,7 +9108,7 @@
 🔗 [GitHub](https://github.com/espnet/espnet)
 
 ---
-### #87 — facebookresearch/pifuhd ⭐9.7K · 🔤Python
+### #88 — facebookresearch/pifuhd ⭐9.7K · 🔤Python
 
 🌏 **从单张图像实现高分辨率 3D 人体数字化。**
 
@@ -8919,7 +9117,7 @@
 🔗 [GitHub](https://github.com/facebookresearch/pifuhd)
 
 ---
-### #88 — xorbitsai/inference ⭐9.6K · 🔤Python
+### #89 — xorbitsai/inference ⭐9.6K · 🔤Python
 
 🌏 **改变一行代码即可将 GPT 替换为任意 LLM，支持云、本地等多种部署方式。**
 
@@ -8928,7 +9126,7 @@
 🔗 [GitHub](https://github.com/xorbitsai/inference)
 
 ---
-### #89 — gyroflow/gyroflow ⭐9.5K · 🔤Rust
+### #90 — gyroflow/gyroflow ⭐9.5K · 🔤Rust
 
 🌏 **项目简介：Video stabilization using gyroscope data**
 
@@ -8937,7 +9135,7 @@
 🔗 [GitHub](https://github.com/gyroflow/gyroflow)
 
 ---
-### #90 — Lightricks/LTX-2 ⭐9.5K · 🔤Python
+### #91 — Lightricks/LTX-2 ⭐9.5K · 🔤Python
 
 🌏 **AI Official Python inference and LoRA trainer package for the LTX-2 audio–video gen**
 
@@ -8946,7 +9144,7 @@
 🔗 [GitHub](https://github.com/Lightricks/LTX-2)
 
 ---
-### #91 — QwenAudio/SenseVoice ⭐9.3K · 🔤C
+### #92 — QwenAudio/SenseVoice ⭐9.4K · 🔤C
 
 🌏 *中文描述待补充*
 
@@ -8955,7 +9153,7 @@
 🔗 [GitHub](https://github.com/QwenAudio/SenseVoice)
 
 ---
-### #92 — debpalash/OmniVoice-Studio ⭐9.2K · 🔤Python
+### #93 — debpalash/OmniVoice-Studio ⭐9.2K · 🔤Python
 
 🌏 **工具/平台：open-source ElevenLabs alternative for local voice cloning, desig**
 
@@ -8964,7 +9162,7 @@
 🔗 [GitHub](https://github.com/debpalash/OmniVoice-Studio)
 
 ---
-### #93 — NVlabs/Sana ⭐9.1K · 🔤Python
+### #94 — NVlabs/Sana ⭐9.1K · 🔤Python
 
 🌏 **项目简介：SANA: Efficient High-Resolution Image Synthesis with Linear Diffu**
 
@@ -8973,7 +9171,7 @@
 🔗 [GitHub](https://github.com/NVlabs/Sana)
 
 ---
-### #94 — Uberi/speech_recognition ⭐9K · 🔤Python
+### #95 — Uberi/speech_recognition ⭐9K · 🔤Python
 
 🌏 **Python 语音识别模块，支持多种引擎和 API，在线和离线均可。**
 
@@ -8982,7 +9180,7 @@
 🔗 [GitHub](https://github.com/Uberi/speech_recognition)
 
 ---
-### #95 — FunAudioLLM/SenseVoice ⭐8.8K · 🔤C
+### #96 — FunAudioLLM/SenseVoice ⭐8.8K · 🔤C
 
 🌏 **多语言语音理解：ASR + 情感识别 + 音频事件检测，比 Whisper 快 15 倍。**
 
@@ -8991,7 +9189,7 @@
 🔗 [GitHub](https://github.com/FunAudioLLM/SenseVoice)
 
 ---
-### #96 — netease-youdao/EmotiVoice ⭐8.5K · 🔤Python
+### #97 — netease-youdao/EmotiVoice ⭐8.5K · 🔤Python
 
 🌏 **EmotiVoice 😊：多声音、提示控制的 TTS 引擎**
 
@@ -9000,7 +9198,7 @@
 🔗 [GitHub](https://github.com/netease-youdao/EmotiVoice)
 
 ---
-### #97 — nl8590687/ASRT_SpeechRecognition ⭐8.4K · 🔤Python
+### #98 — nl8590687/ASRT_SpeechRecognition ⭐8.4K · 🔤Python
 
 🌏 **基于深度学习的中文语音识别系统**
 
@@ -9009,7 +9207,7 @@
 🔗 [GitHub](https://github.com/nl8590687/ASRT_SpeechRecognition)
 
 ---
-### #98 — QwenLM/Qwen-Image ⭐8.3K · 🔤Python
+### #99 — QwenLM/Qwen-Image ⭐8.4K · 🔤Python
 
 🌏 **Qwen-Image 是强大的图像生成基础模型，支持复杂文字渲染和精准图像编辑。**
 
@@ -9018,7 +9216,7 @@
 🔗 [GitHub](https://github.com/QwenLM/Qwen-Image)
 
 ---
-### #99 — Lake1059/FFmpegFreeUI ⭐8.3K · 🔤Visual Basic .NET
+### #100 — Lake1059/FFmpegFreeUI ⭐8.3K · 🔤Visual Basic .NET
 
 🌏 *中文描述待补充*
 
@@ -9027,22 +9225,13 @@
 🔗 [GitHub](https://github.com/Lake1059/FFmpegFreeUI)
 
 ---
-### #100 — nadermx/backgroundremover ⭐8.1K · 🔤Python
+### #101 — nadermx/backgroundremover ⭐8.1K · 🔤Python
 
 🌏 **AI Background Remover lets you Remove Background from images and video using AI wit**
 
 📝 Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 
 🔗 [GitHub](https://github.com/nadermx/backgroundremover)
-
----
-### #101 — Plachtaa/VALL-E-X ⭐7.9K · 🔤Python
-
-🌏 **微软 VALL-E X 零样本 TTS 模型的开源实现。**
-
-📝 An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
-
-🔗 [GitHub](https://github.com/Plachtaa/VALL-E-X)
 
 ---
 ### #102 — Blaizzy/mlx-audio ⭐7.9K · 🔤Python
@@ -9054,13 +9243,13 @@
 🔗 [GitHub](https://github.com/Blaizzy/mlx-audio)
 
 ---
-### #103 — jaywalnut310/vits ⭐7.9K · 🔤Python
+### #103 — Plachtaa/VALL-E-X ⭐7.9K · 🔤Python
 
-🌏 **VITS：基于条件变分自编码器和对抗学习的端到端文本转语音。**
+🌏 **微软 VALL-E X 零样本 TTS 模型的开源实现。**
 
-📝 VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
+📝 An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 
-🔗 [GitHub](https://github.com/jaywalnut310/vits)
+🔗 [GitHub](https://github.com/Plachtaa/VALL-E-X)
 
 ---
 ### #104 — MeiGen-AI/InfiniteTalk ⭐7.9K · 🔤Python
@@ -9072,7 +9261,16 @@
 🔗 [GitHub](https://github.com/MeiGen-AI/InfiniteTalk)
 
 ---
-### #105 — stanfordnlp/stanza ⭐7.8K · 🔤Python
+### #105 — jaywalnut310/vits ⭐7.9K · 🔤Python
+
+🌏 **VITS：基于条件变分自编码器和对抗学习的端到端文本转语音。**
+
+📝 VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
+
+🔗 [GitHub](https://github.com/jaywalnut310/vits)
+
+---
+### #106 — stanfordnlp/stanza ⭐7.8K · 🔤Python
 
 🌏 **Stanford NLP Python 库，支持分词、句子分割、NER 和多种人类语言解析。**
 
@@ -9081,7 +9279,7 @@
 🔗 [GitHub](https://github.com/stanfordnlp/stanza)
 
 ---
-### #106 — myshell-ai/MeloTTS ⭐7.6K · 🔤Python
+### #107 — myshell-ai/MeloTTS ⭐7.7K · 🔤Python
 
 🌏 **MyShell.ai 的高质量多语言文本转语音库，支持英语、中文、日语等。**
 
@@ -9090,7 +9288,7 @@
 🔗 [GitHub](https://github.com/myshell-ai/MeloTTS)
 
 ---
-### #107 — OpenTalker/video-retalking ⭐7.3K · 🔤Python
+### #108 — OpenTalker/video-retalking ⭐7.3K · 🔤Python
 
 🌏 **项目简介：[SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronizat**
 
@@ -9099,7 +9297,7 @@
 🔗 [GitHub](https://github.com/OpenTalker/video-retalking)
 
 ---
-### #108 — vllm-project/vllm-omni ⭐6.9K · 🔤Python
+### #109 — vllm-project/vllm-omni ⭐7.1K · 🔤Python
 
 🌏 **一个用于全模态模型高效推理的框架。**
 
@@ -9108,7 +9306,7 @@
 🔗 [GitHub](https://github.com/vllm-project/vllm-omni)
 
 ---
-### #109 — espeak-ng/espeak-ng ⭐6.9K · 🔤C
+### #110 — espeak-ng/espeak-ng ⭐6.9K · 🔤C
 
 🌏 **eSpeak NG 是支持 100+ 语言和口音的开源语音合成器。**
 
@@ -9117,7 +9315,7 @@
 🔗 [GitHub](https://github.com/espeak-ng/espeak-ng)
 
 ---
-### #110 — TalAter/annyang ⭐6.8K · 🔤TypeScript
+### #111 — TalAter/annyang ⭐6.8K · 🔤TypeScript
 
 🌏 **💬 为你的网站添加语音识别**
 
@@ -9126,7 +9324,7 @@
 🔗 [GitHub](https://github.com/TalAter/annyang)
 
 ---
-### #111 — bitgapp/eqMac ⭐6.8K · 🔤Swift
+### #112 — bitgapp/eqMac ⭐6.8K · 🔤Swift
 
 🌏 **macOS 系统级音频均衡器和音量混合器 🎧**
 
@@ -9135,7 +9333,7 @@
 🔗 [GitHub](https://github.com/bitgapp/eqMac)
 
 ---
-### #112 — tenacityteam/tenacity-legacy ⭐6.6K · 🔤C++
+### #113 — tenacityteam/tenacity-legacy ⭐6.6K · 🔤C++
 
 🌏 **（已停止维护，请查看 Tenacity 的 Codeberg 仓库）**
 
@@ -9144,7 +9342,7 @@
 🔗 [GitHub](https://github.com/tenacityteam/tenacity-legacy)
 
 ---
-### #113 — OpenShot/openshot-qt ⭐6.5K · 🔤Python
+### #114 — OpenShot/openshot-qt ⭐6.5K · 🔤Python
 
 🌏 **项目简介：OpenShot Video Editor is an award-winning free and open-source vi**
 
@@ -9153,7 +9351,7 @@
 🔗 [GitHub](https://github.com/OpenShot/openshot-qt)
 
 ---
-### #114 — flashlight/wav2letter ⭐6.4K · 🔤C++
+### #115 — flashlight/wav2letter ⭐6.4K · 🔤C++
 
 🌏 **Facebook AI Research 的自动语音识别工具包**
 
@@ -9162,7 +9360,7 @@
 🔗 [GitHub](https://github.com/flashlight/wav2letter)
 
 ---
-### #115 — argmaxinc/argmax-oss-swift ⭐6.4K · 🔤Swift
+### #116 — argmaxinc/argmax-oss-swift ⭐6.4K · 🔤Swift
 
 🌏 **Apple Silicon 上的设备端语音 AI**
 
@@ -9171,22 +9369,13 @@
 🔗 [GitHub](https://github.com/argmaxinc/argmax-oss-swift)
 
 ---
-### #116 — yl4579/StyleTTS2 ⭐6.4K · 🔤Python
+### #117 — yl4579/StyleTTS2 ⭐6.4K · 🔤Python
 
 🌏 **StyleTTS 2：通过风格扩散实现人类级 TTS。**
 
 📝 StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 
 🔗 [GitHub](https://github.com/yl4579/StyleTTS2)
-
----
-### #117 — promptslab/Awesome-Prompt-Engineering ⭐6.3K · 🔤TypeScript
-
-🌏 **精选提示工程资源，聚焦 GPT、ChatGPT、PaLM 等。**
-
-📝 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
-
-🔗 [GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering)
 
 ---
 ### #118 — modelscope/FunClip ⭐6.3K · 🔤Python
@@ -9198,7 +9387,16 @@
 🔗 [GitHub](https://github.com/modelscope/FunClip)
 
 ---
-### #119 — spotify/pedalboard ⭐6.3K · 🔤C++
+### #119 — promptslab/Awesome-Prompt-Engineering ⭐6.3K · 🔤TypeScript
+
+🌏 **精选提示工程资源，聚焦 GPT、ChatGPT、PaLM 等。**
+
+📝 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
+
+🔗 [GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering)
+
+---
+### #120 — spotify/pedalboard ⭐6.3K · 🔤C++
 
 🌏 **🎛 🔊 一个 Python 音频库。**
 
@@ -9207,7 +9405,7 @@
 🔗 [GitHub](https://github.com/spotify/pedalboard)
 
 ---
-### #120 — PaddlePaddle/PaddleX ⭐6.3K · 🔤Python
+### #121 — PaddlePaddle/PaddleX ⭐6.3K · 🔤Python
 
 🌏 **基于 PaddlePaddle 的全功能开发工具**
 
@@ -9216,7 +9414,7 @@
 🔗 [GitHub](https://github.com/PaddlePaddle/PaddleX)
 
 ---
-### #121 — snakers4/silero-models ⭐6.1K · 🔤Jupyter Notebook
+### #122 — snakers4/silero-models ⭐6.1K · 🔤Jupyter Notebook
 
 🌏 **Silero 模型：极其简单的预训练 TTS 模型。**
 
@@ -9225,22 +9423,13 @@
 🔗 [GitHub](https://github.com/snakers4/silero-models)
 
 ---
-### #122 — denizsafak/abogen ⭐6K · 🔤Python
+### #123 — denizsafak/abogen ⭐6.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
 📝 Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 
 🔗 [GitHub](https://github.com/denizsafak/abogen)
-
----
-### #123 — Forget-C/Jellyfish ⭐5.8K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export.
-
-🔗 [GitHub](https://github.com/Forget-C/Jellyfish)
 
 ---
 ### #124 — showlab/Awesome-Video-Diffusion ⭐5.8K
@@ -9252,7 +9441,16 @@
 🔗 [GitHub](https://github.com/showlab/Awesome-Video-Diffusion)
 
 ---
-### #125 — NVIDIA/DALI ⭐5.8K · 🔤C++
+### #125 — Forget-C/Jellyfish ⭐5.8K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export.
+
+🔗 [GitHub](https://github.com/Forget-C/Jellyfish)
+
+---
+### #126 — NVIDIA/DALI ⭐5.8K · 🔤C++
 
 🌏 **用于加速深度学习训练和推理的 GPU 加速数据预处理库。**
 
@@ -9261,7 +9459,7 @@
 🔗 [GitHub](https://github.com/NVIDIA/DALI)
 
 ---
-### #126 — dograh-hq/dograh ⭐5.7K · 🔤Python
+### #127 — dograh-hq/dograh ⭐5.7K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -9270,25 +9468,7 @@
 🔗 [GitHub](https://github.com/dograh-hq/dograh)
 
 ---
-### #127 — MahmoudAshraf97/whisper-diarization ⭐5.7K · 🔤Jupyter Notebook
-
-🌏 **基于 OpenAI Whisper 的带说话人分离的自动语音识别。**
-
-📝 Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
-
-🔗 [GitHub](https://github.com/MahmoudAshraf97/whisper-diarization)
-
----
-### #128 — cgzirim/seek-tune ⭐5.6K · 🔤Go
-
-🌏 **Shazam 歌曲识别算法的实现。**
-
-📝 An implementation of Shazam's song recognition algorithm.
-
-🔗 [GitHub](https://github.com/cgzirim/seek-tune)
-
----
-### #129 — wiltodelta/remove-ai-watermarks ⭐5.6K · 🔤Python
+### #128 — wiltodelta/remove-ai-watermarks ⭐5.7K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -9297,7 +9477,25 @@
 🔗 [GitHub](https://github.com/wiltodelta/remove-ai-watermarks)
 
 ---
-### #130 — liuzhao1225/YouDub-webui ⭐5.5K · 🔤Python
+### #129 — MahmoudAshraf97/whisper-diarization ⭐5.7K · 🔤Jupyter Notebook
+
+🌏 **基于 OpenAI Whisper 的带说话人分离的自动语音识别。**
+
+📝 Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
+
+🔗 [GitHub](https://github.com/MahmoudAshraf97/whisper-diarization)
+
+---
+### #130 — cgzirim/seek-tune ⭐5.6K · 🔤Go
+
+🌏 **Shazam 歌曲识别算法的实现。**
+
+📝 An implementation of Shazam's song recognition algorithm.
+
+🔗 [GitHub](https://github.com/cgzirim/seek-tune)
+
+---
+### #131 — liuzhao1225/YouDub-webui ⭐5.5K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -9306,7 +9504,7 @@
 🔗 [GitHub](https://github.com/liuzhao1225/YouDub-webui)
 
 ---
-### #131 — remsky/Kokoro-FastAPI ⭐5.5K · 🔤Python
+### #132 — remsky/Kokoro-FastAPI ⭐5.5K · 🔤Python
 
 🌏 **Kokoro-82M 文本转语音模型的 Docker 化 FastAPI 封装，支持多平台 CPU、AMD、NVIDIA GPU PyTorch。**
 
@@ -9315,7 +9513,7 @@
 🔗 [GitHub](https://github.com/remsky/Kokoro-FastAPI)
 
 ---
-### #132 — mifi/editly ⭐5.4K · 🔤TypeScript
+### #133 — mifi/editly ⭐5.4K · 🔤TypeScript
 
 🌏 **项目简介：Slick, declarative command line video editing & API**
 
@@ -9324,7 +9522,7 @@
 🔗 [GitHub](https://github.com/mifi/editly)
 
 ---
-### #133 — WyattBlue/auto-editor ⭐5.3K · 🔤Nim
+### #134 — WyattBlue/auto-editor ⭐5.4K · 🔤Nim
 
 🌏 *中文描述待补充*
 
@@ -9333,7 +9531,7 @@
 🔗 [GitHub](https://github.com/WyattBlue/auto-editor)
 
 ---
-### 🆕 #134 — buxuku/SmartSub ⭐5.3K · 🔤TypeScript
+### #135 — buxuku/SmartSub ⭐5.4K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -9342,7 +9540,7 @@
 🔗 [GitHub](https://github.com/buxuku/SmartSub)
 
 ---
-### #135 — wenet-e2e/wenet ⭐5.2K · 🔤Python
+### #136 — wenet-e2e/wenet ⭐5.2K · 🔤Python
 
 🌏 **生产优先、生产就绪的端到端语音识别工具包。**
 
@@ -9351,7 +9549,7 @@
 🔗 [GitHub](https://github.com/wenet-e2e/wenet)
 
 ---
-### #136 — Breakthrough/PySceneDetect ⭐5.2K · 🔤Python
+### #137 — Breakthrough/PySceneDetect ⭐5.2K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -9360,16 +9558,7 @@
 🔗 [GitHub](https://github.com/Breakthrough/PySceneDetect)
 
 ---
-### #137 — AILab-CVC/VideoCrafter ⭐5.1K · 🔤Python
-
-🌏 **AI VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Mode**
-
-📝 VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
-
-🔗 [GitHub](https://github.com/AILab-CVC/VideoCrafter)
-
----
-### 🆕 #138 — Anil-matcha/AI-Youtube-Shorts-Generator ⭐5K · 🔤Python
+### 🆕 #138 — Anil-matcha/AI-Youtube-Shorts-Generator ⭐5.2K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -9378,7 +9567,16 @@
 🔗 [GitHub](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator)
 
 ---
-### #139 — Zejun-Yang/AniPortrait ⭐5K · 🔤Python
+### #139 — AILab-CVC/VideoCrafter ⭐5.1K · 🔤Python
+
+🌏 **AI VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Mode**
+
+📝 VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
+
+🔗 [GitHub](https://github.com/AILab-CVC/VideoCrafter)
+
+---
+### #140 — Zejun-Yang/AniPortrait ⭐5K · 🔤Python
 
 🌏 **AI AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation**
 
@@ -9395,11 +9593,11 @@
 <a name="代码分析与质量"></a>
 
 <details >
-<summary><b>🔍 代码分析与质量</b> <code>108</code></summary>
+<summary><b>🔍 代码分析与质量</b> <code>109</code></summary>
 <br>
-### ⭐ 精选推荐（Top 5 / 共 108）
+### ⭐ 精选推荐（Top 5 / 共 109）
 
-### 🥇 #1 — microsoft/TypeScript ⭐111.1K · 🔤Go
+### 🥇 #1 — microsoft/TypeScript ⭐111.2K · 🔤Go
 
 🌏 **TypeScript 是 JavaScript 的超集，编译为干净的 JavaScript 代码。**
 
@@ -9408,16 +9606,16 @@
 🔗 [GitHub](https://github.com/microsoft/TypeScript)
 
 ---
-### 🥈 #2 — unclecode/crawl4ai ⭐83.9K · 🔤Python
+### 🥈 #2 — unclecode/crawl4ai ⭐84.3K · 🔤Python
 
 🌏 **🚀🤖 Crawl4AI：开源的 LLM 友好型 Web 爬虫与抓取工具。**
 
-📝 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+📝 Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 
 🔗 [GitHub](https://github.com/unclecode/crawl4ai)
 
 ---
-### 🥉 #3 — NationalSecurityAgency/ghidra ⭐79.1K · 🔤Java
+### 🥉 #3 — NationalSecurityAgency/ghidra ⭐79.7K · 🔤Java
 
 🌏 **Ghidra 是一个软件逆向工程（SRE）框架**
 
@@ -9426,7 +9624,7 @@
 🔗 [GitHub](https://github.com/NationalSecurityAgency/ghidra)
 
 ---
-### #4 — colbymchenry/codegraph ⭐71.5K · 🔤C
+### #4 — colbymchenry/codegraph ⭐72.1K · 🔤C
 
 🌏 **为 Claude Code、Codex、Gemini、Cursor 等编码助手预建索引的代码知识图谱，更少 token、更少调用、100% 本地。**
 
@@ -9435,7 +9633,7 @@
 🔗 [GitHub](https://github.com/colbymchenry/codegraph)
 
 ---
-### #5 — NanmiCoder/MediaCrawler ⭐65.3K · 🔤Python
+### #5 — NanmiCoder/MediaCrawler ⭐65.8K · 🔤Python
 
 🌏 **小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫**
 
@@ -9446,12 +9644,12 @@
 ---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📋 全部项目（103 个）
+### 📋 全部项目（104 个）
 
 <details>
-<summary>点击展开全部 103 个项目</summary>
+<summary>点击展开全部 104 个项目</summary>
 <br>
-### #6 — go-gitea/gitea ⭐58.1K · 🔤Go
+### #6 — go-gitea/gitea ⭐58.2K · 🔤Go
 
 🌏 **一杯茶的工夫就能使用的 Git 服务！痛苦无感的一站式软件开发服务。**
 
@@ -9460,7 +9658,7 @@
 🔗 [GitHub](https://github.com/go-gitea/gitea)
 
 ---
-### #7 — WerWolv/ImHex ⭐54.8K · 🔤C++
+### #7 — WerWolv/ImHex ⭐54.9K · 🔤C++
 
 🌏 **面向逆向工程师、程序员和凌晨三点还在工作的视网膜守护者的十六进制编辑器。**
 
@@ -9487,7 +9685,7 @@
 🔗 [GitHub](https://github.com/prettier/prettier)
 
 ---
-### #10 — astral-sh/ruff ⭐49.7K · 🔤Rust
+### #10 — astral-sh/ruff ⭐49.8K · 🔤Rust
 
 🌏 **用 Rust 编写的极速 Python 代码检查器和格式化工具。**
 
@@ -9505,7 +9703,7 @@
 🔗 [GitHub](https://github.com/x64dbg/x64dbg)
 
 ---
-### #12 — abhigyanpatwari/GitNexus ⭐47.5K · 🔤TypeScript
+### #12 — abhigyanpatwari/GitNexus ⭐47.6K · 🔤TypeScript
 
 🌏 **GitNexus：零服务端代码智能引擎，浏览器内运行的客户端知识图谱创建工具。**
 
@@ -9514,7 +9712,7 @@
 🔗 [GitHub](https://github.com/abhigyanpatwari/GitNexus)
 
 ---
-### #13 — psf/black ⭐41.8K · 🔤Python
+### #13 — psf/black ⭐41.9K · 🔤Python
 
 🌏 **毫不妥协的 Python 代码格式化工具**
 
@@ -9523,16 +9721,7 @@
 🔗 [GitHub](https://github.com/psf/black)
 
 ---
-### #14 — koalaman/shellcheck ⭐40.1K · 🔤Haskell
-
-🌏 **ShellCheck，一个针对 shell 脚本的静态分析工具。**
-
-📝 ShellCheck, a static analysis tool for shell scripts
-
-🔗 [GitHub](https://github.com/koalaman/shellcheck)
-
----
-### 🆕 #15 — alibaba/open-code-review ⭐37.8K · 🔤Go
+### 🆕 #14 — alibaba/open-code-review ⭐41.7K · 🔤Go
 
 🌏 *中文描述待补充*
 
@@ -9541,7 +9730,16 @@
 🔗 [GitHub](https://github.com/alibaba/open-code-review)
 
 ---
-### #16 — tirth8205/code-review-graph ⭐31.6K · 🔤Python
+### #15 — koalaman/shellcheck ⭐40.1K · 🔤Haskell
+
+🌏 **ShellCheck，一个针对 shell 脚本的静态分析工具。**
+
+📝 ShellCheck, a static analysis tool for shell scripts
+
+🔗 [GitHub](https://github.com/koalaman/shellcheck)
+
+---
+### #16 — tirth8205/code-review-graph ⭐31.8K · 🔤Python
 
 🌏 **本地优先的代码智能图谱，用于 MCP 和 CLI。构建代码库的持久化地图，让 AI 编码工具只读真正重要的部分。**
 
@@ -9586,7 +9784,7 @@
 🔗 [GitHub](https://github.com/ycm-core/YouCompleteMe)
 
 ---
-### #21 — biomejs/biome ⭐25.8K · 🔤Rust
+### #21 — biomejs/biome ⭐25.9K · 🔤Rust
 
 🌏 **Web 项目工具链，提供格式化和 Lint 功能，可通过 CLI 和 LSP 使用。**
 
@@ -9604,7 +9802,7 @@
 🔗 [GitHub](https://github.com/rome/tools)
 
 ---
-### #23 — oxc-project/oxc ⭐22.8K · 🔤Rust
+### #23 — oxc-project/oxc ⭐22.9K · 🔤Rust
 
 🌏 **⚓ 高性能 JavaScript 工具合集。**
 
@@ -9667,7 +9865,7 @@
 🔗 [GitHub](https://github.com/nikic/PHP-Parser)
 
 ---
-### #30 — semgrep/semgrep ⭐16.7K · 🔤C
+### #30 — semgrep/semgrep ⭐16.8K · 🔤C
 
 🌏 **多语言轻量级静态分析。用类似源码的模式发现 Bug 变种。**
 
@@ -9676,7 +9874,7 @@
 🔗 [GitHub](https://github.com/semgrep/semgrep)
 
 ---
-### #31 — ast-grep/ast-grep ⭐16K · 🔤Rust
+### #31 — ast-grep/ast-grep ⭐16.1K · 🔤Rust
 
 🌏 **⚡ 代码结构性搜索、lint 和重写的 CLI 工具，用 Rust 编写。**
 
@@ -9694,7 +9892,7 @@
 🔗 [GitHub](https://github.com/facebook/infer)
 
 ---
-### #33 — Konloch/bytecode-viewer ⭐15.6K · 🔤Java
+### #33 — Konloch/bytecode-viewer ⭐15.7K · 🔤Java
 
 🌏 **Java 8+ Jar 和 Android APK 逆向工程套件（反编译器、编辑器、调试器等）。**
 
@@ -9775,7 +9973,7 @@
 🔗 [GitHub](https://github.com/OWASP/mastg)
 
 ---
-### #42 — The-PR-Agent/pr-agent ⭐13.1K · 🔤Python
+### #42 — The-PR-Agent/pr-agent ⭐13.2K · 🔤Python
 
 🌏 **🚀 PR Agent：原版开源 PR 审查工具。**
 
@@ -9820,7 +10018,7 @@
 🔗 [GitHub](https://github.com/hadolint/hadolint)
 
 ---
-### #47 — webpro-nl/knip ⭐12.3K · 🔤TypeScript
+### #47 — webpro-nl/knip ⭐12.4K · 🔤TypeScript
 
 🌏 **✂️ 查找 JavaScript 和 TypeScript 项目中未使用的文件、依赖和导出。**
 
@@ -9964,7 +10162,7 @@
 🔗 [GitHub](https://github.com/bridgecrewio/checkov)
 
 ---
-### #63 — securego/gosec ⭐8.9K · 🔤Go
+### #63 — securego/gosec ⭐9K · 🔤Go
 
 🌏 **Go 安全检查器。**
 
@@ -10126,7 +10324,7 @@
 🔗 [GitHub](https://github.com/pre-commit/pre-commit-hooks)
 
 ---
-### #81 — zizmorcore/zizmor ⭐6.5K · 🔤Rust
+### #81 — zizmorcore/zizmor ⭐6.6K · 🔤Rust
 
 🌏 **GitHub Actions 静态分析。**
 
@@ -10207,22 +10405,22 @@
 🔗 [GitHub](https://github.com/davidhalter/jedi)
 
 ---
-### #90 — javaparser/javaparser ⭐6.2K · 🔤Java
-
-🌏 **支持 Java 1-25 的解析器和抽象语法树，带高级分析功能。**
-
-📝 Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
-
-🔗 [GitHub](https://github.com/javaparser/javaparser)
-
----
-### #91 — vale-cli/vale ⭐6.1K · 🔤Go
+### #90 — vale-cli/vale ⭐6.2K · 🔤Go
 
 🌏 **✏️ 面向散文的 markup 感知 Lint 工具，速度优先且可扩展。**
 
 📝 :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 
 🔗 [GitHub](https://github.com/vale-cli/vale)
+
+---
+### #91 — javaparser/javaparser ⭐6.2K · 🔤Java
+
+🌏 **支持 Java 1-25 的解析器和抽象语法树，带高级分析功能。**
+
+📝 Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+
+🔗 [GitHub](https://github.com/javaparser/javaparser)
 
 ---
 ### #92 — backnotprop/plannotator ⭐6K · 🔤TypeScript
@@ -10279,7 +10477,16 @@
 🔗 [GitHub](https://github.com/phan/phan)
 
 ---
-### #98 — mgechev/revive ⭐5.6K · 🔤Go
+### 🆕 #98 — revive-lint/revive ⭐5.6K · 🔤Go
+
+🌏 *中文描述待补充*
+
+📝 🔥 Fast, strict, configurable, extensible, and beautiful linter for Go
+
+🔗 [GitHub](https://github.com/revive-lint/revive)
+
+---
+### #99 — mgechev/revive ⭐5.6K · 🔤Go
 
 🌏 **🔥 比 golint 快约 6 倍，更严格、可配置、可扩展的替代品。**
 
@@ -10288,7 +10495,7 @@
 🔗 [GitHub](https://github.com/mgechev/revive)
 
 ---
-### #99 — pmd/pmd ⭐5.5K · 🔤Java
+### #100 — pmd/pmd ⭐5.5K · 🔤Java
 
 🌏 **可扩展的多语言静态代码分析器。**
 
@@ -10297,7 +10504,7 @@
 🔗 [GitHub](https://github.com/pmd/pmd)
 
 ---
-### #100 — danger/danger-js ⭐5.5K · 🔤TypeScript
+### #101 — danger/danger-js ⭐5.5K · 🔤TypeScript
 
 🌏 **⚠️ 别再在代码审查中说『你忘了……』（JS/TS 版）。**
 
@@ -10306,34 +10513,7 @@
 🔗 [GitHub](https://github.com/danger/danger-js)
 
 ---
-### #101 — google/gts ⭐5.3K · 🔤TypeScript
-
-🌏 **☂️ TypeScript 风格指南、格式化和 Lint 工具。**
-
-📝 ☂️ TypeScript style guide, formatter, and linter.  
-
-🔗 [GitHub](https://github.com/google/gts)
-
----
-### #102 — tanprathan/MobileApp-Pentest-Cheatsheet ⭐5.3K
-
-🌏 **移动应用渗透测试速查表。**
-
-📝 The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
-
-🔗 [GitHub](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
-
----
-### #103 — rrrene/credo ⭐5.2K · 🔤Elixir
-
-🌏 **Elixir 语言的静态代码分析工具，注重代码一致性和教学。**
-
-📝 A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
-
-🔗 [GitHub](https://github.com/rrrene/credo)
-
----
-### #104 — braedonsaunders/codeflow ⭐5.2K · 🔤HTML
+### #102 — braedonsaunders/codeflow ⭐5.3K · 🔤HTML
 
 🌏 *中文描述待补充*
 
@@ -10342,7 +10522,34 @@
 🔗 [GitHub](https://github.com/braedonsaunders/codeflow)
 
 ---
-### #105 — get-alex/alex ⭐5.1K · 🔤JavaScript
+### #103 — google/gts ⭐5.3K · 🔤TypeScript
+
+🌏 **☂️ TypeScript 风格指南、格式化和 Lint 工具。**
+
+📝 ☂️ TypeScript style guide, formatter, and linter.  
+
+🔗 [GitHub](https://github.com/google/gts)
+
+---
+### #104 — tanprathan/MobileApp-Pentest-Cheatsheet ⭐5.3K
+
+🌏 **移动应用渗透测试速查表。**
+
+📝 The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
+
+🔗 [GitHub](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+
+---
+### #105 — rrrene/credo ⭐5.2K · 🔤Elixir
+
+🌏 **Elixir 语言的静态代码分析工具，注重代码一致性和教学。**
+
+📝 A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
+
+🔗 [GitHub](https://github.com/rrrene/credo)
+
+---
+### #106 — get-alex/alex ⭐5.1K · 🔤JavaScript
 
 🌏 **捕捉冷漠不体贴的写作**
 
@@ -10351,7 +10558,7 @@
 🔗 [GitHub](https://github.com/get-alex/alex)
 
 ---
-### #106 — didi/booster ⭐5.1K · 🔤Kotlin
+### #107 — didi/booster ⭐5.1K · 🔤Kotlin
 
 🌏 **🚀 移动应用优化工具。**
 
@@ -10360,7 +10567,7 @@
 🔗 [GitHub](https://github.com/didi/booster)
 
 ---
-### #107 — joho/awesome-code-review ⭐5K
+### #108 — joho/awesome-code-review ⭐5K
 
 🌏 **代码审查资源精选列表——文章、论文、工具等。**
 
@@ -10369,7 +10576,7 @@
 🔗 [GitHub](https://github.com/joho/awesome-code-review)
 
 ---
-### #108 — google/pytype ⭐5K · 🔤Python
+### #109 — google/pytype ⭐5K · 🔤Python
 
 🌏 **Python 代码的静态类型分析器。**
 
@@ -10390,7 +10597,7 @@
 <br>
 ### ⭐ 精选推荐（Top 5 / 共 85）
 
-### 🥇 #1 — react/react ⭐250.6K · 🔤JavaScript
+### 🥇 #1 — react/react ⭐250.8K · 🔤JavaScript
 
 🌏 **用于 Web 和原生用户界面的库。**
 
@@ -10408,7 +10615,7 @@
 🔗 [GitHub](https://github.com/vuejs/vue)
 
 ---
-### 🥉 #3 — flutter/flutter ⭐179K · 🔤Dart
+### 🥉 #3 — flutter/flutter ⭐179.1K · 🔤Dart
 
 🌏 **Flutter 让构建移动端及其他平台的精美应用变得简单快捷**
 
@@ -10426,7 +10633,7 @@
 🔗 [GitHub](https://github.com/twbs/bootstrap)
 
 ---
-### #5 — vercel/next.js ⭐142.4K · 🔤JavaScript
+### #5 — vercel/next.js ⭐142.7K · 🔤JavaScript
 
 🌏 **React 框架**
 
@@ -10442,7 +10649,7 @@
 <details>
 <summary>点击展开全部 80 个项目</summary>
 <br>
-### #6 — react/create-react-app ⭐103.3K · 🔤JavaScript
+### #6 — react/create-react-app ⭐103.2K · 🔤JavaScript
 
 🌏 **通过一个命令搭建现代化 Web 应用。**
 
@@ -10451,7 +10658,7 @@
 🔗 [GitHub](https://github.com/react/create-react-app)
 
 ---
-### #7 — fastapi/fastapi ⭐102.5K · 🔤Python
+### #7 — fastapi/fastapi ⭐102.6K · 🔤Python
 
 🌏 **FastAPI 框架，高性能、易学习、快速编码，生产就绪。**
 
@@ -10478,7 +10685,7 @@
 🔗 [GitHub](https://github.com/tailwindlabs/tailwindcss)
 
 ---
-### #10 — django/django ⭐91.1K · 🔤Python
+### #10 — django/django ⭐91.2K · 🔤Python
 
 🌏 **为有截止日期的完美主义者打造的 Web 框架。**
 
@@ -10496,7 +10703,7 @@
 🔗 [GitHub](https://github.com/PanJiaChen/vue-element-admin)
 
 ---
-### #12 — gohugoio/hugo ⭐89.9K · 🔤Go
+### #12 — gohugoio/hugo ⭐90K · 🔤Go
 
 🌏 **世界上最快的网站构建框架。**
 
@@ -10505,7 +10712,7 @@
 🔗 [GitHub](https://github.com/gohugoio/hugo)
 
 ---
-### #13 — gin-gonic/gin ⭐89.2K · 🔤Go
+### #13 — gin-gonic/gin ⭐89.3K · 🔤Go
 
 🌏 **高性能 Go HTTP Web 框架，API 类似 Martini 但性能提升高达 40 倍。**
 
@@ -10568,7 +10775,7 @@
 🔗 [GitHub](https://github.com/expressjs/express)
 
 ---
-### #20 — withastro/astro ⭐62.7K · 🔤TypeScript
+### #20 — withastro/astro ⭐62.8K · 🔤TypeScript
 
 🌏 **面向内容驱动网站的 Web 框架。⭐️ 给我们点个 Star 吧！**
 
@@ -10622,7 +10829,7 @@
 🔗 [GitHub](https://github.com/ionic-team/ionic-framework)
 
 ---
-### #26 — expo/expo ⭐52.3K · 🔤TypeScript
+### #26 — expo/expo ⭐52.5K · 🔤TypeScript
 
 🌏 **一个开源框架，用于使用 React 构建通用原生应用，支持 Android、iOS 和 Web。**
 
@@ -10649,7 +10856,7 @@
 🔗 [GitHub](https://github.com/bigskysoftware/htmx)
 
 ---
-### #29 — fastapi/full-stack-fastapi-template ⭐45.6K · 🔤TypeScript
+### #29 — fastapi/full-stack-fastapi-template ⭐45.8K · 🔤TypeScript
 
 🌏 **全栈现代化 Web 应用模板，使用 FastAPI、React、SQLModel、PostgreSQL、Docker 等。**
 
@@ -10667,7 +10874,7 @@
 🔗 [GitHub](https://github.com/ColorlibHQ/AdminLTE)
 
 ---
-### #31 — payloadcms/payload ⭐44.8K · 🔤TypeScript
+### #31 — payloadcms/payload ⭐45K · 🔤TypeScript
 
 🌏 **Payload 是一个开源的 fullstack Next.js 框架，赋予你即时的后端超能力。**
 
@@ -10676,7 +10883,7 @@
 🔗 [GitHub](https://github.com/payloadcms/payload)
 
 ---
-### #32 — trpc/trpc ⭐40.6K · 🔤TypeScript
+### #32 — trpc/trpc ⭐40.7K · 🔤TypeScript
 
 🌏 **🧙‍♀️ 快速前进，不破坏任何东西。端到端类型安全的 API 变得简单。**
 
@@ -10694,7 +10901,7 @@
 🔗 [GitHub](https://github.com/gofiber/fiber)
 
 ---
-### #34 — DioxusLabs/dioxus ⭐39.2K · 🔤Rust
+### #34 — DioxusLabs/dioxus ⭐39.3K · 🔤Rust
 
 🌏 **适用于 Web、桌面和移动端的 fullstack 应用框架。**
 
@@ -10748,7 +10955,7 @@
 🔗 [GitHub](https://github.com/remix-run/remix)
 
 ---
-### #40 — zeromicro/go-zero ⭐33.3K · 🔤Go
+### #40 — zeromicro/go-zero ⭐33.4K · 🔤Go
 
 🌏 **云原生 Go 微服务框架，附带 CLI 工具提升效率。**
 
@@ -10784,7 +10991,7 @@
 🔗 [GitHub](https://github.com/beego/beego)
 
 ---
-### #44 — honojs/hono ⭐32.3K · 🔤TypeScript
+### #44 — honojs/hono ⭐32.4K · 🔤TypeScript
 
 🌏 **基于 Web 标准构建的 Web 框架。**
 
@@ -10982,16 +11189,7 @@
 🔗 [GitHub](https://github.com/pocoproject/poco)
 
 ---
-### #66 — cakephp/cakephp ⭐8.8K · 🔤PHP
-
-🌏 **CakePHP：PHP 快速开发框架——官方仓库。**
-
-📝 CakePHP: The Rapid Development Framework for PHP - Official Repository
-
-🔗 [GitHub](https://github.com/cakephp/cakephp)
-
----
-### #67 — bottlepy/bottle ⭐8.8K · 🔤Python
+### #66 — bottlepy/bottle ⭐8.8K · 🔤Python
 
 🌏 **bottle.py 是一个快速简洁的 Python Web 应用微框架。**
 
@@ -11000,7 +11198,16 @@
 🔗 [GitHub](https://github.com/bottlepy/bottle)
 
 ---
-### #68 — neutralinojs/neutralinojs ⭐8.6K · 🔤C
+### #67 — cakephp/cakephp ⭐8.8K · 🔤PHP
+
+🌏 **CakePHP：PHP 快速开发框架——官方仓库。**
+
+📝 CakePHP: The Rapid Development Framework for PHP - Official Repository
+
+🔗 [GitHub](https://github.com/cakephp/cakephp)
+
+---
+### #68 — neutralinojs/neutralinojs ⭐8.7K · 🔤C
 
 🌏 **便携轻量的跨平台桌面应用开发框架。**
 
@@ -11027,7 +11234,7 @@
 🔗 [GitHub](https://github.com/gobuffalo/buffalo)
 
 ---
-### #71 — javalin/javalin ⭐8.3K · 🔤Kotlin
+### #71 — javalin/javalin ⭐8.4K · 🔤Kotlin
 
 🌏 **一个简洁现代的 Java 和 Kotlin Web 框架。**
 
@@ -11117,7 +11324,7 @@
 🔗 [GitHub](https://github.com/hugapi/hug)
 
 ---
-### #81 — techschool/simplebank ⭐6.5K · 🔤Go
+### #81 — techschool/simplebank ⭐6.6K · 🔤Go
 
 🌏 **后端大师课程：用 Go 构建一个简单的银行服务。**
 
@@ -11174,7 +11381,7 @@
 <br>
 ### ⭐ 精选推荐（Top 5 / 共 86）
 
-### 🥇 #1 — supabase/supabase ⭐110.4K · 🔤TypeScript
+### 🥇 #1 — supabase/supabase ⭐110.8K · 🔤TypeScript
 
 🌏 **Postgres 开发平台，提供专用 Postgres 数据库构建 Web、移动和 AI 应用。**
 
@@ -11183,7 +11390,7 @@
 🔗 [GitHub](https://github.com/supabase/supabase)
 
 ---
-### 🥈 #2 — redis/redis ⭐76.4K · 🔤C
+### 🥈 #2 — redis/redis ⭐76.5K · 🔤C
 
 🌏 **面向实时数据驱动应用的开发者，Redis 是首选、最快、功能最丰富的缓存和数据结构服务器。**
 
@@ -11192,7 +11399,7 @@
 🔗 [GitHub](https://github.com/redis/redis)
 
 ---
-### 🥉 #3 — Asabeneh/30-Days-Of-Python ⭐74.2K · 🔤Python
+### 🥉 #3 — Asabeneh/30-Days-Of-Python ⭐74.7K · 🔤Python
 
 🌏 **30 天 Python 编程挑战，分步指南助你在 30 天内学会 Python。**
 
@@ -11201,7 +11408,7 @@
 🔗 [GitHub](https://github.com/Asabeneh/30-Days-Of-Python)
 
 ---
-### #4 — meilisearch/meilisearch ⭐59.3K · 🔤Rust
+### #4 — meilisearch/meilisearch ⭐59.4K · 🔤Rust
 
 🌏 **极速搜索引擎 API，为你的站点和应用带来 AI 驱动的混合搜索。**
 
@@ -11226,7 +11433,7 @@
 <details>
 <summary>点击展开全部 81 个项目</summary>
 <br>
-### #6 — elastic/elasticsearch ⭐77.9K · 🔤Java
+### #6 — elastic/elasticsearch ⭐78K · 🔤Java
 
 🌏 **免费开源的分布式 RESTful 搜索引擎**
 
@@ -11235,7 +11442,7 @@
 🔗 [GitHub](https://github.com/elastic/elasticsearch)
 
 ---
-### #7 — prometheus/prometheus ⭐66.1K · 🔤Go
+### #7 — prometheus/prometheus ⭐66.3K · 🔤Go
 
 🌏 **Prometheus 监控系统与时间序列数据库。**
 
@@ -11244,7 +11451,7 @@
 🔗 [GitHub](https://github.com/prometheus/prometheus)
 
 ---
-### #8 — dbeaver/dbeaver ⭐51.8K · 🔤Java
+### #8 — dbeaver/dbeaver ⭐51.9K · 🔤Java
 
 🌏 **免费的通用数据库工具和 SQL 客户端**
 
@@ -11253,7 +11460,7 @@
 🔗 [GitHub](https://github.com/dbeaver/dbeaver)
 
 ---
-### #9 — ClickHouse/ClickHouse ⭐50K · 🔤C++
+### #9 — ClickHouse/ClickHouse ⭐50.1K · 🔤C++
 
 🌏 **ClickHouse® 是一个实时分析数据库管理系统**
 
@@ -11262,7 +11469,7 @@
 🔗 [GitHub](https://github.com/ClickHouse/ClickHouse)
 
 ---
-### #10 — metabase/metabase ⭐49.3K · 🔤Clojure
+### #10 — metabase/metabase ⭐49.4K · 🔤Clojure
 
 🌏 **易于使用的开源商业智能和嵌入式分析工具，让每个人都能处理数据。**
 
@@ -11271,7 +11478,7 @@
 🔗 [GitHub](https://github.com/metabase/metabase)
 
 ---
-### #11 — prisma/orm ⭐47.6K · 🔤TypeScript
+### #11 — prisma/orm ⭐47.7K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -11307,7 +11514,7 @@
 🔗 [GitHub](https://github.com/DataExpert-io/data-engineer-handbook)
 
 ---
-### #15 — duckdb/duckdb ⭐41.6K · 🔤C++
+### #15 — duckdb/duckdb ⭐41.7K · 🔤C++
 
 🌏 **DuckDB 是一个进程内分析型 SQL 数据库管理系统**
 
@@ -11343,7 +11550,7 @@
 🔗 [GitHub](https://github.com/huihut/interview)
 
 ---
-### #19 — directus/directus ⭐37.9K · 🔤TypeScript
+### #19 — directus/directus ⭐38K · 🔤TypeScript
 
 🌏 **适用于所有项目的灵活后端 🐰 将数据库转换为无头 CMS、管理面板或自定义 UI 应用。**
 
@@ -11370,7 +11577,7 @@
 🔗 [GitHub](https://github.com/SheetJS/sheetjs)
 
 ---
-### #22 — qdrant/qdrant ⭐34.7K · 🔤Rust
+### #22 — qdrant/qdrant ⭐34.8K · 🔤Rust
 
 🌏 **高性能大规模向量数据库和向量搜索引擎，为下一代 AI 打造。**
 
@@ -11379,7 +11586,7 @@
 🔗 [GitHub](https://github.com/qdrant/qdrant)
 
 ---
-### #23 — apache/kafka ⭐33.8K · 🔤Java
+### #23 — apache/kafka ⭐33.9K · 🔤Java
 
 🌏 **Apache Kafka - 分布式事件流平台**
 
@@ -11388,7 +11595,7 @@
 🔗 [GitHub](https://github.com/apache/kafka)
 
 ---
-### #24 — surrealdb/surrealdb ⭐33K · 🔤Rust
+### #24 — surrealdb/surrealdb ⭐33.1K · 🔤Rust
 
 🌏 **面向实时 Web 的可扩展、分布式、协作文档图数据库**
 
@@ -11406,7 +11613,7 @@
 🔗 [GitHub](https://github.com/cockroachdb/cockroach)
 
 ---
-### #26 — influxdata/influxdb ⭐31.7K · 🔤Rust
+### #26 — influxdata/influxdb ⭐31.8K · 🔤Rust
 
 🌏 **可扩展的数据存储，适用于指标、事件和实时分析。**
 
@@ -11415,7 +11622,7 @@
 🔗 [GitHub](https://github.com/influxdata/influxdb)
 
 ---
-### #27 — dragonflydb/dragonfly ⭐31.6K · 🔤C++
+### #27 — dragonflydb/dragonfly ⭐31.7K · 🔤C++
 
 🌏 **Redis 和 Memcached 的现代替代品**
 
@@ -11433,7 +11640,7 @@
 🔗 [GitHub](https://github.com/mongodb/mongo)
 
 ---
-### #29 — OtterMind/Chat2DB ⭐28.2K · 🔤Java
+### #29 — OtterMind/Chat2DB ⭐28.3K · 🔤Java
 
 🌏 **AI 驱动的数据库工具和 SQL 客户端，支持 MySQL、Oracle、PostgreSQL 等多种数据库。**
 
@@ -11451,7 +11658,7 @@
 🔗 [GitHub](https://github.com/PostgREST/postgrest)
 
 ---
-### #31 — forthespada/CS-Books ⭐27.3K
+### #31 — forthespada/CS-Books ⭐27.4K
 
 🌏 **🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、**
 
@@ -11487,7 +11694,7 @@
 🔗 [GitHub](https://github.com/sqlitebrowser/sqlitebrowser)
 
 ---
-### #35 — tursodatabase/turso ⭐24.3K · 🔤Rust
+### #35 — tursodatabase/turso ⭐24.4K · 🔤Rust
 
 🌏 **Turso 是一个进程内 SQL 数据库，兼容 SQLite。**
 
@@ -11505,7 +11712,7 @@
 🔗 [GitHub](https://github.com/Vonng/ddia)
 
 ---
-### #37 — beekeeper-studio/beekeeper-studio ⭐23.6K · 🔤TypeScript
+### #37 — beekeeper-studio/beekeeper-studio ⭐23.7K · 🔤TypeScript
 
 🌏 **一款现代化且易于使用的 SQL 客户端，支持 MySQL、Postgres、SQLite、SQL Server 等数据库。**
 
@@ -11514,22 +11721,22 @@
 🔗 [GitHub](https://github.com/beekeeper-studio/beekeeper-studio)
 
 ---
-### #38 — osquery/osquery ⭐23.6K · 🔤C++
-
-🌏 **基于 SQL 的操作系统仪表化、监控和分析工具。**
-
-📝 SQL powered operating system instrumentation, monitoring, and analytics.
-
-🔗 [GitHub](https://github.com/osquery/osquery)
-
----
-### #39 — timescale/timescaledb ⭐23.5K · 🔤C
+### #38 — timescale/timescaledb ⭐23.6K · 🔤C
 
 🌏 **一个以 Postgres 扩展形式打包的时序数据库，专为高性能实时分析而设计。**
 
 📝 A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 🔗 [GitHub](https://github.com/timescale/timescaledb)
+
+---
+### #39 — osquery/osquery ⭐23.6K · 🔤C++
+
+🌏 **基于 SQL 的操作系统仪表化、监控和分析工具。**
+
+📝 SQL powered operating system instrumentation, monitoring, and analytics.
+
+🔗 [GitHub](https://github.com/osquery/osquery)
 
 ---
 ### #40 — pubkey/rxdb ⭐23.4K · 🔤TypeScript
@@ -11541,7 +11748,7 @@
 🔗 [GitHub](https://github.com/pubkey/rxdb)
 
 ---
-### #41 — chartdb/chartdb ⭐22.9K · 🔤TypeScript
+### #41 — chartdb/chartdb ⭐23K · 🔤TypeScript
 
 🌏 **数据库图表编辑器，通过单个查询即可可视化和设计数据库。**
 
@@ -11577,22 +11784,22 @@
 🔗 [GitHub](https://github.com/dgraph-io/dgraph)
 
 ---
-### #45 — valeriansaliou/sonic ⭐21.3K · 🔤Rust
-
-🌏 **快速、轻量、无需模式的搜索后端，Elasticsearch 的替代品，仅需几 MB 内存即可运行。**
-
-📝 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-
-🔗 [GitHub](https://github.com/valeriansaliou/sonic)
-
----
-### #46 — vitessio/vitess ⭐21.3K · 🔤Go
+### #45 — vitessio/vitess ⭐21.4K · 🔤Go
 
 🌏 **Vitess 是一个用于 MySQL 水平扩展的数据库集群系统。**
 
 📝 Vitess is a database clustering system for horizontal scaling of MySQL.
 
 🔗 [GitHub](https://github.com/vitessio/vitess)
+
+---
+### #46 — valeriansaliou/sonic ⭐21.4K · 🔤Rust
+
+🌏 **快速、轻量、无需模式的搜索后端，Elasticsearch 的替代品，仅需几 MB 内存即可运行。**
+
+📝 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+
+🔗 [GitHub](https://github.com/valeriansaliou/sonic)
 
 ---
 ### #47 — apache/shardingsphere ⭐20.8K · 🔤Java
@@ -11622,7 +11829,7 @@
 🔗 [GitHub](https://github.com/golang-migrate/migrate)
 
 ---
-### #50 — rqlite/rqlite ⭐17.7K · 🔤Go
+### #50 — rqlite/rqlite ⭐17.8K · 🔤Go
 
 🌏 **基于 SQLite 的轻量级容错数据库，以最少的工作量保持数据高可用。**
 
@@ -11631,7 +11838,7 @@
 🔗 [GitHub](https://github.com/rqlite/rqlite)
 
 ---
-### #51 — VictoriaMetrics/VictoriaMetrics ⭐17.7K · 🔤Go
+### #51 — VictoriaMetrics/VictoriaMetrics ⭐17.8K · 🔤Go
 
 🌏 **快速、经济高效的监控解决方案和时间序列数据库。**
 
@@ -11658,7 +11865,7 @@
 🔗 [GitHub](https://github.com/gyoogle/tech-interview-for-developer)
 
 ---
-### #54 — questdb/questdb ⭐17.3K · 🔤Java
+### #54 — questdb/questdb ⭐17.4K · 🔤Java
 
 🌏 **QuestDB 是一个高性能、开源的时间序列数据库。**
 
@@ -11667,7 +11874,7 @@
 🔗 [GitHub](https://github.com/questdb/questdb)
 
 ---
-### #55 — neo4j/neo4j ⭐17.2K · 🔤Java
+### #55 — neo4j/neo4j ⭐17.3K · 🔤Java
 
 🌏 **人人皆可用的图数据库。**
 
@@ -11685,7 +11892,7 @@
 🔗 [GitHub](https://github.com/tursodatabase/libsql)
 
 ---
-### #57 — weaviate/weaviate ⭐16.8K · 🔤Go
+### #57 — weaviate/weaviate ⭐16.9K · 🔤Go
 
 🌏 **Weaviate 是一个开源向量数据库，同时存储对象和向量，支持向量搜索与结构化过滤的结合。**
 
@@ -11712,7 +11919,7 @@
 🔗 [GitHub](https://github.com/prisma/prisma1)
 
 ---
-### #60 — electric-sql/pglite ⭐16K · 🔤TypeScript
+### #60 — electric-sql/pglite ⭐16.1K · 🔤TypeScript
 
 🌏 **可嵌入的 Postgres，具有实时响应式绑定功能。**
 
@@ -11730,22 +11937,22 @@
 🔗 [GitHub](https://github.com/apache/doris)
 
 ---
-### #62 — scylladb/scylladb ⭐15.8K · 🔤C++
-
-🌏 **使用 Seastar 框架的 NoSQL 数据存储，兼容 Apache Cassandra 和 Amazon DynamoDB。**
-
-📝 NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
-
-🔗 [GitHub](https://github.com/scylladb/scylladb)
-
----
-### #63 — dgraph-io/badger ⭐15.8K · 🔤Go
+### #62 — dgraph-io/badger ⭐15.8K · 🔤Go
 
 🌏 **用 Go 实现的快速键值数据库。**
 
 📝 Fast key-value DB in Go.
 
 🔗 [GitHub](https://github.com/dgraph-io/badger)
+
+---
+### #63 — scylladb/scylladb ⭐15.8K · 🔤C++
+
+🌏 **使用 Seastar 框架的 NoSQL 数据存储，兼容 Apache Cassandra 和 Amazon DynamoDB。**
+
+📝 NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
+
+🔗 [GitHub](https://github.com/scylladb/scylladb)
 
 ---
 ### #64 — go-sql-driver/mysql ⭐15.3K · 🔤Go
@@ -11829,16 +12036,7 @@
 🔗 [GitHub](https://github.com/dbcli/pgcli)
 
 ---
-### #73 — trinodb/trino ⭐13.3K · 🔤Java
-
-🌏 **Trino 的官方仓库，分布式大数据 SQL 查询引擎，前身为 PrestoSQL。**
-
-📝 Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-
-🔗 [GitHub](https://github.com/trinodb/trino)
-
----
-### #74 — mealie-recipes/mealie ⭐13.3K · 🔤Python
+### #73 — mealie-recipes/mealie ⭐13.3K · 🔤Python
 
 🌏 **Mealie 是一款自托管的食谱管理与餐饮规划工具，配备 RestAPI 后端和响应式前端。**
 
@@ -11847,7 +12045,16 @@
 🔗 [GitHub](https://github.com/mealie-recipes/mealie)
 
 ---
-### #75 — debezium/debezium ⭐13.1K · 🔤Java
+### #74 — trinodb/trino ⭐13.3K · 🔤Java
+
+🌏 **Trino 的官方仓库，分布式大数据 SQL 查询引擎，前身为 PrestoSQL。**
+
+📝 Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+🔗 [GitHub](https://github.com/trinodb/trino)
+
+---
+### #75 — debezium/debezium ⭐13.2K · 🔤Java
 
 🌏 **支持多种数据库的变更数据捕获（CDC）工具。**
 
@@ -11883,7 +12090,7 @@
 🔗 [GitHub](https://github.com/get-convex/convex-backend)
 
 ---
-### #79 — madd86/awesome-system-design ⭐12.5K
+### #79 — madd86/awesome-system-design ⭐12.6K
 
 🌏 **精选系统设计（分布式系统）资源清单。**
 
@@ -11967,7 +12174,7 @@
 <br>
 ### ⭐ 精选推荐（Top 5 / 共 103）
 
-### 🥇 #1 — ohmyzsh/ohmyzsh ⭐189.8K · 🔤Shell
+### 🥇 #1 — ohmyzsh/ohmyzsh ⭐190K · 🔤Shell
 
 🌏 **🙃 社区驱动的 Zsh 配置管理框架，含 300+ 插件和 140+ 主题。**
 
@@ -11976,7 +12183,7 @@
 🔗 [GitHub](https://github.com/ohmyzsh/ohmyzsh)
 
 ---
-### 🥈 #2 — kubernetes/kubernetes ⭐127.8K · 🔤Go
+### 🥈 #2 — kubernetes/kubernetes ⭐128K · 🔤Go
 
 🌏 **生产级容器调度与管理平台**
 
@@ -11994,7 +12201,7 @@
 🔗 [GitHub](https://github.com/ripienaar/free-for-dev)
 
 ---
-### #4 — fatedier/frp ⭐109.5K · 🔤Go
+### #4 — fatedier/frp ⭐109.6K · 🔤Go
 
 🌏 **快速反向代理，帮助你将 NAT 或防火墙后的本地服务器暴露到互联网。**
 
@@ -12019,7 +12226,7 @@
 <details>
 <summary>点击展开全部 98 个项目</summary>
 <br>
-### #6 — koala73/worldmonitor ⭐87K · 🔤TypeScript
+### #6 — koala73/worldmonitor ⭐87.4K · 🔤TypeScript
 
 🌏 **实时全球情报仪表盘，AI 驱动的新闻聚合和地缘政治监控。**
 
@@ -12028,7 +12235,7 @@
 🔗 [GitHub](https://github.com/koala73/worldmonitor)
 
 ---
-### #7 — caddyserver/caddy ⭐75.9K · 🔤Go
+### #7 — caddyserver/caddy ⭐76.1K · 🔤Go
 
 🌏 **快速可扩展的多平台 HTTP/1-2-3 Web 服务器，自带自动 HTTPS。**
 
@@ -12055,7 +12262,7 @@
 🔗 [GitHub](https://github.com/nektos/act)
 
 ---
-### #10 — ansible/ansible ⭐70.7K · 🔤Python
+### #10 — ansible/ansible ⭐70.8K · 🔤Python
 
 🌏 **Ansible 是极其简单的 IT 自动化平台，通过 SSH 自动化应用部署和系统管理。**
 
@@ -12064,7 +12271,7 @@
 🔗 [GitHub](https://github.com/ansible/ansible)
 
 ---
-### #11 — traefik/traefik ⭐64.9K · 🔤Go
+### #11 — traefik/traefik ⭐65K · 🔤Go
 
 🌏 **云原生应用代理**
 
@@ -12073,7 +12280,7 @@
 🔗 [GitHub](https://github.com/traefik/traefik)
 
 ---
-### #12 — coollabsio/coolify ⭐62K · 🔤PHP
+### #12 — coollabsio/coolify ⭐62.3K · 🔤PHP
 
 🌏 **开源可自托管的 Vercel/Heroku/Netlify 替代方案，一键部署静态站点、数据库和全栈应用。**
 
@@ -12082,7 +12289,7 @@
 🔗 [GitHub](https://github.com/coollabsio/coolify)
 
 ---
-### #13 — minio/minio ⭐61.4K · 🔤Go
+### #13 — minio/minio ⭐61.3K · 🔤Go
 
 🌏 **高性能 S3 兼容对象存储，基于 AGPLv3 开源。**
 
@@ -12091,7 +12298,7 @@
 🔗 [GitHub](https://github.com/minio/minio)
 
 ---
-### #14 — appwrite/appwrite ⭐57.4K · 🔤PHP
+### #14 — appwrite/appwrite ⭐57.5K · 🔤PHP
 
 🌏 **为 Web、移动和 AI 应用提供完整的云基础设施，包含认证、数据库、存储、函数等。**
 
@@ -12109,7 +12316,7 @@
 🔗 [GitHub](https://github.com/wagoodman/dive)
 
 ---
-### #16 — dockur/windows ⭐53.3K · 🔤Shell
+### #16 — dockur/windows ⭐53.4K · 🔤Shell
 
 🌏 **在 Docker 容器内运行 Windows。**
 
@@ -12127,7 +12334,7 @@
 🔗 [GitHub](https://github.com/sickcodes/Docker-OSX)
 
 ---
-### #18 — apple/container ⭐50.1K · 🔤Swift
+### #18 — apple/container ⭐50.2K · 🔤Swift
 
 🌏 **一款在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具，用 Swift 编写。**
 
@@ -12154,7 +12361,7 @@
 🔗 [GitHub](https://github.com/docker/awesome-compose)
 
 ---
-### #21 — getsentry/sentry ⭐44.8K · 🔤Python
+### #21 — getsentry/sentry ⭐44.9K · 🔤Python
 
 🌏 **以开发者优先的错误追踪与性能监控**
 
@@ -12172,7 +12379,7 @@
 🔗 [GitHub](https://github.com/httpie/cli)
 
 ---
-### #23 — portainer/portainer ⭐38.5K · 🔤TypeScript
+### #23 — portainer/portainer ⭐38.6K · 🔤TypeScript
 
 🌏 **让 Docker 和 Kubernetes 管理变得简单。**
 
@@ -12199,7 +12406,7 @@
 🔗 [GitHub](https://github.com/docker/compose)
 
 ---
-### #26 — aquasecurity/trivy ⭐38K · 🔤Go
+### #26 — aquasecurity/trivy ⭐38.1K · 🔤Go
 
 🌏 **在容器、Kubernetes、代码仓库、云等环境中发现漏洞、错误配置、密钥和 SBOM**
 
@@ -12208,7 +12415,7 @@
 🔗 [GitHub](https://github.com/aquasecurity/trivy)
 
 ---
-### #27 — Dokploy/dokploy ⭐37.4K · 🔤TypeScript
+### #27 — Dokploy/dokploy ⭐37.5K · 🔤TypeScript
 
 🌏 **Vercel、Netlify 和 Heroku 的开源替代方案。**
 
@@ -12217,7 +12424,7 @@
 🔗 [GitHub](https://github.com/Dokploy/dokploy)
 
 ---
-### #28 — IceWhaleTech/CasaOS ⭐37.2K · 🔤Go
+### #28 — IceWhaleTech/CasaOS ⭐37.3K · 🔤Go
 
 🌏 **CasaOS — 一个简单、易用、优雅的开源个人云系统。**
 
@@ -12226,7 +12433,7 @@
 🔗 [GitHub](https://github.com/IceWhaleTech/CasaOS)
 
 ---
-### #29 — chatwoot/chatwoot ⭐37K · 🔤Ruby
+### #29 — chatwoot/chatwoot ⭐37.2K · 🔤Ruby
 
 🌏 **开源在线聊天、邮件支持、全渠道客服平台，Intercom/Zendesk 的替代方案。**
 
@@ -12244,7 +12451,7 @@
 🔗 [GitHub](https://github.com/songquanpeng/one-api)
 
 ---
-### #31 — agentscope-ai/QwenPaw ⭐35.1K · 🔤TypeScript
+### #31 — agentscope-ai/QwenPaw ⭐35.3K · 🔤TypeScript
 
 🌏 **你的个人 AI 助手，易于安装部署，支持多个聊天应用。**
 
@@ -12253,7 +12460,7 @@
 🔗 [GitHub](https://github.com/agentscope-ai/QwenPaw)
 
 ---
-### #32 — derailed/k9s ⭐34.6K · 🔤Go
+### #32 — derailed/k9s ⭐34.7K · 🔤Go
 
 🌏 **🐶 让你时尚管理 Kubernetes 集群的 CLI 工具！**
 
@@ -12280,7 +12487,7 @@
 🔗 [GitHub](https://github.com/podman-container-tools/podman)
 
 ---
-### #35 — gethomepage/homepage ⭐32.8K · 🔤JavaScript
+### #35 — gethomepage/homepage ⭐32.9K · 🔤JavaScript
 
 🌏 **一个高度可定制的首页（或起始页/应用仪表盘），支持 Docker 和服务 API 集成。**
 
@@ -12289,7 +12496,7 @@
 🔗 [GitHub](https://github.com/gethomepage/homepage)
 
 ---
-### #36 — dokku/dokku ⭐32.1K · 🔤Go
+### #36 — dokku/dokku ⭐32.2K · 🔤Go
 
 🌏 **一个基于 Docker 的 PaaS，帮助你构建和管理应用的全生命周期。**
 
@@ -12298,7 +12505,7 @@
 🔗 [GitHub](https://github.com/dokku/dokku)
 
 ---
-### #37 — kubernetes/minikube ⭐32.1K · 🔤Go
+### #37 — kubernetes/minikube ⭐32.2K · 🔤Go
 
 🌏 **在本地运行 Kubernetes**
 
@@ -12316,7 +12523,7 @@
 🔗 [GitHub](https://github.com/nginx/nginx)
 
 ---
-### #39 — abiosoft/colima ⭐30.9K · 🔤Go
+### #39 — abiosoft/colima ⭐31K · 🔤Go
 
 🌏 **在 macOS 和 Linux 上以最简配置运行容器运行时。**
 
@@ -12361,7 +12568,7 @@
 🔗 [GitHub](https://github.com/MichaelCade/90DaysOfDevOps)
 
 ---
-### #44 — community-scripts/ProxmoxVE ⭐29.6K · 🔤Shell
+### #44 — community-scripts/ProxmoxVE ⭐29.7K · 🔤Shell
 
 🌏 **Proxmox VE 辅助脚本（社区版）。**
 
@@ -12370,7 +12577,7 @@
 🔗 [GitHub](https://github.com/community-scripts/ProxmoxVE)
 
 ---
-### #45 — goharbor/harbor ⭐29.4K · 🔤Go
+### #45 — goharbor/harbor ⭐29.5K · 🔤Go
 
 🌏 **一个开源的受信任云原生镜像仓库，支持内容存储、签名和扫描。**
 
@@ -12379,7 +12586,7 @@
 🔗 [GitHub](https://github.com/goharbor/harbor)
 
 ---
-### #46 — authelia/authelia ⭐29K · 🔤Go
+### #46 — authelia/authelia ⭐29.1K · 🔤Go
 
 🌏 **面向 Web 应用的单点登录多因素认证门户。**
 
@@ -12397,7 +12604,7 @@
 🔗 [GitHub](https://github.com/jenkinsci/jenkins)
 
 ---
-### #48 — lissy93/dashy ⭐26.5K · 🔤Vue
+### #48 — lissy93/dashy ⭐26.6K · 🔤Vue
 
 🌏 **一个为你打造的可自托管个人仪表盘，包含状态检查、小组件、主题、图标包和 UI 编辑器。**
 
@@ -12415,7 +12622,7 @@
 🔗 [GitHub](https://github.com/yeasy/docker_practice)
 
 ---
-### #50 — openfaas/faas ⭐26.2K · 🔤Go
+### #50 — openfaas/faas ⭐26.3K · 🔤Go
 
 🌏 **OpenFaaS —— 让 Serverless 函数变得简单。**
 
@@ -12433,25 +12640,16 @@
 🔗 [GitHub](https://github.com/rancher/rancher)
 
 ---
-### #52 — pulumi/pulumi ⭐25.7K · 🔤Go
+### #52 — floci-io/floci ⭐25.8K · 🔤Java
 
-🌏 **Pulumi —— 用任意编程语言实现基础设施即代码（IaC）。**
+🌏 *中文描述待补充*
 
-📝 Pulumi - Infrastructure as Code in any programming language 🚀
+📝 Light, fluffy, and always free - The AWS Local Emulator alternative
 
-🔗 [GitHub](https://github.com/pulumi/pulumi)
-
----
-### #53 — goauthentik/authentik ⭐25.6K · 🔤Python
-
-🌏 **你所需的身份验证粘合剂。**
-
-📝 The authentication glue you need.
-
-🔗 [GitHub](https://github.com/goauthentik/authentik)
+🔗 [GitHub](https://github.com/floci-io/floci)
 
 ---
-### #54 — henrygd/beszel ⭐25.5K · 🔤Go
+### #53 — henrygd/beszel ⭐25.8K · 🔤Go
 
 🌏 **轻量级服务器监控工具，支持历史数据、Docker 统计和告警功能。**
 
@@ -12460,7 +12658,25 @@
 🔗 [GitHub](https://github.com/henrygd/beszel)
 
 ---
-### #55 — cilium/cilium ⭐25.4K · 🔤Go
+### #54 — goauthentik/authentik ⭐25.7K · 🔤Python
+
+🌏 **你所需的身份验证粘合剂。**
+
+📝 The authentication glue you need.
+
+🔗 [GitHub](https://github.com/goauthentik/authentik)
+
+---
+### #55 — pulumi/pulumi ⭐25.7K · 🔤Go
+
+🌏 **Pulumi —— 用任意编程语言实现基础设施即代码（IaC）。**
+
+📝 Pulumi - Infrastructure as Code in any programming language 🚀
+
+🔗 [GitHub](https://github.com/pulumi/pulumi)
+
+---
+### #56 — cilium/cilium ⭐25.6K · 🔤Go
 
 🌏 **基于 eBPF 的网络、安全和可观测性方案。**
 
@@ -12469,16 +12685,7 @@
 🔗 [GitHub](https://github.com/cilium/cilium)
 
 ---
-### #56 — eip-work/kuboard-press ⭐25.2K · 🔤HTML
-
-🌏 **Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。**
-
-📝 Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
-
-🔗 [GitHub](https://github.com/eip-work/kuboard-press)
-
----
-### #57 — Guovin/iptv-api ⭐25.2K · 🔤Python
+### #57 — Guovin/iptv-api ⭐25.3K · 🔤Python
 
 🌏 **⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source auto-update platform**
 
@@ -12487,13 +12694,13 @@
 🔗 [GitHub](https://github.com/Guovin/iptv-api)
 
 ---
-### #58 — floci-io/floci ⭐24.8K · 🔤Java
+### #58 — eip-work/kuboard-press ⭐25.2K · 🔤Dockerfile
 
-🌏 *中文描述待补充*
+🌏 **Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。**
 
-📝 Light, fluffy, and always free - The AWS Local Emulator alternative
+📝 Kuboard v4 官方文档（zh/en 双语）：Kuboard 是基于 Kubernetes 的微服务管理界面。本仓库为 v4 版本文档站源码，涵盖安装升级、集群管理、工作负载、网络、存储、Kuboard MCP 等。
 
-🔗 [GitHub](https://github.com/floci-io/floci)
+🔗 [GitHub](https://github.com/eip-work/kuboard-press)
 
 ---
 ### #59 — firefly-iii/firefly-iii ⭐24.7K · 🔤PHP
@@ -12559,7 +12766,7 @@
 🔗 [GitHub](https://github.com/GoogleContainerTools/distroless)
 
 ---
-### #66 — winboat-org/winboat ⭐22.9K · 🔤TypeScript
+### #66 — winboat-org/winboat ⭐23K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -12568,7 +12775,7 @@
 🔗 [GitHub](https://github.com/winboat-org/winboat)
 
 ---
-### #67 — wsargent/docker-cheat-sheet ⭐22.5K
+### #67 — wsargent/docker-cheat-sheet ⭐22.6K
 
 🌏 **Docker 速查表。**
 
@@ -12577,16 +12784,7 @@
 🔗 [GitHub](https://github.com/wsargent/docker-cheat-sheet)
 
 ---
-### #68 — jhipster/generator-jhipster ⭐22.5K · 🔤TypeScript
-
-🌏 **JHipster 是一个开发平台，用于快速生成、开发和部署现代 Web 应用及微服务架构。**
-
-📝 JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-
-🔗 [GitHub](https://github.com/jhipster/generator-jhipster)
-
----
-### #69 — pranshuparmar/witr ⭐22.4K · 🔤Go
+### #68 — pranshuparmar/witr ⭐22.5K · 🔤Go
 
 🌏 *中文描述待补充*
 
@@ -12595,7 +12793,16 @@
 🔗 [GitHub](https://github.com/pranshuparmar/witr)
 
 ---
-### #70 — m1k1o/neko ⭐22.3K · 🔤Go
+### #69 — jhipster/generator-jhipster ⭐22.5K · 🔤TypeScript
+
+🌏 **JHipster 是一个开发平台，用于快速生成、开发和部署现代 Web 应用及微服务架构。**
+
+📝 JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+
+🔗 [GitHub](https://github.com/jhipster/generator-jhipster)
+
+---
+### #70 — m1k1o/neko ⭐22.4K · 🔤Go
 
 🌏 **在 Docker 中运行并使用 WebRTC 的自托管虚拟浏览器。**
 
@@ -12631,7 +12838,7 @@
 🔗 [GitHub](https://github.com/dockur/macos)
 
 ---
-### #74 — Zeyi-Lin/HivisionIDPhotos ⭐21.5K · 🔤Python
+### #74 — Zeyi-Lin/HivisionIDPhotos ⭐21.6K · 🔤Python
 
 🌏 **⚡️HivisionIDPhotos：轻量高效的 AI 证件照工具。**
 
@@ -12676,7 +12883,7 @@
 🔗 [GitHub](https://github.com/GoogleCloudPlatform/microservices-demo)
 
 ---
-### #79 — bee-san/RustScan ⭐20.4K · 🔤Rust
+### #79 — bee-san/RustScan ⭐20.5K · 🔤Rust
 
 🌏 **现代端口扫描器。**
 
@@ -12721,22 +12928,22 @@
 🔗 [GitHub](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 ---
-### #84 — kubeflow/kubeflow ⭐15.7K
-
-🌏 **Kubernetes 的机器学习工具包**
-
-📝 Machine Learning Toolkit for Kubernetes
-
-🔗 [GitHub](https://github.com/kubeflow/kubeflow)
-
----
-### #85 — alam00000/bentopdf ⭐15.6K · 🔤JavaScript
+### #84 — alam00000/bentopdf ⭐15.7K · 🔤JavaScript
 
 🌏 **隐私优先的 PDF 工具包。**
 
 📝 The Privacy First PDF Toolkit
 
 🔗 [GitHub](https://github.com/alam00000/bentopdf)
+
+---
+### #85 — kubeflow/kubeflow ⭐15.7K
+
+🌏 **Kubernetes 的机器学习工具包**
+
+📝 Machine Learning Toolkit for Kubernetes
+
+🔗 [GitHub](https://github.com/kubeflow/kubeflow)
 
 ---
 ### #86 — theonedev/onedev ⭐15.3K · 🔤Java
@@ -12748,7 +12955,7 @@
 🔗 [GitHub](https://github.com/theonedev/onedev)
 
 ---
-### #87 — DataTalksClub/machine-learning-zoomcamp ⭐14.5K · 🔤Jupyter Notebook
+### #87 — DataTalksClub/machine-learning-zoomcamp ⭐14.6K · 🔤Jupyter Notebook
 
 🌏 *中文描述待补充*
 
@@ -12793,7 +13000,7 @@
 🔗 [GitHub](https://github.com/encoredev/encore)
 
 ---
-### #92 — TwiN/gatus ⭐12.1K · 🔤Go
+### #92 — TwiN/gatus ⭐12.2K · 🔤Go
 
 🌏 **面向开发者的自动化状态页面，支持告警和事件管理。**
 
@@ -12802,22 +13009,22 @@
 🔗 [GitHub](https://github.com/TwiN/gatus)
 
 ---
-### #93 — meolu/walle-web ⭐12K · 🔤Python
-
-🌏 **瓦力 - DevOps 开源项目代码部署平台**
-
-📝 walle - 瓦力 Devops开源项目代码部署平台
-
-🔗 [GitHub](https://github.com/meolu/walle-web)
-
----
-### #94 — getumbrel/umbrel ⭐12K · 🔤TypeScript
+### #93 — getumbrel/umbrel ⭐12.1K · 🔤TypeScript
 
 🌏 **一个优雅的家庭服务器操作系统，支持运行应用、存储文件照片、运行 Bitcoin 节点，300+ 应用等你探索。**
 
 📝 An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 
 🔗 [GitHub](https://github.com/getumbrel/umbrel)
+
+---
+### #94 — meolu/walle-web ⭐12K · 🔤Python
+
+🌏 **瓦力 - DevOps 开源项目代码部署平台**
+
+📝 walle - 瓦力 Devops开源项目代码部署平台
+
+🔗 [GitHub](https://github.com/meolu/walle-web)
 
 ---
 ### #95 — docker-archive-public/docker.labs ⭐11.9K · 🔤PHP
@@ -12913,7 +13120,7 @@
 <br>
 ### ⭐ 精选推荐（Top 5 / 共 86）
 
-### 🥇 #1 — swisskyrepo/PayloadsAllTheThings ⭐81K · 🔤Python
+### 🥇 #1 — swisskyrepo/PayloadsAllTheThings ⭐81.2K · 🔤Python
 
 🌏 **Web 应用安全与渗透测试/CTF 的有用 Payload 和绕过技巧清单**
 
@@ -12922,7 +13129,7 @@
 🔗 [GitHub](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ---
-### 🥈 #2 — Z4nzu/hackingtool ⭐79.6K · 🔤Python
+### 🥈 #2 — Z4nzu/hackingtool ⭐79.8K · 🔤Python
 
 🌏 **面向黑客的全合一黑客工具**
 
@@ -12931,7 +13138,7 @@
 🔗 [GitHub](https://github.com/Z4nzu/hackingtool)
 
 ---
-### 🥉 #3 — dani-garcia/vaultwarden ⭐67.9K · 🔤Rust
+### 🥉 #3 — dani-garcia/vaultwarden ⭐68.2K · 🔤Rust
 
 🌏 **用 Rust 编写的非官方 Bitwarden 兼容服务器**
 
@@ -12949,7 +13156,7 @@
 🔗 [GitHub](https://github.com/shadowsocks/shadowsocks-windows)
 
 ---
-### #5 — KeygraphHQ/shannon ⭐48.2K · 🔤TypeScript
+### #5 — KeygraphHQ/shannon ⭐48.4K · 🔤TypeScript
 
 🌏 **Shannon Lite 是自主的、白盒的 Web 应用和 API 渗透测试工具，通过源码分析执行真实漏洞利用。**
 
@@ -12965,7 +13172,7 @@
 <details>
 <summary>点击展开全部 81 个项目</summary>
 <br>
-### #6 — unionlabs/union ⭐73.9K · 🔤Rust
+### #6 — unionlabs/union ⭐73.8K · 🔤Rust
 
 🌏 **最小化信任的零知识跨链桥协议，专为抗审查和极高安全性而设计。**
 
@@ -12992,7 +13199,7 @@
 🔗 [GitHub](https://github.com/acmesh-official/acme.sh)
 
 ---
-### #9 — mitmproxy/mitmproxy ⭐45.1K · 🔤Python
+### #9 — mitmproxy/mitmproxy ⭐45.2K · 🔤Python
 
 🌏 **一个支持 TLS 的交互式拦截 HTTP 代理，适用于渗透测试人员和软件开发人员。**
 
@@ -13010,7 +13217,7 @@
 🔗 [GitHub](https://github.com/GyulyVGC/sniffnet)
 
 ---
-### #11 — gchq/CyberChef ⭐35.9K · 🔤JavaScript
+### #11 — gchq/CyberChef ⭐36K · 🔤JavaScript
 
 🌏 **网络瑞士军刀 — 一个集加密、编码、压缩和数据分析于一体的 Web 应用**
 
@@ -13028,7 +13235,7 @@
 🔗 [GitHub](https://github.com/lissy93/web-check)
 
 ---
-### #13 — OWASP/CheatSheetSeries ⭐33.2K · 🔤Python
+### #13 — OWASP/CheatSheetSeries ⭐33.3K · 🔤Python
 
 🌏 **OWASP 速查表系列，提供特定应用安全主题的高价值信息合集。**
 
@@ -13046,22 +13253,22 @@
 🔗 [GitHub](https://github.com/certbot/certbot)
 
 ---
-### #15 — imthenachoman/How-To-Secure-A-Linux-Server ⭐31.4K
-
-🌏 **一份持续更新的 Linux 服务器安全加固指南。**
-
-📝 An evolving how-to guide for securing a Linux server.
-
-🔗 [GitHub](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-
----
-### #16 — projectdiscovery/nuclei ⭐31.3K · 🔤Go
+### #15 — projectdiscovery/nuclei ⭐31.6K · 🔤Go
 
 🌏 **快速可定制的漏洞扫描器，基于 YAML DSL，由全球安全社区驱动。**
 
 📝 Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 
 🔗 [GitHub](https://github.com/projectdiscovery/nuclei)
+
+---
+### #16 — imthenachoman/How-To-Secure-A-Linux-Server ⭐31.5K
+
+🌏 **一份持续更新的 Linux 服务器安全加固指南。**
+
+📝 An evolving how-to guide for securing a Linux server.
+
+🔗 [GitHub](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 ---
 ### #17 — StevenBlack/hosts ⭐31.1K · 🔤Python
@@ -13091,7 +13298,7 @@
 🔗 [GitHub](https://github.com/The-Art-of-Hacking/h4cker)
 
 ---
-### #20 — Infisical/infisical ⭐29.3K · 🔤TypeScript
+### #20 — Infisical/infisical ⭐29.5K · 🔤TypeScript
 
 🌏 **Infisical 是一个开源的密钥、证书和特权访问管理平台。**
 
@@ -13100,16 +13307,7 @@
 🔗 [GitHub](https://github.com/Infisical/infisical)
 
 ---
-### #21 — wuyouzhuguli/SpringAll ⭐28.9K · 🔤Java
-
-🌏 **循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2等Spring系列**
-
-📝 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
-
-🔗 [GitHub](https://github.com/wuyouzhuguli/SpringAll)
-
----
-### #22 — keepassxreboot/keepassxc ⭐28.9K · 🔤C++
+### #21 — keepassxreboot/keepassxc ⭐29K · 🔤C++
 
 🌏 **KeePassXC 是 Windows 应用 KeePass Password Safe 的跨平台社区驱动移植版。**
 
@@ -13118,7 +13316,16 @@
 🔗 [GitHub](https://github.com/keepassxreboot/keepassxc)
 
 ---
-### #23 — hwdsl2/setup-ipsec-vpn ⭐28.5K · 🔤Shell
+### #22 — wuyouzhuguli/SpringAll ⭐28.9K · 🔤Java
+
+🌏 **循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2等Spring系列**
+
+📝 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
+
+🔗 [GitHub](https://github.com/wuyouzhuguli/SpringAll)
+
+---
+### #23 — hwdsl2/setup-ipsec-vpn ⭐28.6K · 🔤Shell
 
 🌏 **只需几分钟即可搭建自己的 IPsec VPN 服务器，支持 IPsec/L2TP、Cisco IPsec 和 IKEv2。**
 
@@ -13136,7 +13343,7 @@
 🔗 [GitHub](https://github.com/digitalocean/nginxconfig.io)
 
 ---
-### #25 — trufflesecurity/trufflehog ⭐28K · 🔤Go
+### #25 — trufflesecurity/trufflehog ⭐28.1K · 🔤Go
 
 🌏 **查找、验证和分析泄露的凭据。**
 
@@ -13145,7 +13352,16 @@
 🔗 [GitHub](https://github.com/trufflesecurity/trufflehog)
 
 ---
-### #26 — OpenZeppelin/openzeppelin-contracts ⭐27.2K · 🔤Solidity
+### #26 — enaqx/awesome-pentest ⭐27.3K
+
+🌏 **一份精选的渗透测试资源与工具合集。**
+
+📝 A collection of awesome penetration testing resources and tools
+
+🔗 [GitHub](https://github.com/enaqx/awesome-pentest)
+
+---
+### #27 — OpenZeppelin/openzeppelin-contracts ⭐27.3K · 🔤Solidity
 
 🌏 **OpenZeppelin Contracts 是一个用于安全智能合约开发的库。**
 
@@ -13154,16 +13370,7 @@
 🔗 [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts)
 
 ---
-### #27 — enaqx/awesome-pentest ⭐27.2K
-
-🌏 **一份精选的渗透测试资源与工具合集。**
-
-📝 A collection of awesome penetration testing resources, tools and other shiny things
-
-🔗 [GitHub](https://github.com/enaqx/awesome-pentest)
-
----
-### #28 — radareorg/radare2 ⭐24.8K · 🔤C
+### #28 — radareorg/radare2 ⭐24.9K · 🔤C
 
 🌏 **类 UNIX 的反向工程框架和命令行工具集。**
 
@@ -13181,7 +13388,7 @@
 🔗 [GitHub](https://github.com/shieldfy/API-Security-Checklist)
 
 ---
-### #30 — TecharoHQ/anubis ⭐22.5K · 🔤Go
+### #30 — TecharoHQ/anubis ⭐22.7K · 🔤Go
 
 🌏 **衡量传入 HTTP 请求的"灵魂"，阻止 AI 爬虫。**
 
@@ -13226,7 +13433,7 @@
 🔗 [GitHub](https://github.com/twpayne/chezmoi)
 
 ---
-### #35 — Atlas-OS/Atlas ⭐21.6K · 🔤Batchfile
+### #35 — Atlas-OS/Atlas ⭐21.7K · 🔤Batchfile
 
 🌏 **一款开源轻量级的 Windows 修改版，旨在优化性能、隐私和可用性。**
 
@@ -13253,7 +13460,7 @@
 🔗 [GitHub](https://github.com/bettercap/bettercap)
 
 ---
-### #38 — rizinorg/cutter ⭐19.7K · 🔤C++
+### #38 — rizinorg/cutter ⭐19.8K · 🔤C++
 
 🌏 **基于 rizin 的免费开源逆向工程平台。**
 
@@ -13289,7 +13496,7 @@
 🔗 [GitHub](https://github.com/cure53/DOMPurify)
 
 ---
-### #42 — wazuh/wazuh ⭐16.9K · 🔤C++
+### #42 — wazuh/wazuh ⭐17K · 🔤C++
 
 🌏 **Wazuh — 开源安全平台，为端点和云工作负载提供统一的 XDR 和 SIEM 保护。**
 
@@ -13307,7 +13514,7 @@
 🔗 [GitHub](https://github.com/javascript-obfuscator/javascript-obfuscator)
 
 ---
-### #44 — winsiderss/systeminformer ⭐16K · 🔤C
+### #44 — winsiderss/systeminformer ⭐16.1K · 🔤C
 
 🌏 **免费、强大、多用途的工具，帮助监控系统资源、调试软件和检测恶意软件。**
 
@@ -13343,11 +13550,11 @@
 🔗 [GitHub](https://github.com/supertokens/supertokens-core)
 
 ---
-### #48 — crowdsecurity/crowdsec ⭐14.9K · 🔤Go
+### #48 — crowdsecurity/crowdsec ⭐15K · 🔤Go
 
 🌏 **CrowdSec 是一款开源且参与式的安全解决方案，通过众包方式抵御恶意 IP 攻击。**
 
-📝 CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+📝 Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 
 🔗 [GitHub](https://github.com/crowdsecurity/crowdsec)
 
@@ -13361,16 +13568,16 @@
 🔗 [GitHub](https://github.com/sbilly/awesome-security)
 
 ---
-### #50 — wifiphisher/wifiphisher ⭐14.9K · 🔤Python
+### #50 — mvt-project/mvt ⭐14.9K · 🔤Python
 
-🌏 **恶意接入点框架。**
+🌏 **MVT（移动验证工具包）帮助对移动设备进行取证分析，发现潜在入侵迹象。**
 
-📝 The Rogue Access Point Framework
+📝 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 
-🔗 [GitHub](https://github.com/wifiphisher/wifiphisher)
+🔗 [GitHub](https://github.com/mvt-project/mvt)
 
 ---
-### #51 — prowler-cloud/prowler ⭐14.8K · 🔤Python
+### #51 — prowler-cloud/prowler ⭐14.9K · 🔤Python
 
 🌏 **Prowler 是全球使用最广泛的开源云安全平台，可自动化安全与合规检查。**
 
@@ -13379,7 +13586,16 @@
 🔗 [GitHub](https://github.com/prowler-cloud/prowler)
 
 ---
-### #52 — maurosoria/dirsearch ⭐14.7K · 🔤Python
+### #52 — wifiphisher/wifiphisher ⭐14.9K · 🔤Python
+
+🌏 **恶意接入点框架。**
+
+📝 The Rogue Access Point Framework
+
+🔗 [GitHub](https://github.com/wifiphisher/wifiphisher)
+
+---
+### #53 — maurosoria/dirsearch ⭐14.8K · 🔤Python
 
 🌏 **Web 路径扫描器。**
 
@@ -13388,34 +13604,7 @@
 🔗 [GitHub](https://github.com/maurosoria/dirsearch)
 
 ---
-### #53 — OpenVPN/openvpn ⭐14.6K · 🔤C
-
-🌏 **OpenVPN 是一个开源的 VPN 守护进程。**
-
-📝 OpenVPN  is  an open source VPN daemon
-
-🔗 [GitHub](https://github.com/OpenVPN/openvpn)
-
----
-### #54 — shadow1ng/fscan ⭐14.6K · 🔤Go
-
-🌏 **一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。**
-
-📝 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
-
-🔗 [GitHub](https://github.com/shadow1ng/fscan)
-
----
-### #55 — Hacker0x01/hacker101 ⭐14.6K · 🔤SCSS
-
-🌏 **Hacker101.com 的源代码，一个免费的 Web 和移动安全在线课程。**
-
-📝 Source code for Hacker101.com - a free online web and mobile security class.
-
-🔗 [GitHub](https://github.com/Hacker0x01/hacker101)
-
----
-### #56 — Datalux/Osintgram ⭐14.5K · 🔤Python
+### #54 — Datalux/Osintgram ⭐14.7K · 🔤Python
 
 🌏 **Osintgram 是一款 Instagram 上的 OSINT 工具，提供交互式 shell 对任意账号进行分析。**
 
@@ -13424,7 +13613,34 @@
 🔗 [GitHub](https://github.com/Datalux/Osintgram)
 
 ---
-### #57 — trimstray/nginx-admins-handbook ⭐14.3K · 🔤Shell
+### #55 — OpenVPN/openvpn ⭐14.6K · 🔤C
+
+🌏 **OpenVPN 是一个开源的 VPN 守护进程。**
+
+📝 OpenVPN  is  an open source VPN daemon
+
+🔗 [GitHub](https://github.com/OpenVPN/openvpn)
+
+---
+### #56 — shadow1ng/fscan ⭐14.6K · 🔤Go
+
+🌏 **一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。**
+
+📝 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
+
+🔗 [GitHub](https://github.com/shadow1ng/fscan)
+
+---
+### #57 — Hacker0x01/hacker101 ⭐14.6K · 🔤SCSS
+
+🌏 **Hacker101.com 的源代码，一个免费的 Web 和移动安全在线课程。**
+
+📝 Source code for Hacker101.com - a free online web and mobile security class.
+
+🔗 [GitHub](https://github.com/Hacker0x01/hacker101)
+
+---
+### #58 — trimstray/nginx-admins-handbook ⭐14.3K · 🔤Shell
 
 🌏 **如何提升 NGINX 性能、安全性及其他关键配置。**
 
@@ -13433,7 +13649,7 @@
 🔗 [GitHub](https://github.com/trimstray/nginx-admins-handbook)
 
 ---
-### #58 — gophish/gophish ⭐14.2K · 🔤Go
+### #59 — gophish/gophish ⭐14.3K · 🔤Go
 
 🌏 **开源钓鱼测试工具包。**
 
@@ -13442,7 +13658,7 @@
 🔗 [GitHub](https://github.com/gophish/gophish)
 
 ---
-### #59 — evilsocket/opensnitch ⭐14.1K · 🔤Python
+### #60 — evilsocket/opensnitch ⭐14.1K · 🔤Python
 
 🌏 **OpenSnitch 是一款受 Little Snitch 启发的 GNU/Linux 交互式应用防火墙。**
 
@@ -13451,7 +13667,7 @@
 🔗 [GitHub](https://github.com/evilsocket/opensnitch)
 
 ---
-### #60 — juice-shop/juice-shop ⭐13.9K · 🔤TypeScript
+### #61 — juice-shop/juice-shop ⭐14K · 🔤TypeScript
 
 🌏 **OWASP Juice Shop：可能是最现代、最复杂的不安全 Web 应用。**
 
@@ -13460,7 +13676,7 @@
 🔗 [GitHub](https://github.com/juice-shop/juice-shop)
 
 ---
-### #61 — qazbnm456/awesome-web-security ⭐13.8K · 🔤Python
+### #62 — qazbnm456/awesome-web-security ⭐13.8K · 🔤Python
 
 🌏 **精选的 Web 安全资料与资源列表。**
 
@@ -13469,7 +13685,7 @@
 🔗 [GitHub](https://github.com/qazbnm456/awesome-web-security)
 
 ---
-### #62 — digininja/DVWA ⭐13.7K · 🔤PHP
+### #63 — digininja/DVWA ⭐13.7K · 🔤PHP
 
 🌏 **Damn Vulnerable Web Application（DVWA）——一个易受攻击的 Web 应用程序。**
 
@@ -13478,7 +13694,7 @@
 🔗 [GitHub](https://github.com/digininja/DVWA)
 
 ---
-### #63 — nmap/nmap ⭐13.6K · 🔤C
+### #64 — nmap/nmap ⭐13.7K · 🔤C
 
 🌏 **Nmap——网络映射器。官方 SVN 仓库的 GitHub 镜像。**
 
@@ -13487,7 +13703,7 @@
 🔗 [GitHub](https://github.com/nmap/nmap)
 
 ---
-### #64 — tink-crypto/tink ⭐13.5K · 🔤Java
+### #65 — tink-crypto/tink ⭐13.5K · 🔤Java
 
 🌏 **Tink 是一个多语言、跨平台的开源加密库，提供安全易用的加密 API。**
 
@@ -13496,7 +13712,7 @@
 🔗 [GitHub](https://github.com/tink-crypto/tink)
 
 ---
-### #65 — Tencent/secguide ⭐13.5K
+### #66 — Tencent/secguide ⭐13.5K
 
 🌏 **面向开发人员梳理的代码安全指南。**
 
@@ -13505,22 +13721,13 @@
 🔗 [GitHub](https://github.com/Tencent/secguide)
 
 ---
-### #66 — threat9/routersploit ⭐13.2K · 🔤Python
+### #67 — threat9/routersploit ⭐13.2K · 🔤Python
 
 🌏 **嵌入式设备漏洞利用框架。**
 
 📝 Exploitation Framework for Embedded Devices
 
 🔗 [GitHub](https://github.com/threat9/routersploit)
-
----
-### #67 — mvt-project/mvt ⭐13.1K · 🔤Python
-
-🌏 **MVT（移动验证工具包）帮助对移动设备进行取证分析，发现潜在入侵迹象。**
-
-📝 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-
-🔗 [GitHub](https://github.com/mvt-project/mvt)
 
 ---
 ### #68 — zoicware/RemoveWindowsAI ⭐13.1K · 🔤PowerShell
@@ -13532,22 +13739,22 @@
 🔗 [GitHub](https://github.com/zoicware/RemoveWindowsAI)
 
 ---
-### #69 — keeweb/keeweb ⭐13K · 🔤HTML
-
-🌏 **免费跨平台密码管理器，兼容 KeePass。**
-
-📝 Free cross-platform password manager compatible with KeePass
-
-🔗 [GitHub](https://github.com/keeweb/keeweb)
-
----
-### #70 — projectdiscovery/nuclei-templates ⭐13K · 🔤JavaScript
+### #69 — projectdiscovery/nuclei-templates ⭐13K · 🔤JavaScript
 
 🌏 **社区维护的 nuclei 引擎模板集合，用于发现安全漏洞。**
 
 📝 Community curated list of templates for the nuclei engine to find security vulnerabilities.
 
 🔗 [GitHub](https://github.com/projectdiscovery/nuclei-templates)
+
+---
+### #70 — keeweb/keeweb ⭐13K · 🔤HTML
+
+🌏 **免费跨平台密码管理器，兼容 KeePass。**
+
+📝 Free cross-platform password manager compatible with KeePass
+
+🔗 [GitHub](https://github.com/keeweb/keeweb)
 
 ---
 ### #71 — arkenfox/user.js ⭐12.9K · 🔤JavaScript
@@ -13622,7 +13829,7 @@
 🔗 [GitHub](https://github.com/future-architect/vuls)
 
 ---
-### #79 — jason5ng32/MyIP ⭐11.9K · 🔤JavaScript
+### #79 — jason5ng32/MyIP ⭐12K · 🔤JavaScript
 
 🌏 *中文描述待补充*
 
@@ -13715,7 +13922,7 @@
 🔗 [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 
 ---
-### 🥈 #2 — toeverything/AFFiNE ⭐72.8K · 🔤TypeScript
+### 🥈 #2 — toeverything/AFFiNE ⭐73K · 🔤TypeScript
 
 🌏 **超越 Notion 和 Miro 的下一代知识库，集规划、整理和创作于一体。隐私优先，开源可定制。**
 
@@ -13724,7 +13931,7 @@
 🔗 [GitHub](https://github.com/toeverything/AFFiNE)
 
 ---
-### 🥉 #3 — nocodb/nocodb ⭐65K · 🔤TypeScript
+### 🥉 #3 — nocodb/nocodb ⭐65.1K · 🔤TypeScript
 
 🌏 **🔥 免费可自托管的 Airtable 替代品**
 
@@ -13733,7 +13940,7 @@
 🔗 [GitHub](https://github.com/nocodb/nocodb)
 
 ---
-### #4 — pi-hole/pi-hole ⭐61K · 🔤Shell
+### #4 — pi-hole/pi-hole ⭐61.1K · 🔤Shell
 
 🌏 **互联网广告的黑洞**
 
@@ -13742,7 +13949,7 @@
 🔗 [GitHub](https://github.com/pi-hole/pi-hole)
 
 ---
-### #5 — penpot/penpot ⭐60.2K · 🔤Clojure
+### #5 — penpot/penpot ⭐60.4K · 🔤Clojure
 
 🌏 **Penpot：面向设计和代码协作的开源设计工具**
 
@@ -13758,7 +13965,7 @@
 <details>
 <summary>点击展开全部 40 个项目</summary>
 <br>
-### #6 — localsend/localsend ⭐92.2K · 🔤Dart
+### #6 — localsend/localsend ⭐92.8K · 🔤Dart
 
 🌏 **一款开源的跨平台 AirDrop 替代方案**
 
@@ -13767,7 +13974,7 @@
 🔗 [GitHub](https://github.com/localsend/localsend)
 
 ---
-### #7 — makeplane/plane ⭐59.6K · 🔤TypeScript
+### #7 — makeplane/plane ⭐59.9K · 🔤TypeScript
 
 🌏 **🔥 开源 Jira/Linear/Monday/ClickUp 替代方案，现代化项目管理平台。**
 
@@ -13776,7 +13983,7 @@
 🔗 [GitHub](https://github.com/makeplane/plane)
 
 ---
-### #8 — jellyfin/jellyfin ⭐57.3K · 🔤C#
+### #8 — jellyfin/jellyfin ⭐57.5K · 🔤C#
 
 🌏 **自由软件媒体系统——服务端后端和 API**
 
@@ -13785,7 +13992,7 @@
 🔗 [GitHub](https://github.com/jellyfin/jellyfin)
 
 ---
-### #9 — twentyhq/twenty ⭐57.1K · 🔤TypeScript
+### #9 — twentyhq/twenty ⭐57.5K · 🔤TypeScript
 
 🌏 **为 AI 设计的 Salesforce 开源替代方案**
 
@@ -13803,22 +14010,22 @@
 🔗 [GitHub](https://github.com/necolas/normalize.css)
 
 ---
-### #11 — iamkun/dayjs ⭐48.7K · 🔤JavaScript
-
-🌏 **⏰ Day.js 2kB 不可变日期时间库，Moment.js 的替代方案，拥有相同的现代 API**
-
-📝 ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-
-🔗 [GitHub](https://github.com/iamkun/dayjs)
-
----
-### #12 — calcom/cal.diy ⭐48.6K · 🔤TypeScript
+### #11 — calcom/cal.diy ⭐48.7K · 🔤TypeScript
 
 🌏 **适用于所有人的日程安排基础设施。**
 
 📝 Scheduling infrastructure for absolutely everyone.
 
 🔗 [GitHub](https://github.com/calcom/cal.diy)
+
+---
+### #12 — iamkun/dayjs ⭐48.7K · 🔤JavaScript
+
+🌏 **⏰ Day.js 2kB 不可变日期时间库，Moment.js 的替代方案，拥有相同的现代 API**
+
+📝 ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+
+🔗 [GitHub](https://github.com/iamkun/dayjs)
 
 ---
 ### #13 — gogs/gogs ⭐47.8K · 🔤Go
@@ -13839,7 +14046,7 @@
 🔗 [GitHub](https://github.com/discourse/discourse)
 
 ---
-### #15 — 9001/copyparty ⭐46.7K · 🔤Python
+### #15 — 9001/copyparty ⭐46.8K · 🔤Python
 
 🌏 **便携文件服务器，支持断点续传、去重、WebDAV、SFTP、FTP 等，全部在一个文件里。**
 
@@ -13857,7 +14064,7 @@
 🔗 [GitHub](https://github.com/RocketChat/Rocket.Chat)
 
 ---
-### #17 — sharkdp/fd ⭐44.5K · 🔤Rust
+### #17 — sharkdp/fd ⭐44.6K · 🔤Rust
 
 🌏 **一个简单、快速且用户友好的 'find' 替代工具**
 
@@ -13884,7 +14091,7 @@
 🔗 [GitHub](https://github.com/photoprism/photoprism)
 
 ---
-### #20 — umami-software/umami ⭐38.9K · 🔤TypeScript
+### #20 — umami-software/umami ⭐39K · 🔤TypeScript
 
 🌏 **Umami 是一个现代化、注重隐私的分析平台，是 Google Analytics、Mixpanel 和 Amplitude 的开源替代方案。**
 
@@ -13893,7 +14100,7 @@
 🔗 [GitHub](https://github.com/umami-software/umami)
 
 ---
-### #21 — AdguardTeam/AdGuardHome ⭐37K · 🔤TypeScript
+### #21 — AdguardTeam/AdGuardHome ⭐37.1K · 🔤TypeScript
 
 🌏 **全网广告和跟踪器拦截 DNS 服务器**
 
@@ -13920,7 +14127,7 @@
 🔗 [GitHub](https://github.com/filebrowser/filebrowser)
 
 ---
-### #24 — dgtlmoon/changedetection.io ⭐34.4K · 🔤Python
+### #24 — dgtlmoon/changedetection.io ⭐34.6K · 🔤Python
 
 🌏 **最优秀的网页变更检测和监控工具，支持内容变化、价格监控、补货提醒等。**
 
@@ -13929,7 +14136,7 @@
 🔗 [GitHub](https://github.com/dgtlmoon/changedetection.io)
 
 ---
-### #25 — SigNoz/signoz ⭐32.1K · 🔤TypeScript
+### #25 — SigNoz/signoz ⭐32.2K · 🔤TypeScript
 
 🌏 **开源可观测平台，原生支持 OpenTelemetry，DataDog/NewRelic 的开源替代。**
 
@@ -13938,7 +14145,7 @@
 🔗 [GitHub](https://github.com/SigNoz/signoz)
 
 ---
-### #26 — karakeep-app/karakeep ⭐29.2K · 🔤TypeScript
+### #26 — karakeep-app/karakeep ⭐29.3K · 🔤TypeScript
 
 🌏 **一个可自托管的书签收藏应用（链接、笔记和图片），支持 AI 自动标签和全文搜索。**
 
@@ -13947,7 +14154,7 @@
 🔗 [GitHub](https://github.com/karakeep-app/karakeep)
 
 ---
-### #27 — nocobase/nocobase ⭐24.3K · 🔤TypeScript
+### #27 — nocobase/nocobase ⭐24.4K · 🔤TypeScript
 
 🌏 **开源的 AI+无代码平台，用于快速构建业务系统。AI 在生产级基础设施和所见即所得界面上工作。**
 
@@ -13956,7 +14163,7 @@
 🔗 [GitHub](https://github.com/nocobase/nocobase)
 
 ---
-### #28 — navidrome/navidrome ⭐23.7K · 🔤Go
+### #28 — navidrome/navidrome ⭐23.8K · 🔤Go
 
 🌏 **你的个人流媒体服务。**
 
@@ -13965,7 +14172,7 @@
 🔗 [GitHub](https://github.com/navidrome/navidrome)
 
 ---
-### #29 — fosrl/pangolin ⭐22.8K · 🔤TypeScript
+### #29 — fosrl/pangolin ⭐22.9K · 🔤TypeScript
 
 🌏 **基于 WireGuard 的感知身份的 VPN 和隧道反向代理，用于远程访问。**
 
@@ -13983,7 +14190,7 @@
 🔗 [GitHub](https://github.com/docusealco/docuseal)
 
 ---
-### #31 — FreshRSS/FreshRSS ⭐16.1K · 🔤PHP
+### #31 — FreshRSS/FreshRSS ⭐16.2K · 🔤PHP
 
 🌏 **一个免费、可自托管的新闻聚合器。**
 
@@ -13992,7 +14199,7 @@
 🔗 [GitHub](https://github.com/FreshRSS/FreshRSS)
 
 ---
-### #32 — gotify/server ⭐15.9K · 🔤Go
+### #32 — gotify/server ⭐16K · 🔤Go
 
 🌏 **基于 WebSocket 实时发送和接收消息的简单服务器，包含精美的 Web UI。**
 
@@ -14001,22 +14208,22 @@
 🔗 [GitHub](https://github.com/gotify/server)
 
 ---
-### #33 — tteck/Proxmox ⭐15.2K · 🔤Shell
-
-🌏 **Proxmox VE 辅助脚本。**
-
-📝 Proxmox VE Helper-Scripts
-
-🔗 [GitHub](https://github.com/tteck/Proxmox)
-
----
-### #34 — documenso/documenso ⭐15.1K · 🔤TypeScript
+### #33 — documenso/documenso ⭐15.2K · 🔤TypeScript
 
 🌏 **开源的 DocuSign 替代方案。**
 
 📝 The Open Source DocuSign Alternative.
 
 🔗 [GitHub](https://github.com/documenso/documenso)
+
+---
+### #34 — tteck/Proxmox ⭐15.2K · 🔤Shell
+
+🌏 **Proxmox VE 辅助脚本。**
+
+📝 Proxmox VE Helper-Scripts
+
+🔗 [GitHub](https://github.com/tteck/Proxmox)
 
 ---
 ### #35 — streetwriters/notesnook ⭐14.6K · 🔤TypeScript
@@ -14046,7 +14253,7 @@
 🔗 [GitHub](https://github.com/wallabag/wallabag)
 
 ---
-### #38 — Kareadita/Kavita ⭐11.7K · 🔤C#
+### #38 — Kareadita/Kavita ⭐11.8K · 🔤C#
 
 🌏 **Kavita 是一个快速、功能丰富、跨平台的阅读服务器，旨在成为您的完整阅读解决方案。**
 
@@ -14064,7 +14271,7 @@
 🔗 [GitHub](https://github.com/bastienwirtz/homer)
 
 ---
-### #40 — owncast/owncast ⭐11.5K · 🔤Go
+### #40 — owncast/owncast ⭐11.6K · 🔤Go
 
 🌏 **自行掌控直播流媒体，开箱即用支持直播推流和聊天功能。**
 
@@ -14082,7 +14289,7 @@
 🔗 [GitHub](https://github.com/ekzhang/bore)
 
 ---
-### #42 — Freika/dawarich ⭐10.4K · 🔤Ruby
+### #42 — Freika/dawarich ⭐10.5K · 🔤Ruby
 
 🌏 **你最喜爱的 Google Timeline（Google 位置历史）自托管替代方案。**
 
@@ -14130,7 +14337,7 @@
 <br>
 ### ⭐ 精选推荐（Top 5 / 共 222）
 
-### 🥇 #1 — microsoft/vscode ⭐192.7K · 🔤TypeScript
+### 🥇 #1 — microsoft/vscode ⭐193.1K · 🔤TypeScript
 
 🌏 **Visual Studio Code**
 
@@ -14139,7 +14346,7 @@
 🔗 [GitHub](https://github.com/microsoft/vscode)
 
 ---
-### 🥈 #2 — massgravel/Microsoft-Activation-Scripts ⭐191.3K · 🔤Batchfile
+### 🥈 #2 — massgravel/Microsoft-Activation-Scripts ⭐192.1K · 🔤Batchfile
 
 🌏 **开源的 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge 和在线 KMS 激活方式。**
 
@@ -14148,7 +14355,7 @@
 🔗 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 ---
-### 🥉 #3 — github/gitignore ⭐175.8K
+### 🥉 #3 — github/gitignore ⭐175.9K
 
 🌏 **一套实用的 .gitignore 模板集合**
 
@@ -14157,7 +14364,7 @@
 🔗 [GitHub](https://github.com/github/gitignore)
 
 ---
-### #4 — Genymobile/scrcpy ⭐150K · 🔤C
+### #4 — Genymobile/scrcpy ⭐150.5K · 🔤C
 
 🌏 **显示和控制你的 Android 设备**
 
@@ -14166,7 +14373,7 @@
 🔗 [GitHub](https://github.com/Genymobile/scrcpy)
 
 ---
-### #5 — microsoft/PowerToys ⭐138.8K · 🔤C
+### #5 — microsoft/PowerToys ⭐139K · 🔤C
 
 🌏 **Microsoft PowerToys 是一套提升 Windows 生产力和自定义能力的实用工具集**
 
@@ -14182,11 +14389,11 @@
 <details>
 <summary>点击展开全部 217 个项目</summary>
 <br>
-### #6 — github/spec-kit ⭐138K · 🔤Python
+### #6 — github/spec-kit ⭐139K · 🔤Python
 
 🌏 **💫 帮你开启 Spec-Driven Development 的工具包**
 
-📝 💫 Toolkit to help you get started with Spec-Driven Development
+📝 💫 Toolkit to help you get started with SDD or any other process!
 
 🔗 [GitHub](https://github.com/github/spec-kit)
 
@@ -14200,7 +14407,7 @@
 🔗 [GitHub](https://github.com/golang/go)
 
 ---
-### #8 — excalidraw/excalidraw ⭐132.5K · 🔤TypeScript
+### #8 — excalidraw/excalidraw ⭐133K · 🔤TypeScript
 
 🌏 **用于绘制手绘风格图表的虚拟白板**
 
@@ -14209,7 +14416,7 @@
 🔗 [GitHub](https://github.com/excalidraw/excalidraw)
 
 ---
-### #9 — nextlevelbuilder/ui-ux-pro-max-skill ⭐129.1K · 🔤Python
+### #9 — nextlevelbuilder/ui-ux-pro-max-skill ⭐130.9K · 🔤Python
 
 🌏 **一款为构建专业级跨平台 UI/UX 提供设计智能的 AI 技能**
 
@@ -14227,7 +14434,7 @@
 🔗 [GitHub](https://github.com/react/react-native)
 
 ---
-### #11 — shadcn-ui/ui ⭐124.2K · 🔤TypeScript
+### #11 — shadcn-ui/ui ⭐124.7K · 🔤TypeScript
 
 🌏 **一套设计精美、可无障碍访问的组件库及代码分发平台，与你喜欢的框架搭配使用。**
 
@@ -14236,7 +14443,7 @@
 🔗 [GitHub](https://github.com/shadcn-ui/ui)
 
 ---
-### #12 — rustdesk/rustdesk ⭐124K · 🔤Rust
+### #12 — rustdesk/rustdesk ⭐124.6K · 🔤Rust
 
 🌏 **开源远程桌面应用，可自托管，替代 TeamViewer。**
 
@@ -14245,7 +14452,7 @@
 🔗 [GitHub](https://github.com/rustdesk/rustdesk)
 
 ---
-### #13 — electron/electron ⭐123.2K · 🔤C++
+### #13 — electron/electron ⭐123.3K · 🔤C++
 
 🌏 **使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用**
 
@@ -14254,7 +14461,7 @@
 🔗 [GitHub](https://github.com/electron/electron)
 
 ---
-### #14 — nodejs/node ⭐122K · 🔤JavaScript
+### #14 — nodejs/node ⭐122.1K · 🔤JavaScript
 
 🌏 **Node.js JavaScript 运行时 ✨🐢🚀✨**
 
@@ -14263,7 +14470,7 @@
 🔗 [GitHub](https://github.com/nodejs/node)
 
 ---
-### #15 — rust-lang/rust ⭐119K · 🔤Rust
+### #15 — rust-lang/rust ⭐119.2K · 🔤Rust
 
 🌏 **赋能每个人构建可靠高效的软件。**
 
@@ -14272,7 +14479,7 @@
 🔗 [GitHub](https://github.com/rust-lang/rust)
 
 ---
-### #16 — godotengine/godot ⭐117.5K · 🔤C++
+### #16 — godotengine/godot ⭐117.8K · 🔤C++
 
 🌏 **Godot Engine — 跨平台 2D 和 3D 游戏引擎**
 
@@ -14299,7 +14506,7 @@
 🔗 [GitHub](https://github.com/d3/d3)
 
 ---
-### #19 — tauri-apps/tauri ⭐111.2K · 🔤Rust
+### #19 — tauri-apps/tauri ⭐111.4K · 🔤Rust
 
 🌏 **使用 Web 前端构建更小巧、更快速、更安全的桌面和移动应用。**
 
@@ -14326,7 +14533,7 @@
 🔗 [GitHub](https://github.com/denoland/deno)
 
 ---
-### #22 — microsoft/terminal ⭐104.9K · 🔤C++
+### #22 — microsoft/terminal ⭐105K · 🔤C++
 
 🌏 **全新 Windows 终端与经典 Windows 控制台宿主，合为一体！**
 
@@ -14335,7 +14542,7 @@
 🔗 [GitHub](https://github.com/microsoft/terminal)
 
 ---
-### #23 — pytorch/pytorch ⭐103.1K · 🔤Python
+### #23 — pytorch/pytorch ⭐103.4K · 🔤Python
 
 🌏 **基于 Python 的张量与动态神经网络框架，支持强大的 GPU 加速**
 
@@ -14344,7 +14551,7 @@
 🔗 [GitHub](https://github.com/pytorch/pytorch)
 
 ---
-### #24 — neovim/neovim ⭐102.5K · 🔤Vim Script
+### #24 — neovim/neovim ⭐102.6K · 🔤Vim Script
 
 🌏 **专注于可扩展性和易用性的 Vim 分支**
 
@@ -14389,7 +14596,7 @@
 🔗 [GitHub](https://github.com/oven-sh/bun)
 
 ---
-### #29 — nvm-sh/nvm ⭐95.1K · 🔤Shell
+### #29 — nvm-sh/nvm ⭐95.2K · 🔤Shell
 
 🌏 **Node 版本管理器——符合 POSIX 规范的 bash 脚本，用于管理多个 Node.js 版本。**
 
@@ -14398,7 +14605,7 @@
 🔗 [GitHub](https://github.com/nvm-sh/nvm)
 
 ---
-### #30 — 3b1b/manim ⭐94.1K · 🔤Python
+### #30 — 3b1b/manim ⭐94.3K · 🔤Python
 
 🌏 **用于制作数学讲解视频的动画引擎**
 
@@ -14407,7 +14614,7 @@
 🔗 [GitHub](https://github.com/3b1b/manim)
 
 ---
-### #31 — sherlock-project/sherlock ⭐92.2K · 🔤Python
+### #31 — sherlock-project/sherlock ⭐92.9K · 🔤Python
 
 🌏 **跨社交网络通过用户名搜索社交媒体账号**
 
@@ -14416,7 +14623,7 @@
 🔗 [GitHub](https://github.com/sherlock-project/sherlock)
 
 ---
-### #32 — storybookjs/storybook ⭐91.1K · 🔤TypeScript
+### #32 — storybookjs/storybook ⭐91.2K · 🔤TypeScript
 
 🌏 **Storybook 是构建、文档化和测试 UI 组件的行业标准工作坊。**
 
@@ -14425,7 +14632,7 @@
 🔗 [GitHub](https://github.com/storybookjs/storybook)
 
 ---
-### #33 — mermaid-js/mermaid ⭐90.3K · 🔤TypeScript
+### #33 — mermaid-js/mermaid ⭐90.4K · 🔤TypeScript
 
 🌏 **像写 Markdown 一样通过文本生成流程图、时序图等图表**
 
@@ -14434,7 +14641,16 @@
 🔗 [GitHub](https://github.com/mermaid-js/mermaid)
 
 ---
-### #34 — astral-sh/uv ⭐90K · 🔤Rust
+### #34 — Leonxlnx/taste-skill ⭐90.4K · 🔤JavaScript
+
+🌏 **Taste-Skill - 给你的 AI 好的品味，阻止 AI 生成无聊、通用的垃圾内容。**
+
+📝 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+
+🔗 [GitHub](https://github.com/Leonxlnx/taste-skill)
+
+---
+### #35 — astral-sh/uv ⭐90.2K · 🔤Rust
 
 🌏 **一款用 Rust 编写的极速 Python 包与项目管理器。**
 
@@ -14443,22 +14659,13 @@
 🔗 [GitHub](https://github.com/astral-sh/uv)
 
 ---
-### #35 — syncthing/syncthing ⭐88.8K · 🔤Go
+### #36 — syncthing/syncthing ⭐89K · 🔤Go
 
 🌏 **开源持续文件同步工具**
 
 📝 Open Source Continuous File Synchronization
 
 🔗 [GitHub](https://github.com/syncthing/syncthing)
-
----
-### #36 — Leonxlnx/taste-skill ⭐88.5K · 🔤JavaScript
-
-🌏 **Taste-Skill - 给你的 AI 好的品味，阻止 AI 生成无聊、通用的垃圾内容。**
-
-📝 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-
-🔗 [GitHub](https://github.com/Leonxlnx/taste-skill)
 
 ---
 ### #37 — zed-industries/zed ⭐87.7K · 🔤Rust
@@ -14470,7 +14677,7 @@
 🔗 [GitHub](https://github.com/zed-industries/zed)
 
 ---
-### #38 — junegunn/fzf ⭐83.1K · 🔤Go
+### #38 — junegunn/fzf ⭐83.3K · 🔤Go
 
 🌏 **命令行模糊搜索工具**
 
@@ -14488,7 +14695,7 @@
 🔗 [GitHub](https://github.com/animate-css/animate.css)
 
 ---
-### #40 — jesseduffield/lazygit ⭐82.5K · 🔤Go
+### #40 — jesseduffield/lazygit ⭐82.7K · 🔤Go
 
 🌏 **Git 命令的简易终端界面**
 
@@ -14515,7 +14722,7 @@
 🔗 [GitHub](https://github.com/tonsky/FiraCode)
 
 ---
-### #43 — hoppscotch/hoppscotch ⭐80.4K · 🔤TypeScript
+### #43 — hoppscotch/hoppscotch ⭐80.5K · 🔤TypeScript
 
 🌏 **开源 API 开发生态系统，支持离线、私有部署和云，Postman/Insomnia 的开源替代。**
 
@@ -14533,22 +14740,22 @@
 🔗 [GitHub](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### #45 — ventoy/Ventoy ⭐79.4K · 🔤C
-
-🌏 **一种全新的可启动 USB 解决方案。**
-
-📝 A new bootable USB solution.
-
-🔗 [GitHub](https://github.com/ventoy/Ventoy)
-
----
-### #46 — abi/screenshot-to-code ⭐79.3K · 🔤Python
+### #45 — abi/screenshot-to-code ⭐79.7K · 🔤Python
 
 🌏 **拖入截图，自动转换为干净的代码（HTML/Tailwind/React/Vue）。**
 
 📝 Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 🔗 [GitHub](https://github.com/abi/screenshot-to-code)
+
+---
+### #46 — ventoy/Ventoy ⭐79.6K · 🔤C
+
+🌏 **一种全新的可启动 USB 解决方案。**
+
+📝 A new bootable USB solution.
+
+🔗 [GitHub](https://github.com/ventoy/Ventoy)
 
 ---
 ### #47 — coder/code-server ⭐78.2K · 🔤TypeScript
@@ -14560,7 +14767,7 @@
 🔗 [GitHub](https://github.com/coder/code-server)
 
 ---
-### #48 — ocornut/imgui ⭐76.3K · 🔤C++
+### #48 — ocornut/imgui ⭐76.4K · 🔤C++
 
 🌏 **Dear ImGui：无臃肿的 C++ 图形用户界面，依赖极少。**
 
@@ -14569,7 +14776,7 @@
 🔗 [GitHub](https://github.com/ocornut/imgui)
 
 ---
-### #49 — apache/superset ⭐74.8K · 🔤Python
+### #49 — apache/superset ⭐74.9K · 🔤Python
 
 🌏 **Apache Superset 是一个数据可视化和数据探索平台**
 
@@ -14578,7 +14785,7 @@
 🔗 [GitHub](https://github.com/apache/superset)
 
 ---
-### #50 — Eugeny/tabby ⭐74.6K · 🔤TypeScript
+### #50 — Eugeny/tabby ⭐74.7K · 🔤TypeScript
 
 🌏 **面向更现代时代的终端**
 
@@ -14587,7 +14794,16 @@
 🔗 [GitHub](https://github.com/Eugeny/tabby)
 
 ---
-### #51 — BurntSushi/ripgrep ⭐68.5K · 🔤Rust
+### #51 — tt-a1i/archify ⭐72.3K · 🔤JavaScript
+
+🌏 *中文描述待补充*
+
+📝 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+
+🔗 [GitHub](https://github.com/tt-a1i/archify)
+
+---
+### #52 — BurntSushi/ripgrep ⭐68.6K · 🔤Rust
 
 🌏 **ripgrep 递归搜索目录中的正则匹配模式，同时遵守 gitignore 规则**
 
@@ -14596,22 +14812,13 @@
 🔗 [GitHub](https://github.com/BurntSushi/ripgrep)
 
 ---
-### #52 — tw93/Mole ⭐67.8K · 🔤Shell
+### #53 — tw93/Mole ⭐68.5K · 🔤Shell
 
 🌏 **从终端清理、卸载、分析、优化和监控你的 Mac。**
 
 📝 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 
 🔗 [GitHub](https://github.com/tw93/Mole)
-
----
-### #53 — tt-a1i/archify ⭐67.6K · 🔤JavaScript
-
-🌏 *中文描述待补充*
-
-📝 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-
-🔗 [GitHub](https://github.com/tt-a1i/archify)
 
 ---
 ### #54 — LadybirdBrowser/ladybird ⭐66.3K · 🔤C++
@@ -14623,7 +14830,7 @@
 🔗 [GitHub](https://github.com/LadybirdBrowser/ladybird)
 
 ---
-### #55 — webpack/webpack ⭐65.9K · 🔤JavaScript
+### #55 — webpack/webpack ⭐66K · 🔤JavaScript
 
 🌏 **JavaScript 模块打包器，支持代码分割和多种模块类型。**
 
@@ -14632,22 +14839,22 @@
 🔗 [GitHub](https://github.com/webpack/webpack)
 
 ---
-### #56 — localstack/localstack ⭐65.1K · 🔤Python
-
-🌏 **功能完整的本地 AWS 云栈，离线开发和测试云及 Serverless 应用**
-
-📝 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
-🔗 [GitHub](https://github.com/localstack/localstack)
-
----
-### #57 — warpdotdev/warp ⭐65.1K · 🔤Rust
+### #56 — warpdotdev/warp ⭐65.2K · 🔤Rust
 
 🌏 **Warp 是一个源自终端的智能体开发环境。**
 
 📝 Warp is an agentic development environment, born out of the terminal.
 
 🔗 [GitHub](https://github.com/warpdotdev/warp)
+
+---
+### #57 — localstack/localstack ⭐65.1K · 🔤Python
+
+🌏 **功能完整的本地 AWS 云栈，离线开发和测试云及 Serverless 应用**
+
+📝 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+
+🔗 [GitHub](https://github.com/localstack/localstack)
 
 ---
 ### #58 — ryanoasis/nerd-fonts ⭐64.7K · 🔤CSS
@@ -14659,7 +14866,7 @@
 🔗 [GitHub](https://github.com/ryanoasis/nerd-fonts)
 
 ---
-### #59 — tldr-pages/tldr ⭐63.8K · 🔤Markdown
+### #59 — tldr-pages/tldr ⭐63.7K · 🔤Markdown
 
 🌏 **命令行协作速查表 📚**
 
@@ -14677,7 +14884,7 @@
 🔗 [GitHub](https://github.com/commaai/openpilot)
 
 ---
-### #61 — marktext/marktext ⭐61.6K · 🔤TypeScript
+### #61 — marktext/marktext ⭐61.9K · 🔤TypeScript
 
 🌏 **一款简洁优雅的 Markdown 编辑器，支持 Linux、macOS 和 Windows。**
 
@@ -14686,7 +14893,7 @@
 🔗 [GitHub](https://github.com/marktext/marktext)
 
 ---
-### #62 — tw93/Pake ⭐61.5K · 🔤Rust
+### #62 — tw93/Pake ⭐61.7K · 🔤Rust
 
 🌏 *中文描述待补充*
 
@@ -14695,7 +14902,7 @@
 🔗 [GitHub](https://github.com/tw93/Pake)
 
 ---
-### #63 — ghostty-org/ghostty ⭐61.3K · 🔤Zig
+### #63 — ghostty-org/ghostty ⭐61.6K · 🔤Zig
 
 🌏 **Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，使用平台原生 UI 和 GPU 加速**
 
@@ -14704,7 +14911,7 @@
 🔗 [GitHub](https://github.com/ghostty-org/ghostty)
 
 ---
-### #64 — pocketbase/pocketbase ⭐61.1K · 🔤Go
+### #64 — pocketbase/pocketbase ⭐61.2K · 🔤Go
 
 🌏 **单个文件的开源实时后端**
 
@@ -14713,7 +14920,7 @@
 🔗 [GitHub](https://github.com/pocketbase/pocketbase)
 
 ---
-### #65 — sharkdp/bat ⭐60.5K · 🔤Rust
+### #65 — sharkdp/bat ⭐60.6K · 🔤Rust
 
 🌏 **带有翅膀的 cat(1) 克隆。**
 
@@ -14749,22 +14956,22 @@
 🔗 [GitHub](https://github.com/h5bp/html5-boilerplate)
 
 ---
-### #69 — Textualize/rich ⭐57.4K · 🔤Python
-
-🌏 **Rich 是一个用于在终端中实现富文本和精美格式的 Python 库。**
-
-📝 Rich is a Python library for rich text and beautiful formatting in the terminal.
-
-🔗 [GitHub](https://github.com/Textualize/rich)
-
----
-### #70 — Raphire/Win11Debloat ⭐57.4K · 🔤PowerShell
+### #69 — Raphire/Win11Debloat ⭐57.6K · 🔤PowerShell
 
 🌏 **一个简单轻量的 PowerShell 脚本，可移除预装应用、禁用遥测并优化系统性能**
 
 📝 A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 
 🔗 [GitHub](https://github.com/Raphire/Win11Debloat)
+
+---
+### #70 — Textualize/rich ⭐57.4K · 🔤Python
+
+🌏 **Rich 是一个用于在终端中实现富文本和精美格式的 Python 库。**
+
+📝 Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+🔗 [GitHub](https://github.com/Textualize/rich)
 
 ---
 ### #71 — termux/termux-app ⭐57.2K · 🔤Java
@@ -14785,22 +14992,22 @@
 🔗 [GitHub](https://github.com/ageitgey/face_recognition)
 
 ---
-### #73 — agalwood/Motrix ⭐55.7K · 🔤TypeScript
-
-🌏 **一款功能全面的下载管理器**
-
-📝 A full-featured download manager.
-
-🔗 [GitHub](https://github.com/agalwood/Motrix)
-
----
-### #74 — Alishahryar1/free-claude-code ⭐55.5K · 🔤Python
+### #73 — Alishahryar1/free-claude-code ⭐56K · 🔤Python
 
 🌏 **在终端、VSCode 扩展或 Discord 中免费使用 Claude Code。**
 
 📝 Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
 
 🔗 [GitHub](https://github.com/Alishahryar1/free-claude-code)
+
+---
+### #74 — agalwood/Motrix ⭐55.9K · 🔤TypeScript
+
+🌏 **一款功能全面的下载管理器**
+
+📝 A full-featured download manager.
+
+🔗 [GitHub](https://github.com/agalwood/Motrix)
 
 ---
 ### #75 — PowerShell/PowerShell ⭐55.5K · 🔤C#
@@ -14812,7 +15019,7 @@
 🔗 [GitHub](https://github.com/PowerShell/PowerShell)
 
 ---
-### #76 — romkatv/powerlevel10k ⭐55.1K · 🔤Shell
+### #76 — romkatv/powerlevel10k ⭐55.2K · 🔤Shell
 
 🌏 **一个 Zsh 主题**
 
@@ -14830,16 +15037,7 @@
 🔗 [GitHub](https://github.com/maybe-finance/maybe)
 
 ---
-### #78 — JetBrains/kotlin ⭐53.4K · 🔤Kotlin
-
-🌏 **Kotlin 编程语言**
-
-📝 The Kotlin Programming Language. 
-
-🔗 [GitHub](https://github.com/JetBrains/kotlin)
-
----
-### #79 — bmad-code-org/BMAD-METHOD ⭐53.3K · 🔤Python
+### #78 — bmad-code-org/BMAD-METHOD ⭐53.5K · 🔤Python
 
 🌏 **敏捷 AI 驱动开发的突破性方法**
 
@@ -14848,7 +15046,16 @@
 🔗 [GitHub](https://github.com/bmad-code-org/BMAD-METHOD)
 
 ---
-### #80 — CherryHQ/cherry-studio ⭐52K · 🔤TypeScript
+### #79 — JetBrains/kotlin ⭐53.4K · 🔤Kotlin
+
+🌏 **Kotlin 编程语言**
+
+📝 The Kotlin Programming Language. 
+
+🔗 [GitHub](https://github.com/JetBrains/kotlin)
+
+---
+### #80 — CherryHQ/cherry-studio ⭐52.2K · 🔤TypeScript
 
 🌏 **AI 生产力工作室，集智能聊天、自主代理和 300+ 助手于一体，统一接入前沿 LLM。**
 
@@ -14875,7 +15082,7 @@
 🔗 [GitHub](https://github.com/ethereum/go-ethereum)
 
 ---
-### #83 — nlohmann/json ⭐50.6K · 🔤C++
+### #83 — nlohmann/json ⭐50.7K · 🔤C++
 
 🌏 **面向现代 C++ 的 JSON 库**
 
@@ -14884,7 +15091,7 @@
 🔗 [GitHub](https://github.com/nlohmann/json)
 
 ---
-### #84 — tldraw/tldraw ⭐50.5K · 🔤TypeScript
+### #84 — tldraw/tldraw ⭐50.6K · 🔤TypeScript
 
 🌏 **非常好用的白板无限画布 SDK**
 
@@ -14902,22 +15109,22 @@
 🔗 [GitHub](https://github.com/jgthms/bulma)
 
 ---
-### #86 — KRTirtho/spotube ⭐49.3K · 🔤Dart
-
-🌏 **🎧 开源音乐流媒体应用，支持桌面和移动端！**
-
-📝 🎧 Open source music streaming app! Available for both desktop & mobile!
-
-🔗 [GitHub](https://github.com/KRTirtho/spotube)
-
----
-### #87 — Imbad0202/academic-research-skills ⭐48.8K · 🔤Python
+### #86 — Imbad0202/academic-research-skills ⭐49.6K · 🔤Python
 
 🌏 **Claude Code 的学术研究技能：研究→写作→审阅→修改→定稿**
 
 📝 Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
 🔗 [GitHub](https://github.com/Imbad0202/academic-research-skills)
+
+---
+### #87 — KRTirtho/spotube ⭐49.3K · 🔤Dart
+
+🌏 **🎧 开源音乐流媒体应用，支持桌面和移动端！**
+
+📝 🎧 Open source music streaming app! Available for both desktop & mobile!
+
+🔗 [GitHub](https://github.com/KRTirtho/spotube)
 
 ---
 ### #88 — coreybutler/nvm-windows ⭐47.2K · 🔤Go
@@ -14938,7 +15145,7 @@
 🔗 [GitHub](https://github.com/microsoft/monaco-editor)
 
 ---
-### #90 — cli/cli ⭐46.3K · 🔤Go
+### #90 — cli/cli ⭐46.4K · 🔤Go
 
 🌏 **GitHub 官方命令行工具**
 
@@ -14956,7 +15163,7 @@
 🔗 [GitHub](https://github.com/streamlit/streamlit)
 
 ---
-### #92 — google/zx ⭐45.7K · 🔤JavaScript
+### #92 — google/zx ⭐45.8K · 🔤JavaScript
 
 🌏 **一个用于编写更优秀脚本的工具**
 
@@ -14965,7 +15172,7 @@
 🔗 [GitHub](https://github.com/google/zx)
 
 ---
-### #93 — files-community/Files ⭐45.5K · 🔤C#
+### #93 — files-community/Files ⭐45.7K · 🔤C#
 
 🌏 **一个帮助用户整理文件和文件夹的现代文件管理器。**
 
@@ -14974,7 +15181,7 @@
 🔗 [GitHub](https://github.com/files-community/Files)
 
 ---
-### #94 — charmbracelet/bubbletea ⭐45K · 🔤Go
+### #94 — charmbracelet/bubbletea ⭐45.1K · 🔤Go
 
 🌏 **一个功能强大的小型 TUI 框架 🏗**
 
@@ -14992,7 +15199,7 @@
 🔗 [GitHub](https://github.com/GitSquared/edex-ui)
 
 ---
-### #96 — spf13/cobra ⭐44.6K · 🔤Go
+### #96 — spf13/cobra ⭐44.7K · 🔤Go
 
 🌏 **现代 Go CLI 应用的指挥官框架**
 
@@ -15001,7 +15208,7 @@
 🔗 [GitHub](https://github.com/spf13/cobra)
 
 ---
-### #97 — AykutSarac/jsoncrack.com ⭐44.4K · 🔤TypeScript
+### #97 — AykutSarac/jsoncrack.com ⭐44.5K · 🔤TypeScript
 
 🌏 **✨ 创新开源可视化应用，将 JSON、YAML、XML 等数据格式转换为交互式图表。**
 
@@ -15010,7 +15217,16 @@
 🔗 [GitHub](https://github.com/AykutSarac/jsoncrack.com)
 
 ---
-### #98 — ccxt/ccxt ⭐44K · 🔤Python
+### #98 — juspay/hyperswitch ⭐44.3K · 🔤Rust
+
+🌏 **开源可组合的支付平台，支持多种支付、欺诈检测和令牌化提供商。**
+
+📝 Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
+
+🔗 [GitHub](https://github.com/juspay/hyperswitch)
+
+---
+### #99 — ccxt/ccxt ⭐44.2K · 🔤Python
 
 🌏 **支持 100+ 交易所的加密货币交易 API，提供 JavaScript/TypeScript/Python/C# 等多语言版本。**
 
@@ -15019,7 +15235,7 @@
 🔗 [GitHub](https://github.com/ccxt/ccxt)
 
 ---
-### #99 — danielmiessler/Fabric ⭐44K · 🔤Go
+### #100 — danielmiessler/Fabric ⭐44.1K · 🔤Go
 
 🌏 **Fabric 是用 AI 增强人类能力的开源框架，提供模块化的众包 AI 提示系统。**
 
@@ -15028,7 +15244,7 @@
 🔗 [GitHub](https://github.com/danielmiessler/Fabric)
 
 ---
-### #100 — babel/babel ⭐44K · 🔤TypeScript
+### #101 — babel/babel ⭐44K · 🔤TypeScript
 
 🌏 **🐠 Babel 是编写下一代 JavaScript 的编译器。**
 
@@ -15037,22 +15253,13 @@
 🔗 [GitHub](https://github.com/babel/babel)
 
 ---
-### #101 — streamich/react-use ⭐44K · 🔤TypeScript
+### #102 — streamich/react-use ⭐44K · 🔤TypeScript
 
 🌏 **React Hooks — 👍**
 
 📝 React Hooks — 👍
 
 🔗 [GitHub](https://github.com/streamich/react-use)
-
----
-### #102 — juspay/hyperswitch ⭐43.6K · 🔤Rust
-
-🌏 **开源可组合的支付平台，支持多种支付、欺诈检测和令牌化提供商。**
-
-📝 Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
-
-🔗 [GitHub](https://github.com/juspay/hyperswitch)
 
 ---
 ### #103 — gradio-app/gradio ⭐43.6K · 🔤Python
@@ -15064,16 +15271,7 @@
 🔗 [GitHub](https://github.com/gradio-app/gradio)
 
 ---
-### #104 — mingrammer/diagrams ⭐42.3K · 🔤Python
-
-🌏 **🎨 以代码即图表的方式绘制云系统架构原型**
-
-📝 :art: Diagram as Code for prototyping cloud system architectures
-
-🔗 [GitHub](https://github.com/mingrammer/diagrams)
-
----
-### #105 — sxyazi/yazi ⭐42.3K · 🔤Rust
+### #104 — sxyazi/yazi ⭐42.4K · 🔤Rust
 
 🌏 **💥 用 Rust 编写的极速终端文件管理器，基于异步 I/O。**
 
@@ -15082,7 +15280,16 @@
 🔗 [GitHub](https://github.com/sxyazi/yazi)
 
 ---
-### #106 — chatboxai/chatbox ⭐41.8K · 🔤TypeScript
+### #105 — mingrammer/diagrams ⭐42.3K · 🔤Python
+
+🌏 **🎨 以代码即图表的方式绘制云系统架构原型**
+
+📝 :art: Diagram as Code for prototyping cloud system architectures
+
+🔗 [GitHub](https://github.com/mingrammer/diagrams)
+
+---
+### #106 — chatboxai/chatbox ⭐41.9K · 🔤TypeScript
 
 🌏 **强大的 AI 客户端，支持多种 LLM 后端和本地部署。**
 
@@ -15118,7 +15325,7 @@
 🔗 [GitHub](https://github.com/vuetifyjs/vuetify)
 
 ---
-### #110 — CorentinTh/it-tools ⭐40.6K · 🔤Vue
+### #110 — CorentinTh/it-tools ⭐40.7K · 🔤Vue
 
 🌏 **面向开发者的便捷在线工具合集，体验极佳。**
 
@@ -15127,7 +15334,7 @@
 🔗 [GitHub](https://github.com/CorentinTh/it-tools)
 
 ---
-### #111 — phaserjs/phaser ⭐40.3K · 🔤JavaScript
+### #111 — phaserjs/phaser ⭐40.4K · 🔤JavaScript
 
 🌏 **有趣、免费且快速的 2D 游戏框架，支持 Canvas 和 WebGL。**
 
@@ -15136,7 +15343,7 @@
 🔗 [GitHub](https://github.com/phaserjs/phaser)
 
 ---
-### #112 — vadimdemedes/ink ⭐39.9K · 🔤TypeScript
+### #112 — vadimdemedes/ink ⭐40K · 🔤TypeScript
 
 🌏 **🌈 用于交互式命令行应用的 React 框架**
 
@@ -15145,7 +15352,7 @@
 🔗 [GitHub](https://github.com/vadimdemedes/ink)
 
 ---
-### #113 — PostHog/posthog ⭐39.9K · 🔤Python
+### #113 — PostHog/posthog ⭐40K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -15154,7 +15361,7 @@
 🔗 [GitHub](https://github.com/PostHog/posthog)
 
 ---
-### #114 — ajeetdsouza/zoxide ⭐39.6K · 🔤Rust
+### #114 — ajeetdsouza/zoxide ⭐39.7K · 🔤Rust
 
 🌏 **更智能的 cd 命令，支持所有主流 Shell。**
 
@@ -15190,16 +15397,7 @@
 🔗 [GitHub](https://github.com/lapce/lapce)
 
 ---
-### #118 — vlang/v ⭐37.9K · 🔤V
-
-🌏 **一种简单、快速、安全的编译型语言，用于开发可维护的软件，编译自身只需不到 1 秒且零库依赖。**
-
-📝 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
-
-🔗 [GitHub](https://github.com/vlang/v)
-
----
-### #119 — soxoj/maigret ⭐37.8K · 🔤Python
+### #118 — soxoj/maigret ⭐38K · 🔤Python
 
 🌏 **🕵️‍♂️ 通过用户名从 3000 多个网站收集某人的档案信息**
 
@@ -15208,7 +15406,16 @@
 🔗 [GitHub](https://github.com/soxoj/maigret)
 
 ---
-### #120 — musistudio/claude-code-router ⭐37.3K · 🔤TypeScript
+### #119 — vlang/v ⭐37.9K · 🔤V
+
+🌏 **一种简单、快速、安全的编译型语言，用于开发可维护的软件，编译自身只需不到 1 秒且零库依赖。**
+
+📝 Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
+
+🔗 [GitHub](https://github.com/vlang/v)
+
+---
+### #120 — musistudio/claude-code-router ⭐37.4K · 🔤TypeScript
 
 🌏 **将 Claude Code 作为编码基础设施的基础，自由决定与模型的交互方式。**
 
@@ -15226,7 +15433,7 @@
 🔗 [GitHub](https://github.com/Textualize/textual)
 
 ---
-### #122 — wailsapp/wails ⭐36.3K · 🔤Go
+### #122 — wailsapp/wails ⭐36.4K · 🔤Go
 
 🌏 **使用 Go 创建精美的应用**
 
@@ -15244,7 +15451,7 @@
 🔗 [GitHub](https://github.com/DayuanJiang/next-ai-draw-io)
 
 ---
-### #124 — casey/just ⭐35.9K · 🔤Rust
+### #124 — casey/just ⭐36K · 🔤Rust
 
 🌏 **🤖 一个命令运行器**
 
@@ -15271,7 +15478,7 @@
 🔗 [GitHub](https://github.com/sahat/hackathon-starter)
 
 ---
-### #127 — binwiederhier/ntfy ⭐34.3K · 🔤Go
+### #127 — binwiederhier/ntfy ⭐34.5K · 🔤Go
 
 🌏 **使用 PUT/POST 向手机或桌面发送推送通知**
 
@@ -15307,7 +15514,7 @@
 🔗 [GitHub](https://github.com/explosion/spaCy)
 
 ---
-### #131 — nicolargo/glances ⭐33.6K · 🔤Python
+### #131 — nicolargo/glances ⭐33.7K · 🔤Python
 
 🌏 **Glances 监控你的系统，GNU/Linux/BSD/Mac/Windows 下的 top/htop 替代品。**
 
@@ -15316,7 +15523,7 @@
 🔗 [GitHub](https://github.com/nicolargo/glances)
 
 ---
-### #132 — tinygrad/tinygrad ⭐33.6K · 🔤Python
+### #132 — tinygrad/tinygrad ⭐33.7K · 🔤Python
 
 🌏 **你喜欢 PyTorch？你喜欢 micrograd？你会爱 tinygrad！❤️**
 
@@ -15325,7 +15532,7 @@
 🔗 [GitHub](https://github.com/tinygrad/tinygrad)
 
 ---
-### #133 — pear-devs/pear-desktop ⭐33.5K · 🔤TypeScript
+### #133 — pear-devs/pear-desktop ⭐33.6K · 🔤TypeScript
 
 🌏 **🍐 Pear 是音乐播放器扩展**
 
@@ -15415,22 +15622,22 @@
 🔗 [GitHub](https://github.com/amix/vimrc)
 
 ---
-### #143 — Chanzhaoyu/chatgpt-web ⭐31.6K · 🔤Vue
-
-🌏 **用 Express 和 Vue3 搭建的 ChatGPT 演示网页**
-
-📝 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-
-🔗 [GitHub](https://github.com/Chanzhaoyu/chatgpt-web)
-
----
-### #144 — lbjlaq/Antigravity-Manager ⭐31.5K · 🔤Rust
+### #143 — lbjlaq/Antigravity-Manager ⭐31.8K · 🔤Rust
 
 🌏 **专业的 Antigravity 账号管理与一键切换工具，基于 Tauri v2 + React (Rust)。**
 
 📝 Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
 
 🔗 [GitHub](https://github.com/lbjlaq/Antigravity-Manager)
+
+---
+### #144 — Chanzhaoyu/chatgpt-web ⭐31.6K · 🔤Vue
+
+🌏 **用 Express 和 Vue3 搭建的 ChatGPT 演示网页**
+
+📝 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+
+🔗 [GitHub](https://github.com/Chanzhaoyu/chatgpt-web)
 
 ---
 ### #145 — jj-vcs/jj ⭐31.5K · 🔤Rust
@@ -15451,7 +15658,7 @@
 🔗 [GitHub](https://github.com/stanford-oval/storm)
 
 ---
-### #147 — fabricjs/fabric.js ⭐31.4K · 🔤TypeScript
+### #147 — fabricjs/fabric.js ⭐31.5K · 🔤TypeScript
 
 🌏 **Javascript Canvas 库，SVG 转 Canvas 解析器**
 
@@ -15613,22 +15820,22 @@
 🔗 [GitHub](https://github.com/google/python-fire)
 
 ---
-### #165 — supermemoryai/supermemory ⭐28.2K · 🔤TypeScript
-
-🌏 **一个极其快速、可扩展、可完全本地运行的内存与上下文引擎及应用，为 AI 提供 Memory API。**
-
-📝 Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
-
-🔗 [GitHub](https://github.com/supermemoryai/supermemory)
-
----
-### #166 — jarrodwatts/claude-hud ⭐28.1K · 🔤JavaScript
+### #165 — jarrodwatts/claude-hud ⭐28.2K · 🔤JavaScript
 
 🌏 **一个 Claude Code 插件，实时显示上下文使用、活跃工具、运行中的代理和待办进度。**
 
 📝 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 🔗 [GitHub](https://github.com/jarrodwatts/claude-hud)
+
+---
+### #166 — supermemoryai/supermemory ⭐28.2K · 🔤TypeScript
+
+🌏 **一个极其快速、可扩展、可完全本地运行的内存与上下文引擎及应用，为 AI 提供 Memory API。**
+
+📝 Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+
+🔗 [GitHub](https://github.com/supermemoryai/supermemory)
 
 ---
 ### #167 — pydantic/pydantic ⭐28K · 🔤Python
@@ -15658,7 +15865,7 @@
 🔗 [GitHub](https://github.com/acheong08/ChatGPT)
 
 ---
-### #170 — charmbracelet/glow ⭐27.4K · 🔤Go
+### #170 — charmbracelet/glow ⭐27.5K · 🔤Go
 
 🌏 **在 CLI 中渲染 Markdown，华丽又实用！**
 
@@ -15685,7 +15892,7 @@
 🔗 [GitHub](https://github.com/modular/modular)
 
 ---
-### #173 — Devolutions/UniGetUI ⭐26.2K · 🔤C#
+### #173 — Devolutions/UniGetUI ⭐26.3K · 🔤C#
 
 🌏 **UniGetUI：你的包管理器的图形界面，堪称包管理器的管理器。**
 
@@ -15793,7 +16000,7 @@
 🔗 [GitHub](https://github.com/vercel/pkg)
 
 ---
-### #185 — urfave/cli ⭐24.2K · 🔤Go
+### #185 — urfave/cli ⭐24.3K · 🔤Go
 
 🌏 **一个声明式、简单、快速且有趣的 Go 命令行工具构建包。**
 
@@ -15955,7 +16162,7 @@
 🔗 [GitHub](https://github.com/browserify/browserify)
 
 ---
-### #203 — idank/explainshell ⭐14.2K · 🔤Python
+### #203 — idank/explainshell ⭐14.3K · 🔤Python
 
 🌏 **将命令行参数匹配到对应的帮助文本**
 
@@ -15991,7 +16198,7 @@
 🔗 [GitHub](https://github.com/taskflow/taskflow)
 
 ---
-### #207 — yizhiyanhua-ai/fireworks-tech-graph ⭐11.5K · 🔤Python
+### #207 — yizhiyanhua-ai/fireworks-tech-graph ⭐11.6K · 🔤Python
 
 🌏 **从自然语言生成生产级 SVG+PNG 技术图表，7 种风格，支持 UML 和 AI 工作流模式。**
 
@@ -16009,7 +16216,7 @@
 🔗 [GitHub](https://github.com/EvanLi/Github-Ranking)
 
 ---
-### #209 — elder-plinius/G0DM0D3 ⭐11.2K · 🔤TypeScript
+### #209 — elder-plinius/G0DM0D3 ⭐11.3K · 🔤TypeScript
 
 🌏 **解放的 AI 聊天**
 
@@ -16027,7 +16234,7 @@
 🔗 [GitHub](https://github.com/voxel51/fiftyone)
 
 ---
-### #211 — autogluon/autogluon ⭐10.7K · 🔤Python
+### #211 — autogluon/autogluon ⭐10.8K · 🔤Python
 
 🌏 **3 行代码实现快速准确的机器学习**
 
@@ -16147,7 +16354,7 @@
 <br>
 ### ⭐ 精选推荐（Top 5 / 共 276）
 
-### 🥇 #1 — codecrafters-io/build-your-own-x ⭐548.3K · 🔤Markdown
+### 🥇 #1 — codecrafters-io/build-your-own-x ⭐549.9K · 🔤Markdown
 
 🌏 **从头复现你最爱的技术，掌握编程精髓。**
 
@@ -16156,7 +16363,7 @@
 🔗 [GitHub](https://github.com/codecrafters-io/build-your-own-x)
 
 ---
-### 🥈 #2 — sindresorhus/awesome ⭐507.9K
+### 🥈 #2 — sindresorhus/awesome ⭐511K
 
 🌏 **😎 关于各种有趣话题的精选资源清单**
 
@@ -16165,7 +16372,7 @@
 🔗 [GitHub](https://github.com/sindresorhus/awesome)
 
 ---
-### 🥉 #3 — public-apis/public-apis ⭐481.7K · 🔤Python
+### 🥉 #3 — public-apis/public-apis ⭐483.6K · 🔤Python
 
 🌏 **免费 API 的集体清单**
 
@@ -16174,7 +16381,7 @@
 🔗 [GitHub](https://github.com/public-apis/public-apis)
 
 ---
-### #4 — EbookFoundation/free-programming-books ⭐397.3K · 🔤Python
+### #4 — EbookFoundation/free-programming-books ⭐397.9K · 🔤Python
 
 🌏 **📚 免费可获取的编程书籍**
 
@@ -16183,7 +16390,7 @@
 🔗 [GitHub](https://github.com/EbookFoundation/free-programming-books)
 
 ---
-### #5 — nilbuild/developer-roadmap ⭐367.7K · 🔤TypeScript
+### #5 — nilbuild/developer-roadmap ⭐368.3K · 🔤TypeScript
 
 🌏 **交互式路线图和指南，帮助开发者规划职业成长路径。**
 
@@ -16199,7 +16406,7 @@
 <details>
 <summary>点击展开全部 271 个项目</summary>
 <br>
-### #6 — freeCodeCamp/freeCodeCamp ⭐455.8K · 🔤TypeScript
+### #6 — freeCodeCamp/freeCodeCamp ⭐456.3K · 🔤TypeScript
 
 🌏 **freeCodeCamp.org 的开源代码库与课程，免费学习数学、编程和计算机科学。**
 
@@ -16208,7 +16415,7 @@
 🔗 [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ---
-### #7 — donnemartin/system-design-primer ⭐370.8K · 🔤Python
+### #7 — donnemartin/system-design-primer ⭐372K · 🔤Python
 
 🌏 **学习设计大规模系统，准备系统设计面试，含 Anki 闪卡。**
 
@@ -16217,7 +16424,7 @@
 🔗 [GitHub](https://github.com/donnemartin/system-design-primer)
 
 ---
-### #8 — jwasham/coding-interview-university ⭐361.2K
+### #8 — jwasham/coding-interview-university ⭐362K
 
 🌏 **成为软件工程师的完整计算机科学学习计划。**
 
@@ -16226,7 +16433,7 @@
 🔗 [GitHub](https://github.com/jwasham/coding-interview-university)
 
 ---
-### #9 — vinta/awesome-python ⭐321.8K · 🔤Python
+### #9 — vinta/awesome-python ⭐323.4K · 🔤Python
 
 🌏 **精选 Python 框架、库、工具和资源清单**
 
@@ -16235,7 +16442,7 @@
 🔗 [GitHub](https://github.com/vinta/awesome-python)
 
 ---
-### #10 — awesome-selfhosted/awesome-selfhosted ⭐320.4K
+### #10 — awesome-selfhosted/awesome-selfhosted ⭐322.1K
 
 🌏 **可自托管的自由软件网络服务和 Web 应用清单**
 
@@ -16244,7 +16451,7 @@
 🔗 [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ---
-### #11 — practical-tutorials/project-based-learning ⭐283.9K · 🔤Python
+### #11 — practical-tutorials/project-based-learning ⭐284.8K · 🔤Python
 
 🌏 **基于项目的教程精选列表**
 
@@ -16262,7 +16469,7 @@
 🔗 [GitHub](https://github.com/996icu/996.ICU)
 
 ---
-### #13 — trimstray/the-book-of-secret-knowledge ⭐244.8K
+### #13 — trimstray/the-book-of-secret-knowledge ⭐246.2K
 
 🌏 **灵感清单、手册、速查表、博客、技巧、命令行和 Web 工具合集。**
 
@@ -16280,7 +16487,7 @@
 🔗 [GitHub](https://github.com/TheAlgorithms/Python)
 
 ---
-### #15 — ossu/computer-science ⭐209.2K · 🔤HTML
+### #15 — ossu/computer-science ⭐209.5K · 🔤HTML
 
 🌏 **🎓 免费自学计算机科学的路径！**
 
@@ -16289,7 +16496,7 @@
 🔗 [GitHub](https://github.com/ossu/computer-science)
 
 ---
-### #16 — tensorflow/tensorflow ⭐200.2K · 🔤C++
+### #16 — tensorflow/tensorflow ⭐200.5K · 🔤C++
 
 🌏 **面向所有人的开源机器学习框架**
 
@@ -16307,7 +16514,7 @@
 🔗 [GitHub](https://github.com/trekhleb/javascript-algorithms)
 
 ---
-### #18 — jackfrued/Python-100-Days ⭐186.7K · 🔤Jupyter Notebook
+### #18 — jackfrued/Python-100-Days ⭐186.9K · 🔤Jupyter Notebook
 
 🌏 **Python - 100天从新手到大师**
 
@@ -16316,7 +16523,7 @@
 🔗 [GitHub](https://github.com/jackfrued/Python-100-Days)
 
 ---
-### #19 — CyC2018/CS-Notes ⭐186.2K
+### #19 — CyC2018/CS-Notes ⭐186.3K
 
 🌏 **:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计**
 
@@ -16325,16 +16532,7 @@
 🔗 [GitHub](https://github.com/CyC2018/CS-Notes)
 
 ---
-### #20 — getify/You-Dont-Know-JS ⭐184.9K
-
-🌏 **关于 JavaScript 语言的系列书籍（已出版两版）。**
-
-📝 A book series (2 published editions) on the JS language.
-
-🔗 [GitHub](https://github.com/getify/You-Dont-Know-JS)
-
----
-### #21 — avelino/awesome-go ⭐184.8K · 🔤Go
+### #20 — avelino/awesome-go ⭐185.8K · 🔤Go
 
 🌏 **精选 Go 框架、库和软件清单**
 
@@ -16343,7 +16541,16 @@
 🔗 [GitHub](https://github.com/avelino/awesome-go)
 
 ---
-### #22 — 521xueweihan/HelloGitHub ⭐177.6K · 🔤Python
+### #21 — getify/You-Dont-Know-JS ⭐185K
+
+🌏 **关于 JavaScript 语言的系列书籍（已出版两版）。**
+
+📝 A book series (2 published editions) on the JS language.
+
+🔗 [GitHub](https://github.com/getify/You-Dont-Know-JS)
+
+---
+### #22 — 521xueweihan/HelloGitHub ⭐178.7K · 🔤Python
 
 🌏 **:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.**
 
@@ -16361,7 +16568,7 @@
 🔗 [GitHub](https://github.com/jlevy/the-art-of-command-line)
 
 ---
-### #24 — airbnb/javascript ⭐148.2K · 🔤JavaScript
+### #24 — airbnb/javascript ⭐148.3K · 🔤JavaScript
 
 🌏 **JavaScript 风格指南**
 
@@ -16370,7 +16577,7 @@
 🔗 [GitHub](https://github.com/airbnb/javascript)
 
 ---
-### #25 — x1xhlol/system-prompts-and-models-of-ai-tools ⭐143.7K
+### #25 — x1xhlol/system-prompts-and-models-of-ai-tools ⭐143.9K
 
 🌏 **收集各类 AI 工具的系统提示词、内部工具和 AI 模型。**
 
@@ -16379,7 +16586,7 @@
 🔗 [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ---
-### #26 — yangshun/tech-interview-handbook ⭐142.8K · 🔤TypeScript
+### #26 — yangshun/tech-interview-handbook ⭐143K · 🔤TypeScript
 
 🌏 **为忙碌的软件工程师精心整理的编程面试备考资料**
 
@@ -16415,7 +16622,7 @@
 🔗 [GitHub](https://github.com/krahets/hello-algo)
 
 ---
-### #30 — Hack-with-Github/Awesome-Hacking ⭐120.8K
+### #30 — Hack-with-Github/Awesome-Hacking ⭐121.3K
 
 🌏 **为黑客、渗透测试人员和安全研究人员整理的各类精选清单**
 
@@ -16424,7 +16631,7 @@
 🔗 [GitHub](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ---
-### #31 — microsoft/generative-ai-for-beginners ⭐120.1K · 🔤Jupyter Notebook
+### #31 — microsoft/generative-ai-for-beginners ⭐120.6K · 🔤Jupyter Notebook
 
 🌏 **21 节课，开始学习生成式 AI**
 
@@ -16433,7 +16640,7 @@
 🔗 [GitHub](https://github.com/microsoft/generative-ai-for-beginners)
 
 ---
-### #32 — justjavac/free-programming-books-zh_CN ⭐119K
+### #32 — justjavac/free-programming-books-zh_CN ⭐119.1K
 
 🌏 **:books: 免费的计算机编程类中文书籍，欢迎投稿**
 
@@ -16442,7 +16649,7 @@
 🔗 [GitHub](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ---
-### #33 — jaywcjlove/awesome-mac ⭐114.2K · 🔤Swift
+### #33 — jaywcjlove/awesome-mac ⭐114.9K · 🔤Swift
 
 🌏 **项目简介： This project is dedicated to collecting high-quality macOS soft**
 
@@ -16451,7 +16658,7 @@
 🔗 [GitHub](https://github.com/jaywcjlove/awesome-mac)
 
 ---
-### #34 — papers-we-love/papers-we-love ⭐109.9K · 🔤Shell
+### #34 — papers-we-love/papers-we-love ⭐110K · 🔤Shell
 
 🌏 **来自计算机科学社区的论文，供阅读与讨论。**
 
@@ -16496,7 +16703,7 @@
 🔗 [GitHub](https://github.com/ruanyf/weekly)
 
 ---
-### #39 — florinpop17/app-ideas ⭐97.7K
+### #39 — florinpop17/app-ideas ⭐97.8K
 
 🌏 **一系列可用于提升编程技能的应用创意集合。**
 
@@ -16505,7 +16712,7 @@
 🔗 [GitHub](https://github.com/florinpop17/app-ideas)
 
 ---
-### #40 — microsoft/Web-Dev-For-Beginners ⭐96.7K · 🔤JavaScript
+### #40 — microsoft/Web-Dev-For-Beginners ⭐96.8K · 🔤JavaScript
 
 🌏 **24 节课，12 周，成为 Web 开发者**
 
@@ -16514,25 +16721,7 @@
 🔗 [GitHub](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ---
-### #41 — ryanmcdermott/clean-code-javascript ⭐94.8K · 🔤JavaScript
-
-🌏 **为 JavaScript 适配的整洁代码概念**
-
-📝 Clean Code concepts adapted for JavaScript
-
-🔗 [GitHub](https://github.com/ryanmcdermott/clean-code-javascript)
-
----
-### #42 — iluwatar/java-design-patterns ⭐94.7K · 🔤Java
-
-🌏 **用 Java 实现的设计模式**
-
-📝 Design patterns implemented in Java
-
-🔗 [GitHub](https://github.com/iluwatar/java-design-patterns)
-
----
-### #43 — ruvnet/RuView ⭐94.5K · 🔤Rust
+### #41 — ruvnet/RuView ⭐95.1K · 🔤Rust
 
 🌏 **π RuView 将普通 WiFi 信号转化为实时空间智能和生命体征监测，无需任何摄像头。**
 
@@ -16541,7 +16730,25 @@
 🔗 [GitHub](https://github.com/ruvnet/RuView)
 
 ---
-### #44 — microsoft/ML-For-Beginners ⭐90.7K · 🔤Jupyter Notebook
+### #42 — ryanmcdermott/clean-code-javascript ⭐94.8K · 🔤JavaScript
+
+🌏 **为 JavaScript 适配的整洁代码概念**
+
+📝 Clean Code concepts adapted for JavaScript
+
+🔗 [GitHub](https://github.com/ryanmcdermott/clean-code-javascript)
+
+---
+### #43 — iluwatar/java-design-patterns ⭐94.7K · 🔤Java
+
+🌏 **用 Java 实现的设计模式**
+
+📝 Design patterns implemented in Java
+
+🔗 [GitHub](https://github.com/iluwatar/java-design-patterns)
+
+---
+### #44 — microsoft/ML-For-Beginners ⭐91K · 🔤Jupyter Notebook
 
 🌏 **12 周、26 节课、52 个测验，面向所有人的经典机器学习课程**
 
@@ -16550,7 +16757,7 @@
 🔗 [GitHub](https://github.com/microsoft/ML-For-Beginners)
 
 ---
-### #45 — ByteByteGoHq/system-design-101 ⭐89.4K
+### #45 — ByteByteGoHq/system-design-101 ⭐90K
 
 🌏 **用可视化和简单术语解释复杂系统，帮你准备系统设计面试。**
 
@@ -16559,7 +16766,7 @@
 🔗 [GitHub](https://github.com/ByteByteGoHq/system-design-101)
 
 ---
-### #46 — MunGell/awesome-for-beginners ⭐89.4K
+### #46 — MunGell/awesome-for-beginners ⭐89.6K
 
 🌏 **适合初学者的优秀项目清单**
 
@@ -16568,7 +16775,7 @@
 🔗 [GitHub](https://github.com/MunGell/awesome-for-beginners)
 
 ---
-### #47 — DopplerHQ/awesome-interview-questions ⭐84.6K
+### #47 — DopplerHQ/awesome-interview-questions ⭐84.7K
 
 🌏 **精心整理的面试题精选列表，欢迎贡献！**
 
@@ -16577,7 +16784,7 @@
 🔗 [GitHub](https://github.com/DopplerHQ/awesome-interview-questions)
 
 ---
-### #48 — bregman-arie/devops-exercises ⭐84.5K · 🔤Python
+### #48 — bregman-arie/devops-exercises ⭐84.7K · 🔤Python
 
 🌏 **Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform 等 DevOps 面试题。**
 
@@ -16595,7 +16802,7 @@
 🔗 [GitHub](https://github.com/realworld-apps/realworld)
 
 ---
-### #50 — Developer-Y/cs-video-courses ⭐83.5K
+### #50 — Developer-Y/cs-video-courses ⭐83.6K
 
 🌏 **带视频讲座的计算机科学课程清单**
 
@@ -16604,7 +16811,7 @@
 🔗 [GitHub](https://github.com/Developer-Y/cs-video-courses)
 
 ---
-### #51 — fighting41love/funNLP ⭐83.3K · 🔤Python
+### #51 — fighting41love/funNLP ⭐83.5K · 🔤Python
 
 🌏 **全面的中文 NLP 工具集、语料库、知识图谱和资源大合集**
 
@@ -16622,7 +16829,7 @@
 🔗 [GitHub](https://github.com/d2l-ai/d2l-zh)
 
 ---
-### #53 — awesomedata/awesome-public-datasets ⭐79K
+### #53 — awesomedata/awesome-public-datasets ⭐79.2K
 
 🌏 **以主题为中心的高质量开放数据集清单**
 
@@ -16640,7 +16847,7 @@
 🔗 [GitHub](https://github.com/doocs/advanced-java)
 
 ---
-### #55 — sdmg15/Best-websites-a-programmer-should-visit ⭐76.3K
+### #55 — sdmg15/Best-websites-a-programmer-should-visit ⭐76.2K
 
 🌏 **🔗 程序员应该访问的一些实用网站**
 
@@ -16649,7 +16856,7 @@
 🔗 [GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ---
-### #56 — microsoft/ai-agents-for-beginners ⭐75.2K · 🔤Jupyter Notebook
+### #56 — microsoft/ai-agents-for-beginners ⭐75.7K · 🔤Jupyter Notebook
 
 🌏 **12 节课程，带你入门构建 AI 代理。**
 
@@ -16667,7 +16874,7 @@
 🔗 [GitHub](https://github.com/enaqx/awesome-react)
 
 ---
-### #58 — josephmisiti/awesome-machine-learning ⭐74.4K · 🔤Python
+### #58 — josephmisiti/awesome-machine-learning ⭐74.5K · 🔤Python
 
 🌏 **开发框架/库：curated list of awesome Machine Learning frameworks, libraries an**
 
@@ -16676,7 +16883,7 @@
 🔗 [GitHub](https://github.com/josephmisiti/awesome-machine-learning)
 
 ---
-### #59 — binhnguyennus/awesome-scalability ⭐74.1K
+### #59 — binhnguyennus/awesome-scalability ⭐74.3K
 
 🌏 **可扩展、可靠、高性能大规模系统的设计模式**
 
@@ -16703,7 +16910,7 @@
 🔗 [GitHub](https://github.com/vuejs/awesome-vue)
 
 ---
-### #62 — fffaraz/awesome-cpp ⭐73.4K
+### #62 — fffaraz/awesome-cpp ⭐73.5K
 
 🌏 **精选 C++/C 框架、库、资源和有趣内容的清单**
 
@@ -16712,7 +16919,7 @@
 🔗 [GitHub](https://github.com/fffaraz/awesome-cpp)
 
 ---
-### #63 — prakhar1989/awesome-courses ⭐71.3K
+### #63 — prakhar1989/awesome-courses ⭐71.4K
 
 🌏 **📚 学习计算机科学的优秀大学课程清单**
 
@@ -16721,7 +16928,7 @@
 🔗 [GitHub](https://github.com/prakhar1989/awesome-courses)
 
 ---
-### #64 — microsoft/AI-For-Beginners ⭐68.7K · 🔤Jupyter Notebook
+### #64 — microsoft/AI-For-Beginners ⭐69.1K · 🔤Jupyter Notebook
 
 🌏 **12 周，24 节课，人人可学的 AI！**
 
@@ -16766,16 +16973,7 @@
 🔗 [GitHub](https://github.com/keras-team/keras)
 
 ---
-### #69 — virattt/ai-hedge-fund ⭐63.6K · 🔤Python
-
-🌏 **一个 AI 对冲基金团队**
-
-📝 An AI Hedge Fund Team
-
-🔗 [GitHub](https://github.com/virattt/ai-hedge-fund)
-
----
-### #70 — byoungd/up ⭐63.3K · 🔤JavaScript
+### #69 — byoungd/up ⭐63.9K · 🔤JavaScript
 
 🌏 *中文描述待补充*
 
@@ -16784,7 +16982,16 @@
 🔗 [GitHub](https://github.com/byoungd/up)
 
 ---
-### #71 — karpathy/nanoGPT ⭐63.2K · 🔤Python
+### #70 — virattt/ai-hedge-fund ⭐63.6K · 🔤Python
+
+🌏 **一个 AI 对冲基金团队**
+
+📝 An AI Hedge Fund Team
+
+🔗 [GitHub](https://github.com/virattt/ai-hedge-fund)
+
+---
+### #71 — karpathy/nanoGPT ⭐63.4K · 🔤Python
 
 🌏 **训练/微调中等规模 GPT 的最简单、最快的仓库。**
 
@@ -16793,16 +17000,7 @@
 🔗 [GitHub](https://github.com/karpathy/nanoGPT)
 
 ---
-### #72 — PlexPt/awesome-chatgpt-prompts-zh ⭐62.3K
-
-🌏 **ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。**
-
-📝 ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-
-🔗 [GitHub](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
-
----
-### #73 — jingyaogong/minimind ⭐61.7K · 🔤Python
+### #72 — jingyaogong/minimind ⭐62.7K · 🔤Python
 
 🌏 **🧠 2 小时从零训练 64M 参数的迷你 LLM！**
 
@@ -16811,7 +17009,16 @@
 🔗 [GitHub](https://github.com/jingyaogong/minimind)
 
 ---
-### #74 — 1c7/chinese-independent-developer ⭐61.5K
+### #73 — PlexPt/awesome-chatgpt-prompts-zh ⭐62.3K
+
+🌏 **ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。**
+
+📝 ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+🔗 [GitHub](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+
+---
+### #74 — 1c7/chinese-independent-developer ⭐61.6K
 
 🌏 **👩🏿‍💻👨🏾‍💻中国独立开发者项目列表 —— 分享大家都在做什么**
 
@@ -16820,7 +17027,7 @@
 🔗 [GitHub](https://github.com/1c7/chinese-independent-developer)
 
 ---
-### #75 — Solido/awesome-flutter ⭐61.2K · 🔤Dart
+### #75 — Solido/awesome-flutter ⭐61.3K · 🔤Dart
 
 🌏 **精选最佳 Flutter 库、工具、教程和文章。**
 
@@ -16838,7 +17045,7 @@
 🔗 [GitHub](https://github.com/xingshaocheng/architect-awesome)
 
 ---
-### #77 — rust-unofficial/awesome-rust ⭐59.4K · 🔤Rust
+### #77 — rust-unofficial/awesome-rust ⭐59.6K · 🔤Rust
 
 🌏 **精选 Rust 代码和资源清单**
 
@@ -16847,7 +17054,7 @@
 🔗 [GitHub](https://github.com/rust-unofficial/awesome-rust)
 
 ---
-### #78 — tiimgreen/github-cheat-sheet ⭐59.2K
+### #78 — tiimgreen/github-cheat-sheet ⭐59.3K
 
 🌏 **Git 和 GitHub 的酷炫功能清单。**
 
@@ -16856,52 +17063,7 @@
 🔗 [GitHub](https://github.com/tiimgreen/github-cheat-sheet)
 
 ---
-### #79 — karpathy/nanochat ⭐58.1K · 🔤Python
-
-🌏 **100 美元能买到的最好 ChatGPT。**
-
-📝 The best ChatGPT that $100 can buy.
-
-🔗 [GitHub](https://github.com/karpathy/nanochat)
-
----
-### #80 — wasabeef/awesome-android-ui ⭐57.6K
-
-🌏 **精心整理的 Android UI/UX 库精选列表**
-
-📝 A curated list of awesome Android UI/UX libraries
-
-🔗 [GitHub](https://github.com/wasabeef/awesome-android-ui)
-
----
-### #81 — Zie619/n8n-workflows ⭐56.7K · 🔤Python
-
-🌏 **我能找到的所有 n8n 工作流合集**
-
-📝 all of the workflows of n8n i could find (also from the site itself)
-
-🔗 [GitHub](https://github.com/Zie619/n8n-workflows)
-
----
-### #82 — golang-standards/project-layout ⭐56.6K · 🔤Makefile
-
-🌏 **标准 Go 项目布局**
-
-📝 Standard Go Project Layout
-
-🔗 [GitHub](https://github.com/golang-standards/project-layout)
-
----
-### #83 — firstcontributions/first-contributions ⭐56K
-
-🌏 **帮助初学者参与开源项目贡献**
-
-📝 🚀✨ Help beginners to contribute to open source projects
-
-🔗 [GitHub](https://github.com/firstcontributions/first-contributions)
-
----
-### #84 — rohitg00/ai-engineering-from-scratch ⭐55K · 🔤Python
+### #79 — rohitg00/ai-engineering-from-scratch ⭐58.5K · 🔤Python
 
 🌏 **学习它、构建它、交付它。**
 
@@ -16910,7 +17072,52 @@
 🔗 [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch)
 
 ---
-### #85 — Lordog/dive-into-llms ⭐54.8K · 🔤Jupyter Notebook
+### #80 — karpathy/nanochat ⭐58.3K · 🔤Python
+
+🌏 **100 美元能买到的最好 ChatGPT。**
+
+📝 The best ChatGPT that $100 can buy.
+
+🔗 [GitHub](https://github.com/karpathy/nanochat)
+
+---
+### #81 — wasabeef/awesome-android-ui ⭐57.7K
+
+🌏 **精心整理的 Android UI/UX 库精选列表**
+
+📝 A curated list of awesome Android UI/UX libraries
+
+🔗 [GitHub](https://github.com/wasabeef/awesome-android-ui)
+
+---
+### #82 — Zie619/n8n-workflows ⭐56.8K · 🔤Python
+
+🌏 **我能找到的所有 n8n 工作流合集**
+
+📝 all of the workflows of n8n i could find (also from the site itself)
+
+🔗 [GitHub](https://github.com/Zie619/n8n-workflows)
+
+---
+### #83 — golang-standards/project-layout ⭐56.6K · 🔤Makefile
+
+🌏 **标准 Go 项目布局**
+
+📝 Standard Go Project Layout
+
+🔗 [GitHub](https://github.com/golang-standards/project-layout)
+
+---
+### #84 — firstcontributions/first-contributions ⭐56.1K
+
+🌏 **帮助初学者参与开源项目贡献**
+
+📝 🚀✨ Help beginners to contribute to open source projects
+
+🔗 [GitHub](https://github.com/firstcontributions/first-contributions)
+
+---
+### #85 — Lordog/dive-into-llms ⭐55.3K · 🔤Jupyter Notebook
 
 🌏 **《动手学大模型》系列编程实践教程**
 
@@ -16928,7 +17135,7 @@
 🔗 [GitHub](https://github.com/byoungd/English-level-up-tips)
 
 ---
-### #87 — vsouza/awesome-ios ⭐53.4K · 🔤Swift
+### #87 — vsouza/awesome-ios ⭐53.5K · 🔤Swift
 
 🌏 **精选 iOS 生态项目清单，包括 Objective-C 和 Swift。**
 
@@ -16937,7 +17144,7 @@
 🔗 [GitHub](https://github.com/vsouza/awesome-ios)
 
 ---
-### #88 — anthropics/claude-cookbooks ⭐52.8K · 🔤Jupyter Notebook
+### #88 — anthropics/claude-cookbooks ⭐53K · 🔤Jupyter Notebook
 
 🌏 **展示一些有趣且有效的 Claude 使用方式的笔记本/食谱合集。**
 
@@ -16946,7 +17153,7 @@
 🔗 [GitHub](https://github.com/anthropics/claude-cookbooks)
 
 ---
-### #89 — VoltAgent/awesome-openclaw-skills ⭐52.7K
+### #89 — VoltAgent/awesome-openclaw-skills ⭐52.8K
 
 🌏 **精选资源列表：awesome collection of OpenClaw skills. 5,400+ skills filtered and**
 
@@ -16955,7 +17162,7 @@
 🔗 [GitHub](https://github.com/VoltAgent/awesome-openclaw-skills)
 
 ---
-### #90 — dkhamsing/open-source-ios-apps ⭐52.2K
+### #90 — dkhamsing/open-source-ios-apps ⭐52.3K
 
 🌏 **📱 协作整理的开源 iOS 应用清单**
 
@@ -16982,7 +17189,7 @@
 🔗 [GitHub](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 ---
-### #93 — charlax/professional-programming ⭐51.5K · 🔤Python
+### #93 — charlax/professional-programming ⭐51.6K · 🔤Python
 
 🌏 **面向求知软件工程师的学习资源合集**
 
@@ -16991,7 +17198,7 @@
 🔗 [GitHub](https://github.com/charlax/professional-programming)
 
 ---
-### #94 — serhii-londar/open-source-mac-os-apps ⭐50.5K
+### #94 — serhii-londar/open-source-mac-os-apps ⭐50.6K
 
 🌏 **精选资源列表：🚀 Awesome list of open source applications for macOS. https://t.**
 
@@ -17009,7 +17216,7 @@
 🔗 [GitHub](https://github.com/akullpp/awesome-java)
 
 ---
-### #96 — DovAmir/awesome-design-patterns ⭐49K
+### #96 — DovAmir/awesome-design-patterns ⭐49.1K
 
 🌏 **精选软件和架构设计模式清单**
 
@@ -17018,16 +17225,7 @@
 🔗 [GitHub](https://github.com/DovAmir/awesome-design-patterns)
 
 ---
-### #97 — nilbuild/design-patterns-for-humans ⭐48.9K
-
-🌏 **极度简化的设计模式解释**
-
-📝 An ultra-simplified explanation to design patterns
-
-🔗 [GitHub](https://github.com/nilbuild/design-patterns-for-humans)
-
----
-### #98 — lukasz-madon/awesome-remote-job ⭐48.8K
+### #97 — lukasz-madon/awesome-remote-job ⭐49K
 
 🌏 **精选远程工作和资源清单**
 
@@ -17036,7 +17234,16 @@
 🔗 [GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
 ---
-### #99 — microsoft/qlib ⭐48.7K · 🔤Python
+### #98 — nilbuild/design-patterns-for-humans ⭐48.9K
+
+🌏 **极度简化的设计模式解释**
+
+📝 An ultra-simplified explanation to design patterns
+
+🔗 [GitHub](https://github.com/nilbuild/design-patterns-for-humans)
+
+---
+### #99 — microsoft/qlib ⭐48.9K · 🔤Python
 
 🌏 **Qlib 是面向 AI 的量化投资平台，利用 AI 技术赋能量化研究。**
 
@@ -17054,16 +17261,7 @@
 🔗 [GitHub](https://github.com/brillout/awesome-react-components)
 
 ---
-### #101 — karan/Projects ⭐47.9K
-
-🌏 **📜 一个任何人都可以用任何编程语言解决的实用项目列表**
-
-📝 :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-
-🔗 [GitHub](https://github.com/karan/Projects)
-
----
-### #102 — GitHubDaily/GitHubDaily ⭐47.9K
+### #101 — GitHubDaily/GitHubDaily ⭐48K
 
 🌏 **坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具和编程资讯。**
 
@@ -17072,7 +17270,16 @@
 🔗 [GitHub](https://github.com/GitHubDaily/GitHubDaily)
 
 ---
-### #103 — dypsilon/frontend-dev-bookmarks ⭐47.5K
+### #102 — karan/Projects ⭐48K
+
+🌏 **📜 一个任何人都可以用任何编程语言解决的实用项目列表**
+
+📝 :page_with_curl: A list of practical projects that anyone can solve in any programming language.
+
+🔗 [GitHub](https://github.com/karan/Projects)
+
+---
+### #103 — dypsilon/frontend-dev-bookmarks ⭐47.6K
 
 🌏 **手动精选的前端 Web 开发者资源合集。**
 
@@ -17081,7 +17288,7 @@
 🔗 [GitHub](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ---
-### #104 — karanpratapsingh/system-design ⭐46.2K
+### #104 — karanpratapsingh/system-design ⭐46.3K
 
 🌏 **学习大规模系统设计，准备系统设计面试**
 
@@ -17144,7 +17351,7 @@
 🔗 [GitHub](https://github.com/k88hudson/git-flight-rules)
 
 ---
-### #111 — apachecn/ailearning ⭐42.5K · 🔤Python
+### #111 — apachecn/ailearning ⭐42.6K · 🔤Python
 
 🌏 **AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2**
 
@@ -17153,7 +17360,16 @@
 🔗 [GitHub](https://github.com/apachecn/ailearning)
 
 ---
-### #112 — dylanaraps/pure-bash-bible ⭐41.7K · 🔤Shell
+### #112 — ashishps1/awesome-system-design-resources ⭐41.8K · 🔤Java
+
+🌏 **使用免费资源学习系统设计概念并准备面试。**
+
+📝 Learn System Design concepts and prepare for interviews using free resources.
+
+🔗 [GitHub](https://github.com/ashishps1/awesome-system-design-resources)
+
+---
+### #113 — dylanaraps/pure-bash-bible ⭐41.7K · 🔤Shell
 
 🌏 **📖 纯 Bash 替代外部进程的脚本合集**
 
@@ -17162,22 +17378,13 @@
 🔗 [GitHub](https://github.com/dylanaraps/pure-bash-bible)
 
 ---
-### #113 — luongnv89/claude-howto ⭐41.6K · 🔤Python
+### #114 — luongnv89/claude-howto ⭐41.7K · 🔤Python
 
 🌏 **Claude Code 可视化示例指南，从基础概念到高级智能体，即贴即用。**
 
 📝 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 🔗 [GitHub](https://github.com/luongnv89/claude-howto)
-
----
-### #114 — ashishps1/awesome-system-design-resources ⭐41.5K · 🔤Java
-
-🌏 **使用免费资源学习系统设计概念并准备面试。**
-
-📝 Learn System Design concepts and prepare for interviews using free resources.
-
-🔗 [GitHub](https://github.com/ashishps1/awesome-system-design-resources)
 
 ---
 ### #115 — goabstract/Awesome-Design-Tools ⭐41.3K · 🔤JavaScript
@@ -17225,7 +17432,7 @@
 🔗 [GitHub](https://github.com/gto76/python-cheatsheet)
 
 ---
-### #120 — patchy631/ai-engineering-hub ⭐37.8K · 🔤Jupyter Notebook
+### #120 — patchy631/ai-engineering-hub ⭐38K · 🔤Jupyter Notebook
 
 🌏 **关于 LLM、RAG 和真实 AI 代理应用的深度教程。**
 
@@ -17234,7 +17441,7 @@
 🔗 [GitHub](https://github.com/patchy631/ai-engineering-hub)
 
 ---
-### #121 — alebcay/awesome-shell ⭐37.6K
+### #121 — alebcay/awesome-shell ⭐37.7K
 
 🌏 **精选命令行框架、工具包、指南和小工具清单**
 
@@ -17243,16 +17450,7 @@
 🔗 [GitHub](https://github.com/alebcay/awesome-shell)
 
 ---
-### #122 — karpathy/LLM101n ⭐37.5K
-
-🌏 **LLM101n：一起构建故事讲述者**
-
-📝 LLM101n: Let's build a Storyteller
-
-🔗 [GitHub](https://github.com/karpathy/LLM101n)
-
----
-### #123 — mouredev/Hello-Python ⭐37.5K · 🔤Python
+### #122 — mouredev/Hello-Python ⭐37.6K · 🔤Python
 
 🌏 **从零开始的 Python 编程语言课程，适合初学者。包含 100 节课、44 小时视频。**
 
@@ -17261,7 +17459,16 @@
 🔗 [GitHub](https://github.com/mouredev/Hello-Python)
 
 ---
-### #124 — ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ⭐36.9K
+### #123 — karpathy/LLM101n ⭐37.5K
+
+🌏 **LLM101n：一起构建故事讲述者**
+
+📝 LLM101n: Let's build a Storyteller
+
+🔗 [GitHub](https://github.com/karpathy/LLM101n)
+
+---
+### #124 — ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ⭐37K
 
 🌏 **500 个 AI/机器学习/深度学习/计算机视觉/NLP 项目含代码**
 
@@ -17324,7 +17531,7 @@
 🔗 [GitHub](https://github.com/kuchin/awesome-cto)
 
 ---
-### #131 — awesome-foss/awesome-sysadmin ⭐35.2K
+### #131 — awesome-foss/awesome-sysadmin ⭐35.3K
 
 🌏 **精选开源系统管理员资源清单**
 
@@ -17351,7 +17558,7 @@
 🔗 [GitHub](https://github.com/unknwon/the-way-to-go_ZH_CN)
 
 ---
-### #134 — Leey21/awesome-ai-research-writing ⭐34.2K
+### #134 — Leey21/awesome-ai-research-writing ⭐34.4K
 
 🌏 **提升你的 AI 研究写作水平，告别繁琐润色 ✨**
 
@@ -17360,7 +17567,7 @@
 🔗 [GitHub](https://github.com/Leey21/awesome-ai-research-writing)
 
 ---
-### #135 — pcottle/learnGitBranching ⭐34K · 🔤JavaScript
+### #135 — pcottle/learnGitBranching ⭐34.1K · 🔤JavaScript
 
 🌏 **交互式 Git 可视化和教程，帮助 Git 学习者掌握技能！**
 
@@ -17432,7 +17639,7 @@
 🔗 [GitHub](https://github.com/ascoders/weekly)
 
 ---
-### #143 — abhisheknaiidu/awesome-github-profile-readme ⭐31.1K
+### #143 — abhisheknaiidu/awesome-github-profile-readme ⭐31.2K
 
 🌏 **一份精心整理的 GitHub Profile 精选列表，实时更新。**
 
@@ -17495,7 +17702,7 @@
 🔗 [GitHub](https://github.com/AllThingsSmitty/css-protips)
 
 ---
-### #150 — e2b-dev/awesome-ai-agents ⭐30.1K
+### #150 — e2b-dev/awesome-ai-agents ⭐30.2K
 
 🌏 **AI 自主智能体清单**
 
@@ -17504,7 +17711,7 @@
 🔗 [GitHub](https://github.com/e2b-dev/awesome-ai-agents)
 
 ---
-### #151 — academic/awesome-datascience ⭐30K
+### #151 — academic/awesome-datascience ⭐30.1K
 
 🌏 **📝 用于学习和解决实际问题的数据科学资源仓**
 
@@ -17513,7 +17720,7 @@
 🔗 [GitHub](https://github.com/academic/awesome-datascience)
 
 ---
-### #152 — imDazui/Tvlist-awesome-m3u-m3u8 ⭐30K
+### #152 — imDazui/Tvlist-awesome-m3u-m3u8 ⭐30.1K
 
 🌏 **直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵**
 
@@ -17522,7 +17729,7 @@
 🔗 [GitHub](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 
 ---
-### #153 — wilsonfreitas/awesome-quant ⭐29.7K · 🔤HTML
+### #153 — wilsonfreitas/awesome-quant ⭐29.8K · 🔤HTML
 
 🌏 **精选量化金融库、包和资源清单**
 
@@ -17531,22 +17738,22 @@
 🔗 [GitHub](https://github.com/wilsonfreitas/awesome-quant)
 
 ---
-### #154 — aosabook/500lines ⭐29.6K · 🔤JavaScript
-
-🌏 **500 行或更少代码的项目**
-
-📝 500 Lines or Less
-
-🔗 [GitHub](https://github.com/aosabook/500lines)
-
----
-### #155 — aishwaryanr/awesome-generative-ai-guide ⭐29.5K · 🔤HTML
+### #154 — aishwaryanr/awesome-generative-ai-guide ⭐29.6K · 🔤HTML
 
 🌏 **生成式 AI 研究更新、面试资源和笔记的一站式仓库。**
 
 📝 A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 
 🔗 [GitHub](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
+---
+### #155 — aosabook/500lines ⭐29.6K · 🔤JavaScript
+
+🌏 **500 行或更少代码的项目**
+
+📝 500 Lines or Less
+
+🔗 [GitHub](https://github.com/aosabook/500lines)
 
 ---
 ### #156 — elsewhencode/project-guidelines ⭐29.5K · 🔤JavaScript
@@ -17567,25 +17774,7 @@
 🔗 [GitHub](https://github.com/viatsko/awesome-vscode)
 
 ---
-### #158 — ChristosChristofidis/awesome-deep-learning ⭐28.9K
-
-🌏 **精选深度学习教程、项目和社区清单**
-
-📝 A curated list of awesome Deep Learning tutorials, projects and communities.
-
-🔗 [GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
-
----
-### #159 — ZuzooVn/machine-learning-for-software-engineers ⭐28.9K
-
-🌏 **成为机器学习工程师的完整每日学习计划。**
-
-📝 A complete daily plan for studying to become a machine learning engineer.
-
-🔗 [GitHub](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-
----
-### #160 — systemdesign42/system-design-academy ⭐28.8K
+### #158 — systemdesign42/system-design-academy ⭐29K
 
 🌏 **想成为系统设计高手？立即加入这个通讯 👇**
 
@@ -17594,7 +17783,25 @@
 🔗 [GitHub](https://github.com/systemdesign42/system-design-academy)
 
 ---
-### #161 — posquit0/Awesome-CV ⭐28.5K · 🔤TeX
+### #159 — ChristosChristofidis/awesome-deep-learning ⭐29K
+
+🌏 **精选深度学习教程、项目和社区清单**
+
+📝 A curated list of awesome Deep Learning tutorials, projects and communities.
+
+🔗 [GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+---
+### #160 — ZuzooVn/machine-learning-for-software-engineers ⭐28.9K
+
+🌏 **成为机器学习工程师的完整每日学习计划。**
+
+📝 A complete daily plan for studying to become a machine learning engineer.
+
+🔗 [GitHub](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
+---
+### #161 — posquit0/Awesome-CV ⭐28.6K · 🔤TeX
 
 🌏 **Awesome CV 是一款助你脱颖而出的 LaTeX 简历模板。**
 
@@ -17603,16 +17810,7 @@
 🔗 [GitHub](https://github.com/posquit0/Awesome-CV)
 
 ---
-### #162 — tmrts/go-patterns ⭐28.2K · 🔤Go
-
-🌏 **Go 语言设计模式、实践和惯用法的精选列表。**
-
-📝 Curated list of Go design patterns, recipes and idioms
-
-🔗 [GitHub](https://github.com/tmrts/go-patterns)
-
----
-### #163 — sdras/awesome-actions ⭐28.2K
+### #162 — sdras/awesome-actions ⭐28.3K
 
 🌏 **一份精心整理的 GitHub Actions 精选列表。**
 
@@ -17621,22 +17819,31 @@
 🔗 [GitHub](https://github.com/sdras/awesome-actions)
 
 ---
-### #164 — jivoi/awesome-osint ⭐27.7K
+### #163 — tmrts/go-patterns ⭐28.3K · 🔤Go
 
-🌏 **😱 精选的优秀 OSINT（开源情报）资源清单**
+🌏 **Go 语言设计模式、实践和惯用法的精选列表。**
 
-📝 :scream: A curated list of amazingly awesome OSINT
+📝 Curated list of Go design patterns, recipes and idioms
 
-🔗 [GitHub](https://github.com/jivoi/awesome-osint)
+🔗 [GitHub](https://github.com/tmrts/go-patterns)
 
 ---
-### #165 — kdeldycke/awesome-falsehood ⭐27.7K
+### #164 — kdeldycke/awesome-falsehood ⭐27.7K
 
 🌏 **程序员常信的谬误。**
 
 📝 😱 Falsehoods Programmers Believe in
 
 🔗 [GitHub](https://github.com/kdeldycke/awesome-falsehood)
+
+---
+### #165 — jivoi/awesome-osint ⭐27.7K
+
+🌏 **😱 精选的优秀 OSINT（开源情报）资源清单**
+
+📝 :scream: A curated list of amazingly awesome OSINT
+
+🔗 [GitHub](https://github.com/jivoi/awesome-osint)
 
 ---
 ### #166 — sudheerj/javascript-interview-questions ⭐27.6K · 🔤JavaScript
@@ -17702,7 +17909,7 @@
 🔗 [GitHub](https://github.com/emmabostian/developer-portfolios)
 
 ---
-### #173 — NirDiamant/GenAI_Agents ⭐24.3K · 🔤Jupyter Notebook
+### #173 — NirDiamant/GenAI_Agents ⭐24.4K · 🔤Jupyter Notebook
 
 🌏 **50+ 生成式 AI 代理技术的教程和实现，从基础对话机器人到复杂多代理系统。**
 
@@ -17711,7 +17918,7 @@
 🔗 [GitHub](https://github.com/NirDiamant/GenAI_Agents)
 
 ---
-### #174 — djsime1/awesome-flipperzero ⭐24.3K
+### #174 — djsime1/awesome-flipperzero ⭐24.4K
 
 🌏 **一份针对 Flipper Zero 设备的精选资源合集。**
 
@@ -17729,7 +17936,7 @@
 🔗 [GitHub](https://github.com/ssloy/tinyrenderer)
 
 ---
-### #176 — processing/p5.js ⭐24K · 🔤JavaScript
+### #176 — processing/p5.js ⭐24.1K · 🔤JavaScript
 
 🌏 **p5.js 是一个客户端 JS 平台，让艺术家、设计师、学生和任何人都能学习编程并进行创意表达。**
 
@@ -17774,7 +17981,7 @@
 🔗 [GitHub](https://github.com/spmallick/learnopencv)
 
 ---
-### #181 — mikeroyal/Self-Hosting-Guide ⭐22.8K · 🔤Dockerfile
+### #181 — mikeroyal/Self-Hosting-Guide ⭐22.9K · 🔤Dockerfile
 
 🌏 **自托管指南：学习在本地托管和管理软件应用，包括云、LLM、自动化等。**
 
@@ -17819,7 +18026,7 @@
 🔗 [GitHub](https://github.com/izackwu/TeachYourselfCS-CN)
 
 ---
-### #186 — judasn/IntelliJ-IDEA-Tutorial ⭐22.1K
+### #186 — judasn/IntelliJ-IDEA-Tutorial ⭐22K
 
 🌏 **IntelliJ IDEA 简体中文专题教程**
 
@@ -17828,7 +18035,7 @@
 🔗 [GitHub](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 
 ---
-### #187 — anderspitman/awesome-tunneling ⭐21.8K · 🔤Python
+### #187 — anderspitman/awesome-tunneling ⭐21.9K · 🔤Python
 
 🌏 **ngrok、Cloudflare Tunnel、Tailscale 等隧道工具的替代品清单，聚焦自托管。**
 
@@ -17882,16 +18089,7 @@
 🔗 [GitHub](https://github.com/thangchung/awesome-dotnet-core)
 
 ---
-### #193 — matiassingers/awesome-readme ⭐21K
-
-🌏 **精选优秀 README 清单**
-
-📝 A curated list of awesome READMEs
-
-🔗 [GitHub](https://github.com/matiassingers/awesome-readme)
-
----
-### #194 — stefan-jansen/machine-learning-for-trading ⭐20.9K · 🔤Jupyter Notebook
+### #193 — stefan-jansen/machine-learning-for-trading ⭐21.1K · 🔤Jupyter Notebook
 
 🌏 *中文描述待补充*
 
@@ -17900,7 +18098,16 @@
 🔗 [GitHub](https://github.com/stefan-jansen/machine-learning-for-trading)
 
 ---
-### #195 — EthicalML/awesome-production-machine-learning ⭐20.9K
+### #194 — matiassingers/awesome-readme ⭐21K
+
+🌏 **精选优秀 README 清单**
+
+📝 A curated list of awesome READMEs
+
+🔗 [GitHub](https://github.com/matiassingers/awesome-readme)
+
+---
+### #195 — EthicalML/awesome-production-machine-learning ⭐21K
 
 🌏 **用于部署、监控、版本管理和扩展机器学习的开源库清单**
 
@@ -17909,7 +18116,7 @@
 🔗 [GitHub](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ---
-### 🆕 #196 — birobirobiro/awesome-shadcn-ui ⭐20.5K · 🔤TypeScript
+### 🆕 #196 — birobirobiro/awesome-shadcn-ui ⭐20.6K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -17918,7 +18125,7 @@
 🔗 [GitHub](https://github.com/birobirobiro/awesome-shadcn-ui)
 
 ---
-### #197 — liyupi/ai-guide ⭐20.2K · 🔤JavaScript
+### #197 — liyupi/ai-guide ⭐20.5K · 🔤JavaScript
 
 🌏 **程序员鱼皮的 AI 资源大全，含 Vibe Coding 教程、OpenClaw 教程、大模型玩法、Prompt 提示词大全、AI 编程教程和 AI 产品变现指南。**
 
@@ -18026,7 +18233,7 @@
 🔗 [GitHub](https://github.com/rasbt/deeplearning-models)
 
 ---
-### #209 — chiphuyen/aie-book ⭐17.5K · 🔤Jupyter Notebook
+### #209 — chiphuyen/aie-book ⭐17.6K · 🔤Jupyter Notebook
 
 🌏 **[WIP] AI 工程师资源，以及《AI Engineering》一书的配套材料。**
 
@@ -18035,22 +18242,22 @@
 🔗 [GitHub](https://github.com/chiphuyen/aie-book)
 
 ---
-### #210 — dair-ai/ML-YouTube-Courses ⭐17.4K
-
-🌏 **📺 发现 YouTube 上最新的机器学习/AI 课程。**
-
-📝 📺 Discover the latest machine learning / AI courses on YouTube.
-
-🔗 [GitHub](https://github.com/dair-ai/ML-YouTube-Courses)
-
----
-### #211 — vitalysim/Awesome-Hacking-Resources ⭐17.4K
+### #210 — vitalysim/Awesome-Hacking-Resources ⭐17.5K
 
 🌏 **助你更上一层楼的黑客/渗透测试资源合集！**
 
 📝 A collection of hacking / penetration testing resources to make you better!
 
 🔗 [GitHub](https://github.com/vitalysim/Awesome-Hacking-Resources)
+
+---
+### #211 — dair-ai/ML-YouTube-Courses ⭐17.4K
+
+🌏 **📺 发现 YouTube 上最新的机器学习/AI 课程。**
+
+📝 📺 Discover the latest machine learning / AI courses on YouTube.
+
+🔗 [GitHub](https://github.com/dair-ai/ML-YouTube-Courses)
 
 ---
 ### #212 — cjbarber/ToolsOfTheTrade ⭐17.1K
@@ -18062,7 +18269,16 @@
 🔗 [GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
 
 ---
-### #213 — rubocop/ruby-style-guide ⭐16.5K
+### #213 — awesome-dsh-plugin/awesome-dsh-plugin ⭐17K · 🔤JavaScript
+
+🌏 *中文描述待补充*
+
+📝 A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+
+🔗 [GitHub](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+
+---
+### #214 — rubocop/ruby-style-guide ⭐16.5K
 
 🌏 **社区驱动的 Ruby 编码风格指南**
 
@@ -18071,7 +18287,7 @@
 🔗 [GitHub](https://github.com/rubocop/ruby-style-guide)
 
 ---
-### #214 — bharathgs/Awesome-pytorch-list ⭐16.5K
+### #215 — bharathgs/Awesome-pytorch-list ⭐16.5K
 
 🌏 **AI comprehensive list of pytorch related content on github,such as different models**
 
@@ -18080,22 +18296,13 @@
 🔗 [GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
 
 ---
-### #215 — leandromoreira/digital_video_introduction ⭐16.3K · 🔤Jupyter Notebook
+### #216 — leandromoreira/digital_video_introduction ⭐16.3K · 🔤Jupyter Notebook
 
 🌏 **视频技术动手入门：图像、视频、编解码器 (av1, vp9, h265) 等。**
 
 📝 A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 
 🔗 [GitHub](https://github.com/leandromoreira/digital_video_introduction)
-
----
-### #216 — awesome-dsh-plugin/awesome-dsh-plugin ⭐16.3K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-
-🔗 [GitHub](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 
 ---
 ### #217 — EvoLinkAI/awesome-gpt-image-2-API-and-Prompts ⭐16K · 🔤Python
@@ -18116,7 +18323,7 @@
 🔗 [GitHub](https://github.com/architecture-decision-record/architecture-decision-record)
 
 ---
-### #219 — zhuima/awesome-cloudflare ⭐15.4K
+### #219 — zhuima/awesome-cloudflare ⭐15.5K
 
 🌏 *中文描述待补充*
 
@@ -18152,7 +18359,7 @@
 🔗 [GitHub](https://github.com/Sairyss/domain-driven-hexagon)
 
 ---
-### #223 — oxnr/awesome-bigdata ⭐14.6K
+### #223 — oxnr/awesome-bigdata ⭐14.7K
 
 🌏 **精选大数据框架和资源清单**
 
@@ -18233,7 +18440,7 @@
 🔗 [GitHub](https://github.com/rigtorp/awesome-modern-cpp)
 
 ---
-### #232 — kmario23/deep-learning-drizzle ⭐12.9K · 🔤HTML
+### #232 — kmario23/deep-learning-drizzle ⭐13K · 🔤HTML
 
 🌏 **通过精彩讲座深度学习深度学习、强化学习、机器学习、CV 和 NLP！**
 
@@ -18242,7 +18449,7 @@
 🔗 [GitHub](https://github.com/kmario23/deep-learning-drizzle)
 
 ---
-### #233 — rasbt/python-machine-learning-book ⭐12.6K · 🔤Jupyter Notebook
+### #233 — rasbt/python-machine-learning-book ⭐12.7K · 🔤Jupyter Notebook
 
 🌏 **《Python Machine Learning（第1版）》书籍代码仓库和信息资源**
 
@@ -18296,7 +18503,7 @@
 🔗 [GitHub](https://github.com/mehdihadeli/awesome-software-architecture)
 
 ---
-### 🆕 #239 — unicodeveloper/awesome-nextjs ⭐11.1K
+### #239 — unicodeveloper/awesome-nextjs ⭐11.1K
 
 🌏 *中文描述待补充*
 
@@ -18305,7 +18512,7 @@
 🔗 [GitHub](https://github.com/unicodeveloper/awesome-nextjs)
 
 ---
-### #240 — KalyanKS-NLP/llm-engineer-toolkit ⭐10.8K
+### #240 — KalyanKS-NLP/llm-engineer-toolkit ⭐10.9K
 
 🌏 **分类整理的 120+ LLM 库清单**
 
@@ -18359,22 +18566,22 @@
 🔗 [GitHub](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
 
 ---
-### #246 — gibbok/typescript-book ⭐10.3K · 🔤JavaScript
-
-🌏 **简洁 TypeScript 书籍：TypeScript 高效开发简明指南，免费开源。**
-
-📝 The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-
-🔗 [GitHub](https://github.com/gibbok/typescript-book)
-
----
-### #247 — ZeroLu/awesome-nanobanana-pro ⭐10.3K
+### #246 — ZeroLu/awesome-nanobanana-pro ⭐10.3K
 
 🌏 *中文描述待补充*
 
 📝 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI i
 
 🔗 [GitHub](https://github.com/ZeroLu/awesome-nanobanana-pro)
+
+---
+### #247 — gibbok/typescript-book ⭐10.3K · 🔤JavaScript
+
+🌏 **简洁 TypeScript 书籍：TypeScript 高效开发简明指南，免费开源。**
+
+📝 The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
+
+🔗 [GitHub](https://github.com/gibbok/typescript-book)
 
 ---
 ### #248 — swyxio/spark-joy ⭐9.8K
@@ -18422,16 +18629,7 @@
 🔗 [GitHub](https://github.com/jamwithai/production-agentic-rag-course)
 
 ---
-### #253 — davidsonfellipe/awesome-wpo ⭐8.9K
-
-🌏 **精选 Web 性能优化资源清单**
-
-📝 A curated list of Web Performance Optimization. 
-
-🔗 [GitHub](https://github.com/davidsonfellipe/awesome-wpo)
-
----
-### #254 — ai-boost/awesome-prompts ⭐8.9K
+### #253 — ai-boost/awesome-prompts ⭐8.9K
 
 🌏 **精选资源列表：Curated list of chatgpt prompts from the top-rated GPTs in the GP**
 
@@ -18440,7 +18638,16 @@
 🔗 [GitHub](https://github.com/ai-boost/awesome-prompts)
 
 ---
-### #255 — dair-ai/ML-Papers-Explained ⭐8.6K
+### #254 — davidsonfellipe/awesome-wpo ⭐8.9K
+
+🌏 **精选 Web 性能优化资源清单**
+
+📝 A curated list of Web Performance Optimization. 
+
+🔗 [GitHub](https://github.com/davidsonfellipe/awesome-wpo)
+
+---
+### #255 — dair-ai/ML-Papers-Explained ⭐8.8K
 
 🌏 **机器学习关键概念的解释**
 
@@ -18485,7 +18692,7 @@
 🔗 [GitHub](https://github.com/facebookresearch/dino)
 
 ---
-### #260 — HenryNdubuaku/maths-cs-ai-compendium ⭐7.5K · 🔤TypeScript
+### #260 — HenryNdubuaku/maths-cs-ai-compendium ⭐7.6K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -18566,7 +18773,7 @@
 🔗 [GitHub](https://github.com/Axorax/awesome-free-apps)
 
 ---
-### #269 — mahseema/awesome-ai-tools ⭐6.2K
+### #269 — mahseema/awesome-ai-tools ⭐6.3K
 
 🌏 **人工智能顶级工具精选列表。**
 
@@ -18593,7 +18800,7 @@
 🔗 [GitHub](https://github.com/piotrkulpinski/openalternative)
 
 ---
-### #272 — tensorchord/Awesome-LLMOps ⭐5.9K · 🔤Shell
+### #272 — tensorchord/Awesome-LLMOps ⭐6K · 🔤Shell
 
 🌏 **精选最佳 LLMOps 工具清单**
 
@@ -18649,7 +18856,7 @@
 以下项目暂未自动分类，请手动指定所属类别。
 
 <details>
-<summary>点击查看 74 个未分类项目</summary>
+<summary>点击查看 76 个未分类项目</summary>
 <br>
 ### msitarzewski/agency-agents ⭐107.9K · 🔤Shell
 
@@ -18660,13 +18867,22 @@
 🔗 [GitHub](https://github.com/msitarzewski/agency-agents)
 
 ---
-### blader/humanizer ⭐50.3K · 🔤Python
+### blader/humanizer ⭐52.2K · 🔤Python
 
 🌏 *中文描述待补充*
 
 📝 Agent skill that removes signs of AI-generated writing from text
 
 🔗 [GitHub](https://github.com/blader/humanizer)
+
+---
+### 🆕 team-spotube/spotube ⭐49.5K · 🔤Dart
+
+🌏 *中文描述待补充*
+
+📝 🎧 Open source music streaming app! Available for both desktop & mobile!
+
+🔗 [GitHub](https://github.com/team-spotube/spotube)
 
 ---
 ### moment/moment ⭐47.9K · 🔤JavaScript
@@ -18678,13 +18894,31 @@
 🔗 [GitHub](https://github.com/moment/moment)
 
 ---
-### SimplifyJobs/Summer2027-Internships ⭐47.5K · 🔤Python
+### SimplifyJobs/Summer2027-Internships ⭐47.7K · 🔤Python
 
 🌏 *中文描述待补充*
 
 📝 Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 
 🔗 [GitHub](https://github.com/SimplifyJobs/Summer2027-Internships)
+
+---
+### 🆕 bilawalsidhu/gods-eye-view ⭐43.6K · 🔤JavaScript
+
+🌏 *中文描述待补充*
+
+📝 A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+🔗 [GitHub](https://github.com/bilawalsidhu/gods-eye-view)
+
+---
+### cathrynlavery/diagram-design ⭐42.5K · 🔤HTML
+
+🌏 *中文描述待补充*
+
+📝 Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+🔗 [GitHub](https://github.com/cathrynlavery/diagram-design)
 
 ---
 ### HKUDS/CLI-Anything ⭐42.2K · 🔤Python
@@ -18696,31 +18930,13 @@
 🔗 [GitHub](https://github.com/HKUDS/CLI-Anything)
 
 ---
-### cathrynlavery/diagram-design ⭐41.4K · 🔤HTML
-
-🌏 *中文描述待补充*
-
-📝 Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-
-🔗 [GitHub](https://github.com/cathrynlavery/diagram-design)
-
----
-### schollz/croc ⭐40.4K · 🔤Go
+### schollz/croc ⭐40.5K · 🔤Go
 
 🌏 *中文描述待补充*
 
 📝 Easily and securely send things from one computer to another :crocodile: :package:
 
 🔗 [GitHub](https://github.com/schollz/croc)
-
----
-### 🆕 bilawalsidhu/gods-eye-view ⭐38.7K · 🔤JavaScript
-
-🌏 *中文描述待补充*
-
-📝 A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
-🔗 [GitHub](https://github.com/bilawalsidhu/gods-eye-view)
 
 ---
 ### denysdovhan/wtfjs ⭐37.7K · 🔤JavaScript
@@ -18732,7 +18948,16 @@
 🔗 [GitHub](https://github.com/denysdovhan/wtfjs)
 
 ---
-### block/buzz ⭐33.7K · 🔤Rust
+### 🆕 gitroomhq/postiz-app ⭐36.4K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 📨 The ultimate agentic social media scheduling tool 🤖
+
+🔗 [GitHub](https://github.com/gitroomhq/postiz-app)
+
+---
+### block/buzz ⭐34.9K · 🔤Rust
 
 🌏 *中文描述待补充*
 
@@ -18741,7 +18966,7 @@
 🔗 [GitHub](https://github.com/block/buzz)
 
 ---
-### openai/codex-plugin-cc ⭐33.3K · 🔤JavaScript
+### openai/codex-plugin-cc ⭐33.6K · 🔤JavaScript
 
 🌏 *中文描述待补充*
 
@@ -18750,7 +18975,7 @@
 🔗 [GitHub](https://github.com/openai/codex-plugin-cc)
 
 ---
-### alchaincyf/nuwa-skill ⭐32.9K · 🔤Python
+### alchaincyf/nuwa-skill ⭐33.2K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -18768,7 +18993,7 @@
 🔗 [GitHub](https://github.com/open-mmlab/mmdetection)
 
 ---
-### sunface/rust-course ⭐30.9K · 🔤Rust
+### sunface/rust-course ⭐31K · 🔤Rust
 
 🌏 **什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book**
 
@@ -18786,7 +19011,7 @@
 🔗 [GitHub](https://github.com/hpcaitech/Open-Sora)
 
 ---
-### 🆕 foundation/yeti ⭐29.8K · 🔤JavaScript
+### foundation/yeti ⭐29.8K · 🔤JavaScript
 
 🌏 *中文描述待补充*
 
@@ -18795,7 +19020,7 @@
 🔗 [GitHub](https://github.com/foundation/yeti)
 
 ---
-### OpenBMB/MiniCPM-V ⭐26.4K · 🔤Python
+### OpenBMB/MiniCPM-V ⭐26.5K · 🔤Python
 
 🌏 **AI Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phon**
 
@@ -18804,13 +19029,22 @@
 🔗 [GitHub](https://github.com/OpenBMB/MiniCPM-V)
 
 ---
-### yuaotian/go-cursor-help ⭐26.2K · 🔤Shell
+### yuaotian/go-cursor-help ⭐26.1K · 🔤Shell
 
 🌏 *中文描述待补充*
 
 📝 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 
 🔗 [GitHub](https://github.com/yuaotian/go-cursor-help)
+
+---
+### 🆕 NandhaKishorM/laya ⭐26K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
+
+🔗 [GitHub](https://github.com/NandhaKishorM/laya)
 
 ---
 ### microsoft/JARVIS ⭐25.3K · 🔤Python
@@ -18822,7 +19056,7 @@
 🔗 [GitHub](https://github.com/microsoft/JARVIS)
 
 ---
-### EveryInc/compound-engineering-plugin ⭐25.2K · 🔤TypeScript
+### EveryInc/compound-engineering-plugin ⭐25.3K · 🔤TypeScript
 
 🌏 *中文描述待补充*
 
@@ -18858,7 +19092,7 @@
 🔗 [GitHub](https://github.com/AlDanial/cloc)
 
 ---
-### amusi/CVPR2026-Papers-with-Code ⭐22.8K
+### amusi/CVPR2026-Papers-with-Code ⭐22.9K
 
 🌏 **项目简介：CVPR 2026 论文和开源项目合集**
 
@@ -18867,7 +19101,7 @@
 🔗 [GitHub](https://github.com/amusi/CVPR2026-Papers-with-Code)
 
 ---
-### 🆕 steipete/CodexBar ⭐21.7K · 🔤Swift
+### steipete/CodexBar ⭐22K · 🔤Swift
 
 🌏 *中文描述待补充*
 
@@ -18930,7 +19164,7 @@
 🔗 [GitHub](https://github.com/ImageMagick/ImageMagick)
 
 ---
-### 🆕 chatfire-AI/huobao-drama ⭐15.3K · 🔤Vue
+### chatfire-AI/huobao-drama ⭐15.5K · 🔤Vue
 
 🌏 *中文描述待补充*
 
@@ -18966,7 +19200,7 @@
 🔗 [GitHub](https://github.com/hindupuravinash/the-gan-zoo)
 
 ---
-### MiniMax-AI/skills ⭐13.6K · 🔤C#
+### MiniMax-AI/skills ⭐13.7K · 🔤C#
 
 🌏 **（暂无描述）**
 
@@ -18975,7 +19209,7 @@
 🔗 [GitHub](https://github.com/MiniMax-AI/skills)
 
 ---
-### modelscope/DiffSynth-Studio ⭐13.1K · 🔤Python
+### modelscope/DiffSynth-Studio ⭐13.2K · 🔤Python
 
 🌏 **AI Enjoy the magic of Diffusion models!**
 
@@ -19020,7 +19254,7 @@
 🔗 [GitHub](https://github.com/spencermountain/compromise)
 
 ---
-### Tongyi-MAI/Z-Image ⭐12K · 🔤Python
+### Tongyi-MAI/Z-Image ⭐12.1K · 🔤Python
 
 🌏 **（暂无描述）**
 
@@ -19029,16 +19263,7 @@
 🔗 [GitHub](https://github.com/Tongyi-MAI/Z-Image)
 
 ---
-### krillinai/OpenCreator ⭐11.8K · 🔤TypeScript
-
-🌏 *中文描述待补充*
-
-📝 Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
-
-🔗 [GitHub](https://github.com/krillinai/OpenCreator)
-
----
-### pathwaycom/arc-task-gen ⭐11.2K · 🔤Python
+### pathwaycom/arc-task-gen ⭐11.1K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -19065,6 +19290,15 @@
 🔗 [GitHub](https://github.com/BehiSecc/awesome-claude-skills)
 
 ---
+### MiniMax-AI/MiniMax-H3 ⭐9.2K · 🔤Python
+
+🌏 *中文描述待补充*
+
+📝 *无英文描述*
+
+🔗 [GitHub](https://github.com/MiniMax-AI/MiniMax-H3)
+
+---
 ### ml-explore/mlx-examples ⭐9K · 🔤Python
 
 🌏 **开发框架/库：Examples in the MLX framework**
@@ -19072,15 +19306,6 @@
 📝 Examples in the MLX framework
 
 🔗 [GitHub](https://github.com/ml-explore/mlx-examples)
-
----
-### MiniMax-AI/MiniMax-H3 ⭐9K · 🔤Python
-
-🌏 *中文描述待补充*
-
-📝 *无英文描述*
-
-🔗 [GitHub](https://github.com/MiniMax-AI/MiniMax-H3)
 
 ---
 ### FoundationVision/VAR ⭐8.7K · 🔤Jupyter Notebook
@@ -19101,7 +19326,7 @@
 🔗 [GitHub](https://github.com/lucidrains/imagen-pytorch)
 
 ---
-### meituan-longcat/LongCat-Video ⭐8.3K · 🔤Python
+### meituan-longcat/LongCat-Video ⭐8.4K · 🔤Python
 
 🌏 *中文描述待补充*
 
@@ -19164,6 +19389,15 @@
 🔗 [GitHub](https://github.com/vladmandic/sdnext)
 
 ---
+### 🆕 basketikun/infinite-canvas ⭐7.1K · 🔤TypeScript
+
+🌏 *中文描述待补充*
+
+📝 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
+
+🔗 [GitHub](https://github.com/basketikun/infinite-canvas)
+
+---
 ### htdt/godogen ⭐7K · 🔤Python
 
 🌏 *中文描述待补充*
@@ -19182,15 +19416,6 @@
 🔗 [GitHub](https://github.com/NVlabs/stylegan3)
 
 ---
-### 🆕 basketikun/infinite-canvas ⭐6.8K · 🔤TypeScript
-
-🌏 *中文描述待补充*
-
-📝 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
-
-🔗 [GitHub](https://github.com/basketikun/infinite-canvas)
-
----
 ### kijai/ComfyUI-WanVideoWrapper ⭐6.7K · 🔤Python
 
 🌏 **（暂无描述）**
@@ -19200,13 +19425,22 @@
 🔗 [GitHub](https://github.com/kijai/ComfyUI-WanVideoWrapper)
 
 ---
-### 11cafe/jaaz ⭐6.6K · 🔤TypeScript
+### 11cafe/jaaz ⭐6.7K · 🔤TypeScript
 
 🌏 **项目简介：world's first open-source multimodal creative assistant  This is **
 
 📝 The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
 
 🔗 [GitHub](https://github.com/11cafe/jaaz)
+
+---
+### TMElyralab/MuseTalk ⭐6.6K · 🔤Python
+
+🌏 **AI MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting**
+
+📝 MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
+
+🔗 [GitHub](https://github.com/TMElyralab/MuseTalk)
 
 ---
 ### zhangqianhui/AdversarialNetsPapers ⭐6.6K
@@ -19216,15 +19450,6 @@
 📝 Awesome paper list with code about generative adversarial nets 
 
 🔗 [GitHub](https://github.com/zhangqianhui/AdversarialNetsPapers)
-
----
-### TMElyralab/MuseTalk ⭐6.5K · 🔤Python
-
-🌏 **AI MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting**
-
-📝 MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
-
-🔗 [GitHub](https://github.com/TMElyralab/MuseTalk)
 
 ---
 ### open-mmlab/mmcv ⭐6.4K · 🔤Python
