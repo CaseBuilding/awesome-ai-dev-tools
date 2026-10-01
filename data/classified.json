@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T04:44:30.413Z",
+  "last_updated": "2026-10-01T02:39:27.015Z",
   "classified": {
     "ai-coding-agent": [
       {
@@ -24661,6 +24661,25 @@
         ]
       },
       {
+        "full_name": "opencv/opencv",
+        "name": "opencv",
+        "description": "Open Source Computer Vision Library",
+        "topics": [
+          "c-plus-plus",
+          "computer-vision",
+          "deep-learning",
+          "image-processing",
+          "opencv"
+        ],
+        "stars": 91013,
+        "language": "C++",
+        "html_url": "https://github.com/opencv/opencv",
+        "_source": "wildcard",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "OpenCut-app/OpenCut",
         "name": "OpenCut",
         "description": "The open-source CapCut alternative",
@@ -24673,25 +24692,6 @@
         "language": "TypeScript",
         "html_url": "https://github.com/OpenCut-app/OpenCut",
         "_source": "desc_search",
-        "_confidence": "high",
-        "_overridden": true,
-        "_tags": []
-      },
-      {
-        "full_name": "opencv/opencv",
-        "name": "opencv",
-        "description": "Open Source Computer Vision Library",
-        "topics": [
-          "c-plus-plus",
-          "computer-vision",
-          "deep-learning",
-          "image-processing",
-          "opencv"
-        ],
-        "stars": 90191,
-        "language": "C++",
-        "html_url": "https://github.com/opencv/opencv",
-        "_source": "wildcard",
         "_confidence": "high",
         "_overridden": true,
         "_tags": []
@@ -31011,7 +31011,7 @@
           "tailwindcss",
           "utility-classes"
         ],
-        "stars": 96087,
+        "stars": 97754,
         "language": "TypeScript",
         "html_url": "https://github.com/tailwindlabs/tailwindcss",
         "_source": "wildcard",
@@ -41563,6 +41563,24 @@
         "_tags": []
       },
       {
+        "full_name": "golang/go",
+        "name": "go",
+        "description": "The Go programming language",
+        "topics": [
+          "go",
+          "golang",
+          "language",
+          "programming-language"
+        ],
+        "stars": 139103,
+        "language": "Go",
+        "html_url": "https://github.com/golang/go",
+        "_source": "wildcard",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "microsoft/PowerToys",
         "name": "PowerToys",
         "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
@@ -41605,24 +41623,6 @@
         "language": "Python",
         "html_url": "https://github.com/github/spec-kit",
         "_source": "desc_search",
-        "_confidence": "high",
-        "_overridden": true,
-        "_tags": []
-      },
-      {
-        "full_name": "golang/go",
-        "name": "go",
-        "description": "The Go programming language",
-        "topics": [
-          "go",
-          "golang",
-          "language",
-          "programming-language"
-        ],
-        "stars": 135398,
-        "language": "Go",
-        "html_url": "https://github.com/golang/go",
-        "_source": "wildcard",
         "_confidence": "high",
         "_overridden": true,
         "_tags": []
@@ -41875,7 +41875,7 @@
           "webgpu",
           "webxr"
         ],
-        "stars": 114084,
+        "stars": 116103,
         "language": "JavaScript",
         "html_url": "https://github.com/mrdoob/three.js",
         "_source": "wildcard",
@@ -41895,7 +41895,7 @@
           "svg",
           "visualization"
         ],
-        "stars": 113305,
+        "stars": 113787,
         "language": "Shell",
         "html_url": "https://github.com/d3/d3",
         "_source": "wildcard",
@@ -42233,6 +42233,24 @@
         ]
       },
       {
+        "full_name": "zed-industries/zed",
+        "name": "zed",
+        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "topics": [
+          "gpui",
+          "rust-lang",
+          "text-editor",
+          "zed"
+        ],
+        "stars": 91137,
+        "language": "Rust",
+        "html_url": "https://github.com/zed-industries/zed",
+        "_source": "wildcard",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "mermaid-js/mermaid",
         "name": "mermaid",
         "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
@@ -42320,24 +42338,6 @@
         "_tags": []
       },
       {
-        "full_name": "zed-industries/zed",
-        "name": "zed",
-        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-        "topics": [
-          "gpui",
-          "rust-lang",
-          "text-editor",
-          "zed"
-        ],
-        "stars": 87692,
-        "language": "Rust",
-        "html_url": "https://github.com/zed-industries/zed",
-        "_source": "wildcard",
-        "_confidence": "high",
-        "_overridden": true,
-        "_tags": []
-      },
-      {
         "full_name": "junegunn/fzf",
         "name": "fzf",
         "description": ":cherry_blossom: A command-line fuzzy finder",
@@ -42363,6 +42363,25 @@
         "_locked": true
       },
       {
+        "full_name": "vitejs/vite",
+        "name": "vite",
+        "description": "Next generation frontend tooling. It's fast!",
+        "topics": [
+          "build-tool",
+          "dev-server",
+          "frontend",
+          "hmr",
+          "vite"
+        ],
+        "stars": 83083,
+        "language": "TypeScript",
+        "html_url": "https://github.com/vitejs/vite",
+        "_source": "wildcard",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "animate-css/animate.css",
         "name": "animate.css",
         "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
@@ -42372,7 +42391,7 @@
           "css-animations",
           "stylesheets"
         ],
-        "stars": 82713,
+        "stars": 82845,
         "language": "CSS",
         "html_url": "https://github.com/animate-css/animate.css",
         "_source": "wildcard",
@@ -42400,25 +42419,6 @@
           "git-tool"
         ],
         "_locked": true
-      },
-      {
-        "full_name": "vitejs/vite",
-        "name": "vite",
-        "description": "Next generation frontend tooling. It's fast!",
-        "topics": [
-          "build-tool",
-          "dev-server",
-          "frontend",
-          "hmr",
-          "vite"
-        ],
-        "stars": 82121,
-        "language": "TypeScript",
-        "html_url": "https://github.com/vitejs/vite",
-        "_source": "wildcard",
-        "_confidence": "high",
-        "_overridden": true,
-        "_tags": []
       },
       {
         "full_name": "tonsky/FiraCode",
@@ -47131,7 +47131,7 @@
           "sorting-algorithms",
           "sorts"
         ],
-        "stars": 223289,
+        "stars": 225167,
         "language": "Python",
         "html_url": "https://github.com/TheAlgorithms/Python",
         "_source": "wildcard",
@@ -47436,7 +47436,7 @@
           "kmp",
           "leetcode"
         ],
-        "stars": 135060,
+        "stars": 136073,
         "language": "Markdown",
         "html_url": "https://github.com/labuladong/fucking-algorithm",
         "_source": "wildcard",
@@ -47463,7 +47463,7 @@
           "programming",
           "snippets"
         ],
-        "stars": 128540,
+        "stars": 129292,
         "language": "JavaScript",
         "html_url": "https://github.com/Chalarangelo/30-seconds-of-code",
         "_source": "wildcard",
@@ -47670,6 +47670,19 @@
         "_tags": []
       },
       {
+        "full_name": "ruanyf/weekly",
+        "name": "weekly",
+        "description": "科技爱好者周刊，每周五发布",
+        "topics": [],
+        "stars": 105034,
+        "language": "",
+        "html_url": "https://github.com/ruanyf/weekly",
+        "_source": "wildcard",
+        "_confidence": "high",
+        "_overridden": true,
+        "_tags": []
+      },
+      {
         "full_name": "Anduin2017/HowToCook",
         "name": "HowToCook",
         "description": "Programmer's guide about how to cook at home.",
@@ -47704,19 +47717,6 @@
         "language": "",
         "html_url": "https://github.com/mtdvio/every-programmer-should-know",
         "_source": "desc_search",
-        "_confidence": "high",
-        "_overridden": true,
-        "_tags": []
-      },
-      {
-        "full_name": "ruanyf/weekly",
-        "name": "weekly",
-        "description": "科技爱好者周刊，每周五发布",
-        "topics": [],
-        "stars": 98669,
-        "language": "",
-        "html_url": "https://github.com/ruanyf/weekly",
-        "_source": "wildcard",
         "_confidence": "high",
         "_overridden": true,
         "_tags": []
@@ -47994,7 +47994,7 @@
         "name": "realworld",
         "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
         "topics": [],
-        "stars": 83937,
+        "stars": 84242,
         "language": "TypeScript",
         "html_url": "https://github.com/realworld-apps/realworld",
         "_source": "wildcard",
@@ -54139,6 +54139,16 @@
       "_source": "topic_search"
     },
     {
+      "full_name": "TapXWorld/ChinaTextbook",
+      "name": "ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "topics": [],
+      "stars": 82476,
+      "language": "Roff",
+      "html_url": "https://github.com/TapXWorld/ChinaTextbook",
+      "_source": "wildcard"
+    },
+    {
       "full_name": "blader/humanizer",
       "name": "humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
@@ -55249,11 +55259,11 @@
     "DigitalPlatDev/FreeDomain",
     "microsoft/markitdown",
     "Snailclimb/JavaGuide",
-    "iptv-org/iptv",
     "clash-verge-rev/clash-verge-rev",
+    "iptv-org/iptv",
     "2dust/v2rayN",
-    "bitcoin/bitcoin",
     "home-assistant/core",
+    "bitcoin/bitcoin",
     "ChatGPTNextWeb/NextChat",
     "dair-ai/Prompt-Engineering-Guide",
     "thedaviddias/Front-End-Checklist",
@@ -55273,9 +55283,9 @@
     "automazeio/ccpm"
   ],
   "stats": {
-    "total": 2150,
+    "total": 2151,
     "classified": 2048,
-    "unclassified": 76,
+    "unclassified": 77,
     "hidden": 26
   }
 }

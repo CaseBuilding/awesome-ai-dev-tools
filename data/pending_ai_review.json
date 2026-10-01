@@ -1,7 +1,7 @@
 {
   "_说明": "需要 AI 辅助分类的项目。由 classify.js 自动生成，通过 scripts/ai-classify.js 处理。",
-  "last_updated": "2026-09-27T04:44:30.535Z",
-  "pending_count": 16,
+  "last_updated": "2026-10-01T02:39:27.130Z",
+  "pending_count": 17,
   "pending": [
     {
       "full_name": "moment/moment",
@@ -230,6 +230,14 @@
       ],
       "stars": 25971,
       "language": "Python"
+    },
+    {
+      "full_name": "TapXWorld/ChinaTextbook",
+      "_source": "wildcard",
+      "description": "所有小初高、大学PDF教材。",
+      "topics": [],
+      "stars": 82476,
+      "language": "Roff"
     }
   ]
 }
